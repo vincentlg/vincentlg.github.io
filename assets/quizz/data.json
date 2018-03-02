@@ -1,5 +1,5 @@
 {"quotes":
-    [{"id":1, "title":"Cryptography is the essential building block of independence for organisations on the Internet, just like armies are the essential building blocks of states, because otherwise one state just takes over another.", "proposals":[1,2,3]},
+    [{"id":1, "title":"() Cryptography is the essential building block of independence for organisations on the Internet, just like armies are the essential building blocks of states, because otherwise one state just takes over another.", "proposals":[1,2,3]},
     {"id":2, "title":"A block chain is a series of blocks. Each block is a series of computations done by computers all over the world using serious cryptography in a way that's very hard to undo.", "proposals":[4,5,6]},
     {"id":3, "title":"I thought cryptography was a technique that did not require your trusting other people-that if you encrypted your files, you would have the control to make the choice as to whether you would surrender your files.", "proposals":[7,8,9]},
     {"id":4, "title":"With original cryptography, you are just trying to secure one narrow thing - say, communications - and you are trying to secure it from a third party. But you can't secure it from the party you are talking to if they forward your email; it doesn't matter how well your email is encrypted.", "proposals":[10,11,12]}
@@ -8,15 +8,15 @@
     [{"id":1, "name":"Nick Johnson", "image":"1.png"},
     {"id":2, "name":"Martin Becze", "image":"2.png"},
     {"id":3, "name":"Rob Stupay", "image":"3.png"},
-    {"id":3, "name":"Dimitry Khokhlov", "image":"4.png"},
-    {"id":3, "name":"Aron Fischer", "image":"5.png"},
-    {"id":3, "name":"Jordi Baylina", "image":"6.png"},
-    {"id":3, "name":"Nicolas Bacca", "image":"7.png"},
-    {"id":3, "name":"Clément Lesaege", "image":"8.png"},
-    {"id":3, "name":"Frankie Pangilinan", "image":"9.png"},
-    {"id":3, "name":"Thibaut Schaeffer", "image":"10.png"},
-    {"id":3, "name":"Hudson Jameson", "image":"11.png"},
-    {"id":3, "name":"Raine Revere", "image":"12.png"}
+    {"id":4, "name":"Dimitry Khokhlov", "image":"4.png"},
+    {"id":5, "name":"Aron Fischer", "image":"5.png"},
+    {"id":6, "name":"Jordi Baylina", "image":"6.png"},
+    {"id":7, "name":"Nicolas Bacca", "image":"7.png"},
+    {"id":8, "name":"Clément Lesaege", "image":"8.png"},
+    {"id":9, "name":"Frankie Pangilinan", "image":"9.png"},
+    {"id":10, "name":"Thibaut Schaeffer", "image":"10.png"},
+    {"id":11, "name":"Hudson Jameson", "image":"11.png"},
+    {"id":12, "name":"Raine Revere", "image":"12.png"}
     ]
 }
     

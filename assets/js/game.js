@@ -1,12 +1,7 @@
 App = {
     init: function() {
-        App.initQuizz();
-    },
-
-    initQuizz: function() {
-        App.initWeb3();
-        App.nextQuote();
-
+      App.initWeb3();
+      App.nextQuote();
     },
 
     nextQuote: function() {
@@ -79,6 +74,7 @@ App = {
       App.startLoadingMode();
       // send a transaction to a function
       // todo with locked metamask
+      console.log("currentQuoteId: "+App.currentQuoteId+ " answerId: "+answerId);
       App.quizzContractInstance.answer(App.currentQuoteId, answerId, function(error, result){
       //App.quizzContractInstance.answer(0, 1, function(error, result){
         if(!error){
