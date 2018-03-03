@@ -1,21 +1,20 @@
 [
 	{
-		"constant": true,
+		"constant": false,
 		"inputs": [
 			{
-				"name": "",
-				"type": "address"
-			}
-		],
-		"name": "whitelist",
-		"outputs": [
+				"name": "_question",
+				"type": "uint256"
+			},
 			{
-				"name": "",
-				"type": "bool"
+				"name": "_strProposalId",
+				"type": "string"
 			}
 		],
+		"name": "answer",
+		"outputs": [],
 		"payable": false,
-		"stateMutability": "view",
+		"stateMutability": "nonpayable",
 		"type": "function"
 	},
 	{
@@ -46,22 +45,31 @@
 		"type": "function"
 	},
 	{
-		"constant": true,
+		"constant": false,
 		"inputs": [
 			{
-				"name": "",
-				"type": "uint256"
+				"name": "_newName",
+				"type": "string"
 			}
 		],
-		"name": "questionToAnswer",
-		"outputs": [
-			{
-				"name": "",
-				"type": "uint256"
-			}
-		],
+		"name": "changeName",
+		"outputs": [],
 		"payable": false,
-		"stateMutability": "view",
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "addr",
+				"type": "address"
+			}
+		],
+		"name": "addAddressToWhitelist",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
 		"type": "function"
 	},
 	{
@@ -79,35 +87,47 @@
 		"type": "function"
 	},
 	{
+		"constant": true,
+		"inputs": [
+			{
+				"name": "",
+				"type": "address"
+			}
+		],
+		"name": "whitelist",
+		"outputs": [
+			{
+				"name": "",
+				"type": "bool"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
 		"constant": false,
 		"inputs": [
 			{
-				"name": "_newName",
+				"name": "_question",
+				"type": "uint256"
+			},
+			{
+				"name": "_strProposalId",
 				"type": "string"
 			}
 		],
-		"name": "changeName",
+		"name": "newQuestion",
 		"outputs": [],
 		"payable": false,
 		"stateMutability": "nonpayable",
 		"type": "function"
 	},
 	{
-		"anonymous": false,
-		"inputs": [
-			{
-				"indexed": false,
-				"name": "player",
-				"type": "address"
-			},
-			{
-				"indexed": false,
-				"name": "status",
-				"type": "bool"
-			}
-		],
-		"name": "NewAnswer",
-		"type": "event"
+		"inputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "constructor"
 	},
 	{
 		"anonymous": false,
@@ -148,67 +168,11 @@
 			},
 			{
 				"indexed": false,
-				"name": "score",
-				"type": "uint256"
+				"name": "status",
+				"type": "bool"
 			}
 		],
-		"name": "NewScore",
+		"name": "NewAnswer",
 		"type": "event"
-	},
-	{
-		"constant": false,
-		"inputs": [
-			{
-				"name": "addr",
-				"type": "address"
-			}
-		],
-		"name": "addAddressToWhitelist",
-		"outputs": [],
-		"payable": false,
-		"stateMutability": "nonpayable",
-		"type": "function"
-	},
-	{
-		"constant": false,
-		"inputs": [
-			{
-				"name": "_question",
-				"type": "uint256"
-			},
-			{
-				"name": "_proposalId",
-				"type": "uint256"
-			}
-		],
-		"name": "answer",
-		"outputs": [],
-		"payable": false,
-		"stateMutability": "nonpayable",
-		"type": "function"
-	},
-	{
-		"inputs": [],
-		"payable": false,
-		"stateMutability": "nonpayable",
-		"type": "constructor"
-	},
-	{
-		"constant": false,
-		"inputs": [
-			{
-				"name": "_question",
-				"type": "uint256"
-			},
-			{
-				"name": "_answer",
-				"type": "uint256"
-			}
-		],
-		"name": "newQuestion",
-		"outputs": [],
-		"payable": false,
-		"stateMutability": "nonpayable",
-		"type": "function"
 	}
 ]

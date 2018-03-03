@@ -75,7 +75,7 @@ App = {
       // send a transaction to a function
       // todo with locked metamask
       console.log("currentQuoteId: "+App.currentQuoteId+ " answerId: "+answerId);
-      App.quizzContractInstance.answer(App.currentQuoteId, answerId, function(error, result){
+      App.quizzContractInstance.answer(App.currentQuoteId, answerId.toString(), function(error, result){
       //App.quizzContractInstance.answer(0, 1, function(error, result){
         if(!error){
             //console.log("call success"+answerId+" and "+result);
@@ -235,7 +235,7 @@ App = {
     },
   
     contractAddress: function() {
-      return "0x7fda2461ff4163668bfdffe2b6b14e679affe946";
+      return "0xf4394cb5dbdc7f4c31de8633989fb8fde39c4ffa";
     },
     
     etherscanBaseUrl: function() {
