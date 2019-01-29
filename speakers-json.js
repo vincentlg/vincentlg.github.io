@@ -489,7 +489,7 @@ var speakers = [
     "company": "Gnosis"
   },
   {
-    "name": "Criag Williams",
+    "name": "Craig Williams",
     "picture": "images/speakers/98.png",
     "company": "Kauri"
   },
@@ -832,6 +832,11 @@ var speakers = [
     "name": "Stani Kulechov",
     "picture": "images/speakers/166.png",
     "company": "Aave"
+  },
+  {
+    "name": "Logan Saether",
+    "picture": "images/speakers/167.png",
+    "company": "Convergent"
   },
   {
     "name": "More to be announced",
