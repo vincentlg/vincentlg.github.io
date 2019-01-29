@@ -38,14 +38,14 @@ ul.sponsors li {
 
 .ml1 {
 	font-weight: 900;
-	font-size: 3.5em;
+	font-size: 3em;
   }
-  
+
   .ml1 .letter {
 	display: inline-block;
 	line-height: 1em;
   }
-  
+
   .ml1 .text-wrapper {
 	position: relative;
 	display: inline-block;
@@ -53,7 +53,7 @@ ul.sponsors li {
 	padding-right: 0.05em;
 	padding-bottom: 0.15em;
   }
-  
+
   .ml1 .line {
 	opacity: 0;
 	position: absolute;
@@ -63,10 +63,10 @@ ul.sponsors li {
 	background-color: #47D3E5;
 	transform-origin: 0 0;
   }
-  
+
   .ml1 .line1 { top: 0; }
 	.ml1 .line2 { bottom: 0; }
-	
+
 	table {
 		font-size: 0.8rem;
 		float:left;
@@ -81,3 +81,12 @@ ul.sponsors li {
 	table th {
 		padding: 1rem 0.75rem 0.75rem 0.75rem;
 	}
+
+#showMore {
+  margin: 2rem 0;
+}
+
+#speakersRowRest>section {
+  border-bottom-width: 0px;
+  border-top-width: 1px !important;
+}

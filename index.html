@@ -33,29 +33,28 @@
 <!-- This is the 'Pay with tokens' button, place it anywhere on your webpage -->
 <!-- You can add multiple buttons into a same page -->
 
-							<h1>Ethereum Community Conference</h1>
+							<h2>Ethereum Community Conference</h2>
 							<h1 class="ml1">
 								<span class="text-wrapper">
 									<span class="line line1"></span>
 									<span class="letters">EthCC</span>
 									<span class="line line2"></span>
 								</span>
-							</h1>	
+							</h1>
 
 							<h2>2019 edition, 5th, 6th, 7th <br/>March 2019 in Paris</h2>
 							<ul class="actions vertical">
 								<li>
-									<a href="ethcc-2018/index.html" class="button big wide smooth-scroll-middle">EthCC 2018</a>
-                  
-                  					<a href="https://www.weezevent.com/ethereum-community-conference-2019" class="button big special wide smooth-scroll-middle" target= "_blank">Pay with credit card!</a>
-								</li>
-								<li>
-                  					<a href="https://ethcc.io/crypto.html" class="button big special wide smooth-scroll-middle" target= "_blank">Pay with Crypto!</a>
+                  <a href="https://www.weezevent.com/ethereum-community-conference-2019" class="button medium wide smooth-scroll-middle" target= "_blank">Book with credit card</a>
+                  <a href="https://ethcc.io/crypto.html" class="button medium special wide smooth-scroll-middle" target= "_blank">Book with Crypto!</a>
 								</li>
 
 							</ul>
+							
 
-							🚀 Announcing the first batch of <a class="smooth-scroll" href="#speakersSection">speakers</a> 🚀 <br> 🚀to apply for a talk, click <a href="https://goo.gl/forms/vnR25OZgYRSIpQL02">here</a> 🚀 </br>
+							Announcing the first batch of <a class="smooth-scroll" href="#speakersSection">speakers</a> 🚀 
+							<br>To apply for a talk, click <a href="https://goo.gl/forms/vnR25OZgYRSIpQL02">here</a> 🚀
+							<br>The website of the 2018 edition <a href="ethcc-2018/index.html">EthCC 2018</a>
 
 						</div>
 						<div class="image" style="overflow: hidden;">
@@ -63,21 +62,32 @@
 						</div>
 					</section>
 
-					
+
 
 					<section  class="wrapper style1 align-center pad-top" id="speakersSection">
 						<h2>Speakers</h2>
-						<div id="speakersRow" class="items style1 medium onscroll-fade-in"></div>
+            <div id="speakersRowFirst" class="items style1 medium onscroll-fade-in"></div>
+            <div id="speakersRowRest" class="items style1 medium onscroll-fade-in" style="display: none"></div>
+            <button id="showMore">Show more</button>
+
 					</section>
 
-					<div id="speakerTemplate" style="display: none;">
+					<div id="speakerTemplateFirst" style="display: none;">
 					<section>
 						<img class="speaker picture" src="" alt="" />
 						<h3 class="name"></h3>
 						<h5 class="company"></h5>
 					</section>
 					</div>
-					
+
+          <div id="speakerTemplateRest" style="display: none;">
+          <section>
+            <img class="speaker picture" src="" alt="" />
+            <h3 class="name"></h3>
+            <h5 class="company"></h5>
+          </section>
+          </div>
+
 					<!-- Footer -->
 					<footer class="wrapper style1 align-center">
 						<div class="inner">

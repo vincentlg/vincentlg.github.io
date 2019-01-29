@@ -514,7 +514,7 @@ var speakers = [
     "company": "Molecule"
   },
   {
-    "name": "Gonçalo",
+    "name": "Gonçalo Sá",
     "picture": "images/speakers/103.png",
     "company": "ConsenSys"
   },
