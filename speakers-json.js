@@ -30,7 +30,7 @@ var speakers = [
     "name": "Kavita Gupta",
     "picture": "images/speakers/6.png",
     "company": "ConsenSys Venture",
-  },  
+  },
   {
     "name": "Nick Gheorghita",
     "picture": "images/speakers/7.png",
@@ -711,7 +711,7 @@ var speakers = [
   {
     "name": "Dimitri de Jonge",
     "picture": "images/speakers/142.png",
-    "company": "Ocean"
+    "company": "Ocean Protocol"
   },
   {
     "name": "Antoine Najjarin",
@@ -821,12 +821,12 @@ var speakers = [
   {
     "name": "Atsushi Ishii",
     "picture": "images/speakers/164.png",
-    "company": "Connectome"
+    "company": "Couger"
   },
   {
     "name": "Kazuaki Ishiguro",
     "picture": "images/speakers/165.png",
-    "company": "Connectome"
+    "company": "Couger"
   },
   {
     "name": "Stani Kulechov",

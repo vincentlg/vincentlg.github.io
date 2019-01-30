@@ -358,7 +358,7 @@
           var speakerTemplateFirst = $('#speakerTemplateFirst');
           var speakerTemplateRest = $('#speakerTemplateRest');
 
-          for (i = 0; i < 6; i ++) {
+          for (i = 0; i < 8; i ++) {
             console.log(speakers[i])
             if(speakers[i].link != undefined && speakers[i].link != '') {
               speakerTemplateFirst.find('.name').wrap('<a href="'+speakers[i].link+'"></a>');
@@ -374,7 +374,7 @@
         }
           }
 
-            for (i = 6; i < speakers.length; i ++) {
+            for (i = 8; i < speakers.length; i ++) {
 
             if(speakers[i].link != undefined && speakers[i].link != '') {
               speakerTemplateRest.find('.name').wrap('<a href="'+speakers[i].link+'"></a>');
