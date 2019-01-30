@@ -989,6 +989,11 @@ var speakers = [
     "company": "Golem"
   },
   {
+    "name": "Olivier Sarrouy",
+    "picture": "images/speakers/198.png",
+    "company": "PandoNetwork"
+  },
+  {
     "name": "More to be announced",
     "picture": "images/speakers/cat.png",
     "company": "Stay tuned next Monday",
