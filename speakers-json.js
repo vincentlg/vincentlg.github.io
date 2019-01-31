@@ -994,6 +994,11 @@ var speakers = [
     "company": "PandoNetwork"
   },
   {
+    "name": "Aya Miyaguchi",
+    "picture": "images/speakers/199.png",
+    "company": "Ethereum Foundation"
+  },
+  {
     "name": "More to be announced",
     "picture": "images/speakers/cat.png",
     "company": "Stay tuned next Monday",
