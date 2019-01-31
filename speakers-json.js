@@ -489,7 +489,7 @@ var speakers = [
     "company": "Gnosis"
   },
   {
-    "name": "Criag Williams",
+    "name": "Craig Williams",
     "picture": "images/speakers/98.png",
     "company": "Kauri"
   },
@@ -832,6 +832,166 @@ var speakers = [
     "name": "Stani Kulechov",
     "picture": "images/speakers/166.png",
     "company": "Aave"
+  },
+  {
+    "name": "Logan Saether",
+    "picture": "images/speakers/167.png",
+    "company": "Convergent"
+  },
+  {
+    "name": "Julien Prat",
+    "picture": "images/speakers/168.png",
+    "company": "Ecole Polytechnique"
+  },
+  {
+    "name": "Nicolas Julia",
+    "picture": "images/speakers/169.png",
+    "company": "Sorare"
+  },
+  {
+    "name": "Alexandre Clement",
+    "picture": "images/speakers/170.png",
+    "company": "AXA"
+  },
+  {
+    "name": "Fabrice CROISEAUX",
+    "picture": "images/speakers/171.png",
+    "company": "InTech"
+  },
+  {
+    "name": "Alexei Zamyatin",
+    "picture": "images/speakers/172.png",
+    "company": "Imperial College London"
+  },
+  {
+    "name": "Cassidy daly",
+    "picture": "images/speakers/173.png",
+    "company": "Centrifuge"
+  },
+  {
+    "name": "Federico Rocchi",
+    "picture": "images/speakers/174.png",
+    "company": "London Blockchain Labs"
+  },
+  {
+    "name": "Arnaud Grunthaler",
+    "picture": "images/speakers/175.png",
+    "company": "Fieldfisher France"
+  },
+  {
+    "name": "Julien Béranger",
+    "picture": "images/speakers/176.png",
+    "company": "Abie"
+  },
+  {
+    "name": "Axel Simon",
+    "picture": "images/speakers/177.png",
+    "company": "Red Hat"
+  },
+  {
+    "name": "Dounia Agharbi",
+    "picture": "images/speakers/178.png",
+    "company": "ConsenSys"
+  },
+  {
+    "name": "Lisa JY Tan",
+    "picture": "images/speakers/179.png",
+    "company": "Research on Token Economics"
+  },
+  {
+    "name": "Kendall Cole",
+    "picture": "images/speakers/180.png",
+    "company": "Kauri"
+  },
+  {
+    "name": "Yoav Weiss",
+    "picture": "images/speakers/181.png",
+    "company": "TabooKey"
+  },
+  {
+    "name": "Anuj Dasgupta",
+    "picture": "images/speakers/182.png",
+    "company": "TabooKey"
+  },
+  {
+    "name": "Fanny Lakoubay",
+    "picture": "images/speakers/183.png",
+    "company": "Snark.art"
+  },
+  {
+    "name": "Eseoghene Mentie",
+    "picture": "images/speakers/184.png",
+    "company": "uPort"
+  },
+  {
+    "name": "Alan Vey",
+    "picture": "images/speakers/185.png",
+    "company": "Aventus"
+  },
+  {
+    "name": "Annika Monari",
+    "picture": "images/speakers/186.png",
+    "company": "Aventus"
+  },
+  {
+    "name": "Thibault Meunier",
+    "picture": "images/speakers/187.png",
+    "company": "Liquidity Network"
+  },
+  {
+    "name": "Jannik  Luhn",
+    "picture": "images/speakers/188.png",
+    "company": "Trustlines Network"
+  },
+  {
+    "name": "Igor Barinov",
+    "picture": "images/speakers/189.png",
+    "company": "petar.tsankov@inf.ethz.ch"
+  },
+  {
+    "name": "Lili",
+    "picture": "images/speakers/190.png",
+    "company": "Radi.Cards"
+  },
+  {
+    "name": "Pavlo Radchuk",
+    "picture": "images/speakers/191.png",
+    "company": "Hacken"
+  },
+  {
+    "name": "István András Seres",
+    "picture": "images/speakers/192.png",
+    "company": "Eötvös Loránd University"
+  },
+  {
+    "name": "Clement Lesaege",
+    "picture": "images/speakers/193.png",
+    "company": "Kleros"
+  },
+  {
+    "name": "Antoine Detante",
+    "picture": "images/speakers/194.png",
+    "company": "InTech"
+  },
+  {
+    "name": "Patrick Ventuzelo",
+    "picture": "images/speakers/195.png",
+    "company": "Quoscient"
+  },
+  {
+    "name": "Philippe Honigman",
+    "picture": "images/speakers/196.png",
+    "company": "Tribute"
+  },
+  {
+    "name": "María Paula Fernández",
+    "picture": "images/speakers/197.png",
+    "company": "Golem"
+  },
+  {
+    "name": "Olivier Sarrouy",
+    "picture": "images/speakers/198.png",
+    "company": "PandoNetwork"
   },
   {
     "name": "More to be announced",
