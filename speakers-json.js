@@ -1004,6 +1004,11 @@ var speakers = [
     "company": "Sekoia"
   },
   {
+    "name": "Frank Brinkkemper",
+    "picture": "images/speakers/201.png",
+    "company": "Topicus"
+  },
+  {
     "name": "More to be announced",
     "picture": "images/speakers/cat.png",
     "company": "Stay tuned next Monday",
