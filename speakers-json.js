@@ -946,7 +946,7 @@ var speakers = [
   {
     "name": "Igor Barinov",
     "picture": "images/speakers/189.png",
-    "company": "petar.tsankov@inf.ethz.ch"
+    "company": "POA Network"
   },
   {
     "name": "Lili",
