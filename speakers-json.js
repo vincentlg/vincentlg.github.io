@@ -999,6 +999,11 @@ var speakers = [
     "company": "PandoNetwork"
   },
   {
+    "name": "Bertrand Masius",
+    "picture": "images/speakers/200.png",
+    "company": "Sekoia"
+  },
+  {
     "name": "More to be announced",
     "picture": "images/speakers/cat.png",
     "company": "Stay tuned next Monday",
