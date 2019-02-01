@@ -1,5 +1,46 @@
 var speakers = [
   {
+    "name": "Vlad Zamfir",
+    "link": "https://twitter.com/VladZamfir",
+    "picture": "images/speakers/3.png",
+    "company": "Ethereum Foundation",
+  },
+  {
+    "name": "Taylor Monahan",
+    "picture": "images/speakers/145.png",
+    "company": "MyCrypto"
+  },
+  {
+    "name": "Afri Schoedon",
+    "picture": "images/speakers/69.png",
+    "company": "Parity",
+  },
+  {
+    "name": "Hudson Jameson",
+    "picture": "images/speakers/23.png",
+    "company": "Ethereum Foundation",
+  },
+  {
+    "name": "Aya Miyaguchi",
+    "picture": "images/speakers/199.png",
+    "company": "Ethereum Foundation",
+  },
+  {
+    "name": "Gilles Fedak",
+    "picture": "images/speakers/89.png",
+    "company": "iExec"
+  },
+  {
+    "name": "Robert Habermeier",
+    "picture": "images/speakers/27.png",
+    "company": "Polkadot",
+  },
+  {
+    "name": "Lane Rettig",
+    "picture": "images/speakers/18.png",
+    "company": "Ethereum Foundation",
+  },
+  {
     "name": "Christoph Jentzsch",
     "picture": "images/speakers/1.png",
     "company": "Slock.it",
@@ -8,12 +49,6 @@ var speakers = [
     "name": "Martin Lundfall",
     "picture": "images/speakers/2.png",
     "company": "Dapphub",
-  },
-  {
-    "name": "Vlad Zamfir",
-    "link": "https://twitter.com/VladZamfir",
-    "picture": "images/speakers/3.png",
-    "company": "Ethereum Foundation",
   },
   {
     "name": "E.G. Galano",
@@ -87,11 +122,6 @@ var speakers = [
     "company": "Ethereum Name System",
   },
   {
-    "name": "Lane Rettig",
-    "picture": "images/speakers/18.png",
-    "company": "Ethereum Foundation",
-  },
-  {
     "name": "Ashley Tyson",
     "picture": "images/speakers/19.png",
     "company": "Web3 Foundation",
@@ -112,11 +142,6 @@ var speakers = [
     "company": "Vulcanize",
   },
   {
-    "name": "Hudson Jameson",
-    "picture": "images/speakers/23.png",
-    "company": "Ethereum Foundation",
-  },
-  {
     "name": "Sajida Zouarhi",
     "picture": "images/speakers/24.png",
     "company": "Hellhound",
@@ -130,11 +155,6 @@ var speakers = [
     "name": "Christiane Ernst",
     "picture": "images/speakers/26.png",
     "company": "Gnosis",
-  },
-  {
-    "name": "Robert Habermeier",
-    "picture": "images/speakers/27.png",
-    "company": "Polkadot",
   },
   {
     "name": "Fabian Vogelsteller",
@@ -344,11 +364,6 @@ var speakers = [
     "company": "AZTEC Protocol",
   },
   {
-    "name": "Afri Schoedon",
-    "picture": "images/speakers/69.png",
-    "company": "Parity",
-  },
-  {
     "name": "Anish Mohammed",
     "picture": "images/speakers/70.png",
     "company": "Ontici",
@@ -442,11 +457,6 @@ var speakers = [
     "name": "Miljan Tekic",
     "picture": "images/speakers/88.png",
     "company": "Tenderly"
-  },
-  {
-    "name": "Gilles Fedak",
-    "picture": "images/speakers/89.png",
-    "company": "iExec"
   },
   {
     "name": "Rosco Kalis",
@@ -722,11 +732,6 @@ var speakers = [
     "name": "Pedro Gomes",
     "picture": "images/speakers/144.png",
     "company": "WalletConnect"
-  },
-  {
-    "name": "Taylor Monahan",
-    "picture": "images/speakers/145.png",
-    "company": "MyCrypto"
   },
   {
     "name": "Nadav Hollander",
