@@ -333,8 +333,9 @@ var speakers = [
   },
   {
     "name": "Amaury Martiny",
+    "link": "https://twitter.com/amaurymartiny",
     "picture": "images/speakers/60.png",
-    "company": "Parity",
+    "company": "Parity Technologies",
   },
   {
     "name": "Jean Millerat",
@@ -398,8 +399,9 @@ var speakers = [
   },
   {
     "name": "Thibaut Sardan",
+    "link": "https://twitter.com/tbaut",
     "picture": "images/speakers/74.png",
-    "company": "Parity",
+    "company": "Parity Technologies",
   },
   {
     "name": "William George",
@@ -789,6 +791,7 @@ var speakers = [
   },
   {
     "name": "Shawn Tabrizi",
+    "link": "https://twitter.com/shawntabrizi",
     "picture": "images/speakers/154.png",
     "company": "Parity Technologies"
   },
