@@ -49,22 +49,25 @@ var speakers = [
   },
   {
     "name": "Christoph Jentzsch",
+    "link": "https://twitter.com/ChrJentzsch",
     "picture": "images/speakers/1.png",
     "company": "Slock.it",
   },
   {
     "name": "Martin Lundfall",
+    "link": "https://twitter.com/MartinLundfall",
     "picture": "images/speakers/2.png",
     "company": "Dapphub",
   },
   {
     "name": "E.G. Galano",
-    "link": "",
+    "link": "https://twitter.com/egalano",
     "picture": "images/speakers/4.png",
     "company": "Infura",
   },
   {
     "name": "Matan Field",
+    "link": "https://twitter.com/MatanField",
     "picture": "images/speakers/5.png",
     "company": "DAOstack",
   },
