@@ -25,21 +25,25 @@ var speakers = [
   },
   {
     "name": "Aya Miyaguchi",
+    "link": "https://twitter.com/mi_ayako",
     "picture": "images/speakers/199.png",
     "company": "Ethereum Foundation",
   },
   {
     "name": "Gilles Fedak",
+    "link": "https://twitter.com/gilfedak",
     "picture": "images/speakers/89.png",
     "company": "iExec"
   },
   {
     "name": "Robert Habermeier",
+    "link": "https://twitter.com/rphmeier",
     "picture": "images/speakers/27.png",
     "company": "Polkadot",
   },
   {
     "name": "Lane Rettig",
+    "link": "https://twitter.com/lrettig",
     "picture": "images/speakers/18.png",
     "company": "Ethereum Foundation",
   },
