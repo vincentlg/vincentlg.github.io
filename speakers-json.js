@@ -15,7 +15,7 @@ var speakers = [
     "name": "Afri Schoedon",
     "link": "https://twitter.com/5chdn",
     "picture": "images/speakers/69.png",
-    "company": "Parity",
+    "company": "Parity Ethereum",
   },
   {
     "name": "Hudson Jameson",
