@@ -7,16 +7,19 @@ var speakers = [
   },
   {
     "name": "Taylor Monahan",
+    "link": "https://twitter.com/tayvano_",
     "picture": "images/speakers/145.png",
     "company": "MyCrypto"
   },
   {
     "name": "Afri Schoedon",
+    "link": "https://twitter.com/5chdn",
     "picture": "images/speakers/69.png",
     "company": "Parity",
   },
   {
     "name": "Hudson Jameson",
+    "link": "https://twitter.com/hudsonjameson",
     "picture": "images/speakers/23.png",
     "company": "Ethereum Foundation",
   },
