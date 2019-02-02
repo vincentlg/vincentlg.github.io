@@ -73,6 +73,7 @@ var speakers = [
   },
   {
     "name": "Kavita Gupta",
+    "link": "https://twitter.com/KavitaGupta19",
     "picture": "images/speakers/6.png",
     "company": "ConsenSys Venture",
   },
@@ -83,11 +84,13 @@ var speakers = [
   },
   {
     "name": "Jenna Zenk",
+    "link": "https://twitter.com/jennaszenk",
     "picture": "images/speakers/8.png",
     "company": "Melonport",
   },
   {
     "name": "Justin Drake",
+    "link": "https://twitter.com/drakefjustin",
     "picture": "images/speakers/9.png",
     "company": "Ethereum Foundation",
   },
