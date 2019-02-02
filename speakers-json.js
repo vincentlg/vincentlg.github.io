@@ -728,6 +728,7 @@ var speakers = [
   },
   {
     "name": "Aidan Hyman",
+    "link": "https://twitter.com/ChainSafeth",
     "picture": "images/speakers/141.png",
     "company": "ChainSafe"
   },
