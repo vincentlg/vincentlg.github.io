@@ -842,6 +842,7 @@ var speakers = [
   },
   {
     "name": "Atsushi Ishii",
+    "link": "https://twitter.com/Atsushi_Ishii_", 
     "picture": "images/speakers/164.png",
     "company": "Couger"
   },
