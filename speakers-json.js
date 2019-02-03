@@ -847,6 +847,7 @@ var speakers = [
   },
   {
     "name": "Kazuaki Ishiguro",
+    "link": "https://twitter.com/KazuakiIshiguro",
     "picture": "images/speakers/165.png",
     "company": "Couger"
   },
