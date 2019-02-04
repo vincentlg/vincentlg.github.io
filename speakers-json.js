@@ -496,7 +496,7 @@ var speakers = [
   {
     "name": "Lefteris Karapetsas",
     "picture": "images/speakers/94.png",
-    "company": "Raiden Network"
+    "company": "Raiden Network / Rotkehlchen"
   },
   {
     "name": "Niran Babalola",
@@ -842,11 +842,13 @@ var speakers = [
   },
   {
     "name": "Atsushi Ishii",
+    "link": "https://twitter.com/Atsushi_Ishii_", 
     "picture": "images/speakers/164.png",
     "company": "Couger"
   },
   {
     "name": "Kazuaki Ishiguro",
+    "link": "https://twitter.com/KazuakiIshiguro",
     "picture": "images/speakers/165.png",
     "company": "Couger"
   },
