@@ -604,11 +604,6 @@ var speakers = [
     "company": "Bounties Network"
   },
   {
-    "name": "Simona Pop",
-    "picture": "images/speakers/116.png",
-    "company": "Bounties Network"
-  },
-  {
     "name": "Robert Zaremba",
     "picture": "images/speakers/117.png",
     "company": "Cerealia"
@@ -911,11 +906,6 @@ var speakers = [
     "name": "Axel Simon",
     "picture": "images/speakers/177.png",
     "company": "Red Hat"
-  },
-  {
-    "name": "Dounia Agharbi",
-    "picture": "images/speakers/178.png",
-    "company": "ConsenSys"
   },
   {
     "name": "Lisa JY Tan",
