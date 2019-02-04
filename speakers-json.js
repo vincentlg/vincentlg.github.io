@@ -496,7 +496,7 @@ var speakers = [
   {
     "name": "Lefteris Karapetsas",
     "picture": "images/speakers/94.png",
-    "company": "Raiden Network"
+    "company": "Raiden Network / Rotkehlchen"
   },
   {
     "name": "Niran Babalola",
