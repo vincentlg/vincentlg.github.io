@@ -19,7 +19,7 @@
 }
 
 .sponsorbronze {
-	width: 190px;
+	max-width: 120px;
 	max-height: 120px;
 }
 
@@ -129,15 +129,4 @@ ul.sponsors li {
 .crypto-content-footer-link {
 	text-decoration: none;
 	color: #666;
-}
-
-
-.sponsorbronze {
-  max-height: 120px;
-  max-width: 120px;
-}
-
-.partner {
-  max-height: 80px;
-  margin-bottom: 10px;
 }
