@@ -791,7 +791,7 @@ var speakers = [
     "company": "Parity Technologies"
   },
   {
-    "name": "Shiv Malik",
+    "name": "Juuso Takalainen",
     "picture": "images/speakers/155.png",
     "company": "Streamr"
   },
