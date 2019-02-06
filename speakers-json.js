@@ -1018,6 +1018,131 @@ var speakers = [
     "company": "Topicus"
   },
   {
+    "name": "Kristoffer Naerland",
+    "picture": "images/speakers/202.png",
+    "company": "Brainbot"
+  },
+  {
+    "name": "Aqeel Mohammad",
+    "picture": "images/speakers/203.png",
+    "company": "Web3 Foundation"
+  },
+  {
+    "name": "Lucian Boca",
+    "picture": "images/speakers/204.png",
+    "company": "Alethio"
+  },
+  {
+    "name": "Eduardo Antuña",
+    "picture": "images/speakers/205.png",
+    "company": "DAppNode Association"
+  },
+  {
+    "name": "Mike Barrow",
+    "picture": "images/speakers/206.png",
+    "company": "Openvino"
+  },
+  {
+    "name": "Ricardo J. Mendez",
+    "picture": "images/speakers/207.png",
+    "company": "Samsung NEXT"
+  },
+  {
+    "name": "Jason Goldberg",
+    "picture": "images/speakers/208.png",
+    "company": "OST"
+  },
+  {
+    "name": "Ashleigh Schap",
+    "picture": "images/speakers/209.png",
+    "company": "MakerDao"
+  },
+  {
+    "name": "Remco Bloemen",
+    "picture": "images/speakers/210.png",
+    "company": "0x"
+  },
+  {
+    "name": "Austin Griffith",
+    "picture": "images/speakers/211.png",
+    "company": "Gitcoin"
+  },
+  {
+    "name": "Johann Barbie",
+    "picture": "images/speakers/212.png",
+    "company": "leapdao.org"
+  },
+  {
+    "name": "Fauve Altman",
+    "picture": "images/speakers/213.png",
+    "company": "State of the DApps"
+  },
+  {
+    "name": "Fennie Wang",
+    "picture": "images/speakers/214.png",
+    "company": "Bancor"
+  },
+  {
+    "name": "Caroline Dama",
+    "picture": "images/speakers/215.png",
+    "company": "Grassroots Economics"
+  },
+  {
+    "name": "David Lamers",
+    "picture": "images/speakers/216.png",
+    "company": "Rabobank"
+  },
+  {
+    "name": "Mamy Ratsimbazafy",
+    "picture": "images/speakers/217.png",
+    "company": "Status"
+  },
+  {
+    "name": "Liam Horne",
+    "picture": "images/speakers/218.png",
+    "company": "Counterfactual"
+  },
+  {
+    "name": "Juan David Mendieta Villegas",
+    "picture": "images/speakers/219.png",
+    "company": "Keyrock"
+  },
+  {
+    "name": "Thomas Chataigner",
+    "picture": "images/speakers/220.png",
+    "company": "Blockchain Partner"
+  },
+  {
+    "name": "Tom Close",
+    "picture": "images/speakers/221.png",
+    "company": "Magmo"
+  },
+  {
+    "name": "Marc Meinstein",
+    "picture": "images/speakers/222.png",
+    "company": "Wave Financial"
+  },
+  {
+    "name": "Dima",
+    "picture": "images/speakers/223.png",
+    "company": "Gnosis"
+  },
+  {
+    "name": "Justin Ahn",
+    "picture": "images/speakers/224.png",
+    "company": "Quidli"
+  },
+  {
+    "name": "Vincent Le Gallic",
+    "picture": "images/speakers/225.png",
+    "company": "Rockside.io"
+  },
+  {
+    "name": "Lisa Chu",
+    "picture": "images/speakers/226.png",
+    "company": "HTC Exodus"
+  },
+  {
     "name": "More to be announced",
     "picture": "images/speakers/cat.png",
     "company": "Stay tuned next Monday",
