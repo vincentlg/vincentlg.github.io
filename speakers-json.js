@@ -1350,6 +1350,48 @@ var speakers = [
     "company": "ConsenSys"
   },
   {
+    "name": "Luc Falempin",
+    "link": "https://twitter.com/lucfalempin",
+    "picture": "images/speakers/228.png",
+    "company": "Tokeny"
+  },
+  {
+    "name": "Tim Bansemer",
+    "link": "https://twitter.com/tim_bansemer",
+    "picture": "images/speakers/229.png",
+    "company": "DGOV Foundation"
+  },
+  {
+    "name": "Vanessa Bridge",
+    "link": "",
+    "picture": "images/speakers/230.png",
+    "company": "PegaSys"
+  },
+  {
+    "name": "Lukasz Glen",
+    "link": "",
+    "picture": "images/speakers/231.png",
+    "company": "Golem"
+  },
+  {
+    "name": "William Mougayar",
+    "link": "https://twitter.com/wmougayar",
+    "picture": "images/speakers/232.png",
+    "company": "Venture investor & Advisor"
+  },
+  {
+    "name": "Stephane Gosselin",
+    "link": "https://twitter.com/thegostep",
+    "picture": "images/speakers/233.png",
+    "company": "Numerai"
+  },
+  {
+    "name": "Alex Gluchowski",
+    "link": "https://twitter.com/gluk64",
+    "picture": "images/speakers/234.png",
+    "company": "Ethereum Foundation"
+  },
+  {
     "name": "More to be announced",
     "link": "https://twitter.com/fullcathouse",
     "picture": "images/speakers/cat.png",
