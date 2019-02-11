@@ -24,11 +24,13 @@
 }
 
 .sponsoriron {
-	height: 70px;
+	max-height: 90px;
+  max-width: 90px;
 }
 
 .partner {
-	height: 80px;
+	max-height: 90px;
+  max-width: 90px;
 	margin-bottom: 10px;
 }
 
