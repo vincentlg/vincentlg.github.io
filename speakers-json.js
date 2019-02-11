@@ -1332,7 +1332,7 @@ var speakers = [
     "company": "Wave Financial"
   },
   {
-    "name": "Dima",
+    "name": "Dmitry Bespalov",
     "link": "",
     "picture": "images/speakers/223.png",
     "company": "Gnosis"
