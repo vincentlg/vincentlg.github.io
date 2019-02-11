@@ -763,7 +763,7 @@ var speakers = [
   },
   {
     "name": "Gustav Arentoft",
-    "link": "",
+    "link": "https://www.linkedin.com/in/gustavarentoft/",
     "picture": "images/speakers/127.png",
     "company": "MakerDAO"
   },
@@ -949,7 +949,7 @@ var speakers = [
   },
   {
     "name": "Jacek Czarnecki",
-    "link": "",
+    "link": "https://twitter.com/Jacek_Czarnecki",
     "picture": "images/speakers/159.png",
     "company": "MakerDAO"
   },
