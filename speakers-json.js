@@ -1075,7 +1075,7 @@ var speakers = [
   },
   {
     "name": "Yoav Weiss",
-    "link": "https://twitter.com/yoavweiss",
+    "link": "https://www.linkedin.com/in/yoavweiss",
     "picture": "images/speakers/181.png",
     "company": "TabooKey"
   },
