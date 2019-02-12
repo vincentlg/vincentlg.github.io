@@ -277,7 +277,7 @@ var speakers = [
   },
   {
     "name": "Sunny Aggarwal",
-    "link": "https://twitter.com/sunnya97", 
+    "link": "https://twitter.com/sunnya97",
     "picture": "images/speakers/43.png",
     "company": "Cosmos"
   },
@@ -355,7 +355,7 @@ var speakers = [
   },
   {
     "name": "Loredana Cirstea",
-    "link": "https://twitter.com/raph_alice",
+    "link": "https://twitter.com/lorecirstea",
     "picture": "images/speakers/56.png",
     "company": "Quodum"
   },
@@ -373,7 +373,7 @@ var speakers = [
   },
   {
     "name": "Raphael Mazet",
-    "link": "https://twitter.com/lorecirstea",
+    "link": "https://twitter.com/raph_alice",
     "picture": "images/speakers/59.png",
     "company": "Alice"
   },
@@ -729,6 +729,18 @@ var speakers = [
     "name": "Alexander Praetorius",
     "link": "https://twitter.com/serapath",
     "picture": "images/speakers/121.png",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "name": "Iuri Matias",
+    "link": "https://twitter.com/iurimatias",
+    "picture": "images/speakers/236.png",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "name": "Rob Stupay",
+    "link": "https://twitter.com/ryestew",
+    "picture": "images/speakers/235.png",
     "company": "Ethereum Foundation"
   },
   {
