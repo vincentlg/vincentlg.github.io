@@ -355,7 +355,7 @@ var speakers = [
   },
   {
     "name": "Loredana Cirstea",
-    "link": "https://twitter.com/raph_alice",
+    "link": "https://twitter.com/lorecirstea",
     "picture": "images/speakers/56.png",
     "company": "Quodum"
   },
@@ -373,7 +373,7 @@ var speakers = [
   },
   {
     "name": "Raphael Mazet",
-    "link": "https://twitter.com/lorecirstea",
+    "link": "https://twitter.com/raph_alice",
     "picture": "images/speakers/59.png",
     "company": "Alice"
   },
