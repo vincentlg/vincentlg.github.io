@@ -1404,6 +1404,54 @@ var speakers = [
     "company": "Ethereum Foundation"
   },
   {
+    "name": "Rob Stupay",
+    "link": "https://twitter.com/ryestew",
+    "picture": "images/speakers/235.png",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "name": "Iuri Matias",
+    "link": "https://twitter.com/iurimatias",
+    "picture": "images/speakers/236.png",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "name": "Henri Stern",
+    "link": "",
+    "picture": "images/speakers/237.png",
+    "company": "Filecoin"
+  },
+  {
+    "name": "Albert Acebrón",
+    "link": "",
+    "picture": "images/speakers/238.png",
+    "company": "WaifuChain"
+  },
+  {
+    "name": "Chris Chung",
+    "link": "https://twitter.com/siukchung",
+    "picture": "images/speakers/239.png",
+    "company": "Clearmatics Technologies"
+  },
+  {
+    "name": "Georgios Konstantopoulos",
+    "link": "https://twitter.com/gakonst",
+    "picture": "images/speakers/240.png",
+    "company": "Loom Network"
+  },
+  {
+    "name": "Karan Ambwani",
+    "link": "https://twitter.com/karanambwani",
+    "picture": "images/speakers/241.png",
+    "company": "ConsenSys"
+  },
+  {
+    "name": "Boris Mann",
+    "link": "https://twitter.com/bmann",
+    "picture": "images/speakers/242.png",
+    "company": "EthMagicians"
+  },
+  {
     "name": "More to be announced",
     "link": "https://twitter.com/fullcathouse",
     "picture": "images/speakers/cat.png",
