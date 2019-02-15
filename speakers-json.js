@@ -240,7 +240,7 @@ var speakers = [
     "company": "Centrifuge"
   },
   {
-    "name": "Augusto Hack",
+    "name": "Paul Lange",
     "link": "",
     "picture": "images/speakers/37.png",
     "company": "Raiden Network"
@@ -1351,7 +1351,7 @@ var speakers = [
   },
   {
     "name": "Lisa Chu",
-    "link": "https://twitter.com/lisachuchutrain",
+    "link": "https://twitter.com/LisaChuing",
     "picture": "images/speakers/226.png",
     "company": "HTC Exodus"
   },
@@ -1450,6 +1450,12 @@ var speakers = [
     "link": "https://twitter.com/bmann",
     "picture": "images/speakers/242.png",
     "company": "EthMagicians"
+  },
+  {
+    "name": "Franziska Heintel",
+    "link": "https://twitter.com/_franzihei",
+    "picture": "images/speakers/243.png",
+    "company": "Raiden Network"
   },
   {
     "name": "More to be announced",
