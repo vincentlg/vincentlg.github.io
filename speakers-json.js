@@ -297,7 +297,7 @@ var speakers = [
     "name": "Griff Green",
     "link": "https://twitter.com/thegrifft",
     "picture": "images/speakers/46.png",
-    "company": "Giveth / Aragon"
+    "company": "Giveth"
   },
   {
     "name": "Yalda Mousavinia",
