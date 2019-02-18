@@ -1458,6 +1458,12 @@ var speakers = [
     "company": "Raiden Network"
   },
   {
+    "name": "Kevin Abosch",
+    "link": "https://www.kevinabosch.com/",
+    "picture": "images/speakers/244.png",
+    "company": "I AM A COIN"
+  },
+  {
     "name": "More to be announced",
     "link": "https://twitter.com/fullcathouse",
     "picture": "images/speakers/cat.png",
