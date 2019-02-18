@@ -937,7 +937,7 @@ var speakers = [
   },
   {
     "name": "Juuso Takalainen",
-    "link": "https://twitter.com/shivmalik",
+    "link": "",
     "picture": "images/speakers/155.png",
     "company": "Streamr"
   },
