@@ -12,10 +12,10 @@ var speakers = [
     "company": "MyCrypto"
   },
   {
-    "name": "Afri Schoedon",
-    "link": "https://twitter.com/5chdn",
-    "picture": "images/speakers/69.png",
-    "company": "Parity Ethereum"
+    "name": "Fabian Vogelsteller",
+    "link": "https://twitter.com/feindura",
+    "picture": "images/speakers/28.png",
+    "company": "LUKSO"
   },
   {
     "name": "Hudson Jameson",
@@ -184,12 +184,6 @@ var speakers = [
     "link": "https://twitter.com/c3rnst",
     "picture": "images/speakers/26.png",
     "company": "Gnosis"
-  },
-  {
-    "name": "Fabian Vogelsteller",
-    "link": "https://twitter.com/feindura",
-    "picture": "images/speakers/28.png",
-    "company": "LUKSO"
   },
   {
     "name": "Pavlo Makarov",
@@ -1462,6 +1456,12 @@ var speakers = [
     "link": "https://www.kevinabosch.com/",
     "picture": "images/speakers/244.png",
     "company": "I AM A COIN"
+  },
+  {
+    "name": "Kenny Chandrasekera",
+    "link": "",
+    "picture": "images/speakers/245.png",
+    "company": "Rhombus"
   },
   {
     "name": "More to be announced",
