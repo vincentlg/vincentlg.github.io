@@ -193,7 +193,7 @@ var speakers = [
   },
   {
     "name": "Pavlo Makarov",
-    "link": "https://twitter.com/nochmals",
+    "link": "https://twitter.com/dapp_dev",
     "picture": "images/speakers/29.png",
     "company": "DApp DEV"
   },
