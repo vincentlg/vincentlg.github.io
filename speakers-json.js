@@ -1461,7 +1461,7 @@ var speakers = [
     "name": "Kevin Abosch",
     "link": "https://www.kevinabosch.com/",
     "picture": "images/speakers/244.png",
-    "company": "I AM A COIN"
+    "company": "Artist"
   },
   {
     "name": "More to be announced",
