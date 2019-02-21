@@ -1464,6 +1464,24 @@ var speakers = [
     "company": "Rhombus"
   },
   {
+    "name": "Daniel Nagy",
+    "link": "",
+    "picture": "images/speakers/246.png",
+    "company": "Ethereum"
+  },
+  {
+    "name": "Tegan Kline",
+    "link": "https://twitter.com/theklineventure",
+    "picture": "images/speakers/247.png",
+    "company": "Orchid"
+  },
+  {
+    "name": "Vinay Gupta",
+    "link": "https://twitter.com/leashless",
+    "picture": "images/speakers/248.png",
+    "company": "Mattereum.com "
+  },
+  {
     "name": "More to be announced",
     "link": "https://twitter.com/fullcathouse",
     "picture": "images/speakers/cat.png",
