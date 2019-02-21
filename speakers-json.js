@@ -141,7 +141,7 @@ var speakers = [
     "name": "Dean Eigenmann",
     "link": "https://twitter.com/deaneigenmann",
     "picture": "images/speakers/17.png",
-    "company": "Ethereum Name System"
+    "company": "Ethereum Name Service"
   },
   {
     "name": "Ashley Tyson",
