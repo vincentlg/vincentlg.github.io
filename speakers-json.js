@@ -141,7 +141,7 @@ var speakers = [
     "name": "Dean Eigenmann",
     "link": "https://twitter.com/deaneigenmann",
     "picture": "images/speakers/17.png",
-    "company": "Ethereum Name System"
+    "company": "Ethereum Name Service"
   },
   {
     "name": "Ashley Tyson",
@@ -1236,7 +1236,7 @@ var speakers = [
     "company": "Samsung NEXT"
   },
   {
-    "name": "Jason Goldberg",
+    "name": "Benjamin Bollen",
     "link": "https://twitter.com/betashop",
     "picture": "images/speakers/208.png",
     "company": "OST"
@@ -1462,6 +1462,24 @@ var speakers = [
     "link": "",
     "picture": "images/speakers/245.png",
     "company": "Rhombus"
+  },
+  {
+    "name": "Daniel Nagy",
+    "link": "",
+    "picture": "images/speakers/246.png",
+    "company": "Ethereum"
+  },
+  {
+    "name": "Tegan Kline",
+    "link": "https://twitter.com/theklineventure",
+    "picture": "images/speakers/247.png",
+    "company": "Orchid"
+  },
+  {
+    "name": "Vinay Gupta",
+    "link": "https://twitter.com/leashless",
+    "picture": "images/speakers/248.png",
+    "company": "Mattereum "
   },
   {
     "name": "More to be announced",
