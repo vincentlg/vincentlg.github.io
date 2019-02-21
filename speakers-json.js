@@ -1236,7 +1236,7 @@ var speakers = [
     "company": "Samsung NEXT"
   },
   {
-    "name": "Jason Goldberg",
+    "name": "Benjamin Bollen",
     "link": "https://twitter.com/betashop",
     "picture": "images/speakers/208.png",
     "company": "OST"
@@ -1479,7 +1479,7 @@ var speakers = [
     "name": "Vinay Gupta",
     "link": "https://twitter.com/leashless",
     "picture": "images/speakers/248.png",
-    "company": "Mattereum.com "
+    "company": "Mattereum "
   },
   {
     "name": "More to be announced",
