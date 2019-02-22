@@ -210,12 +210,6 @@ var speakers = [
     "company": "Ethereum Community Fund"
   },
   {
-    "name": "Cassius Kiani",
-    "link": "https://twitter.com/CassiusKiani",
-    "picture": "images/speakers/33.png",
-    "company": "Atlas Neue"
-  },
-  {
     "name": "Gregor Žavcer",
     "link": "https://twitter.com/jssr",
     "picture": "images/speakers/34.png",
@@ -606,12 +600,6 @@ var speakers = [
     "company": "Mist"
   },
   {
-    "name": "Julien Eluard",
-    "link": "https://twitter.com/jeluard",
-    "picture": "images/speakers/101.png",
-    "company": "Status"
-  },
-  {
     "name": "Paul Kohlhaas",
     "link": "https://twitter.com/paulkhls",
     "picture": "images/speakers/102.png",
@@ -970,12 +958,6 @@ var speakers = [
     "link": "https://twitter.com/piotrkosinski",
     "picture": "images/speakers/161.png",
     "company": "ChronoLogic"
-  },
-  {
-    "name": "Nabil Naghdy",
-    "link": "https://twitter.com/naghdy",
-    "picture": "images/speakers/162.png",
-    "company": "Status"
   },
   {
     "name": "Vincent Danos",
