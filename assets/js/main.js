@@ -374,8 +374,10 @@
         }
           }
 
-            for (i = 8; i < speakers.length; i ++) {
 
+        var showMore = $('#showMore');
+        showMore.one("click", function () {
+          for (var i = 8; i < speakers.length; i ++) {
             if(speakers[i].link != undefined && speakers[i].link != '') {
               speakerTemplateRest.find('.name').wrap('<a href="'+speakers[i].link+'"></a>');
             }
@@ -386,11 +388,10 @@
             speakersRowRest.append(speakerTemplateRest.html());
 
             if (speakerTemplateRest.find('.name').parent().is( "a" )) {
-            speakerTemplateRest.find('.name').unwrap();
-        }
+              speakerTemplateRest.find('.name').unwrap();
+            }
           }
-
-        var showMore = $('#showMore');
+        });
 
         showMore.click(function() {
         speakersRowRest.toggle();
