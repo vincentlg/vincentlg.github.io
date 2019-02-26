@@ -114,8 +114,8 @@ var speakers = [
     "company": "Viant"
   },
   {
-    "name": "Kevin Owocki",
-    "link": "https://twitter.com/owocki",
+    "name": "Vivek Singh",
+    "link": "https://twitter.com/vsinghdothings",
     "picture": "images/speakers/13.jpg",
     "company": "Gitcoin"
   },
@@ -624,7 +624,7 @@ var speakers = [
     "company": "Slither"
   },
   {
-    "name": "Mo Dong",
+    "name": "",
     "link": "https://twitter.com/no89thkey",
     "picture": "images/speakers/106.jpg",
     "company": "Celer Network"
@@ -1219,7 +1219,7 @@ var speakers = [
   },
   {
     "name": "Benjamin Bollen",
-    "link": "https://twitter.com/betashop",
+    "link": "https://twitter.com/benjaminbollen",
     "picture": "images/speakers/208.jpg",
     "company": "OST"
   },
