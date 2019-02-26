@@ -1302,12 +1302,6 @@ var speakers = [
     "company": "Magmo"
   },
   {
-    "name": "Marc Meinstein",
-    "link": "https://twitter.com/warcmeinstein",
-    "picture": "images/speakers/222.jpg",
-    "company": "Wave Financial"
-  },
-  {
     "name": "Dmitry Bespalov",
     "link": "",
     "picture": "images/speakers/223.jpg",
