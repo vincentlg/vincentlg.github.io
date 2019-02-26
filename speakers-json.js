@@ -114,8 +114,8 @@ var speakers = [
     "company": "Viant"
   },
   {
-    "name": "Vivek Singh",
-    "link": "https://twitter.com/vsinghdothings",
+    "name": "Scott Moore",
+    "link": "https://twitter.com/notscottmoore",
     "picture": "images/speakers/13.jpg",
     "company": "Gitcoin"
   },
