@@ -1455,7 +1455,13 @@ var speakers = [
     "name": "Vinay Gupta",
     "link": "https://twitter.com/leashless",
     "picture": "images/speakers/248.jpg",
-    "company": "Mattereum "
+    "company": "Mattereum"
+  },
+  {
+    "name": "Dennison Bertram",
+    "link": "https://twitter.com/DennisonBertram",
+    "picture": "images/speakers/249.jpg",
+    "company": "Zeppelin"
   },
   {
     "name": "More to be announced",
