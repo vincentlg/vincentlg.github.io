@@ -114,8 +114,8 @@ var speakers = [
     "company": "Viant"
   },
   {
-    "name": "Vivek Singh",
-    "link": "https://twitter.com/vsinghdothings",
+    "name": "Scott Moore",
+    "link": "https://twitter.com/notscottmoore",
     "picture": "images/speakers/13.jpg",
     "company": "Gitcoin"
   },
@@ -1302,12 +1302,6 @@ var speakers = [
     "company": "Magmo"
   },
   {
-    "name": "Marc Meinstein",
-    "link": "https://twitter.com/warcmeinstein",
-    "picture": "images/speakers/222.jpg",
-    "company": "Wave Financial"
-  },
-  {
     "name": "Dmitry Bespalov",
     "link": "",
     "picture": "images/speakers/223.jpg",
@@ -1461,7 +1455,13 @@ var speakers = [
     "name": "Vinay Gupta",
     "link": "https://twitter.com/leashless",
     "picture": "images/speakers/248.jpg",
-    "company": "Mattereum "
+    "company": "Mattereum"
+  },
+  {
+    "name": "Dennison Bertram",
+    "link": "https://twitter.com/DennisonBertram",
+    "picture": "images/speakers/249.jpg",
+    "company": "Zeppelin"
   },
   {
     "name": "More to be announced",
