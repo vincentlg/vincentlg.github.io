@@ -3259,7 +3259,7 @@
 	}
 
 		.banner.style1 .content {
-			padding: 7rem 7rem 5rem 7rem ;
+			padding: 2rem 7rem 2rem 7rem ;
 			-moz-align-self: center;
 			-webkit-align-self: center;
 			-ms-align-self: center;
@@ -7440,7 +7440,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		margin: 3rem 0;
+		/*margin: 3rem 0;*/
 		position: relative;
 	}
 

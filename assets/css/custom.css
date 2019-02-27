@@ -1,3 +1,7 @@
+.pad-top {
+	padding-top: 60px;
+}
+
 .speaker {
 	width: 150px;
 	border-radius: 50%;
@@ -15,32 +19,35 @@
 }
 
 .sponsorbronze {
-	width: 190px;
-	max-height: 120px;
+	max-width: 160px;
+	max-height: 160px;
 }
 
 .sponsoriron {
-	height: 70px;
+	max-height: 90px;
+  max-width: 90px;
 }
 
 .partner {
-	height: 80px;
+	max-height: 90px;
+  max-width: 90px;
+	margin-bottom: 10px;
 }
 
 ul.sponsors li {
-	padding: 0 3rem 0rem 0;
+	padding: 0 1rem 0rem 0;
 }
 
 .ml1 {
 	font-weight: 900;
-	font-size: 3.5em;
+	font-size: 3em;
   }
-  
+
   .ml1 .letter {
 	display: inline-block;
 	line-height: 1em;
   }
-  
+
   .ml1 .text-wrapper {
 	position: relative;
 	display: inline-block;
@@ -48,7 +55,7 @@ ul.sponsors li {
 	padding-right: 0.05em;
 	padding-bottom: 0.15em;
   }
-  
+
   .ml1 .line {
 	opacity: 0;
 	position: absolute;
@@ -58,10 +65,10 @@ ul.sponsors li {
 	background-color: #47D3E5;
 	transform-origin: 0 0;
   }
-  
+
   .ml1 .line1 { top: 0; }
 	.ml1 .line2 { bottom: 0; }
-	
+
 	table {
 		font-size: 0.8rem;
 		float:left;
@@ -77,6 +84,54 @@ ul.sponsors li {
 		padding: 1rem 0.75rem 0.75rem 0.75rem;
 	}
 
+#showMore {
+  margin: 2rem 0;
+}
+
+#speakersRowRest>section {
+  border-bottom-width: 0px;
+  border-top-width: 1px !important;
+}
+
+.crypto {
+	background: url(../../images/crypto/background.png);
+	font-family: 'SourceSansProRegular', 'Source Sans Pro', Arial, sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+
+}
+
+.crypto-content {
+	margin: 15px auto 0 auto;
+  width: 900px;
+}
+
+@media only screen and (max-width: 570px) {
+	.crypto-content {
+		width: auto;
+		padding: 0;
+		margin: 0;
+	}
+}
+
+.crypto-content-h1 {
+	padding-top: 0.5em;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	line-height: 51px;
+	color: #333;
+	text-transform: uppercase;
+}
+
+.crypto-content-footer {
+	margin-bottom: 1em;
+}
+
+.crypto-content-footer-link {
+	text-decoration: none;
+	color: #666;
+}
 
 .speakergame {
 	width: 100px;
@@ -99,3 +154,4 @@ ul.sponsors li {
 .wrapper.style1 > .inner .game {
     padding: 1rem 2.5rem 3rem 2.5rem;
 }
+
