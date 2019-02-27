@@ -132,3 +132,26 @@ ul.sponsors li {
 	text-decoration: none;
 	color: #666;
 }
+
+.speakergame {
+	width: 100px;
+	border-radius: 50%;
+}
+
+/*
+.gamebt {
+	background-color: black;
+	border-color: #47D3E5;
+	padding: 0.1rem 0.1rem;
+}
+
+.gamebt:hover {
+	cursor: pointer;
+	box-shadow: inset 0 0 0 1px #47D3E5;
+	color: #47D3E5 !important;
+}
+*/
+.wrapper.style1 > .inner .game {
+    padding: 1rem 2.5rem 3rem 2.5rem;
+}
+
