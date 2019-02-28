@@ -1464,6 +1464,12 @@ var speakers = [
     "company": "dada.nyc"
   },
   {
+    "name": "Amira Bouguera",
+    "link": "https://twitter.com/amiraenrique",
+    "picture": "images/speakers/251.jpg",
+    "company": "HellHound"
+  },
+  {
     "name": "More to be announced",
     "link": "https://twitter.com/fullcathouse",
     "picture": "images/speakers/cat.jpg",
