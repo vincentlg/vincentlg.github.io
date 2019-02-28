@@ -1458,6 +1458,12 @@ var speakers = [
     "company": "Zeppelin"
   },
   {
+    "name": "Judy Mam",
+    "link": "https://twitter.com/grandenchilada",
+    "picture": "images/speakers/250.jpg",
+    "company": "dada.nyc"
+  },
+  {
     "name": "More to be announced",
     "link": "https://twitter.com/fullcathouse",
     "picture": "images/speakers/cat.jpg",
