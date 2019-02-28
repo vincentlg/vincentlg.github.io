@@ -492,12 +492,6 @@ var speakers = [
     "company": "BridgeDAO"
   },
   {
-    "name": "Alice Henshaw",
-    "link": "",
-    "picture": "images/speakers/82.jpg",
-    "company": "ConsenSys"
-  },
-  {
     "name": "Chris Remus",
     "link": "https://twitter.com/cjremus",
     "picture": "images/speakers/83.jpg",
@@ -1446,8 +1440,8 @@ var speakers = [
     "company": "Ethereum"
   },
   {
-    "name": "Tegan Kline",
-    "link": "https://twitter.com/theklineventure",
+    "name": "Dr. Seven Waterhouse",
+    "link": "https://twitter.com/deseventral",
     "picture": "images/speakers/247.jpg",
     "company": "Orchid"
   },
