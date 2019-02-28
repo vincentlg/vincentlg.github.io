@@ -1080,14 +1080,14 @@ var speakers = [
     "company": "uPort"
   },
   {
-    "name": "Alan Vey",
+    "name": "Ethan Illingworth",
     "link": "",
     "picture": "images/speakers/185.jpg",
     "company": "Aventus"
   },
   {
-    "name": "Annika Monari",
-    "link": "https://twitter.com/annikamonari",
+    "name": "Angus Hamill",
+    "link": "https://twitter.com/angusbeef",
     "picture": "images/speakers/186.jpg",
     "company": "Aventus"
   },
