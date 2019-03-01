@@ -1379,13 +1379,6 @@ var speakers = [
     "picture": "images/speakers/236.jpg",
     "company": "Ethereum Foundation"
   },
-  {
-    "name": "Henri Stern",
-    "link": "",
-    "picture": "images/speakers/237.jpg",
-    "company": "Filecoin"
-  },
-  {
     "name": "Albert Acebrón",
     "link": "",
     "picture": "images/speakers/238.jpg",
