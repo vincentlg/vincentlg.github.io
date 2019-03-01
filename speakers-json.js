@@ -1080,14 +1080,14 @@ var speakers = [
     "company": "uPort"
   },
   {
-    "name": "Alan Vey",
+    "name": "Ethan Illingworth",
     "link": "",
     "picture": "images/speakers/185.jpg",
     "company": "Aventus"
   },
   {
-    "name": "Annika Monari",
-    "link": "https://twitter.com/annikamonari",
+    "name": "Angus Hamill",
+    "link": "https://twitter.com/angusbeef",
     "picture": "images/speakers/186.jpg",
     "company": "Aventus"
   },
@@ -1379,13 +1379,6 @@ var speakers = [
     "picture": "images/speakers/236.jpg",
     "company": "Ethereum Foundation"
   },
-  {
-    "name": "Henri Stern",
-    "link": "",
-    "picture": "images/speakers/237.jpg",
-    "company": "Filecoin"
-  },
-  {
     "name": "Albert Acebrón",
     "link": "",
     "picture": "images/speakers/238.jpg",
@@ -1462,6 +1455,12 @@ var speakers = [
     "link": "https://twitter.com/grandenchilada",
     "picture": "images/speakers/250.jpg",
     "company": "dada.nyc"
+  },
+  {
+    "name": "Amira Bouguera",
+    "link": "https://twitter.com/amiraenrique",
+    "picture": "images/speakers/251.jpg",
+    "company": "HellHound"
   },
   {
     "name": "More to be announced",
