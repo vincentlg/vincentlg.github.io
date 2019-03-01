@@ -1379,6 +1379,7 @@ var speakers = [
     "picture": "images/speakers/236.jpg",
     "company": "Ethereum Foundation"
   },
+  {
     "name": "Albert Acebrón",
     "link": "",
     "picture": "images/speakers/238.jpg",
