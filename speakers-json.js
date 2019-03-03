@@ -618,12 +618,6 @@ var speakers = [
     "company": "Slither"
   },
   {
-    "name": "",
-    "link": "https://twitter.com/no89thkey",
-    "picture": "images/speakers/106.jpg",
-    "company": "Celer Network"
-  },
-  {
     "name": "Daniela Osorio",
     "link": "https://twitter.com/waverlymaven",
     "picture": "images/speakers/107.jpg",
@@ -1462,6 +1456,18 @@ var speakers = [
     "link": "https://twitter.com/amiraenrique",
     "picture": "images/speakers/251.jpg",
     "company": "HellHound"
+  },
+  {
+    "name": "Yang Zhang",
+    "link": "",
+    "picture": "images/speakers/252.jpg",
+    "company": "Celer Network"
+  },
+  {
+    "name": "Alexis Collomb",
+    "link": "https://twitter.com/alexiscollomb",
+    "picture": "images/speakers/253.jpg",
+    "company": "Cnam"
   },
   {
     "name": "More to be announced",
