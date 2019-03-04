@@ -31,7 +31,7 @@ var speakers = [
   },
   {
     "name": "Gilles Fedak",
-    "link": "https://twitter.com/gilfedak",
+    "link": "https://www.linkedin.com/in/gilles-fedak-4a303a5b/",
     "picture": "images/speakers/89.jpg",
     "company": "iExec"
   },
