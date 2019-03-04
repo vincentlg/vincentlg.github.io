@@ -1470,6 +1470,30 @@ var speakers = [
     "company": "Cnam"
   },
   {
+    "name": "Gauthier Petetin",
+    "link": "https://twitter.com/gpetetin",
+    "picture": "images/speakers/254.jpg",
+    "company": "ConsenSys"
+  },
+  {
+    "name": "Anne-Sophie Cartray",
+    "link": "",
+    "picture": "images/speakers/255.jpg",
+    "company": "ConsenSys"
+  },
+  {
+    "name": "Jerome de Tychey",
+    "link": "https://twitter.com/jdetychey",
+    "picture": "images/speakers/256.jpg",
+    "company": "ConsenSys"
+  },
+  {
+    "name": "Tyrone Lobban",
+    "link": "https://twitter.com/TyLobban",
+    "picture": "images/speakers/257.jpg",
+    "company": "Quorum"
+  },
+  {
     "name": "More to be announced",
     "link": "https://twitter.com/fullcathouse",
     "picture": "images/speakers/cat.jpg",
