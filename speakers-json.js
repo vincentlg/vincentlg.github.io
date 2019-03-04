@@ -1485,7 +1485,7 @@ var speakers = [
     "name": "Jerome de Tychey",
     "link": "https://twitter.com/jdetychey",
     "picture": "images/speakers/256.jpg",
-    "company": "ConsenSys"
+    "company": "Asseth/ConsenSys"
   },
   {
     "name": "Tyrone Lobban",
