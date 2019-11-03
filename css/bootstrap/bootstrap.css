@@ -5090,8 +5090,16 @@ button.bg-dark:focus {
 .border-primary {
   border-color: #ff5733 !important; }
 
+a.border-primary:hover, {
+  border-color: #6c757d !important;
+}
+
 .border-secondary {
   border-color: #6c757d !important; }
+
+a.border-secondary:hover, {
+  border-color: #ff5733 !important;
+}
 
 .border-success {
   border-color: #8bc34a !important; }
