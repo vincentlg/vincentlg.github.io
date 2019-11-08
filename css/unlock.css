@@ -1,0 +1,67 @@
+.no-wallet,
+.has-wallet-no-ticket,
+.has-wallet-has-ticket,
+.has-wallet {
+  display: none;
+}
+
+.unlock_form {
+  position: relative;
+  background: #232531;
+  padding: 20px;
+  width: auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+.unlock_form h2 {
+  position: relative;
+  font-size: 2.5rem;
+  color: #fff;
+  padding-bottom: 30px;
+}
+
+.unlock_form h2:after {
+  content: "";
+  left: 0%;
+  bottom: 0;
+  position: absolute;
+  width: 100px;
+  height: 2px;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(#c70039),
+    color-stop(70%, #ff5733)
+  );
+  background: -webkit-linear-gradient(left, #c70039, #ff5733 70%);
+  background: -o-linear-gradient(left, #c70039, #ff5733 70%);
+  background: linear-gradient(to right, #c70039, #ff5733 70%);
+}
+
+.unlock_form p {
+  margin-top: 20px;
+}
+
+.unlock_form ol {
+  list-style: none;
+  padding: 0px;
+}
+
+.unlock_form li {
+  margin-bottom: 20px;
+}
+
+.unlock_form input,
+.unlock_form label {
+  display: block;
+}
+
+.unlock_form label {
+  margin-bottom: 0px;
+}
+
+.unlock_form input {
+  width: 100%;
+}
