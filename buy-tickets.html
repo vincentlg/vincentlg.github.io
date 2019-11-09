@@ -1,24 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Tickets &mdash; Colorlib Website Template</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
-    <link rel="stylesheet" href="fonts/icomoon/style.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/jquery-ui.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
-    <link rel="stylesheet" href="css/aos.css">
+<head>
+  <title>Tickets &mdash; EthCC </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="stylesheet" href="css/style.css">
-  </head>
-  <body>
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+  <link rel="stylesheet" href="fonts/icomoon/style.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/magnific-popup.css">
+  <link rel="stylesheet" href="css/jquery-ui.css">
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+  <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+  <link rel="stylesheet" href="css/aos.css">
+
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Unlock Tickets -->
+  <link rel="stylesheet" href="css/unlock.css">
+  <script> (function (d, s) {
+      var js = d.createElement(s),
+        sc = d.getElementsByTagName(s)[0];
+      js.src = "https://paywall.unlock-protocol.com/static/unlock.1.0.min.js";
+      sc.parentNode.insertBefore(js, sc);
+    }(document, "script"));
+  </script>
+  <script>
+    var unlockProtocolConfig = { "locks": { "0x7FE9143379a59329AfD7D25E52696A6F1Db28D36": { "name": "EthCC" } }, "icon": "https://unlock-protocol.com/static/images/svg/unlock-word-mark.svg", "callToAction": { "default": "Purchase your ticket by clicking on 'Purchase' below. Your web3 wallet will ask you to confirm 2 transactions: one for the DAI transfer, and one for the ticket purchase." } }
+  </script>
+</head>
+
+<body>
 
   <div class="site-wrap">
 
@@ -35,7 +50,8 @@
       <div class="container-fluid">
         <div class="row align-items-center">
           <div class="col-11 col-xl-3">
-            <h1 class="mb-0"> <a href="index.html" class="text-white h2 mb-0"><img src="images/logo_ethcc.png" alt="Image" class="avatar-large">EthCC <span class="text-primary">[3]</span>  </a></h1>
+            <h1 class="mb-0"> <a href="index.html" class="text-white h2 mb-0"><img src="images/logo_ethcc.png"
+                  alt="Image" class="avatar-large">EthCC <span class="text-primary">[3]</span> </a></h1>
           </div>
           <div class="col-10 col-md-8 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right" role="navigation">
@@ -44,63 +60,149 @@
                 <!-- <li><a href="about.html">About Us</a></li> -->
                 <li><a href="speakers.html">Speakers</a></li>
                 <!-- <li><a href="news.html">News</a></li> -->
-                <li ><a href="VC-track.html">VC Offer</a></li>
+                <li><a href="VC-track.html">VC Offer</a></li>
                 <li class="cta" class="active"><a href="buy-tickets.html">Buy Tickets</a></li>
               </ul>
             </nav>
           </div>
-          <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
-          </div>
+          <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#"
+              class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
         </div>
       </div>
-    </header>
+  </div>
+  </header>
 
-    <div class="site-section site-hero inner">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-md-10">
-            <span class="d-block mb-3 caption">EthCC [3] Tickets</span>
-            <h1 class="d-block mb-4">Tickets</h1>
-          </div>
+  <div class="site-section site-hero inner">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-10">
+          <span class="d-block mb-3 caption">EthCC [3] Tickets</span>
+          <h1 class="d-block mb-4">Tickets</h1>
         </div>
       </div>
     </div>
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-        <div class="site-section" style="padding-top: 0em">
-          <div class="site-section-heading" data-aos="fade-up" data-aos-delay="100">
-            <h3><span class="text-primary" style="font-style: italic;">LIMITED OFFER</span> <hr> 200 early bird tickets for <span style="text-decoration: line-through;font-style: italic;">300€</span> <span class="text-primary">250€</span> </h3>
-          </div><hr><hr>
-          <div class="row">
-            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0"  data-aos="fade-up" data-aos-delay="200">
-              <div class="pricing border-primary text-center">
-                <h2>🐣 Early Bird Tickets 🐣</h2>
-                <p>Payment in Euro</p>
-                <div class="amount"><sup>€</sup><span class="number">250</span> </div>
-                <ul class="list-unstyled mb-5">
-                  <li>3-Days Pass</li>
-                  <li>Free Catering</li>
-                  <li>EthCC Swag</li>
-                </ul>
-                <div><a href="https://www.weezevent.com/ethcc-3" target="_blank" class="btn btn-primary px-4 py-2">Buy Ticket</a></div>
-              </div>
+  </div>
+
+  <div class="container" data-aos="fade-up" data-aos-delay="100">
+    <div class="site-section" style="padding-top: 0em">
+      <div class="site-section-heading" data-aos="fade-up" data-aos-delay="100">
+        <h3><span class="text-primary" style="font-style: italic;">LIMITED OFFER</span>
+          <hr> 200 early bird tickets for <span style="text-decoration: line-through;font-style: italic;">300€</span>
+          <span class="text-primary">250€</span> </h3>
+      </div>
+      <hr>
+      <hr>
+      <div class="row">
+
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+          <div class="pricing border-primary text-center">
+            <h2>🐣 Early Bird Tickets 🐣</h2>
+            <p>Payment in Euro</p>
+            <div class="amount"><sup>€</sup><span class="number">250</span> </div>
+            <ul class="list-unstyled mb-5">
+              <li>3-Days Pass</li>
+              <li>Free Catering</li>
+              <li>EthCC Swag</li>
+            </ul>
+            <div><a href="https://www.weezevent.com/ethcc-3" target="_blank" class="btn btn-primary px-4 py-2">Buy
+                Ticket</a></div>
+          </div>
+        </div>
+
+        <!-- LINKS TO UNLOCK PROTOCOL FOR CRYPTO PAYMENTS -->
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+          <div class="pricing border-primary text-center">
+            <h2>🐣 Early Bird Tickets 🐣</h2>
+            <p>Payment in Crypto</p>
+            <div class="amount"><sup>Dai</sup><span class="number">280</span> </div>
+            <ul class="list-unstyled mb-5">
+              <li>3-Days Pass</li>
+              <li>Free Catering</li>
+              <li>EthCC Swag</li>
+            </ul>
+            <div>
+              <a href="#unlock-form" class="btn btn-primary px-4 py-2 unlock-popup">Buy Ticket</a>
             </div>
+          </div>
+        </div>
 
-            <!-- ADD LINKS TO UNLOCK PROTOCOL FOR CRYPTO PAYMENTS -->
-           <!--  <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
-              <div class="pricing border-primary text-center">
-                <h2>🐣 Early Bird Tickets 🐣</h2>
-                <p>Payment in Crypto</p>
-                <div class="amount"><sup>Dai</sup><span class="number">280</span> </div>
-                <ul class="list-unstyled mb-5">
-                  <li>3-Days Pass</li>
-                  <li>Free Catering</li>
-                  <li>EthCC Swag</li>
-                </ul>
-                <div><a href="#" class="btn btn-primary px-4 py-2">Buy Ticket</a></div>
-              </div>
-            </div> -->
+        <!-- unlock form itself -->
+        <form id="unlock-form" class="unlock_form mfp-hide">
 
-            <!-- <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="400">
+          <h2>Unlock Ticket</h2>
+
+          <!-- shown for users with no wallet -->
+          <div class="no-wallet">
+            <p>Please make sure you use a web3 wallet. <br>We recommend <a href="https://metamask.io/">MetaMask</a>.
+            </p>
+          </div>
+
+          <!-- shown for users with a wallet disabled -->
+          <div class="has-wallet">
+            <p>Please check your wallet and enable it.</p>
+          </div>
+
+          <!-- shown for users who already have a ticket -->
+          <div class="has-wallet-has-ticket">
+            <p>You already have a ticket! Thanks for your trust and we're looking forward to seeing you!</p>
+            <p>On the day of the event, we recommend that you bring your mobile web3 wallet to show your ticket. You
+              can also receive the ticket as a QR code by email by <a target="_blank"
+                href="https://app.unlock-protocol.com/keychain/">going to your keychain</a> and clicking on
+              <em>Assert Ownership</em>!</p>
+
+          </div>
+
+          <!-- shown for users who have a wallet but no ticket yet -->
+          <div class="has-wallet-no-ticket">
+            <fieldset style="border:0;">
+              <p>Please fill this form and submit to purchase a ticket with crypto. Your wallet will prompt you to
+                sign this information and then ask you to confirm your purchase!</p>
+              <ol>
+                <li>
+                  <label for="full_name">Full Name</label>
+                  <input id="full_name" name="full_name" type="text" placeholder="Full Name" required="">
+                </li>
+                <li>
+                  <label for="email">Email</label>
+                  <input id="email" name="email" type="email" placeholder="example@domain.com" required="">
+                </li>
+                <li>
+                  <label for="phone">Phone</label>
+                  <input id="phone" name="phone" type="tel" placeholder="Eg. +447500000000" required="">
+                </li>
+              </ol>
+              <h3>Billing info</h3>
+              <p>If you want to receive an invoice (optional), please fill in the following info.</p>
+              <ol>
+                <li>
+                  <label for="address_1">Address</label>
+                  <input id="address_1" name="address_1" type="text" placeholder="Billing address">
+                  <input id="address_2" name="address_2" type="text" placeholder="">
+                </li>
+
+                <li>
+                  <label for="zipcode">Zip Code</label>
+                  <input id="zipcode" name="zipcode" type="text" placeholder="Billing zipcode">
+                </li>
+
+                <li>
+                  <label for="city">City</label>
+                  <input id="city" name="city" type="text" placeholder="Billing City">
+                </li>
+
+                <li>
+                  <label for="country">Country</label>
+                  <input id="country" name="country" type="text" placeholder="Billing Country">
+                </li>
+              </ol>
+
+              <input type="submit" value="Save" class="btn btn-primary py-2 px-4 text-white">
+            </fieldset>
+          </div>
+
+        </form>
+
+        <!-- <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="400">
               <div class="pricing border-secondary text-center">
                 <h2>Premium Pass</h2>
                 <div class="amount"><sup>$</sup><span class="number">490</span> </div>
@@ -114,12 +216,12 @@
                 <div><a href="#" class="btn btn-secondary px-4 py-2">Buy Ticket</a></div>
               </div>
             </div> -->
-          </div>
-        </div>
       </div>
+    </div>
+  </div>
 
 
-   <!--  <div class="site-section" data-aos="fade">
+  <!--  <div class="site-section" data-aos="fade">
       <div class="container">
         <div class="row mb-5 justify-content-center">
           <div class="col-lg-4 mb-5">
@@ -214,44 +316,51 @@
     </div> -->
 
 
-     <footer class="site-footer">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-md-4">
-            <h2 class="footer-heading text-uppercase mb-4">About Us</h2>
-            <p>Ethereum France (formerly ASSETH), is a French non-profit organization mainstreaming blockchain and Ethereum in all French-speaking countries so that everyone can assume ownership of this technology.</p>
-          </div>
-          <div class="col-md-3 ml-auto">
-            <h2 class="footer-heading text-uppercase mb-4">Links</h2>
-            <ul class="list-unstyled">
-              <li><a href="https://www.ethereum-france.com" target="_blank">Ethereum France</a></li>
-            </ul>
-          </div>
-          <div class="col-md-4">
-            <h2 class="footer-heading text-uppercase mb-4">Connect with Us</h2>
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col-md-4">
+          <h2 class="footer-heading text-uppercase mb-4">About Us</h2>
+          <p>Ethereum France (formerly ASSETH), is a French non-profit organization mainstreaming blockchain and
+            Ethereum in all French-speaking countries so that everyone can assume ownership of this technology.</p>
+        </div>
+        <div class="col-md-3 ml-auto">
+          <h2 class="footer-heading text-uppercase mb-4">Links</h2>
+          <ul class="list-unstyled">
+            <li><a href="https://www.ethereum-france.com" target="_blank">Ethereum France</a></li>
+          </ul>
+        </div>
+        <div class="col-md-4">
+          <h2 class="footer-heading text-uppercase mb-4">Connect with Us</h2>
+          <p>
+
+            <a href="https://twitter.com/ethereum_france" target="_blank" class="p-2"><span
+                class="icon-twitter"></span></a>
+            <a href="https://www.youtube.com/channel/UCf7zF8tFOb9T58nBo09BhAw" target="_blank" class="p-2"><span
+                class="icon-youtube"></span></a> <a href="https://www.facebook.com/AssethFrance/" target="_blank"
+              class="p-2 pl-0"><span class="icon-facebook"></span></a>
+
+
+          </p>
+        </div>
+      </div>
+      <div class="row">
+
+        <div class="col-md-12 text-center">
+          <div class="border-top pt-5">
             <p>
-
-              <a href="https://twitter.com/ethereum_france" target="_blank" class="p-2"><span class="icon-twitter"></span></a>
-              <a href="https://www.youtube.com/channel/UCf7zF8tFOb9T58nBo09BhAw" target="_blank" class="p-2"><span class="icon-youtube"></span></a> <a href="https://www.facebook.com/AssethFrance/" target="_blank" class="p-2 pl-0"><span class="icon-facebook"></span></a>
-
-
+              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+              Copyright &copy;
+              <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made
+              with <i class="icon-heart text-primary" aria-hidden="true"></i> by <a href="https://colorlib.com"
+                target="_blank">Colorlib</a>
+              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
         </div>
-        <div class="row">
-
-            <div class="col-md-12 text-center">
-              <div class="border-top pt-5">
-              <p>
-              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-              Copyright &copy; <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-primary" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-              </p>
-            </div>
-          </div>
-        </div>
       </div>
-    </footer>
+    </div>
+  </footer>
 
   </div>
 
@@ -266,8 +375,11 @@
   <script src="js/jquery.magnific-popup.min.js"></script>
   <script src="js/bootstrap-datepicker.min.js"></script>
   <script src="js/aos.js"></script>
+  <script src="https://cdn.ethers.io/scripts/ethers-v4.min.js"></script>
 
   <script src="js/main.js"></script>
+  <script src="js/unlock.js"></script>
 
-  </body>
+</body>
+
 </html>
