@@ -1,0 +1,32 @@
+.sponsor-gold {
+  max-width: 350px;
+  max-height: 480px;
+}
+
+.sponsor-silver {
+  max-width: 280px;
+  max-height: 400px;
+}
+
+.sponsor-bronze {
+  max-width: 200px;
+  max-height: 320px;
+}
+
+.sponsor-iron-4 {
+  max-width: 100px;
+  max-height: 250px;
+}
+
+.sponsor-iron-2 {
+  max-width: 80px;
+  max-height: 150px;
+}
+
+
+.speaker-ethcc {
+  height: 50px;
+  width: 50px;
+  border-radius: 4px;
+}
+
