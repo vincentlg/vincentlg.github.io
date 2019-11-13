@@ -8,16 +8,17 @@ var speakerTemplateRest = $('#speakerTemplateRest');
 for (i = 0; i < 8; i ++) {
   console.log(speakers[i])
   if(speakers[i].link != undefined && speakers[i].link != '') {
-    speakerTemplateFirst.find('.name').wrap('<a href="'+speakers[i].link+'"></a>');
+    speakerTemplateFirst.find('.firstName').wrap('<a href="'+speakers[i].link+'"></a>');
   }
 
-  speakerTemplateFirst.find('.name').text(speakers[i].name);
+  speakerTemplateFirst.find('.firstName').text(speakers[i].firstName);
+  speakerTemplateFirst.find('.lastName').text(speakers[i].lastName);
   speakerTemplateFirst.find('img').attr('src', speakers[i].picture);
   speakerTemplateFirst.find('.company').text(speakers[i].company);
   speakersRowFirst.append(speakerTemplateFirst.html());
 
-  if (speakerTemplateFirst.find('.name').parent().is( "a" )) {
-  speakerTemplateFirst.find('.name').unwrap();
+  if (speakerTemplateFirst.find('.firstName').parent().is( "a" )) {
+  speakerTemplateFirst.find('.firstName').unwrap();
   }
 }
 
@@ -25,18 +26,19 @@ var showMore = $('#showMore');
 
 showMore
   .one("click", function () {
-    for (var i = 8; i < speakers.length; i ++) {
+    for (var i = 12; i < speakers.length; i ++) {
   if(speakers[i].link != undefined && speakers[i].link != '') {
-    speakerTemplateRest.find('.name').wrap('<a href="'+speakers[i].link+'"></a>');
+    speakerTemplateRest.find('.firstName').wrap('<a href="'+speakers[i].link+'"></a>');
   }
 
-  speakerTemplateRest.find('.name').text(speakers[i].name);
+  speakerTemplateRest.find('.firstName').text(speakers[i].firstName);
+  speakerTemplateFirst.find('.lastName').text(speakers[i].lastName);
   speakerTemplateRest.find('img').attr('src', speakers[i].picture);
   speakerTemplateRest.find('.company').text(speakers[i].company);
   speakersRowRest.append(speakerTemplateRest.html());
 
-  if (speakerTemplateRest.find('.name').parent().is( "a" )) {
-    speakerTemplateRest.find('.name').unwrap();
+  if (speakerTemplateRest.find('.firstName').parent().is( "a" )) {
+    speakerTemplateRest.find('.firstName').unwrap();
   } }
   })
   .click(function() {

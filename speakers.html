@@ -34,7 +34,7 @@
       <div class="container-fluid">
         <div class="row align-items-center">
           <div class="col-11 col-xl-3">
-            <h1 class="mb-0"> <a href="index.html" class="text-white h2 mb-0"><img src="images/logo_ethcc.png" alt="Image" class="avatar-large">EthCC <span class="text-primary">[3]</span>  </a></h1>
+            <h1 class="mb-0"> <a href="index.html" class="text-white h2 mb-0"><img src="images/logo_ethcc.png" alt="Image" class="avatar-navbar">EthCC <span class="text-primary">[3]</span>  </a></h1>
           </div>
           <div class="col-10 col-md-8 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right" role="navigation">
@@ -73,30 +73,61 @@
       </div>
 
 
-    <div class="site-section">
+    <div class="site-section" style="padding: 1em">
       <div class="container">
-        <section id="speakersSection">
-          <h2>Speakers</h2>
-          <div id="speakersRowFirst" class="items style1 small onscroll-fade-in"></div>
-          <div id="speakersRowRest" class="items style1 small onscroll-fade-in" style="display: none"></div>
-          <button id="showMore" class="btn-primary">Show more</button>
-        </section>
+        <div class="row align-items-center speaker">
+          <div class="col-lg-6 mt-5 pl-lg-5" data-aos="fade-up" data-aos-delay="100">
+            <section id="speakersSection"class="row mb-5">
+              <h2>Speakers</h2>
+                <div id="speakersRowFirst" class="row mb-5"></div>
+                <div id="speakersRowRest" style="display: none"></div>
+              </section>
 
-        <div id="speakerTemplateFirst" style="display: none;">
-          <section>
-            <img class="speaker picture" src="" alt="" />
-            <h3 class="name"></h3>
-            <h5 class="company"></h5>
-          </section>
+
+                <section id="speakerTemplateFirst"  style="display: none;">
+                  <img class="speaker picture" src="" alt="" />
+                  <h4 class="firstName"></h4>
+                  <h4 class="lastName"></h4>
+                  <h5 class="company" ></h5>
+                </section>
+
+
+
+                <section id="speakerTemplateRest" style="display: none;" >
+                  <img class="speaker picture" src="" alt="" />
+                  <h4 class="firstName"></h4>
+                  <h4 class="lastName"></h4>
+                  <h5 class="company"></h5>
+                </section>
+
+                <button id="showMore" class="btn-primary">Show more</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="site-section row align-items-center">
+        <div class="col-md-2">
+          <img src="images/speakers_2020/Evan_VanNess.jpeg" alt="" class="avatar-large">
+          <p>Hello World</p>
+        </div>
+        <div class="col-md-2">
+          <p>Hello World</p>
+        </div>
+        <div class="col-md-2">
+          <p>Hello World</p>
+        </div>
+        <div class="col-md-2">
+          <p>Hello World</p>
+        </div>
+        <div class="col-md-2">
+          <p>Hello World</p>
+        </div>
+        <div class="col-md-2">
+          <p>Hello World</p>
         </div>
 
-        <div id="speakerTemplateRest" style="display: none;">
-          <section>
-            <img class="speaker picture" src="" alt="" />
-            <h3 class="name"></h3>
-            <h5 class="company"></h5>
-          </section>
-        </div>
       </div>
     </div>
 
