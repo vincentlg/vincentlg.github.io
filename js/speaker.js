@@ -7,7 +7,7 @@ var speakerTemplate = $('#speakerTemplate');
 for (i = 0; i < speakers.length; i ++) {
   console.log(speakers[i])
   if(speakers[i].link != undefined && speakers[i].link != '') {
-    speakerTemplate.find('.firstName').wrap('<a href="'+speakers[i].link+'"></a>');
+    speakerTemplate.find('.firstName').wrap('<a href="'+speakers[i].link+'" target=_blank"></a>');
   }
 
   speakerTemplate.find('.firstName').text(speakers[i].firstName);
