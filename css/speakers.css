@@ -30,14 +30,10 @@
   margin: 10px;
 
 }
-.speaker-headshot-container {
+.speaker-img-container {
   max-width: 350px;
 }
-img.speaker-headshot {
-  max-width: 100%;
-  max-height: 200px;
-  overflow: hidden;
-}
+
 .speaker-first-name {
   line-height: 1 !important;
   margin: 6px 0 !important;
@@ -51,7 +47,6 @@ img.speaker-headshot {
   margin: 6px 0 !important;
   text-align: center;
   text-transform: uppercase;
-  cursor: pointer;
 }
 .speaker-association {
   line-height: 1 !important;
@@ -61,10 +56,15 @@ img.speaker-headshot {
 
 .img-speaker {
   width: 150px;
+  max-height: 150px;
   border-radius: 40px;
   border: 1px;
   border-color: white;
   border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 #block_container

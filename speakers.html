@@ -57,7 +57,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-10">
-            <span class="d-block mb-3 caption" data-aos="fade-up">COMING SOON...</span>
+            <span class="d-block mb-3 caption" data-aos="fade-up">ANNOUNCING THE...</span>
             <h1 class="d-block mb-4" data-aos="fade-up" data-aos-delay="100">EthCC [3] Speakers</h1>
           </div>
         </div>
@@ -72,51 +72,21 @@
       </div>
 
 
-<!--     <div class="site-section" style="padding: 1em">
-      <div class="container">
-        <div class="row align-items-center speaker">
-          <div class="col-lg-6 mt-5 pl-lg-5" data-aos="fade-up" data-aos-delay="100">
-            <section id="speakersSection"class="row mb-5">
-              <h2>Speakers</h2>
-                <div id="speakersRowFirst" class="row mb-5"></div>
-                <div id="speakersRowRest" style="display: none"></div>
-              </section>
-
-
-                <section id="speakerTemplateFirst"  style="display: none;">
-                  <img class="speaker picture" src="" alt="" />
-                  <h4 class="firstName"></h4>
-                  <h4 class="lastName"></h4>
-                  <h5 class="company" ></h5>
-                </section>
-
-
-
-                <section id="speakerTemplateRest" style="display: none;" >
-                  <img class="speaker picture" src="" alt="" />
-                  <h4 class="firstName"></h4>
-                  <h4 class="lastName"></h4>
-                  <h5 class="company"></h5>
-                </section>
-
-                <button id="showMore" class="btn-primary">Show more</button>
-          </div>
-        </div>
-      </div>
-    </div> -->
-
     <div class="container">
-      <div class="speaker-grid row align-items-center">
-        <div class="speaker-card">
-          <div class=speaker-headshot-container>
-          <img src="images/speakers_2020/Evan_VanNess.jpeg" alt="" class="img-speaker">
-          </div>
-          <div id="block_container">
-            <h5 id="bloc1" class="speaker-first-name">evan</h5>
-            <h5 id="bloc2" class="speaker-last-name"> van ness</h5>
-          </div>
-          <p class="speaker-association">ConsenSys</p>
-        </div>
+      <div class="speaker-grid">
+      <section class="speaker-card">
+        <div id="speakersRow"></div>
+      </section>
+          <section  id="speakerTemplate" style="display:none;">
+            <div class=speaker-img-container>
+            <img src="" alt="" class="img-speaker">
+            </div>
+            <div id="block_container">
+              <h5 id="bloc1" class="speaker-first-name firstName"></h5>
+              <h5 id="bloc2" class="speaker-last-name lastName"></h5>
+            </div>
+            <p class="speaker-association company"></p>
+          </section>
       </div>
     </div>
 
