@@ -1,0 +1,80 @@
+.speaker-grid {
+  display: -ms-grid;
+  display: grid;
+  grid-gap: 5px;
+  -ms-grid-columns: (minmax(220px, 1fr))[auto-fit];
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin-top: 20px;
+}
+.bio-card {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  padding: 20px;
+}
+.bio-text {
+  max-width: 60ch;
+  padding-left: 20px;
+}
+/* Speaker Card */
+.speaker-card {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-grid-column-align: center;
+      justify-items: center;
+  -ms-flex-align: center;
+      align-items: center;
+  margin: 10px;
+
+}
+.speaker-img-container {
+  max-width: 350px;
+}
+
+.speaker-first-name {
+  line-height: 1 !important;
+  margin: 6px 0 !important;
+  text-align: center;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+.speaker-last-name {
+  line-height: 1 !important;
+  margin: 6px 0 !important;
+  text-align: center;
+  text-transform: uppercase;
+}
+.speaker-association {
+  line-height: 1 !important;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.img-speaker {
+  width: 150px;
+  max-height: 150px;
+  border-radius: 40px;
+  border: 1px;
+  border-color: white;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#block_container
+{
+    text-align:center;
+    padding-top: 10px;
+}
+
+#bloc1, #bloc2
+{
+    display:inline;
+}
+

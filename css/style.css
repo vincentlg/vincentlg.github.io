@@ -1,3 +1,5 @@
+@import "speakers.css";
+
 
 /* Base */
 body {
@@ -782,6 +784,9 @@ h1, h2, h3, h4, h5,
   height: 40px;
   line-height: 40px; }
 
-.avatar-large {
+.avatar-navbar {
   width: 36px;
 }
+
+
+
