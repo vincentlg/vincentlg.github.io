@@ -83,4 +83,81 @@ var speakers = [
     "picture": "images/speakers_2020/Dennison_Bertram.jpg",
     "company": "OpenZeppelin"
   },
+  {
+    "firstName": "Sasha",
+    "lastName": "Tanase",
+    "link": "https://twitter.com/sasha_tanase",
+    "picture": "images/speakers_2020/Sasha_Tanase.jpg",
+    "company": "Alethio/Consensys"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "oed",
+    "link": "https://twitter.com/oedth",
+    "picture": "images/speakers_2020/Joel_Oed.jpeg",
+    "company": "3box"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "LOPEZ-BELMONTE",
+    "link": "https://www.linkedin.com/in/plberaso",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Richemont International"
+  },
+  {
+    "firstName": "Hugh",
+    "lastName": "Karp",
+    "link": "https://twitter.com/hughkarp",
+    "picture": "images/speakers_2020/Hugh_Karp.jpg",
+    "company": "Nexus Mutual"
+  },
+  {
+    "firstName": "Ankit",
+    "lastName": "CHIPLUNKAR ",
+    "link": "https://twitter.com/ankitchiplunkar",
+    "picture": "images/speakers_2020/Ankit_chiplunkar.png",
+    "company": "Token Analyst LTD"
+  },
+  {
+    "firstName": "Laurence",
+    "lastName": "KIRK ",
+    "link": "https://twitter.com/extropy",
+    "picture": "images/speakers_2020/Laurence_Kirk.jpg",
+    "company": "Extropy.IO Ltd."
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Beiko",
+    "link": "https://twitter.com/timbeiko",
+    "picture": "images/speakers_2020/Tim_Beiko.png",
+    "company": "PegaSys / Ethereum Cat Herders"
+  },
+  {
+    "firstName": "Lu",
+    "lastName": "Hua",
+    "link": "",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Gnosis"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "BEREGSZASZI ",
+    "link": "https://twitter.com/alexberegszaszi",
+    "picture": "images/speakers_2020/alex_beregszaszi.jpeg",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "firstName": "Stani",
+    "lastName": "KULECHOV",
+    "link": "https://twitter.com/stanikulechov",
+    "picture": "images/speakers_2020/Stani_Kulechov.jpg",
+    "company": "Aave"
+  },
+   {
+    "firstName": "Karl",
+    "lastName": "Floersch ",
+    "link": "https://twitter.com/karl_dot_tech",
+    "picture": "images/speakers_2020/Karl_Floersch.jpg",
+    "company": "Plasma Group"
+  },
 ]
