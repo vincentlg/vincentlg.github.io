@@ -101,7 +101,7 @@ var speakers = [
     "firstName": "Pedro",
     "lastName": "LOPEZ-BELMONTE",
     "link": "https://www.linkedin.com/in/plberaso",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Pedro_Lopez_Belmonte.jpeg",
     "company": "Richemont International"
   },
   {
