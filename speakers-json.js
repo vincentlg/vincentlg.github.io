@@ -160,4 +160,39 @@ var speakers = [
     "picture": "images/speakers_2020/Karl_Floersch.jpg",
     "company": "Plasma Group"
   },
+     {
+    "firstName": "Christian",
+    "lastName": "Reitwiessner",
+    "link": "https://twitter.com/ethchris",
+    "picture": "images/speakers_2020/christian_reitwiessner.jpg",
+    "company": "Ethereum Foundation"
+  },
+     {
+    "firstName": "Kazuaki",
+    "lastName": "Ishiguro ",
+    "link": "https://twitter.com/KazuakiIshiguro",
+    "picture": "images/speakers_2020/Kazuaki_Ishiguro.jpg",
+    "company": "Couger"
+  },
+     {
+    "firstName": "Anastasia",
+    "lastName": "Andrianova ",
+    "link": "https://twitter.com/ana_andrianova/",
+    "picture": "images/speakers_2020/Anastasia_Andrianova.jpg",
+    "company": "Akropolis"
+  },
+     {
+    "firstName": "Bhargava",
+    "lastName": "SHASTRY",
+    "link": "https://twitter.com/ibags",
+    "picture": "images/speakers_2020/bhargava_shastry.jpg",
+    "company": "Ethereum foundation"
+  },
+     {
+    "firstName": "Dean",
+    "lastName": "Eigenmann",
+    "link": "https://twitter.com/deaneigenmann",
+    "picture": "images/speakers_2020/Dean_Eigenmann.jpg",
+    "company": "Status"
+  },
 ]
