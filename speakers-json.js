@@ -195,4 +195,75 @@ var speakers = [
     "picture": "images/speakers_2020/Dean_Eigenmann.jpg",
     "company": "Status"
   },
+  {
+    "firstName": "Amy",
+    "lastName": "Jung",
+    "link": "https://twitter.com/itsamyjung",
+    "picture": "images/speakers_2020/Amy_jung.jpg",
+    "company": ""
+  },
+  {
+    "firstName": "Mara",
+    "lastName": "Schmiedt",
+    "link": "https://twitter.com/marsbars",
+    "picture": "images/speakers_2020/mara_schmiedt.jpeg",
+    "company": "ConsenSys"
+  },
+  {
+    "firstName": "Frankie ",
+    "lastName": "Pangilinan",
+    "link": "",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "MetaMask",
+  },
+  {
+    "firstName": "Alexey ",
+    "lastName": "Akhunov",
+    "link": "https://twitter.com/realLedgerwatch",
+    "picture": "images/speakers_2020/Alexey_Akhunov.jpg",
+    "company": "Torquem SA"
+  },
+  {
+    "firstName": "Franziska",
+    "lastName": "HEINTEL",
+    "link": "https://twitter.com/_franzihei",
+    "picture": "images/speakers_2020/Franziska_Heintel.jpeg",
+    "company": "Raiden Network"
+  },
+  {
+    "firstName": "Shashank",
+    "lastName": "TIWARI",
+    "link": "https://twitter.com/tshanky",
+    "picture": "images/speakers_2020/Shashank_Tiwari.jpg",
+    "company": "Leverj"
+  },
+  {
+    "firstName": "Christiane",
+    "lastName": "Ernst",
+    "link": "https://twitter.com/c3rnst",
+    "picture": "images/speakers_2020/Christiane_Ernst.jpg",
+    "company": "Gnosis"
+  },
+  {
+    "firstName": "Mikerah",
+    "lastName": "Quintyne-Collins",
+    "link": "https://twitter.com/badcryptobitch",
+    "picture": "images/speakers_2020/Mikerah_Quintyne.jpg",
+    "company": "HashCloak"
+  },
+  {
+    "firstName": "Afri",
+    "lastName": "Schoedon",
+    "link": "https://twitter.com/a4fri",
+    "picture": "images/speakers_2020/Afri_Schoedon.jpg",
+    "company": "Parity Technologies"
+  },
+  {
+    "firstName": "Shen",
+    "lastName": "Christopher",
+    "link": "https://twitter.com/itisportal",
+    "picture": "images/speakers_2020/Christopher_Shen.jpg",
+    "company": "Portal Network "
+  },
+
 ]
