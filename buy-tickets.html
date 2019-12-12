@@ -29,8 +29,19 @@
     }(document, "script"));
   </script>
   <script>
-    var unlockProtocolConfig = { "locks": { "0x7FE9143379a59329AfD7D25E52696A6F1Db28D36": { "name": "EthCC" } }, "icon": "https://unlock-protocol.com/static/images/svg/unlock-word-mark.svg", "callToAction": { "default": "Purchase your ticket by clicking on 'Purchase' below. Your web3 wallet will ask you to confirm 2 transactions: one for the DAI transfer, and one for the ticket purchase." } }
+    var unlockProtocolConfig = { "locks": { "0x7FE9143379a59329AfD7D25E52696A6F1Db28D36": { "name": "EthCC" } }, "icon": "https://unlock-protocol.com/static/images/svg/unlock-word-mark.svg", "callToAction": { "default": "Purchase your ticket by clicking on 'Purchase' below. Your web3 wallet will ask you to confirm 2 transactions: one for the SAI transfer, and one for the ticket purchase." } }
   </script>
+
+  <!-- Kyber widget -->
+  <link rel='stylesheet' href='https://widget.kyber.network/v0.7.4/widget.css'>
+  <style>
+    #kyber-button {
+      background: none;
+      display: inline;
+      text-transform: none;
+      font-size: 1em;
+    }
+  </style>
 </head>
 
 <body>
@@ -46,7 +57,7 @@
       <div class="site-mobile-menu-body"></div>
     </div>
 
-     <header class="site-navbar py-3" style="position: fixed; background-color: #232531" role="banner">
+    <header class="site-navbar py-3" style="position: fixed; background-color: #232531" role="banner">
       <div class="container-fluid">
         <div class="row align-items-center">
           <div class="col-11 col-xl-3">
@@ -98,7 +109,11 @@
               <li>EthCC Swag</li>
             </ul>
             <div>
-              <a href="https://www.weezevent.com/widget_billeterie.php?id_evenement=511172&lg_billetterie=2&code=18201&width_auto=1&color_primary=00AEEF" onclick="var w=window.open('https://www.weezevent.com/widget_billeterie.php?id_evenement=511172&lg_billetterie=2&code=18201&width_auto=1&color_primary=00AEEF', 'Billetterie_weezevent', 'width=650, height=600, top=100, left=100, toolbar=no, resizable=yes, scrollbars=yes, status=no'); w.focus(); return false;" class="btn btn-primary px-4 py-2">Buy Tickets</a></div>
+              <a href="https://www.weezevent.com/widget_billeterie.php?id_evenement=511172&lg_billetterie=2&code=18201&width_auto=1&color_primary=00AEEF"
+                onclick="var w=window.open('https://www.weezevent.com/widget_billeterie.php?id_evenement=511172&lg_billetterie=2&code=18201&width_auto=1&color_primary=00AEEF', 'Billetterie_weezevent', 'width=650, height=600, top=100, left=100, toolbar=no, resizable=yes, scrollbars=yes, status=no'); w.focus(); return false;"
+                class="btn btn-primary px-4 py-2">Buy Tickets</a></div>
+            <small>&nbsp;</small>
+
           </div>
         </div>
 
@@ -107,7 +122,7 @@
           <div class="pricing border-primary text-center">
             <h2>EthCC Tickets</h2>
             <p>Payment in Crypto</p>
-            <div class="amount"><sup>DAI</sup><span class="number">325</span> </div>
+            <div class="amount"><sup>SAI</sup><span class="number">325</span> </div>
             <ul class="list-unstyled mb-5">
               <li>3-Days Pass</li>
               <li>Free Catering</li>
@@ -116,6 +131,11 @@
             <div>
               <a href="#unlock-form" class="btn btn-primary px-4 py-2 unlock-popup">Buy Ticket</a>
             </div>
+
+            <small><a
+                href='https://widget.kyber.network/v0.7.4/?type=buy&mode=popup&lang=en&pinnedTokens=ETH_KNC_SAI&receiveToken=SAI&receiveAmount=325&paramForwarding=true&network=mainnet&theme=theme-dark'
+                class='kyber-widget-button' id="kyber-button" name='KyberWidget - Powered by KyberNetwork'
+                title='Pay with tokens' target='_blank'>Not enough SAI?</a> </small>
           </div>
         </div>
 
@@ -369,6 +389,7 @@
   <script src="js/bootstrap-datepicker.min.js"></script>
   <script src="js/aos.js"></script>
   <script src="https://cdn.ethers.io/scripts/ethers-v4.min.js"></script>
+  <script async src='https://widget.kyber.network/v0.7.4/widget.js'></script>
 
   <script src="js/main.js"></script>
   <script src="js/unlock.js"></script>
