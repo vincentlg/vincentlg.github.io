@@ -30,3 +30,15 @@
   border-radius:50px;
 }
 
+#kyber-btn {
+      background: none;
+      display: inline-block;
+      text-transform: uppercase;
+      font-family:  Roboto Mono;
+      font-size: 16px;
+      text-align: center;
+      color: #ff5733;
+    }
+  #kyber-btn:hover {
+    color: #ffffff;
+  }
