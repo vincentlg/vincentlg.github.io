@@ -265,5 +265,70 @@ var speakers = [
     "picture": "images/speakers_2020/Christopher_Shen.jpg",
     "company": "Portal Network "
   },
+    {
+    "firstName": "Aidan",
+    "lastName": "HYMAN",
+    "link": "https://twitter.com/chainsafeth",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "ChainSafe Systems"
+  },
+    {
+    "firstName": "ZACHARY",
+    "lastName": "COLE",
+    "link": "https://twitter.com/0xzak",
+    "picture": "images/speakers_2020/Zachary_Cole.jpg",
+    "company": "Whiteblock"
+  },
+    {
+    "firstName": "Ben",
+    "lastName": "Livshits",
+    "link": "https://twitter.com/convoluted_code",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Brave software"
+  },
+    {
+    "firstName": "Lefteris",
+    "lastName": "KARAPETSAS",
+    "link": "https://twitter.com/lefterisjp",
+    "picture": "images/speakers_2020/Lefteris_Karapetsas.png",
+    "company": "Rotki"
+  },
+    {
+    "firstName": "Matan",
+    "lastName": "FIELD",
+    "link": "https://twitter.com/matanfield",
+    "picture": "images/speakers_2020/Matan_Field.jpg",
+    "company": "DAOstack"
+  },
+    {
+    "firstName": "Hayden",
+    "lastName": "Adams",
+    "link": "https://twitter.com/haydenzadams",
+    "picture": "images/speakers_2020/Adams_Hayden.jpg",
+    "company": "Uniswap"
+  },
+    {
+    "firstName": "Alex",
+    "lastName": "VAN DE SANDE",
+    "link": "https://twitter.com/avsa",
+    "picture": "images/speakers_2020/Alex_VandeSande.jpeg",
+    "company": "Universal Login"
+  },
+    {
+    "firstName": "william",
+    "lastName": "ORORKE",
+    "link": "https://www.linkedin.com/in/williamororke",
+    "picture": "images/speakers_2020/William_Ororke.jpeg",
+    "company": "ORWL Avocats"
+  },
+  {
+    "firstName": "Marek",
+    "lastName": "KIREJCZYK",
+    "link": "https://twitter.com/ethmarek",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Universal Login"
+  },
+
+
 
 ]
