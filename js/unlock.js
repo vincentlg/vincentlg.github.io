@@ -97,7 +97,10 @@ jQuery(document).ready(function($) {
           }
         }
       })
-      let signature = await wallet.signMessage(tokenMetadata)
+      let signature = await web3Provider.send("personal_sign", [
+        ethers.utils.hexlify(ethers.utils.toUtf8Bytes(tokenMetadata)),
+        userAddress.toLowerCase()
+      ])
       const tokenEndpoint = `https://locksmith.unlock-protocol.com/api/key/${lockAddress}/user/${userAddress}`
       $.ajax({
         url: tokenEndpoint,
