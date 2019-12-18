@@ -269,7 +269,7 @@ var speakers = [
     "firstName": "Aidan",
     "lastName": "HYMAN",
     "link": "https://twitter.com/chainsafeth",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Aidan_Hyman.jpeg",
     "company": "ChainSafe Systems"
   },
     {
