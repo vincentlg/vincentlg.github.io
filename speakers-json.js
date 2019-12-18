@@ -199,7 +199,7 @@ var speakers = [
     "firstName": "Amy",
     "lastName": "Jung",
     "link": "https://twitter.com/itsamyjung",
-    "picture": "images/speakers_2020/Amy_jung.jpg",
+    "picture": "images/speakers_2020/Amy_Jung.jpg",
     "company": ""
   },
   {
