@@ -26,7 +26,10 @@ jQuery(document).ready(function($) {
             await web3.currentProvider.enable()
 
             // Get the Unlock status
-            const unlockState = unlockProtocol.getState()
+            const unlockState =
+              unlockProtocol && unlockProtocol.getState
+                ? unlockProtocol.getState()
+                : "locked"
             if (unlockState === "unlocked") {
               $(".has-wallet").hide()
               $(".has-wallet-has-ticket").show()
