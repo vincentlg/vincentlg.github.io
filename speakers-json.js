@@ -213,7 +213,7 @@ var speakers = [
     "firstName": "Frankie ",
     "lastName": "Pangilinan",
     "link": "",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/frankie_pangilinan.png",
     "company": "MetaMask",
   },
   {
@@ -283,7 +283,7 @@ var speakers = [
     "firstName": "Ben",
     "lastName": "Livshits",
     "link": "https://twitter.com/convoluted_code",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/ben_livshits.jpg",
     "company": "Brave software"
   },
     {
@@ -325,7 +325,7 @@ var speakers = [
     "firstName": "Marek",
     "lastName": "KIREJCZYK",
     "link": "https://twitter.com/ethmarek",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Marek_KIREJCZYK.jpeg",
     "company": "Universal Login"
   },
   {
@@ -361,7 +361,7 @@ var speakers = [
     "lastName": "MATEO IBORRA ",
     "link": "https://www.linkedin.com/in/mariamateoiborra/",
     "picture": "images/speakers_2020/Maria_Mateo.jpeg",
-    "company": "IBISA (Consensys Labs portfolio company)"
+    "company": "IBISA"
   },
   {
     "firstName": "Stefan",
