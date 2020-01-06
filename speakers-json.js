@@ -256,7 +256,7 @@ var speakers = [
     "lastName": "Schoedon",
     "link": "https://twitter.com/a4fri",
     "picture": "images/speakers_2020/Afri_Schoedon.jpg",
-    "company": "Parity Technologies"
+    "company": ""
   },
   {
     "firstName": "Shen",
