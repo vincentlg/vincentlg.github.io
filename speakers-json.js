@@ -328,7 +328,69 @@ var speakers = [
     "picture": "images/speakers_2020/ETH-final.png",
     "company": "Universal Login"
   },
-
+  {
+    "firstName": "Makoto",
+    "lastName": "Inoue",
+    "link": "https://twitter.com/makoto_inoue",
+    "picture": "images/speakers_2020/Makoto_Inoue.jpeg",
+    "company": "ENS"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Omer",
+    "link": "https://twitter.com/DenizOmer",
+    "picture": "images/speakers_2020/Deniz_Omer.jpeg",
+    "company": "Kyber Network"
+  },
+  {
+    "firstName": "Ethereum",
+    "lastName": "cat herders",
+    "link": "https://twitter.com/EthCatHerders",
+    "picture": "images/speakers_2020/ECH.jpg",
+    "company": " "
+  },
+  {
+    "firstName": "Matías",
+    "lastName": "Nisenson",
+    "link": "https://twitter.com/matiasnisenson",
+    "picture": "images/speakers_2020/Matias_Nisenson.jpg",
+    "company": "Experimental"
+  },
+  {
+    "firstName": "Maria ",
+    "lastName": "MATEO IBORRA ",
+    "link": "https://www.linkedin.com/in/mariamateoiborra/",
+    "picture": "images/speakers_2020/Maria_Mateo.jpeg",
+    "company": "IBISA (Consensys Labs portfolio company)"
+  },
+  {
+    "firstName": "Stefan",
+    "lastName": "George",
+    "link": "https://twitter.com/StefanDGeorge",
+    "picture": "images/speakers_2020/Stefan_George.jpg",
+    "company": "Gnosis"
+  },
+  {
+    "firstName": "Ashleigh",
+    "lastName": "Schap ",
+    "link": "https://twitter.com/ashleighschap",
+    "picture": "images/speakers_2020/Ashleigh_Schap.jpg",
+    "company": "Uniswap "
+  },
+  {
+    "firstName": "Osorio",
+    "lastName": "Daniela",
+    "link": "https://twitter.com/waverlymaven",
+    "picture": "images/speakers_2020/Daniela_Osorio.jpg",
+    "company": "Infura"
+  },
+  {
+    "firstName": "Ayodeji",
+    "lastName": "Awosika ",
+    "link": "https://www.linkedin.com/in/ayodeji-israel-awosika-69924124/",
+    "picture": "images/speakers_2020/Ayodeji_Awosika.jpg",
+    "company": "500NigeriaDevs4Eth"
+  },
 
 
 ]
