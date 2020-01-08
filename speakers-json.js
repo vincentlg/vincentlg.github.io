@@ -136,7 +136,7 @@ var speakers = [
     "firstName": "Lu",
     "lastName": "Hua",
     "link": "",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Lu_Hua.jpeg",
     "company": "Gnosis"
   },
   {
