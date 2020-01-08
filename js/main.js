@@ -227,7 +227,6 @@ jQuery(document).ready(function($) {
 		    + '<span class="countdown-block"><span class="label">%M</span> min </span>'
 		    + '<span class="countdown-block"><span class="label">%S</span> sec</span>'));
 		});
-		console.log($(this));
 
 	};
 	siteCountDown();
