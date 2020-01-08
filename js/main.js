@@ -217,8 +217,9 @@ jQuery(document).ready(function($) {
 	siteStellar();
 
 	var siteCountDown = function() {
-
-		$('#date-countdown').countdown('2020/03/03 GMT+1 09:30', function(event) {
+		// End date '2020/03/03 GMT+1 09:30' in ISO Format for Safari support
+		var end_date = new Date('2020-03-03T09:30:00');
+		$('#date-countdown').countdown(end_date, function(event) {
 		  var $this = $(this).html(event.strftime(''
 		    + '<span class="countdown-block"><span class="label">%w</span> weeks </span>'
 		    + '<span class="countdown-block"><span class="label">%d</span> days </span>'
@@ -226,6 +227,7 @@ jQuery(document).ready(function($) {
 		    + '<span class="countdown-block"><span class="label">%M</span> min </span>'
 		    + '<span class="countdown-block"><span class="label">%S</span> sec</span>'));
 		});
+		console.log($(this));
 
 	};
 	siteCountDown();
