@@ -391,6 +391,123 @@ var speakers = [
     "picture": "images/speakers_2020/Ayodeji_Awosika.jpg",
     "company": "500NigeriaDevs4Eth"
   },
-
-
-]
+  {
+    "firstName": "Julien",
+    "lastName": "Genestoux",
+    "link": "https://twitter.com/julien51",
+    "picture": "images/speakers_2020/julien_genestoux.jpg",
+    "company": "Unlock"
+  },
+  {
+    "firstName": "Sebastien",
+    "lastName": "Borget",
+    "link": "https://twitter.com/borgetsebastien",
+    "picture": "images/speakers_2020/Sebastien_Borget.jpg",
+    "company": "THE SANDBOX"
+  },
+  {
+    "firstName": "Quentin",
+    "lastName": "Issele",
+    "link": "https://www.linkedin.com/in/quentinissele/",
+    "picture": "images/speakers_2020/Quentin_Issele.jpg",
+    "company": "OKEx"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Tu",
+    "link": "https://twitter.com/erktu",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Chainsafe Systems"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Rubel",
+    "link": "https://twitter.com/SLebur",
+    "picture": "images/speakers_2020/Jonas_Rubel.jpg",
+    "company": "Liquiditeam"
+  },
+  {
+    "firstName": "alexei",
+    "lastName": "Zamyatin",
+    "link": "https://twitter.com/alexeiZamyatin",
+    "picture": "images/speakers_2020/Alexei_Zamyatin.png",
+    "company": "Imperial College London"
+  },
+  {
+    "firstName": "Mehdi",
+    "lastName": "Zerouali",
+    "link": "https://twitter.com/ethzed",
+    "picture": "images/speakers_2020/Mehdi_Zerouali.jpg",
+    "company": "Sigma Prime"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "CZEPLUCH",
+    "link": "https://twitter.com/czepluch",
+    "picture": "images/speakers_2020/Jacob_Czepluch.jpg",
+    "company": "Raiden Network"
+  },
+  {
+    "firstName": "Kelsos",
+    "lastName": "PAPARAS",
+    "link": "https://twitter.com/kelsos86",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Raiden Network"
+  },
+  {
+    "firstName": "Konstantin",
+    "lastName": "Kladko",
+    "link": "https://twitter.com/stan_kladko",
+    "picture": "images/speakers_2020/Konstantin_Kladko.jpg",
+    "company": "Skale Network"
+  },
+  {
+    "firstName": "Tomasz",
+    "lastName": "STANCZAK",
+    "link": "https://www.linkedin.com/in/tomaszkajetanstanczak/; @tkstanczak",
+    "picture": "images/speakers_2020/Tomasz_Stanczak.jpg",
+    "company": "Nethermind"
+  },
+  {
+    "firstName": "Vadim",
+    "lastName": "Koleoshkin",
+    "link": "https://twitter.com/rockfridrich",
+    "picture": "images/speakers_2020/Vadim_Koleoshkin.jpg",
+    "company": "Zerion"
+  },
+  {
+    "firstName": "Jordi",
+    "lastName": "Baylina",
+    "link": "https://twitter.com/jbaylina",
+    "picture": "images/speakers_2020/Jordi_Baylina.jpg",
+    "company": "IDEN3"
+  },
+  {
+    "firstName": "Clément",
+    "lastName": "LESAEGE",
+    "link": "https://twitter.com/clesaege",
+    "picture": "images/speakers_2020/Clement_Lesaege.jpg",
+    "company": "Kleros"
+  },
+   {
+    "firstName": "Federico",
+    "lastName": "AST",
+    "link": "https://twitter.com/federicoast",
+    "picture": "images/speakers_2020/Federico_Ast.jpg",
+    "company": "Kleros"
+  },
+   {
+    "firstName": "Yalda",
+    "lastName": "Mousavinia",
+    "link": "https://twitter.com/stellarmagnet",
+    "picture": "images/speakers_2020/Yalda_Mousavinia.jpg",
+    "company": "Autark"
+  },
+   {
+    "firstName": "Friederike",
+    "lastName": "Ernst",
+    "link": "https://twitter.com/tw_tter",
+    "picture": "images/speakers_2020/Friederike_Ernst.jpg",
+    "company": "Gnosis / Epicenter"
+  },
+ ]
