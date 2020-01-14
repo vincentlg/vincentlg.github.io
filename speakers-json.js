@@ -449,9 +449,9 @@ var speakers = [
   },
   {
     "firstName": "Kelsos",
-    "lastName": "PAPARAS",
+    "lastName": "PAparas",
     "link": "https://twitter.com/kelsos86",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Kelsos_Paparas.jpg",
     "company": "Raiden Network"
   },
   {
