@@ -416,7 +416,7 @@ var speakers = [
     "firstName": "Eric",
     "lastName": "Tu",
     "link": "https://twitter.com/erktu",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Eric_Tu.jpeg",
     "company": "Chainsafe Systems"
   },
   {
