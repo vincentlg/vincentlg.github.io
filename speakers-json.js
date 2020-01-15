@@ -510,4 +510,88 @@ var speakers = [
     "picture": "images/speakers_2020/Friederike_Ernst.jpg",
     "company": "Gnosis / Epicenter"
   },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Massart",
+    "link": "https://www.linkedin.com/in/massartnicolas/",
+    "picture": "images/speakers_2020/Nicolas_Massart.jpg",
+    "company": "ConsenSys / Pegasys"
+  },
+  {
+    "firstName": "Léonard",
+    "lastName": "Lys",
+    "link": "https://www.linkedin.com/in/leonard-lys-0033a486/",
+    "picture": "images/speakers_2020/Leonard_Lys.jpg",
+    "company": "PALO IT / LIP6 Sorbonne Université"
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Kukka",
+    "link": "https://www.linkedin.com/in/elizabethkukka/",
+    "picture": "images/speakers_2020/Elizabeth_Kukka.jpg",
+    "company": "Ethereum Classic Labs"
+  },
+  {
+    "firstName": "Shayan",
+    "lastName": "Eskandari",
+    "link": "https://shayan.es",
+    "picture": "images/speakers_2020/Shayan_Eskandari.jpg",
+    "company": "ConsenSys Diligence / Concordia University"
+  },
+  {
+    "firstName": "Joran",
+    "lastName": "Honig ",
+    "link": "https://twitter.com/JoranHonig",
+    "picture": "images/speakers_2020/Joran_Honig.png",
+    "company": "ConsenSys"
+  },
+  {
+    "firstName": "Souradeep",
+    "lastName": "Das",
+    "link": "https://www.linkedin.com/in/souradeep-das/",
+    "picture": "images/speakers_2020/Souradeep_Das.jpeg",
+    "company": "Next Tech Lab"
+  },
+  {
+    "firstName": "Felipe",
+    "lastName": "Faraggi",
+    "link": "https://twitter.com/felipefaraggi",
+    "picture": "images/speakers_2020/Felipe_Faraggi.jpeg",
+    "company": "Pegasys"
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Williams",
+    "link": "https://twitter.com/onewayfunction",
+    "picture": "images/speakers_2020/Austin_Williams.jpeg",
+    "company": "OpenZeppelin"
+  },
+  {
+    "firstName": "Zhivko",
+    "lastName": "Todorov",
+    "link": "https://www.linkedin.com/in/zhivko-todorov/",
+    "picture": "images/speakers_2020/Todorov_Zhvko.jpeg",
+    "company": "LimeChain"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Leupold ",
+    "link": "https://twitter.com/fleupold_",
+    "picture": "images/speakers_2020/Leupold_Felix.jpg",
+    "company": "Gnosis"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Lucsok",
+    "link": "https://twitter.com/ph_lux",
+    "picture": "images/speakers_2020/Phil_Lucsok.jpg",
+    "company": "Parity Technologies"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Petrowski",
+    "link": "https://www.linkedin.com/in/joe-petrowski-73538929/",
+    "picture": "images/speakers_2020/Joe_Petrowski.png",
+    "company": "Parity Technologies"
+  },
  ]
