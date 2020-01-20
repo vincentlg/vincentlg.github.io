@@ -527,7 +527,7 @@ var speakers = [
   {
     "firstName": "Elizabeth",
     "lastName": "Kukka",
-    "link": "https://www.linkedin.com/in/elizabethkukka/",
+    "link": "https://twitter.com/Venture_This",
     "picture": "images/speakers_2020/Elizabeth_Kukka.jpg",
     "company": "Ethereum Classic Labs"
   },
@@ -593,5 +593,82 @@ var speakers = [
     "link": "https://www.linkedin.com/in/joe-petrowski-73538929/",
     "picture": "images/speakers_2020/Joe_Petrowski.png",
     "company": "Parity Technologies"
+  },
+    {
+    "firstName": "Vidal",
+    "lastName": "Chriqui ",
+    "link": "https://twitter.com/vidal007",
+    "picture": "images/speakers_2020/Vidal_Chriqui.jpg",
+    "company": "BTU Protocol"
+  },
+    {
+    "firstName": "Gorka",
+    "lastName": "Irazoqui",
+    "link": "https://twitter.com/irazok",
+    "picture": "images/speakers_2020/Gorka_Irazoqui.jpg",
+    "company": "Witnet Foundation"
+  },
+    {
+    "firstName": "Patrick",
+    "lastName": "Mccorry",
+    "link": "https://twitter.com/paddypisa",
+    "picture": "images/speakers_2020/Patrick_Mccorry.jpg",
+    "company": "PISA Research"
+  },
+    {
+    "firstName": "Daniel",
+    "lastName": "Robinson",
+    "link": "https://twitter.com/danrobinson",
+    "picture": "images/speakers_2020/Dan_Robinson.jpg",
+    "company": "Paradigm"
+  },
+    {
+    "firstName": "Aditya",
+    "lastName": "Asgaonkar",
+    "link": "https://twitter.com/adiasg",
+    "picture": "images/speakers_2020/Asgaonkar_Aditya.jpg",
+    "company": "Ethereum Foundation"
+  },
+    {
+    "firstName": "Petar",
+    "lastName": "Jursic",
+    "link": "https://twitter.com/petheth",
+    "picture": "images/speakers_2020/Petar_Jursik.png",
+    "company": "MetaCartel"
+  },
+    {
+    "firstName": "William",
+    "lastName": "George",
+    "link": "https://twitter.com/williamhwgeorge",
+    "picture": "images/speakers_2020/William_George.jpg",
+    "company": "Kleros Cooperative"
+  },
+    {
+    "firstName": "Jonathan",
+    "lastName": "Wolff",
+    "link": "https://isentropy.com/",
+    "picture": "images/speakers_2020/Jonathan_Wolff.jpg",
+    "company": "Streamr"
+  },
+    {
+    "firstName": "Shiv",
+    "lastName": "Malik",
+    "link": "https://twitter.com/shivmalik",
+    "picture": "images/speakers_2020/Shiv_Malik.jpg",
+    "company": "Streamr"
+  },
+    {
+    "firstName": "Silur",
+    "lastName": " ",
+    "link": "",
+    "picture": "images/speakers_2020/Silur.jpg",
+    "company": "Algorand, Monero Research"
+  },
+  {
+    "firstName": "Thibaut",
+    "lastName": "Sahaghian ",
+    "link": "https://twitter.com/fujisaha",
+    "picture": "images/speakers_2020/Thibaut_Sahaghian.jpg",
+    "company": "Multis"
   },
  ]
