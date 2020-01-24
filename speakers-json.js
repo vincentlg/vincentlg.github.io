@@ -174,6 +174,20 @@ var speakers = [
     "picture": "images/speakers_2020/Kazuaki_Ishiguro.jpg",
     "company": "Couger"
   },
+   {
+    "firstName": "Vlad",
+    "lastName": "Zamfir",
+    "link": "https://twitter.com/VladZamfir",
+    "picture": "images/speakers_2020/Vlad_Zamfir.png",
+    "company": "Ethereum Foundation"
+  },
+    {
+    "firstName": "Wang",
+    "lastName": "Hsiao-Wei",
+    "link": "https://twitter.com/icebearhww",
+    "picture": "images/speakers_2020/Wang_Hsiao.jpg",
+    "company": "Ethereum Foundation"
+  },
      {
     "firstName": "Anastasia",
     "lastName": "Andrianova ",
@@ -670,5 +684,355 @@ var speakers = [
     "link": "https://twitter.com/fujisaha",
     "picture": "images/speakers_2020/Thibaut_Sahaghian.jpg",
     "company": "Multis"
+  },
+   {
+    "firstName": "Mel",
+    "lastName": "Gelderman",
+    "link": "https://twitter.com/MelGelderman",
+    "picture": "images/speakers_2020/Mel_Gelderman.jpg",
+    "company": "Monolith"
+  },
+   {
+    "firstName": "Chriss",
+    "lastName": "Sugg",
+    "link": "https://www.linkedin.com/in/suggchriss/",
+    "picture": "images/speakers_2020/Chriss_Sugg.jpg",
+    "company": "Coinbase"
+  },
+   {
+    "firstName": "Seven",
+    "lastName": "Waterhouse",
+    "link": "https://twitter.com/deseventral",
+    "picture": "images/speakers_2020/Seven_Waterhouse.jpg",
+    "company": "Orchid"
+  },
+   {
+    "firstName": "Mike",
+    "lastName": "Barrow",
+    "link": "https://www.linkedin.com/in/barrowmike/",
+    "picture": "images/speakers_2020/Mike_Barrow.jpg",
+    "company": "OpenVino"
+  },
+   {
+    "firstName": "Brantly",
+    "lastName": "Millegan",
+    "link": "https://twitter.com/BrantlyMillegan",
+    "picture": "images/speakers_2020/Brantly_Millegan.png",
+    "company": "Ethereum Name Service"
+  },
+   {
+    "firstName": "Mathias",
+    "lastName": "Baumann",
+    "link": "https://twitter.com/M4renz",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Ethereum Foundation"
+  },
+   {
+    "firstName": "Daniel",
+    "lastName": "Luca",
+    "link": "https://twitter.com/cleanunicorn",
+    "picture": "images/speakers_2020/Daniel_Luca.jpg",
+    "company": "ConsenSys Diligence"
+  },
+   {
+    "firstName": "Badri",
+    "lastName": "Natarajan ",
+    "link": "https://twitter.com/NatarajanBadri",
+    "picture": "images/speakers_2020/Natarajan_Badri.jpg",
+    "company": "Lawyer"
+  },
+   {
+    "firstName": "Lasse",
+    "lastName": "Clausen",
+    "link": "https://twitter.com/lalleclausen",
+    "picture": "images/speakers_2020/Lasse_Clausen.jpg",
+    "company": "1kx"
+  },
+   {
+    "firstName": "Willem",
+    "lastName": "Van Den Brandeler",
+    "link": "https://www.linkedin.com/in/willemvandenbrandeler/",
+    "picture": "images/speakers_2020/Willem_Van_Den_Brandeler.jpg",
+    "company": "Chainalysis"
+  },
+   {
+    "firstName": "Sonja",
+    "lastName": "Prstec",
+    "link": "https://www.linkedin.com/in/sonja-prstec-mag-iur-89a0b324/",
+    "picture": "images/speakers_2020/Sonja_Prstec.jpg",
+    "company": "Web 3.0 Technologies Foundation"
+  },
+   {
+    "firstName": "Alex",
+    "lastName": "Gluchowski",
+    "link": "https://twitter.com/gluk64",
+    "picture": "images/speakers_2020/Alex_Gluchowski.jpg",
+    "company": "Matter Labs"
+  },
+   {
+    "firstName": "Patrick",
+    "lastName": "Ventuzelo",
+    "link": "https://twitter.com/Pat_ventuzelo",
+    "picture": "images/speakers_2020/Ventuzelo_Patrick.png",
+    "company": "Webassembly Security"
+  },
+   {
+    "firstName": "Markus",
+    "lastName": "Franke",
+    "link": "https://www.linkedin.com/in/markus-f-82242028/",
+    "picture": "images/speakers_2020/Franke_Markus.jpg",
+    "company": "C Labs, working on Celo"
+  },
+   {
+    "firstName": "Claudia",
+    "lastName": "Bartoli Duncan",
+    "link": "https://twitter.com/ClaudiaBartoli9",
+    "picture": "images/speakers_2020/Claudia_Bartoli.jpg",
+    "company": "Witnet Foundation"
+  },
+   {
+    "firstName": "Frederik",
+    "lastName": "Haga",
+    "link": "https://twitter.com/hagaetc",
+    "picture": "images/speakers_2020/Fredrik_Haga.jpg",
+    "company": "Dune Analytics"
+  },
+   {
+    "firstName": "Adán",
+    "lastName": "Sánchez De Pedro Crespo",
+    "link": "https://twitter.com/asedepece",
+    "picture": "images/speakers_2020/Adan_Sanchez.jpg",
+    "company": "Witnet Foundation"
+  },
+   {
+    "firstName": "Robert",
+    "lastName": "Kiel",
+    "link": "https://www.linkedin.com/in/robert-kiel-176878161/?locale=en_US",
+    "picture": "images/speakers_2020/Robert_Kiel.jpg",
+    "company": "HOPR.network"
+  },
+   {
+    "firstName": "François-René",
+    "lastName": "Rideau",
+    "link": "https://twitter.com/phanaero",
+    "picture": "images/speakers_2020/François_René_Rideau.jpg",
+    "company": "Mutual Knowledge Systems"
+  },
+   {
+    "firstName": "Richard",
+    "lastName": "Meissner",
+    "link": "https://www.linkedin.com/in/richard-meissner/",
+    "picture": "images/speakers_2020/Richard_Meissner.jpg",
+    "company": "Safe Gnosis"
+  },
+   {
+    "firstName": "Tobias",
+    "lastName": "Schubotz",
+    "link": "https://twitter.com/tschubotz",
+    "picture": "images/speakers_2020/Tobias_Schubotz.png",
+    "company": "Gnosis"
+  },
+   {
+    "firstName": "Juuso",
+    "lastName": "Takalainen",
+    "link": "https://www.linkedin.com/in/jtakalainen?originalSubdomain=fi",
+    "picture": "images/speakers_2020/Juuso_Takalainen.jpg",
+    "company": "Streamr"
+  },
+   {
+    "firstName": "Ece",
+    "lastName": "Belgin",
+    "link": "https://twitter.com/BitcoinKralice",
+    "picture": "images/speakers_2020/Belgin_Ece.jpg",
+    "company": "ETHIstanbul "
+  },
+   {
+    "firstName": "Julien",
+    "lastName": "Bouteloup",
+    "link": "https://twitter.com/bneiluj",
+    "picture": "images/speakers_2020/Julien_Bouteloup.jpg",
+    "company": "Stake DAO by Stake Capital"
+  },
+   {
+    "firstName": "Vaibhav",
+    "lastName": "Chellani",
+    "link": "https://twitter.com/vaibhavchellani",
+    "picture": "images/speakers_2020/Chellani_Vaibhav.jpg",
+    "company": "Matic Network"
+  },
+   {
+    "firstName": "Alex",
+    "lastName": "Masmejean ",
+    "link": "https://twitter.com/alexmasmej",
+    "picture": "images/speakers_2020/Alex_Masmejean.jpg",
+    "company": "MetaCartel"
+  },
+   {
+    "firstName": "Arnaud",
+    "lastName": "Grunthaler",
+    "link": "https://www.linkedin.com/in/arnaudgrunthaler/",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "FIELDFISHER"
+  },
+   {
+    "firstName": "Jason",
+    "lastName": "Goldberg",
+    "link": "https://twitter.com/betashop",
+    "picture": "images/speakers_2020/Jason_Goldberg.png",
+    "company": "Pepo"
+  },
+   {
+    "firstName": "Gregory",
+    "lastName": "Markou",
+    "link": "https://twitter.com/gregthegreek/",
+    "picture": "images/speakers_2020/Gregory_Markou.png",
+    "company": "ChainSafe Systems"
+  },
+   {
+    "firstName": "Nick",
+    "lastName": "Dodson",
+    "link": "https://twitter.com/iamnickdodson",
+    "picture": "images/speakers_2020/Dodson_Nick.png",
+    "company": "Fuel"
+  },
+   {
+    "firstName": "Marko",
+    "lastName": "Baricevic",
+    "link": "https://twitter.com/MarkoBaricevic",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Cosmos"
+  },
+   {
+    "firstName": "James",
+    "lastName": "Pitts",
+    "link": "https://twitter.com/jemenger",
+    "picture": "images/speakers_2020/James_Pitts.jpg",
+    "company": "EF and EthMagicians"
+  },
+   {
+    "firstName": "Guy-Louis",
+    "lastName": "Grau",
+    "link": "https://twitter.com/glgrau",
+    "picture": "images/speakers_2020/Guy_Louis_Grau.png",
+    "company": "Status"
+  },
+   {
+    "firstName": "Clark",
+    "lastName": "Jonjon",
+    "link": "https://twitter.com/jonjonclark",
+    "picture": "images/speakers_2020/Clark_Jonjon.jpg",
+    "company": "Wildcards"
+  },
+   {
+    "firstName": "Philippe",
+    "lastName": "Métais ",
+    "link": " ",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Blockchain Partner"
+  },
+   {
+    "firstName": "Kosala",
+    "lastName": "Hemachandra",
+    "link": "https://twitter.com/kvhnuke",
+    "picture": "images/speakers_2020/Kosala_Hemachandra.jpg",
+    "company": "MEW (MyEtherWallet)"
+  },
+   {
+    "firstName": "Won",
+    "lastName": "Kim",
+    "link": "https://www.linkedin.com/in/kimwon/",
+    "picture": "images/speakers_2020/Kim_Won.jpg",
+    "company": "ESCE Mastère Spécialisé Blockchain Project Design"
+  },
+   {
+    "firstName": "Dan",
+    "lastName": "Guido",
+    "link": "https://twitter.com/dguido",
+    "picture": "images/speakers_2020/Dan_Guido.jpg",
+    "company": "Trail of Bits"
+  },
+   {
+    "firstName": "Vincent",
+    "lastName": "Le Gallic",
+    "link": "https://twitter.com/vincentLg",
+    "picture": "images/speakers_2020/Vincent_Le_Gallic.jpg",
+    "company": "Rockside"
+  },
+   {
+    "firstName": "Cassidy",
+    "lastName": "Daly",
+    "link": "https://twitter.com/cassidydaly",
+    "picture": "images/speakers_2020/Daly_Cassidy.png",
+    "company": "Centrifuge"
+  },
+   {
+    "firstName": "Jean-Yves",
+    "lastName": "Zie",
+    "link": "https://twitter.com/JYSquall",
+    "picture": "images/speakers_2020/Jean_Yves_Zie.jpg",
+    "company": "INSA/Orange Labs"
+  },
+   {
+    "firstName": "Charles",
+    "lastName": "Guillemet",
+    "link": "https://twitter.com/P3b7_",
+    "picture": "images/speakers_2020/Charles_Guillemet.jpg",
+    "company": "Ledger"
+  },
+   {
+    "firstName": "Peter",
+    "lastName": "Eulberg",
+    "link": "https://www.linkedin.com/in/eulberg/",
+    "picture": "images/speakers_2020/Peter_Eulberg.jpg",
+    "company": "Anyblock Analytics"
+  },
+   {
+    "firstName": "Oliver",
+    "lastName": "Beige",
+    "link": "https://twitter.com/oliverbeige",
+    "picture": "images/speakers_2020/Oliver_Beige.jpg",
+    "company": "Polycentric"
+  },
+   {
+    "firstName": "Romain",
+    "lastName": "Rouphael",
+    "link": "https://twitter.com/romain_rouphael",
+    "picture": "images/speakers_2020/Romain_Rouphael.jpg",
+    "company": "ITŌ"
+  },
+   {
+    "firstName": "Victor",
+    "lastName": "Baranov",
+    "link": "https://twitter.com/vbaranov",
+    "picture": "images/speakers_2020/Victor_Baranov.jpg",
+    "company": "POA Network"
+  },
+   {
+    "firstName": "Jenna",
+    "lastName": "Zenk",
+    "link": "https://twitter.com/jennaszenk",
+    "picture": "images/speakers_2020/Jenna_Zenk.jpg",
+    "company": "Melon Council / Avantgarde Finance"
+  },
+   {
+    "firstName": "Ethereum Magicians",
+    "lastName": "",
+    "link": "https://twitter.com/EthMagicians",
+    "picture": "images/speakers_2020/Ethereum_Magicians.png",
+    "company": " "
+  },
+   {
+    "firstName": "Alex",
+    "lastName": "Stokes",
+    "link": "https://twitter.com/ralexstokes",
+    "picture": "images/speakers_2020/Alex_Stokes.png",
+    "company": "Ethereum Foundation"
+  },
+   {
+    "firstName": "Cameron",
+    "lastName": "Robertson",
+    "link": "https://twitter.com/ccamrobertson",
+    "picture": "images/speakers_2020/Cameron_Robertson .jpg",
+    "company": "Kong Cash"
   },
  ]
