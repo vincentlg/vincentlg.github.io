@@ -850,7 +850,7 @@ var speakers = [
     "firstName": "Arnaud",
     "lastName": "Grunthaler",
     "link": "https://www.linkedin.com/in/arnaudgrunthaler/",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Arnaud_Grunthaler.jpg",
     "company": "FIELDFISHER"
   },
    {
