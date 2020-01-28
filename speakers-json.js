@@ -1389,7 +1389,7 @@ var speakers = [
     "firstName": "Jim",
     "lastName": "Zhang",
     "link": "https://twitter.com/kaleido_io",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Jim_ZHANG.jpeg",
     "company": "Kaleido"
   },
   {
