@@ -703,7 +703,7 @@ var speakers = [
     "firstName": "Mathias",
     "lastName": "Baumann",
     "link": "https://twitter.com/M4renz",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Mathias_BAUMANN.jpeg",
     "company": "Ethereum Foundation"
   },
    {
@@ -878,7 +878,7 @@ var speakers = [
     "firstName": "Marko",
     "lastName": "Baricevic",
     "link": "https://twitter.com/MarkoBaricevic",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Marko-Baricevic.jpg",
     "company": "Cosmos"
   },
    {
@@ -906,7 +906,7 @@ var speakers = [
     "firstName": "Philippe",
     "lastName": "Métais ",
     "link": " ",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Philippe_Metais.png",
     "company": "Blockchain Partner"
   },
    {
@@ -1018,7 +1018,7 @@ var speakers = [
     "firstName": "Nicholas",
     "lastName": "Rodrigues Lordello",
     "link": " ",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Nicholas_Lordello.jpeg",
     "company": "Gnosis Service GmbH"
   },
   {
@@ -1074,7 +1074,7 @@ var speakers = [
     "firstName": "Ronan",
     "lastName": "Sandford ",
     "link": "https://twitter.com/wighawag",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Ron-Sandford.jpg",
     "company": "Etherplay"
   },
   {
@@ -1088,7 +1088,7 @@ var speakers = [
     "firstName": "Kristoffer",
     "lastName": "Naerland ",
     "link": "https://twitter.com/TrustlinesFound",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Kristoffer_Naerland.jpg",
     "company": "Trustlines Network"
   },
   {
@@ -1284,7 +1284,7 @@ var speakers = [
     "firstName": "Megan",
     "lastName": "Knab",
     "link": "https://twitter.com/knotmegan",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Megan_KNAB.jpeg",
     "company": "VeriLedger"
   },
   {
@@ -1333,7 +1333,7 @@ var speakers = [
     "firstName": "Jack",
     "lastName": "O’Holleran",
     "link": "https://twitter.com/SkaleNetwork",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Jack_O_Holleran.jpg",
     "company": "SKALE Network"
   },
   {
