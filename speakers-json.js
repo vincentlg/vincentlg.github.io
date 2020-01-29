@@ -1017,13 +1017,8 @@ var speakers = [
   {
     "firstName": "Nicholas",
     "lastName": "Rodrigues Lordello",
-<<<<<<< HEAD
-    "link": " ",
-    "picture": "images/speakers_2020/Nicholas_Lordello.jpeg",
-=======
     "link": "",
     "picture": "images/speakers_2020/ETH-final.png",
->>>>>>> nicholas link
     "company": "Gnosis Service GmbH"
   },
   {
