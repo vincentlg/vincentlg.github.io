@@ -770,7 +770,7 @@ var speakers = [
     "company": "Witnet Foundation"
   },
    {
-    "firstName": "Frederik",
+    "firstName": "Fredrik",
     "lastName": "Haga",
     "link": "https://twitter.com/hagaetc",
     "picture": "images/speakers_2020/Fredrik_Haga.jpg",
