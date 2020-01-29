@@ -219,7 +219,7 @@ var speakers = [
   {
     "firstName": "Mara",
     "lastName": "Schmiedt",
-    "link": "https://twitter.com/marsbars",
+    "link": "https://twitter.com/_marsbars",
     "picture": "images/speakers_2020/mara_schmiedt.jpeg",
     "company": "ConsenSys"
   },
