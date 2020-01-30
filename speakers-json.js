@@ -1448,4 +1448,11 @@ var speakers = [
     "picture": "images/speakers_2020/Aleksander_Larsen.jpg",
     "company": "Axie Infinity"
   },
+  {
+    "firstName": "Helena",
+    "lastName": "Flack",
+    "link": "https://twitter.com/helsfoftroy",
+    "picture": "images/speakers_2020/Helena_Flack.jpeg",
+    "company": "Department of Decentralization - Ethereum Cat Herders"
+  },
  ]
