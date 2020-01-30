@@ -52,7 +52,7 @@
     },
     {
       "Nom": "Phil Lucsok",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Web3"
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "Nom": "Ethereum Magicians",
-      "Titre": "TBD - we are still finalising session, I will reach out to Bettina very soon but we will have 4 sessions",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Developer Tools"
     },
     {
@@ -114,12 +114,12 @@
     },
     {
       "Nom": "Frankie Pangilinan",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Developer Tools"
     },
     {
       "Nom": "Gregory Markou",
-      "Titre": "TBD (along the lines of) - Tooling for crosschain success",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Developer Tools"
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "Nom": "Vincent Le Gallic",
-      "Titre": "TBD",
+      "Titre": "Meta-Transaction, Pandora's box or weapon of mass adoption?",
       "Track": "Developer Tools"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "Nom": "Alex Beregszaszi",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Ethereum 2.0"
     },
     {
@@ -221,12 +221,12 @@
     },
     {
       "Nom": "Eric Tu",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Ethereum 2.0"
     },
     {
       "Nom": "Hsiao-Wei Wang",
-      "Titre": "TBD eth2 workshop",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Ethereum 2.0"
     },
     {
@@ -295,7 +295,7 @@
   "Gaming": [
     {
       "Nom": "Aleksander Leonard Larsen",
-      "Titre": "TBD",
+      "Titre": "Building a free to play to earn game - The story of Axie Infinity",
       "Track": "Gaming"
     },
     {
@@ -315,7 +315,7 @@
     },
     {
       "Nom": "Kyle Lu",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Gaming"
     },
     {
@@ -325,12 +325,12 @@
     },
     {
       "Nom": "Morten Rongaard",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Gaming"
     },
     {
       "Nom": "Ronan Sandford",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Gaming"
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "Nom": "Shaban Shaame",
-      "Titre": "Game assets tokenisation done right (TBD)",
+      "Titre": "Game assets tokenisation done right",
       "Track": "Gaming"
     }
   ],
@@ -367,7 +367,7 @@
     },
     {
       "Nom": "Jordi Baylina",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Privacy"
     },
     {
@@ -397,7 +397,7 @@
     },
     {
       "Nom": "Seven Waterhouse",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Privacy"
     },
     {
@@ -429,12 +429,12 @@
     },
     {
       "Nom": "Eli Ben Sasson",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Scalability"
     },
     {
       "Nom": "Franziska Heintel",
-      "Titre": "(TBD!) \"The rise of layer 2\"",
+      "Titre": "The rise of layer 2",
       "Track": "Scalability"
     },
     {
@@ -449,7 +449,7 @@
     },
     {
       "Nom": "Jack O’Holleran",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Scalability"
     },
     {
@@ -459,7 +459,7 @@
     },
     {
       "Nom": "Karl Floersch",
-      "Titre": "Optimistic Rollup: (TBD)",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Scalability"
     },
     {
@@ -484,7 +484,7 @@
     },
     {
       "Nom": "Sina Mahmoodi",
-      "Titre": "Exact TBD - Merkelizing EVM bytecode",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Scalability"
     },
     {
@@ -506,7 +506,7 @@
     },
     {
       "Nom": "Amy Jung",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "dApps / UX /UI"
     },
     {
@@ -576,7 +576,7 @@
     },
     {
       "Nom": "Stefan George",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "dApps / UX /UI"
     },
     {
@@ -638,7 +638,7 @@
     },
     {
       "Nom": "Matan Field",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Governance / DAO"
     },
     {
@@ -725,12 +725,12 @@
     },
     {
       "Nom": "Johann Eid",
-      "Titre": "TBD - Placeholder: Securely Connecting Smart Contracts to Off-chain Data and Events",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Security"
     },
     {
       "Nom": "Joran Honig",
-      "Titre": "TBD: Mutation Testing for Smart Contracts",
+      "Titre": "Mutation Testing for Smart Contracts",
       "Track": "Security"
     },
     {
@@ -777,7 +777,7 @@
     },
     {
       "Nom": "Ankit Chiplunkar",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Crypto Economics"
     },
     {
@@ -787,7 +787,7 @@
     },
     {
       "Nom": "Griff Green",
-      "Titre": "TBD",
+      "Titre": "Incentivizing Funding for Public Goods",
       "Track": "Crypto Economics"
     },
     {
@@ -812,7 +812,7 @@
     },
     {
       "Nom": "Petar Jursic",
-      "Titre": "TBD (crypto powered socioeconomic systems?)",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Crypto Economics"
     },
     {
@@ -924,7 +924,7 @@
     },
     {
       "Nom": "Lefteris Karapetsas",
-      "Titre": "TBD - But will be related to Rotki",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Decentralised Finance"
     },
     {
@@ -939,7 +939,7 @@
     },
     {
       "Nom": "Mara Schmiedt",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Decentralised Finance"
     },
     {
@@ -969,7 +969,7 @@
     },
     {
       "Nom": "Thomas Bertani",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Decentralised Finance"
     },
     {
@@ -991,7 +991,7 @@
   "Enterprise": [
     {
       "Nom": "Charles Guillemet",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Enterprise"
     },
     {
@@ -1041,7 +1041,7 @@
     },
     {
       "Nom": "Willem Van Den Brandeler",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Enterprise"
     },
     {
@@ -1112,7 +1112,7 @@
       "Track": "Blockchain for Good"
     },
     {
-      "Nom": "Rusitschka Sebnem",
+      "Nom": "Sebnem Rusitschka",
       "Titre": "Electraseed Fund - Decentralized Finance to Accelerate Access to Clean Energy in Global South & North",
       "Track": "Blockchain for Good"
     },
@@ -1122,21 +1122,11 @@
       "Track": "Blockchain for Good"
     }
   ],
-  "Other": [
+  "French Track": [
     {
-      "Nom": "Nomadic",
-      "Titre": "",
-      "Track": ""
-    },
-    {
-      "Nom": "Nomadic",
-      "Titre": "",
-      "Track": ""
-    },
-    {
-      "Nom": "Daniel A. Nagy",
-      "Titre": "",
-      "Track": ""
+      "Nom": "",
+      "Titre": "TO BE ANNOUNCED",
+      "Track": "French Track"
     }
   ]
 }
