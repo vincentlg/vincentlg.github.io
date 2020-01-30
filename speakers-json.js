@@ -1260,11 +1260,11 @@ var speakers = [
     "company": "Rabobank"
   },
   {
-    "firstName": "Manu",
+    "firstName": "Manuel Gonzalez",
     "lastName": "Alzuru",
     "link": "https://twitter.com/MarketingDAO",
-    "picture": "images/speakers_2020/Manu_Alzuru.jpg",
-    "company": "Marketing DAO"
+    "picture": "images/speakers_2020/Manuel_Alzuru.jpg",
+    "company": "Vocado Ventures / MarketingDAO"
   },
   {
     "firstName": "Raphael",
