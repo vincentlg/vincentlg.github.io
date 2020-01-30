@@ -219,7 +219,7 @@ var speakers = [
   {
     "firstName": "Mara",
     "lastName": "Schmiedt",
-    "link": "https://twitter.com/marsbars",
+    "link": "https://twitter.com/_marsbars",
     "picture": "images/speakers_2020/mara_schmiedt.jpeg",
     "company": "ConsenSys"
   },
@@ -770,7 +770,7 @@ var speakers = [
     "company": "Witnet Foundation"
   },
    {
-    "firstName": "Frederik",
+    "firstName": "Fredrik",
     "lastName": "Haga",
     "link": "https://twitter.com/hagaetc",
     "picture": "images/speakers_2020/Fredrik_Haga.jpg",
@@ -1017,8 +1017,8 @@ var speakers = [
   {
     "firstName": "Nicholas",
     "lastName": "Rodrigues Lordello",
-    "link": " ",
-    "picture": "images/speakers_2020/Nicholas_Lordello.jpeg",
+    "link": "",
+    "picture": "images/speakers_2020/ETH-final.png",
     "company": "Gnosis Service GmbH"
   },
   {
