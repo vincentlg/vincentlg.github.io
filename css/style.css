@@ -788,5 +788,58 @@ h1, h2, h3, h4, h5,
   width: 36px;
 }
 
+.track {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  background-color: #3f4046;
+  border-radius: 3px;
+  padding: 10px 0;
+  min-height: 30px;
+}
 
+.track .header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  margin-bottom: 20px;
+}
 
+.track .header .fas {
+  color: white;
+}
+
+.track .text-primary {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.track .content .speak {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: flex-start;
+  background-color: whitesmoke;
+  color: #3f4046;
+  margin: 25px;
+  padding: 20px;
+  transition: .3s;
+  border-radius: 3px;
+}
+
+.track .content .speak:hover {
+  transform: scale(1.02);
+  transition: .3s;
+}
+
+.track .content .speak h6 {
+  text-transform: uppercase;
+}
+
+.track .content .speak p {
+  margin: 0;
+  color: rgb(255, 87, 51);
+}

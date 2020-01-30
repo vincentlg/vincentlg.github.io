@@ -1,0 +1,1142 @@
+{
+  "Web3": [
+    {
+      "Nom": "Abbey Titcomb",
+      "Titre": "Towards decentralized alternatives for code collaboration",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Ben Livshits",
+      "Titre": "Making Web3 Real with Brave",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Christopher Shen",
+      "Titre": "Blockchain Name Service",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Dean Eigenman",
+      "Titre": "From Whisper to Waku",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Evan Van Ness",
+      "Titre": "The Ethereum Community in 2020",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Joel Oed",
+      "Titre": "Make your dapp a meeting point for your community",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Julien Genestoux",
+      "Titre": "Monetizing through Membership, rather than attention",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Marek Kirejczyk",
+      "Titre": "Develop faster and acquire more users using Universal Logins",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Moshe Malawach",
+      "Titre": "Decentralized application and devices with Aleph.IM and Ethereum",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Nicholas Rodrigues Lordello",
+      "Titre": "Type-safe Smart Contract Interactions From Rust",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Phil Lucsok",
+      "Titre": "TBD",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Richard Moore",
+      "Titre": "ethers.js - A compact, simple and complete Ethereum library",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Shiv Malik",
+      "Titre": "Monetizing Browsing Data with Swash",
+      "Track": "Web3"
+    },
+    {
+      "Nom": "Simona Pop",
+      "Titre": "Earn as you learn models for ecosystem development",
+      "Track": "Web3"
+    }
+  ],
+  "Developer Tools": [
+    {
+      "Nom": "Adán Sánchez De Pedro Crespo",
+      "Titre": "RADON: a domain-specific language for oracles",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Afri Schoedon",
+      "Titre": "Why you don't want to develop on Ropsten",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Bogdan Habic",
+      "Titre": "Fantastic metrics and where to find them",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Bruno Škvorc",
+      "Titre": "Building your own blockchain in under an hour",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Daniela Osorio",
+      "Titre": "“Become a Blockchain developer: No smart contracts required”",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Dennison Bertram",
+      "Titre": "Where we go from here- a year in Developer Advocacy",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Ethereum Magicians",
+      "Titre": "TBD - we are still finalising session, I will reach out to Bettina very soon but we will have 4 sessions",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "François-René Rideau",
+      "Titre": "Simple Formally Verified DApps—and not just Smart Contracts",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Frankie Pangilinan",
+      "Titre": "TBD",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Gregory Markou",
+      "Titre": "TBD (along the lines of) - Tooling for crosschain success",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Guy-Louis Grau",
+      "Titre": "Keycard: an open framework for smart cards in crypto",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Igor Barinov",
+      "Titre": "Arbitrary Message Bridge",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Jakub Konka",
+      "Titre": "gWasm - challenges in securing distributed marketplace in trustless environments",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Jonathan Wolff",
+      "Titre": "Setting up Ethereum Workflows with the Streamr Canvas",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Makoto Inoue",
+      "Titre": "ENS Beyond Ethereum",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Martin Lundfall",
+      "Titre": "Smart contracts as inductive systems",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Mathias Baumann & Erik Kundt",
+      "Titre": "What's new in Solidity",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Philipp Langhans",
+      "Titre": "Grid v2 - Ethereum Infrastructure as Code",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Richard Meissner",
+      "Titre": "Dapp proxy contracts - an overview",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Sean Brennan",
+      "Titre": "Infura Versus: tool for benchmarking Web3 providers (remote and local)",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Victor Baranov",
+      "Titre": "How to deploy and customize BlockScout blockchain explorer",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Vincent Le Gallic",
+      "Titre": "TBD",
+      "Track": "Developer Tools"
+    },
+    {
+      "Nom": "Zachary Cole",
+      "Titre": "Ethereum Protocol Development With Whiteblock Genesis",
+      "Track": "Developer Tools"
+    }
+  ],
+  "Ethereum 2.0": [
+    {
+      "Nom": "Aditya Asgaonkar",
+      "Titre": "Design Choices in Eth2.0",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Aditya Asgaonkar",
+      "Titre": "Cross-shard transactions",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Alex Beregszaszi",
+      "Titre": "TBD",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Alex Stokes",
+      "Titre": "Eth1 meets Eth2: forecasting the future",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Ayodeji Awosika",
+      "Titre": "Leveraging African population to growing Ethereum Developer ecosystem",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Christopher Goes",
+      "Titre": "Interblockchain Communication for Eth 2.0",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Eric Tu",
+      "Titre": "TBD",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Hsiao-Wei Wang",
+      "Titre": "TBD eth2 workshop",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Mehdi Zerouali",
+      "Titre": "Lighthouse: Road to Eth2 mainnet",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Mikerah Quintyne-Collins",
+      "Titre": "Validator Privacy in Eth2.0",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Vlad Zamfir",
+      "Titre": "Liveness in CBC Casper",
+      "Track": "Ethereum 2.0"
+    },
+    {
+      "Nom": "Will Villanueva",
+      "Titre": "Phase2 Update from Quilt",
+      "Track": "Ethereum 2.0"
+    }
+  ],
+  "Other Blockchains": [
+    {
+      "Nom": "Aidan Hyman",
+      "Titre": "lessons learnt from building blockchains",
+      "Track": "Other Blockchains"
+    },
+    {
+      "Nom": "Cassidy Daly",
+      "Titre": "The Gateway for Real-World Assets into the Blockchain Multiverse",
+      "Track": "Other Blockchains"
+    },
+    {
+      "Nom": "Claudia Bartoli Duncan",
+      "Titre": "Bridging non PoW/PoS sidechains with Ethereum",
+      "Track": "Other Blockchains"
+    },
+    {
+      "Nom": "Fabian Vogelsteller",
+      "Titre": "LUKSO - The Blockchain for new creative economies",
+      "Track": "Other Blockchains"
+    },
+    {
+      "Nom": "Jean Yves Zie",
+      "Titre": "Extending Atomic Swaps for Interoperability",
+      "Track": "Other Blockchains"
+    },
+    {
+      "Nom": "Marko Baricevic",
+      "Titre": "Rust smart contracts in Cosmos",
+      "Track": "Other Blockchains"
+    },
+    {
+      "Nom": "Peter Eulberg",
+      "Titre": "Overview of more than 15 Ethereum-based blockchains",
+      "Track": "Other Blockchains"
+    },
+    {
+      "Nom": "Romain Rouphael",
+      "Titre": "Bitcoin derivatives on the Lightning Network",
+      "Track": "Other Blockchains"
+    }
+  ],
+  "Gaming": [
+    {
+      "Nom": "Aleksander Leonard Larsen",
+      "Titre": "TBD",
+      "Track": "Gaming"
+    },
+    {
+      "Nom": "Drew Harding",
+      "Titre": "MetaFactory - Decentralizing the ownership of brand economies and sale of custom, digi-physical apparel",
+      "Track": "Gaming"
+    },
+    {
+      "Nom": "Gauthier Zuppinger",
+      "Titre": "Collectibles, Crypto-gaming, Non-fungible tokens: state of the economics",
+      "Track": "Gaming"
+    },
+    {
+      "Nom": "Jay Lee",
+      "Titre": "The limitation and potential of Blockchain/Ethereum game",
+      "Track": "Gaming"
+    },
+    {
+      "Nom": "Kyle Lu",
+      "Titre": "TBD",
+      "Track": "Gaming"
+    },
+    {
+      "Nom": "Matías Nisenson",
+      "Titre": "Break it till you make it! CryptoWars is now scalable!",
+      "Track": "Gaming"
+    },
+    {
+      "Nom": "Morten Rongaard",
+      "Titre": "TBD",
+      "Track": "Gaming"
+    },
+    {
+      "Nom": "Ronan Sandford",
+      "Titre": "TBD",
+      "Track": "Gaming"
+    },
+    {
+      "Nom": "Ryan Gittleson",
+      "Titre": "Trust and Transparency in Online Gaming",
+      "Track": "Gaming"
+    },
+    {
+      "Nom": "Sebastien Borget",
+      "Titre": "Empowering Creators with Blockchain and Non-Fungible Tokens",
+      "Track": "Gaming"
+    },
+    {
+      "Nom": "Shaban Shaame",
+      "Titre": "Game assets tokenisation done right (TBD)",
+      "Track": "Gaming"
+    }
+  ],
+  "Privacy": [
+    {
+      "Nom": "Alex Gluchowski",
+      "Titre": "Zinc: developer-friendly programming framework for zero-knowledge proofs",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Guy Zyskind",
+      "Titre": "Salad: Transactional Privacy on Ethereum with Enigma",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Harry Halpin",
+      "Titre": "Nym: How to decentralize network-level privacy using cryptoeconomics",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Jordi Baylina",
+      "Titre": "TBD",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Kazuaki Ishiguro",
+      "Titre": "C.R.E.A.M, zk-SNARK based protocol for public elections system”",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Kevin Jeong",
+      "Titre": "zk-DEX",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Laurence Kirk",
+      "Titre": "Overview of Zero Knowledge Proofs",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Philippe Métais",
+      "Titre": "Semaphore : Zero-Knowledge Signaling",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Robert Kiel",
+      "Titre": "HOPR as a metadata privacy foundation of the web3",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Seven Waterhouse",
+      "Titre": "TBD",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Tegan Kline",
+      "Titre": "Life, liberty and the pursuit of happiness — is tech taking away our liberty?",
+      "Track": "Privacy"
+    },
+    {
+      "Nom": "Thomas Piellard",
+      "Titre": "introducing gnark, a fast zero knowledge proof library",
+      "Track": "Privacy"
+    }
+  ],
+  "Scalability": [
+    {
+      "Nom": "Alex Gluchowski",
+      "Titre": "ZK Sync: user-centric approach to scalability with zero-knowledge proofs",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Alexey Akhunov",
+      "Titre": "Turbo-Geth and Stateless Ethereum",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Chellani Vaibhav",
+      "Titre": "State of rollups",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Eli Ben Sasson",
+      "Titre": "TBD",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Franziska Heintel",
+      "Titre": "(TBD!) \"The rise of layer 2\"",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Gorka Irazoqui",
+      "Titre": "Decentralized workload distribution with VRFs and algorithmic reputation systems",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Guillaume Ballet",
+      "Titre": "Scaling ethereum 1.x with WASM precompiles",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Jack O’Holleran",
+      "Titre": "TBD",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Jacob Czepluch &  Kelsos Paparas",
+      "Titre": "Hands on with Raiden and the Raiden Light Client",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Karl Floersch",
+      "Titre": "Optimistic Rollup: (TBD)",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Konstantin Kladko",
+      "Titre": "Running EVM on sidechains: five innovations",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Nick Dodson",
+      "Titre": "Fuel - A Trustless Scalable Sidechain",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Piper Merriam",
+      "Titre": "Stateless Ethereum",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Silur",
+      "Titre": "Scaling storage with fountain codes",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Sina Mahmoodi",
+      "Titre": "Exact TBD - Merkelizing EVM bytecode",
+      "Track": "Scalability"
+    },
+    {
+      "Nom": "Vaibhav Chellani",
+      "Titre": "Optimistic vs Zk Rollup",
+      "Track": "Scalability"
+    }
+  ],
+  "dApps / UX /UI": [
+    {
+      "Nom": "Alex Masmejean",
+      "Titre": "How I Tokenized Myself, Twice",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Alex Van De Sande",
+      "Titre": "Better UX through meta transactions – lessons from our experience building Universal Login",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Amy Jung",
+      "Titre": "TBD",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Ashleigh Schap",
+      "Titre": "Biz Dev 101: Strategies for Scaling",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Dennison Bertram",
+      "Titre": "#LoCoNoCo: How No-code and Lo-Code tools will take Ethereum mainstream",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Chriss Sugg",
+      "Titre": "The Savviness Scale: Designing for Next Wave of Ethereum Users",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Christian Reitwiessner",
+      "Titre": "Improving Wallet UX and Security through a Decentralized Metadata and Source Code Repository",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Clement Hugbo",
+      "Titre": "The Essentiality of Product Design Concepts with dApps",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Enrico Mariotti",
+      "Titre": "Blockchain as a Service product market fit",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Itamar Lesuisse & Julien Niset",
+      "Titre": "Smart contract wallets and mainstream adoption",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Jason Goldberg",
+      "Titre": "Designing ethereum user experiences for humans",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "John Crain",
+      "Titre": "A New Art Market",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Juuso Takalainen",
+      "Titre": "Adventures in Layer 2",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Kosala Hemachandra",
+      "Titre": "The state of Ethereum usability: UX design principles to shape crypto security practices for the better.",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Lukas Schor",
+      "Titre": "The next frontier for DeFi: How Multisigs will bring the next $1B to decentralized finance",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Sasha Tanase",
+      "Titre": "That never even crossed my mind! How to spot & fix your cognitive biases",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Stefan George",
+      "Titre": "TBD",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Theophile Villard",
+      "Titre": "Connecting Gasless Multisigs to Protocols",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Tobias Schubotz",
+      "Titre": "How popular are smart contract wallets, really?",
+      "Track": "dApps / UX /UI"
+    },
+    {
+      "Nom": "Tomasz Stanczak",
+      "Titre": "Ξ2DΦ",
+      "Track": "dApps / UX /UI"
+    }
+  ],
+  "Governance / DAO": [
+    {
+      "Nom": "Alex Masmejean & Manu Alzuru",
+      "Titre": "Marketing Ethereum with a new DAO",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Anastasia Andrianova",
+      "Titre": "Uncollateralized loans + DAOs: how to combine these?",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Bob Summerwill",
+      "Titre": "A call for an end to tribalism in Ethereum - 2 years later",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Clément Lesaege",
+      "Titre": "Proof Of Humanity, a Sybil-resistant list of humans",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Ethereum Cat Herders",
+      "Titre": "Growing the Herd: How You Can Contribute to Ethereum as a Cat Herder",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "James Pitts",
+      "Titre": "Magicians and Bureaucrats in the Ethereum Galaxy",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Jorge Izquierdo",
+      "Titre": "Subjective agreements for DAOs",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Julien Bouteloup",
+      "Titre": "The future of staking pools with Stake DAO by Stake Capital",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Matan Field",
+      "Titre": "TBD",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Megan Knab",
+      "Titre": "DAO Economics - Balance Sheet Considerations",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Phil Lucsok",
+      "Titre": "OpenEthereum: Transitioning Parity Ethereum to the community",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Tim Beiko",
+      "Titre": "Moving to an EIP-Centric Process: a retrospective",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Vlad Zamfir",
+      "Titre": "Permissionless Decentralization and The Law",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Yalda Mousavinia",
+      "Titre": "DAOs without established legal entities are too early to be practical",
+      "Track": "Governance / DAO"
+    },
+    {
+      "Nom": "Zhivko Todorov",
+      "Titre": "Revenue generation DAOs through bonding curves",
+      "Track": "Governance / DAO"
+    }
+  ],
+  "Security": [
+    {
+      "Nom": "Alexei Zamyatin",
+      "Titre": "The Nuts, Bolts and Impossibility of Trustless Cross-Chain Communication",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Bhargava Shastry",
+      "Titre": "Fuzzing the Solidity compiler",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Brianna Montgomery",
+      "Titre": "Preventing Disaster: Advances in Smart Contract Vulnerability Detection",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Cameron Robertson",
+      "Titre": "How we think about storing crypto is broken",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Damian Rusinek",
+      "Titre": "Web Apps vs Smart Contracts: tools, vulns and standards. Instroduction of SCSVS.",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Dan Guido",
+      "Titre": "Securing smart contracts with Crytic",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Daniel Luca",
+      "Titre": "Ether Wars Exploits Counter Exploits and Honeypots",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Gonçalo Sá",
+      "Titre": "Blockchain Security 101 for the VC track",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Gorka Irazoqui",
+      "Titre": "The case against using TEEs in your crypto project",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Joe Petrowski",
+      "Titre": "Sharded Security Model of Polkadot",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Johann Eid",
+      "Titre": "TBD - Placeholder: Securely Connecting Smart Contracts to Off-chain Data and Events",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Joran Honig",
+      "Titre": "TBD: Mutation Testing for Smart Contracts",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Patrick Mccorry",
+      "Titre": "Towards Self-Custody on Exchanges",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Patrick Ventuzelo",
+      "Titre": "Reversing eWasm contract 101",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Philipp Langhans",
+      "Titre": "Ethereum Flavored Packages",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Sergii Kravchenko",
+      "Titre": "Why do we Audit?",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Shayan Eskandari",
+      "Titre": "Transparent Dishonesty: front-running attacks on Blockchain",
+      "Track": "Security"
+    },
+    {
+      "Nom": "Souradeep Das",
+      "Titre": "Getting Started with Vyper",
+      "Track": "Security"
+    }
+  ],
+  "Crypto Economics": [
+    {
+      "Nom": "Ambre Soubiran",
+      "Titre": "VC Funding for Blockchain Startups",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Ambre Soubiran",
+      "Titre": "ETH Market Depth and Structure",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Ankit Chiplunkar",
+      "Titre": "TBD",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Christoph Jentzsch",
+      "Titre": "Incubed - a crypto-economic minimal verification client",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Griff Green",
+      "Titre": "TBD",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Lasse Clausen",
+      "Titre": "Token Maximalism",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Markus Franke",
+      "Titre": "Algorithmic Stablecoins",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Mike Barrow",
+      "Titre": "Openvino: tokenization, transparency, and traceability - an open-source winery in Argentina",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Oliver Beige",
+      "Titre": "Combinatorics and cryptoeconomics",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Petar Jursic",
+      "Titre": "TBD (crypto powered socioeconomic systems?)",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Quentin Issele",
+      "Titre": "Earning yield on crypto-assets with Staking",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Seyedehmahsa Moosavi",
+      "Titre": "Demystifying Stablecoins: Cryptography meets monetary policy",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Simona Pop",
+      "Titre": "Enabling opportunity and choice where there are none",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "Sonja Prstec",
+      "Titre": "Potential legal implications of Proof-of -stake based networks",
+      "Track": "Crypto Economics"
+    },
+    {
+      "Nom": "William George",
+      "Titre": "Schelling Games and the Theory of Voting Systems",
+      "Track": "Crypto Economics"
+    }
+  ],
+  "Decentralised Finance": [
+    {
+      "Nom": "Antoine Scalia",
+      "Titre": "Building a compliant and accounting-ready bookkeeping system for Decentralized Finance",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Arnaud Grunthaler",
+      "Titre": "\"New French regulatory framework for Digital Assets Services Providers",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Badri Natarajan",
+      "Titre": "Seven Deadly Sins: Managing Legal & Regulatory Risk in DeFi",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Christiane Ernst",
+      "Titre": "DEXs for a Multi-Token Future",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Daniel Robinson",
+      "Titre": "The Yield Protocol: On-Chain Lending with Interest Rate Discovery",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Deniz Omer",
+      "Titre": "The growth of DeFi as seen through on-chain data",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Felix Leupold",
+      "Titre": "Fair Price Finding In a Decentralized Exchange Economy",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Fredrik Haga",
+      "Titre": "DeFi adoption? Let's look at the numbers.",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Friederike Ernst",
+      "Titre": "A prediction market is not a prediction market is not a prediction market: A short taxonomy of prediction markets based on technological underpinnings",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Hayden Adams",
+      "Titre": "Uniswap V2",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Hugh Karp",
+      "Titre": "Managing Risk in DeFi",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Jacek Czarnecki",
+      "Titre": "Legal Troubleshooting for DeFi Projects: Data & Results",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Jenna Zenk",
+      "Titre": "Become a crypto fund manager on Melon",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Jonas Rubel",
+      "Titre": "Tokenizing the World of Sports by Leaving Blockchain Behind",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Justin Ahn",
+      "Titre": "Shifting from \"Equity\" to \"Shared Value Agreements\"",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Kristoffer Naerland",
+      "Titre": "People Powered Money on the Trustlines Network",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Lefteris Karapetsas",
+      "Titre": "TBD - But will be related to Rotki",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Léonard Lys",
+      "Titre": "Three way atomic cross chain swap",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Lu Hua",
+      "Titre": "Using Conditional Tokens",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Mara Schmiedt",
+      "Titre": "TBD",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Maxime Bucaille",
+      "Titre": "DeFi and the state of Decentralized Exchanges",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Mel Gelderman",
+      "Titre": "The New Economic Paradigm",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Mounir Benchemled",
+      "Titre": "How aggregation will improve liquidity on DEXs",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Stani Kulechov",
+      "Titre": "Rehypothecation in DeFi - When Locking Assets is Not Enough",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Thibaut Sahaghian",
+      "Titre": "Building the future of business banking with crypto",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Thomas Bertani",
+      "Titre": "TBD",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Tomasz Kajetan Stanczak",
+      "Titre": "Nethermind Data Marketplace for DeFi",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Vadim Koleoshkin",
+      "Titre": "Returns of Hodling versus DeFi-ing",
+      "Track": "Decentralised Finance"
+    },
+    {
+      "Nom": "Will Harborne",
+      "Titre": "Scaling a DEX with Zero-Knowledge Proofs",
+      "Track": "Decentralised Finance"
+    }
+  ],
+  "Enterprise": [
+    {
+      "Nom": "Charles Guillemet",
+      "Titre": "TBD",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Elizabeth Kukka",
+      "Titre": "Interoperability and multi-faceted Enterprise solutions",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Frederico Ast",
+      "Titre": "Layer 2 for Dapps: When Decentralized Protocols Meet the Real World",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Felipe Faraggi",
+      "Titre": "Onchain and Offchain Permissionining with Besu",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Jim Zhang",
+      "Titre": "Demystifying Consensus Algorithms for Enterprise Blockchain",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Lukas Schor",
+      "Titre": "Self-custodial enterprises: Secure digital asset management for corporations",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Nicolas Massart",
+      "Titre": "Closing the enterprise feedback loop",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Pedro Lopez-Belmonte",
+      "Titre": "Ethereum, privacy and Enterprise Blockchain Solutions",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Tyrone Lobban",
+      "Titre": "Using Quorum for Enterprise Environments",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Vidal Chriqui",
+      "Titre": "How to embed crypto incentive in your entreprise process ? Example with cruise booking",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Willem Van Den Brandeler",
+      "Titre": "TBD",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "William O'Rorke",
+      "Titre": "How to talk with a regulator?",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Won Kim",
+      "Titre": "Creating the first Master's of Blockchain Project Design in France",
+      "Track": "Enterprise"
+    },
+    {
+      "Nom": "Xavier Lavayssière",
+      "Titre": "Architectural design of institutional digital currencies",
+      "Track": "Enterprise"
+    }
+  ],
+  "Blockchain for Good": [
+    {
+      "Nom": "Clark Jonjon",
+      "Titre": "Using NFT's and radical economics to save animals",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "Dave Appleton",
+      "Titre": "Is the US Dollar or volatile crypto really the best store of value for international social enterprise projects?",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "Ece Belgin",
+      "Titre": "Cryptocurrency Adoption in Developing Countries",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "Eitan Lavi",
+      "Titre": "Web3.0: Transforming the Human Web from 0 to a 1 Sum Game",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "Ferit Tunçer",
+      "Titre": "Trustless Translation Freelancing",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "José Almeida",
+      "Titre": "BNDESToken: Increasing trust and compliance in Brazilian public money allocation",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "Maria Mateo Iborra",
+      "Titre": "IBISA enabling the new generation of insurance for agriculture harnessing earth observation data and blockchain",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "Marnix Van Den Bent",
+      "Titre": "Breaking down data silo's with Self-Sovereign Identity",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "Matheus Alencar",
+      "Titre": "Generalized Token Curated Registries: fighting corruption, fake news and beyond.",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "Raphaël Mazet",
+      "Titre": "Impact Delivery Agreements: a new protocol for investable bounties",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "Rusitschka Sebnem",
+      "Titre": "Electraseed Fund - Decentralized Finance to Accelerate Access to Clean Energy in Global South & North",
+      "Track": "Blockchain for Good"
+    },
+    {
+      "Nom": "Shimon Newman",
+      "Titre": "Blockchain protocols for repatriation of stolen assets",
+      "Track": "Blockchain for Good"
+    }
+  ],
+  "Other": [
+    {
+      "Nom": "Nomadic",
+      "Titre": "",
+      "Track": ""
+    },
+    {
+      "Nom": "Nomadic",
+      "Titre": "",
+      "Track": ""
+    },
+    {
+      "Nom": "Daniel A. Nagy",
+      "Titre": "",
+      "Track": ""
+    }
+  ]
+}
