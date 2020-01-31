@@ -1419,10 +1419,10 @@
     },
     {
       "Nom": "Patrick Mccorry",
-      "Titre": "Towards Self-Custody on Exchanges",
+      "Titre": "Why meta-transactions in ETH 1.0 suck and what we can do about it",
       "Track": "Security",
       "Category": "Talk",
-      "Abstract": "When most folk hear about off-chain protocols, the immediately think about how to scale cryptocurrencies. But that is the wrong narrative and in fact it should be around self-custody, such that as a user, you can visit any online service provider (or exchange) and maintain self-custody of your funds. There are two ways to achieve self-custody, channels and commitchains, but both have their problems. While channels provide instant redeemability of funds, you need to temporarily provide a service provider some \"some\" custody (or rely on micropayments). Whereas commitchains provide eventual redeemability of funds such that the transaction can be censored or reversed for a short period of time. We explore both in terms of self-custody of funds and how it can be achieved."
+      "Abstract": "Meta-transactions are useful when someone else (a relayer) can pay the gas fee on a user's behalf. It is promoted as a great mechanism for on-boarding new users, helping others transfer ERC20 tokens or just to play around with Tornado cash. We have spent the past few months building, any.sender & any.watcher, a financially accountable meta-transaction relayer. Its USP is a smart-contract enforced quality of service or your money back.  Along the way, we have faced hurdle after hurdle after hurdle to get it up and running, thanks to a dash of wizardry, unicorns and star-alignment. However 99% of the problems faced are fundamental due to the limitations in ETH 1.0 that can  easily be addressed in ETH 2.0. We'll take this opportunity to talk about why meta-transactions are useful, the any.sender design, and what really needs to be fixed in ETH 2.0 to ensure meta-transactions become a native-primitive of the eco-system."
     },
     {
       "Nom": "Patrick Ventuzelo",
