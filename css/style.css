@@ -798,13 +798,17 @@ h1, h2, h3, h4, h5,
   min-height: 30px;
 }
 
+.track i {
+  cursor: pointer;
+}
+
 .track .header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
   padding: 0 20px;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 .track .header .fas {
@@ -837,9 +841,36 @@ h1, h2, h3, h4, h5,
 
 .track .content .speak h6 {
   text-transform: uppercase;
+  font-weight: bold;
+  margin-right: 25px;
 }
 
-.track .content .speak p {
+.track .content .speak h6 span {
+  font-style: italic;
+  font-weight: normal;
+  color: #232531;
+}
+
+.track .content .speak .name {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 100%;
+}
+
+.track .content .speak .name p {
   margin: 0;
   color: rgb(255, 87, 51);
+}
+
+.track .content .speak .desc {
+  margin-top: 20px;
+  width: 96%;
+}
+
+.track .content .speak .desc a {
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  hyphens: auto;
 }

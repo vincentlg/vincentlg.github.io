@@ -1,1132 +1,1563 @@
 {
-  "Web3": [
+  "Blockchain for Good": [
     {
-      "Nom": "Abbey Titcomb",
-      "Titre": "Towards decentralized alternatives for code collaboration",
-      "Track": "Web3"
+      "Nom": "Clark Jonjon",
+      "Titre": "Using NFT's and radical economics to save animals",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "Currently, contributing towards a cause that is close to your heart, like endangered animal conservation, is detached and unrewarding. Donations are simply once off and forgettable. This talk will explore how we can create a meaningful social impact economy using ethereum and some radical economics. In 2018, Wyl and Posner released a book called radical markets, that discussed interesting ideas such as having assets that are Always For Sale (AFS). This can be applied in a very interesting manner to a non-fungible token market, where the proceeds of generated from this AFS mechanic can create a meaningful social impact economy. As a POC, https://wildcards.world was developed which is currently generating hundreds of dollars a month to protect endangered animals."
     },
     {
-      "Nom": "Ben Livshits",
-      "Titre": "Making Web3 Real with Brave",
-      "Track": "Web3"
+      "Nom": "Dave Appleton",
+      "Titre": "Is the US Dollar or volatile crypto really the best store of value for international social enterprise projects?",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "HelloGold have been working since 2016 to help those underserved by the banking system to protect their wealth by enabling micro investments in vaulted gold. We would like to propose using tokenised gold (GOLDX) as a store / transfer of value medium to isolate projects from currency volatility."
     },
     {
-      "Nom": "Christopher Shen",
-      "Titre": "Blockchain Name Service",
-      "Track": "Web3"
+      "Nom": "Ece Belgin",
+      "Titre": "Cryptocurrency Adoption in Developing Countries",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "I am a cryptocurrency - blockchain researcher, youtuber and developer from Istanbul, Turkey. I want to talk about cryptocurrency adoption and the viewpoint from developing countries and the Middle East."
     },
     {
-      "Nom": "Dean Eigenman",
-      "Titre": "From Whisper to Waku",
-      "Track": "Web3"
+      "Nom": "Eitan Lavi",
+      "Titre": "Web3.0: Transforming the Human Web from 0 to a 1 Sum Game",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "We'll discuss how the old (current) web has developed on top of a master-slave architecture, giving rise to centralised powers enslaving our information, value and rights, and how the web3.0 revolution stands to evolve a new human network for the people, BY the people.\n\nWe'll discuss the Why and \"What for\" of the Blockchain and Decentralisation revolution, and then review How these 2 forces can help emerge a new era for mankind."
     },
     {
-      "Nom": "Evan Van Ness",
-      "Titre": "The Ethereum Community in 2020",
-      "Track": "Web3"
+      "Nom": "Ferit Tunçer",
+      "Titre": "Trustless Translation Freelancing",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "Translation is a special subtype of freelancing where the customer receives a service of which they can't verify it's quality. Since the customer lacks knowledge of the language, how can he verify that the translation was done properly?\n\nUp to now, the hard-to-verify nature of translation work was solved by working with trusted translators only.\n\nIf he knows a good translator, the customer can use his services. If he doesn't, he will have to resort to authorities that will provide a certified translator (albeit expensive).\n\nBut again, the customer will still have to trust certifying authorities (a government or a company) and assume the certified translator will do an excellent job to protect their reputation.\n\nIs there a better and trustless way to handle translations?"
     },
     {
-      "Nom": "Joel Oed",
-      "Titre": "Make your dapp a meeting point for your community",
-      "Track": "Web3"
+      "Nom": "José Almeida",
+      "Titre": "BNDESToken: Increasing trust and compliance in Brazilian public money allocation",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "This project is about transparency and tracking the public money to good projects. It has been covered in many sites and newspapers. Two international examples are: https://www.coindesk.com/this-brazilian-bank-is-using-ethereum-to-issue-a-stablecoin and https://cointelegraph.com/news/brazilian-state-owned-bank-funds-documentary-via-its-own-ethereum-based-token.\nThe technical proposal was also published at The 2018 IEEE International Conference on Blockchain: https://bit.ly/2Th8rHu.\nSource code: https://github.com/bndes/bndestoken"
     },
     {
-      "Nom": "Julien Genestoux",
-      "Titre": "Monetizing through Membership, rather than attention",
-      "Track": "Web3"
+      "Nom": "Maria Mateo Iborra",
+      "Titre": "IBISA enabling the new generation of insurance for agriculture harnessing earth observation data and blockchain",
+      "Track": "Blockchain for Good",
+      "Category": "Workshop",
+      "Abstract": "How blockchain can enable services that before was not possible and have a real impact in peoples lives"
     },
     {
-      "Nom": "Marek Kirejczyk",
-      "Titre": "Develop faster and acquire more users using Universal Logins",
-      "Track": "Web3"
+      "Nom": "Marnix Van Den Bent",
+      "Titre": "Breaking down data silo's with Self-Sovereign Identity",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "Give users full control over their data! After this talk you know where to start if you want to build an identity app and how to make identity protocols interoperable by using the open-source Universal Ledger Agent components. You'll get an update on our SSI activities and pilots."
     },
     {
-      "Nom": "Moshe Malawach",
-      "Titre": "Decentralized application and devices with Aleph.IM and Ethereum",
-      "Track": "Web3"
+      "Nom": "Matheus Alencar",
+      "Titre": "Generalized Token Curated Registries: fighting corruption, fake news and beyond.",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "Token curated registries can empower communities to organize their information in a fair and neutral way. We start by presenting how token curated registries are being used for self regulation and fraud detection in exchanges and how this logic can be extended to fight corruption, fake news and censorship. Finally, we introduce the Generalized TCR, a tool that anyone can use to cheaply build and deploy new token registries in their community."
     },
     {
-      "Nom": "Nicholas Rodrigues Lordello",
-      "Titre": "Type-safe Smart Contract Interactions From Rust",
-      "Track": "Web3"
+      "Nom": "Raphaël Mazet",
+      "Titre": "Impact Delivery Agreements: a new protocol for investable bounties",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "Impact Delivery Agreements (IDAs) are a new primitive that turn the delivery of impact into transparent financial instruments. Think of them as bounty contracts with investable future cash flows.\nIDAs are at the core of version 2 of the Alice \"social DeFi\" protocol which is currently on testnet. IDAs work by allowing anyone to make promises about impact they aim to achieve, and to sell the future payments related to the fulfilment of those promises to investors.\nThey are integrated with Gnosis (Alice is an ECO fund grantee) for the creation of prediction markets, and Kleros for arbitration."
     },
     {
-      "Nom": "Phil Lucsok",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Web3"
+      "Nom": "Sebnem Rusitschka",
+      "Titre": "Electraseed Fund - Decentralized Finance to Accelerate Access to Clean Energy in Global South & North",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "Tokenization is the process of connecting disparate sources of value through their digital representation (data) in a value network that can scale globally. The enabling technologies are digital signatures, programmable contracts, and distributed public ledgers.\nWhen the value of access to clean electricity is tokenized, one (anyone) can create and use new incentive mechanisms for the appropriate allocation of resources that is not solely informed by profit maximization. \n\nElectraseed Fund is a demonstration of this potential: Decentralized funding of solar smart microgrids in the Global South & North, enabling global participation and balancing of financial goals with positive social, environmental, and economic impact of the actions of all stakeholders."
     },
     {
-      "Nom": "Richard Moore",
-      "Titre": "ethers.js - A compact, simple and complete Ethereum library",
-      "Track": "Web3"
-    },
-    {
-      "Nom": "Shiv Malik",
-      "Titre": "Monetizing Browsing Data with Swash",
-      "Track": "Web3"
-    },
-    {
-      "Nom": "Simona Pop",
-      "Titre": "Earn as you learn models for ecosystem development",
-      "Track": "Web3"
-    }
-  ],
-  "Developer Tools": [
-    {
-      "Nom": "Adán Sánchez De Pedro Crespo",
-      "Titre": "RADON: a domain-specific language for oracles",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Afri Schoedon",
-      "Titre": "Why you don't want to develop on Ropsten",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Bogdan Habic",
-      "Titre": "Fantastic metrics and where to find them",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Bruno Škvorc",
-      "Titre": "Building your own blockchain in under an hour",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Daniela Osorio",
-      "Titre": "“Become a Blockchain developer: No smart contracts required”",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Dennison Bertram",
-      "Titre": "Where we go from here- a year in Developer Advocacy",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Ethereum Magicians",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "François-René Rideau",
-      "Titre": "Simple Formally Verified DApps—and not just Smart Contracts",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Frankie Pangilinan",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Gregory Markou",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Guy-Louis Grau",
-      "Titre": "Keycard: an open framework for smart cards in crypto",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Igor Barinov",
-      "Titre": "Arbitrary Message Bridge",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Jakub Konka",
-      "Titre": "gWasm - challenges in securing distributed marketplace in trustless environments",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Jonathan Wolff",
-      "Titre": "Setting up Ethereum Workflows with the Streamr Canvas",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Makoto Inoue",
-      "Titre": "ENS Beyond Ethereum",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Martin Lundfall",
-      "Titre": "Smart contracts as inductive systems",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Mathias Baumann & Erik Kundt",
-      "Titre": "What's new in Solidity",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Philipp Langhans",
-      "Titre": "Grid v2 - Ethereum Infrastructure as Code",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Richard Meissner",
-      "Titre": "Dapp proxy contracts - an overview",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Sean Brennan",
-      "Titre": "Infura Versus: tool for benchmarking Web3 providers (remote and local)",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Victor Baranov",
-      "Titre": "How to deploy and customize BlockScout blockchain explorer",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Vincent Le Gallic",
-      "Titre": "Meta-Transaction, Pandora's box or weapon of mass adoption?",
-      "Track": "Developer Tools"
-    },
-    {
-      "Nom": "Zachary Cole",
-      "Titre": "Ethereum Protocol Development With Whiteblock Genesis",
-      "Track": "Developer Tools"
-    }
-  ],
-  "Ethereum 2.0": [
-    {
-      "Nom": "Aditya Asgaonkar",
-      "Titre": "Design Choices in Eth2.0",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Aditya Asgaonkar",
-      "Titre": "Cross-shard transactions",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Alex Beregszaszi",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Alex Stokes",
-      "Titre": "Eth1 meets Eth2: forecasting the future",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Ayodeji Awosika",
-      "Titre": "Leveraging African population to growing Ethereum Developer ecosystem",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Christopher Goes",
-      "Titre": "Interblockchain Communication for Eth 2.0",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Eric Tu",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Hsiao-Wei Wang",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Mehdi Zerouali",
-      "Titre": "Lighthouse: Road to Eth2 mainnet",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Mikerah Quintyne-Collins",
-      "Titre": "Validator Privacy in Eth2.0",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Vlad Zamfir",
-      "Titre": "Liveness in CBC Casper",
-      "Track": "Ethereum 2.0"
-    },
-    {
-      "Nom": "Will Villanueva",
-      "Titre": "Phase2 Update from Quilt",
-      "Track": "Ethereum 2.0"
-    }
-  ],
-  "Other Blockchains": [
-    {
-      "Nom": "Aidan Hyman",
-      "Titre": "lessons learnt from building blockchains",
-      "Track": "Other Blockchains"
-    },
-    {
-      "Nom": "Cassidy Daly",
-      "Titre": "The Gateway for Real-World Assets into the Blockchain Multiverse",
-      "Track": "Other Blockchains"
-    },
-    {
-      "Nom": "Claudia Bartoli Duncan",
-      "Titre": "Bridging non PoW/PoS sidechains with Ethereum",
-      "Track": "Other Blockchains"
-    },
-    {
-      "Nom": "Fabian Vogelsteller",
-      "Titre": "LUKSO - The Blockchain for new creative economies",
-      "Track": "Other Blockchains"
-    },
-    {
-      "Nom": "Jean Yves Zie",
-      "Titre": "Extending Atomic Swaps for Interoperability",
-      "Track": "Other Blockchains"
-    },
-    {
-      "Nom": "Marko Baricevic",
-      "Titre": "Rust smart contracts in Cosmos",
-      "Track": "Other Blockchains"
-    },
-    {
-      "Nom": "Peter Eulberg",
-      "Titre": "Overview of more than 15 Ethereum-based blockchains",
-      "Track": "Other Blockchains"
-    },
-    {
-      "Nom": "Romain Rouphael",
-      "Titre": "Bitcoin derivatives on the Lightning Network",
-      "Track": "Other Blockchains"
-    }
-  ],
-  "Gaming": [
-    {
-      "Nom": "Aleksander Leonard Larsen",
-      "Titre": "Building a free to play to earn game - The story of Axie Infinity",
-      "Track": "Gaming"
-    },
-    {
-      "Nom": "Drew Harding",
-      "Titre": "MetaFactory - Decentralizing the ownership of brand economies and sale of custom, digi-physical apparel",
-      "Track": "Gaming"
-    },
-    {
-      "Nom": "Gauthier Zuppinger",
-      "Titre": "Collectibles, Crypto-gaming, Non-fungible tokens: state of the economics",
-      "Track": "Gaming"
-    },
-    {
-      "Nom": "Jay Lee",
-      "Titre": "The limitation and potential of Blockchain/Ethereum game",
-      "Track": "Gaming"
-    },
-    {
-      "Nom": "Kyle Lu",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Gaming"
-    },
-    {
-      "Nom": "Matías Nisenson",
-      "Titre": "Break it till you make it! CryptoWars is now scalable!",
-      "Track": "Gaming"
-    },
-    {
-      "Nom": "Morten Rongaard",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Gaming"
-    },
-    {
-      "Nom": "Ronan Sandford",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Gaming"
-    },
-    {
-      "Nom": "Ryan Gittleson",
-      "Titre": "Trust and Transparency in Online Gaming",
-      "Track": "Gaming"
-    },
-    {
-      "Nom": "Sebastien Borget",
-      "Titre": "Empowering Creators with Blockchain and Non-Fungible Tokens",
-      "Track": "Gaming"
-    },
-    {
-      "Nom": "Shaban Shaame",
-      "Titre": "Game assets tokenisation done right",
-      "Track": "Gaming"
-    }
-  ],
-  "Privacy": [
-    {
-      "Nom": "Alex Gluchowski",
-      "Titre": "Zinc: developer-friendly programming framework for zero-knowledge proofs",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Guy Zyskind",
-      "Titre": "Salad: Transactional Privacy on Ethereum with Enigma",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Harry Halpin",
-      "Titre": "Nym: How to decentralize network-level privacy using cryptoeconomics",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Jordi Baylina",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Kazuaki Ishiguro",
-      "Titre": "C.R.E.A.M, zk-SNARK based protocol for public elections system”",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Kevin Jeong",
-      "Titre": "zk-DEX",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Laurence Kirk",
-      "Titre": "Overview of Zero Knowledge Proofs",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Philippe Métais",
-      "Titre": "Semaphore : Zero-Knowledge Signaling",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Robert Kiel",
-      "Titre": "HOPR as a metadata privacy foundation of the web3",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Seven Waterhouse",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Tegan Kline",
-      "Titre": "Life, liberty and the pursuit of happiness — is tech taking away our liberty?",
-      "Track": "Privacy"
-    },
-    {
-      "Nom": "Thomas Piellard",
-      "Titre": "introducing gnark, a fast zero knowledge proof library",
-      "Track": "Privacy"
-    }
-  ],
-  "Scalability": [
-    {
-      "Nom": "Alex Gluchowski",
-      "Titre": "ZK Sync: user-centric approach to scalability with zero-knowledge proofs",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Alexey Akhunov",
-      "Titre": "Turbo-Geth and Stateless Ethereum",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Chellani Vaibhav",
-      "Titre": "State of rollups",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Eli Ben Sasson",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Franziska Heintel",
-      "Titre": "The rise of layer 2",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Gorka Irazoqui",
-      "Titre": "Decentralized workload distribution with VRFs and algorithmic reputation systems",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Guillaume Ballet",
-      "Titre": "Scaling ethereum 1.x with WASM precompiles",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Jack O’Holleran",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Jacob Czepluch &  Kelsos Paparas",
-      "Titre": "Hands on with Raiden and the Raiden Light Client",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Karl Floersch",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Konstantin Kladko",
-      "Titre": "Running EVM on sidechains: five innovations",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Nick Dodson",
-      "Titre": "Fuel - A Trustless Scalable Sidechain",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Piper Merriam",
-      "Titre": "Stateless Ethereum",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Silur",
-      "Titre": "Scaling storage with fountain codes",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Sina Mahmoodi",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Scalability"
-    },
-    {
-      "Nom": "Vaibhav Chellani",
-      "Titre": "Optimistic vs Zk Rollup",
-      "Track": "Scalability"
-    }
-  ],
-  "dApps / UX /UI": [
-    {
-      "Nom": "Alex Masmejean",
-      "Titre": "How I Tokenized Myself, Twice",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Alex Van De Sande",
-      "Titre": "Better UX through meta transactions – lessons from our experience building Universal Login",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Amy Jung",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Ashleigh Schap",
-      "Titre": "Biz Dev 101: Strategies for Scaling",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Dennison Bertram",
-      "Titre": "#LoCoNoCo: How No-code and Lo-Code tools will take Ethereum mainstream",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Chriss Sugg",
-      "Titre": "The Savviness Scale: Designing for Next Wave of Ethereum Users",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Christian Reitwiessner",
-      "Titre": "Improving Wallet UX and Security through a Decentralized Metadata and Source Code Repository",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Clement Hugbo",
-      "Titre": "The Essentiality of Product Design Concepts with dApps",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Enrico Mariotti",
-      "Titre": "Blockchain as a Service product market fit",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Itamar Lesuisse & Julien Niset",
-      "Titre": "Smart contract wallets and mainstream adoption",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Jason Goldberg",
-      "Titre": "Designing ethereum user experiences for humans",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "John Crain",
-      "Titre": "A New Art Market",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Juuso Takalainen",
-      "Titre": "Adventures in Layer 2",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Kosala Hemachandra",
-      "Titre": "The state of Ethereum usability: UX design principles to shape crypto security practices for the better.",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Lukas Schor",
-      "Titre": "The next frontier for DeFi: How Multisigs will bring the next $1B to decentralized finance",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Sasha Tanase",
-      "Titre": "That never even crossed my mind! How to spot & fix your cognitive biases",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Stefan George",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Theophile Villard",
-      "Titre": "Connecting Gasless Multisigs to Protocols",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Tobias Schubotz",
-      "Titre": "How popular are smart contract wallets, really?",
-      "Track": "dApps / UX /UI"
-    },
-    {
-      "Nom": "Tomasz Stanczak",
-      "Titre": "Ξ2DΦ",
-      "Track": "dApps / UX /UI"
-    }
-  ],
-  "Governance / DAO": [
-    {
-      "Nom": "Alex Masmejean & Manu Alzuru",
-      "Titre": "Marketing Ethereum with a new DAO",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Anastasia Andrianova",
-      "Titre": "Uncollateralized loans + DAOs: how to combine these?",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Bob Summerwill",
-      "Titre": "A call for an end to tribalism in Ethereum - 2 years later",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Clément Lesaege",
-      "Titre": "Proof Of Humanity, a Sybil-resistant list of humans",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Ethereum Cat Herders",
-      "Titre": "Growing the Herd: How You Can Contribute to Ethereum as a Cat Herder",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "James Pitts",
-      "Titre": "Magicians and Bureaucrats in the Ethereum Galaxy",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Jorge Izquierdo",
-      "Titre": "Subjective agreements for DAOs",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Julien Bouteloup",
-      "Titre": "The future of staking pools with Stake DAO by Stake Capital",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Matan Field",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Megan Knab",
-      "Titre": "DAO Economics - Balance Sheet Considerations",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Phil Lucsok",
-      "Titre": "OpenEthereum: Transitioning Parity Ethereum to the community",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Tim Beiko",
-      "Titre": "Moving to an EIP-Centric Process: a retrospective",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Vlad Zamfir",
-      "Titre": "Permissionless Decentralization and The Law",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Yalda Mousavinia",
-      "Titre": "DAOs without established legal entities are too early to be practical",
-      "Track": "Governance / DAO"
-    },
-    {
-      "Nom": "Zhivko Todorov",
-      "Titre": "Revenue generation DAOs through bonding curves",
-      "Track": "Governance / DAO"
-    }
-  ],
-  "Security": [
-    {
-      "Nom": "Alexei Zamyatin",
-      "Titre": "The Nuts, Bolts and Impossibility of Trustless Cross-Chain Communication",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Bhargava Shastry",
-      "Titre": "Fuzzing the Solidity compiler",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Brianna Montgomery",
-      "Titre": "Preventing Disaster: Advances in Smart Contract Vulnerability Detection",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Cameron Robertson",
-      "Titre": "How we think about storing crypto is broken",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Damian Rusinek",
-      "Titre": "Web Apps vs Smart Contracts: tools, vulns and standards. Instroduction of SCSVS.",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Dan Guido",
-      "Titre": "Securing smart contracts with Crytic",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Daniel Luca",
-      "Titre": "Ether Wars Exploits Counter Exploits and Honeypots",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Gonçalo Sá",
-      "Titre": "Blockchain Security 101 for the VC track",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Gorka Irazoqui",
-      "Titre": "The case against using TEEs in your crypto project",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Joe Petrowski",
-      "Titre": "Sharded Security Model of Polkadot",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Johann Eid",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Joran Honig",
-      "Titre": "Mutation Testing for Smart Contracts",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Patrick Mccorry",
-      "Titre": "Towards Self-Custody on Exchanges",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Patrick Ventuzelo",
-      "Titre": "Reversing eWasm contract 101",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Philipp Langhans",
-      "Titre": "Ethereum Flavored Packages",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Sergii Kravchenko",
-      "Titre": "Why do we Audit?",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Shayan Eskandari",
-      "Titre": "Transparent Dishonesty: front-running attacks on Blockchain",
-      "Track": "Security"
-    },
-    {
-      "Nom": "Souradeep Das",
-      "Titre": "Getting Started with Vyper",
-      "Track": "Security"
+      "Nom": "Shimon Newman",
+      "Titre": "Blockchain protocols for repatriation of stolen assets",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "My father (https://www.ft.com/content/10d8679c-228b-11e6-9d4d-c11776a5124d) and I are developing a blockchain protocol to facilitate the monitoring, security, and verified impact of repatriated assets. \n\nThe talk would be on the opportunities and challenges around this domain. It would cover the journey of my father and me to get to this stage, including speaking at the French Senate last year, how I was inspired by last year's EthCC, and our partnerships with blockchain protocols like Disberse, ixo, and with organizations like the Africa Network for Environmental and Economic Justice. \n\nIt would also outline our vision, as well as some of the other opportunities out there in terms of blockchain for good."
     }
   ],
   "Crypto Economics": [
     {
       "Nom": "Ambre Soubiran",
       "Titre": "VC Funding for Blockchain Startups",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Workshop",
+      "Abstract": "I'm happy to help guide fundraising startups through the stormy sea of VC fundraising, review their decks, hear their pitch and provide 1 to 1 feedback."
     },
     {
       "Nom": "Ambre Soubiran",
       "Titre": "ETH Market Depth and Structure",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "Taking a look at the current state of the largest liquid ETH markets, analysing exchange prices, volumes and order book structures over time and see how markets are becoming more efficient and liquid (WIP- to be improved!)"
     },
     {
       "Nom": "Ankit Chiplunkar",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Crypto Economics"
+      "Titre": "TBD",
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "Understanding the role of centralized exchanges in crypto economics"
     },
     {
       "Nom": "Christoph Jentzsch",
       "Titre": "Incubed - a crypto-economic minimal verification client",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "The concept, as well as the functionalities of the Incubed client, will be presented. \n\nIncubed is an ultra-light client with quantifiable economic security. The smallest version only needs around 250kb of storage. The full Incubed client (including EVM implementation) needs about 450kb.\n\nThe typescript version, as well as the c and wasm version of the client, will be shown. Furthermore, the command line functionality of Incubed will be presented.\n\nAn outlook of future developments, especially how to access the Bitcoin network, with secured access through the Ethereum network will be shown."
     },
     {
       "Nom": "Griff Green",
-      "Titre": "Incentivizing Funding for Public Goods",
-      "Track": "Crypto Economics"
+      "Titre": "TBD",
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "TBD - We are building \"Commons\" - basically Token Bonding Curves attached to DAOs that can be used to support sustainable funding for a public good... We are starting with advancing token engineering research :-D we use a lot of Token Engineering to make all this work... so it's a mix of blockchain4good and Crypto Economics... \n\nMy talks at ETHCC are always my favorites :-D I hope to keep the streak alive!\n\nI can do 30-60 minutes"
     },
     {
       "Nom": "Lasse Clausen",
       "Titre": "Token Maximalism",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "A comprehensive thesis of why public good networks are best structured open source with economic incentives instead of for profit corporations."
     },
     {
       "Nom": "Markus Franke",
       "Titre": "Algorithmic Stablecoins",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "Algorithmic, or more specific seigniorage-style stablecoins algorithmically expand or contract the supply of the stable token in order to match demand. These systems typically introduce one or more non-stable, or seigniorage, assets that may fluctuate in value in response to changes in demand for the stablecoin. These types of systems are arguably the most decentralized, as they don’t rely on any other crypto or fiat currency in order to maintain their stability. However they can be complex to build and analyze, and may be particularly vulnerable to a decline in market confidence around the seigniorage token or the cryptocurrency space as a whole."
     },
     {
       "Nom": "Mike Barrow",
       "Titre": "Openvino: tokenization, transparency, and traceability - an open-source winery in Argentina",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "Open-source winery - sensors that write directly to blockchain - wine-backed crypto assets - linking wines to the blockchain using non-invasive spectroscopy - viniswap.costaflores.com, forking unisocks and the uniswap bonding curve for wine tokens"
     },
     {
       "Nom": "Oliver Beige",
       "Titre": "Combinatorics and cryptoeconomics",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "Combinatorial optimization is a common tool in operations research, but it is all but unknown in economics. To define the new field of cryptoeconomics, it is important to understand how combinatorics shapes human interaction, how eliminating combinatorics has limited the scope of traditional economics, and how cryptoeconomics can fill this gap."
     },
     {
       "Nom": "Petar Jursic",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Crypto Economics"
+      "Titre": "TBD (crypto powered socioeconomic systems?)",
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "Building a social infrastructure for the builders ecosystem, then expanding it as a socioeconomic system layer above the nation states. \nMetaCartel > Ethereum > wider crypto > general freelancer > anyone.\nReal life RPG, something like that.\nhttps://twitter.com/Metafam/status/1199447733901418496"
     },
     {
       "Nom": "Quentin Issele",
       "Titre": "Earning yield on crypto-assets with Staking",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "Introduce and clarify the differences between staking on Proof-of-Work (PoW) and Proof-of-Stakes (PoS) assets. Look at the economics of the mechanisms and impact on the system governance. Explain how to participate either as individual or as part of a pool. Introduce rapidly the solutions including Exchange solutions such as OKEx pool."
     },
     {
       "Nom": "Seyedehmahsa Moosavi",
       "Titre": "Demystifying Stablecoins: Cryptography meets monetary policy",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "In this talk, I will represent our most recent research on Stablecoins (SoK: demystifying stablecoins). So far, the majority of the research works on this topic focus on enumerating the intricate details of how a particular ‘brand’ of stablecoins works today—details that could change tomorrow. \nIn this talk, I will provide a thorough understanding of stablecoins and fundamental stability mechanisms. As opposed to the other research works on this topic, we are very selective in the concepts from finance we bring into the survey and explain each from first principles, while attempting to minimize or eliminate jargon. I will also present the taxonomy we use to classify stablecoins in the way it hasn’t been done before."
     },
     {
       "Nom": "Simona Pop",
       "Titre": "Enabling opportunity and choice where there are none",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "Exploring the impact of blockchain based models in empowering individuals and communities to access resources (information, education, work)."
     },
     {
       "Nom": "Sonja Prstec",
       "Titre": "Potential legal implications of Proof-of -stake based networks",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "The increasing use and implementation of PoS in various distributed ledger networks has added an additional layer of complexity to the legal and regulatory issues involved in the regulation of distributed ledger networks and cryptocurrencies including complex legal issues relating to regulatory status and treatment under existing laws, compliance (including valuation, custody and reporting), application of security laws, taxation, and anti-money laundering."
     },
     {
       "Nom": "William George",
       "Titre": "Schelling Games and the Theory of Voting Systems",
-      "Track": "Crypto Economics"
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "In traditional social choice theory one finds that there are difficulties in designing election systems with desirable properties to decide between more than two candidates, see for example Arrow’s Impossibility Theorem. Meanwhile Schelling point based voting is being used in blockchain applications such as the Kleros dispute resolution system and a number of oracles. Here participants are incentivized to be coherent, rather than to vote their personal preferences as in traditional elections. In this talk we will briefly outline some ways in which the tactical voting considerations of traditional elections can nonetheless manifest themselves in Schelling point based systems."
+    }
+  ],
+  "dApps / UX /UI": [
+    {
+      "Nom": "Alex Masmejean",
+      "Titre": "How I Tokenized Myself, Twice",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "- I got sent 1500 DAI to Berlin from California on 5 days notice\n- debt is cash, so my debt was tokenized\n- 10% interest + principal\n- Pay it forward (Ethereum culture and great community)\n- Burnt by AAVE\n- Following this debt token, TryRoll.com tokenized me $ALEX\n- Onwards with ISAs & crypto and its future implications"
+    },
+    {
+      "Nom": "Alex Van De Sande",
+      "Titre": "Better UX through meta transactions – lessons from our experience building Universal Login",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "In 2019 we decided to improve the Ethereum onboarding experience by using meta-transactions, relayers, ENS and a multisig contract account. In this talk we share our progress and what we learned on UX doing that."
+    },
+    {
+      "Nom": "Amy Jung",
+      "Titre": "TBD",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "Rough outline:\nDesign in Web3 is evolving through open source principles\n\nDriving forces:\n- Fluidity of project cross collaboration\n- Solo designers\n- Standardization is coming\n- Ethical nature of Web3\n- Design systems\n\nExamples: Burner Wallet Factory, Devcon UX Audits, Web3 Open Source Design group"
+    },
+    {
+      "Nom": "Ashleigh Schap",
+      "Titre": "Biz Dev 101: Strategies for Scaling",
+      "Track": "dApps / UX /UI",
+      "Category": "Workshop",
+      "Abstract": "\"An in-depth strategy workshop for crypto projects that are seeking to improve messaging around their products, develop business development strategies and scale their growth.\""
+    },
+    {
+      "Nom": "Dennison Bertram",
+      "Titre": "#LoCoNoCo: How No-code and Lo-Code tools will take Ethereum mainstream",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "No-Code tools are quickly rising in the Web2 world, but what about Web3? No-code services like Squarespace, WebFlow, Wix, Shopify and others now power tens of millions of websites on the internet yet in blockchain we are still focused on builders who know how to code. Following the proof-of-concept demo of DappHero in November 2019 where typical no-code website was converted to a dApp in seconds, a vibrant discussion has emerged around getting not just 1 million developers in Ethereum in 2020, but 1 million designers, creators, builders, innovators and more. Thus the Lo-code No-code movement was born!"
+    },
+    {
+      "Nom": "Chriss Sugg",
+      "Titre": "The Savviness Scale: Designing for Next Wave of Ethereum Users",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "As we continue to drive towards mass adoption, the gap in technical savviness between Ethereum early adopters and newcoming users will continue to widen. This talk will focus around the challenges of designing for the technical diversity of Ethereum users. We will touch on user research synthesis,  persona design and feature prioritization."
+    },
+    {
+      "Nom": "Christian Reitwiessner",
+      "Titre": "Improving Wallet UX and Security through a Decentralized Metadata and Source Code Repository",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "Transaction confirmation dialogs are still the same as in the dark days of Frontier. A popup asks you to confirm sending zero Ether and a bunch of hex characters to a contract. Clicking the \"confirm\" button now could mean that you finally get access to that rental hoverboard, but it could also mean that you lose your beloved super rare cryptokitty. The interesting fact is that the solution has been there for a long time: The Ethereum Natural Language Specification (natspec) combined with on-chain metadata hashes. We present a system that makes metadata, ABI, natspec and contract source available in a verifiable and decentralized manner such that it can all be easily used in wallets and other tools."
+    },
+    {
+      "Nom": "Clement Hugbo",
+      "Titre": "The Essentiality of Product Design Concepts with dApps",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "This would be typically focus on the importance of UI/UX designs and graphics with the development of Decentralized applications. How the flexibility designs and prototypes of dApp makes the entire work flow and integration of Blockchain much more easier to grasp, develop, implement and used for real-time daily activities both by developers and the general Blockchain community."
+    },
+    {
+      "Nom": "Enrico Mariotti",
+      "Titre": "Blockchain as a Service product market fit",
+      "Track": "dApps / UX /UI",
+      "Category": "Workshop",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Itamar Lesuisse & Julien Niset",
+      "Titre": "Smart contract wallets and mainstream adoption",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "2019 saw the smashing of some of Ethereum's biggest usability pain points. What can smart contract wallets achieve in 2020 and what does this mean for the mainstream adoption of Ethereum?"
+    },
+    {
+      "Nom": "Jason Goldberg",
+      "Titre": "Designing ethereum user experiences for humans",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "In this talk we'll present research conducted with more than 1500 end-user interviews to help develop crypto user experiences that are ready for mainstream adoption, and demonstrate live product, Pepo, designed with those inputs. \n\n(Note: this talk can also be done in workshop format if preferred)."
+    },
+    {
+      "Nom": "John Crain",
+      "Titre": "A New Art Market",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "This talk will dive into the evolving world of NFT art. I'll review the history of were it's been, how VR fits into the story, and were we are heading."
+    },
+    {
+      "Nom": "Juuso Takalainen",
+      "Titre": "Adventures in Layer 2",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "I’ve spent the last year building a custom layer 2 solution for Streamr Community Products. Experiences with building a custom layer 2 solution for distributing the revenues accumulated into the Product on the Streamr Marketplace between thousands or potentially millions of data producers. \nThe problems along the route included things like liveness requirements, robustness in the face of Ethereum re-orgs and network failures, figuring out threats and worst-case scenarios, and possible mitigations.\nThe talk is aimed at buidlers of any experience level, who are interested in scalable micropayments, or just what it is to build side-chains or scaling solutions to Ethereum."
+    },
+    {
+      "Nom": "Kosala Hemachandra",
+      "Titre": "The state of Ethereum usability: UX design principles to shape crypto security practices for the better.",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "The current state of Ethereum usability shows there is no real customer service when it comes to crypto.\n \nThis makes wallet interfaces an integral touchpoint between users and the blockchain that will shape not only their experiences from an aesthetic point of view but also educate them about how to best navigate this complex technology. \n \nMEW can speak about the security practices users have become accustomed to and how we need to move forward. They can also share about advancements in privacy, MEW’s approach to UX and what’s at risk if we don’t address this crucial hurdle as an ecosystem today."
+    },
+    {
+      "Nom": "Lukas Schor",
+      "Titre": "The next frontier for DeFi: How Multisigs will bring the next $1B to decentralized finance",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Sasha Tanase",
+      "Titre": "That never even crossed my mind! How to spot & fix your cognitive biases",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "As UX Researchers our worlds are constantly populated by our user’s cognitive biases. We may be aware of them when it comes to our users. But are we aware of them when it comes to ourselves?\n\nBecause Blockchain is relatively new and us, researches, may have been focused on more hands-on issues we may have forgotten to check our own cognitive biases.\nI have hardly accepted that giving our nature as human beings we are constantly having biases which may drive us off the path and make us turn a blind eye to feedback.\n\nAs a Product Designer in a blockchain company, I have been wrong many times in my assumptions and I have spotted many biases in my team members and in the users, too.\n \nSo how can we change this?"
+    },
+    {
+      "Nom": "Stefan George",
+      "Titre": "TBD",
+      "Track": "dApps / UX /UI",
+      "Category": "Workshop",
+      "Abstract": "The value locked in DeFi protocols surged dramatically in 2019, with over $600M already being put to work. Decentralized finance has clearly achieved product-market fit on the Ethereum blockchain. However, still, the majority of crypto funds stored on multi-signature wallets sit idle, having no easy way to interact with DeFi protocols. With over $1B worth of digital assets held in Gnosis Multisig wallets alone, it’s essential for the dapp ecosystem to access this untapped market. This talk will introduce a completely new way for developers to build their dapps right into a Multisig interface. Let’s make 2020 the year where Multisig funds are fully connected to DeFi."
+    },
+    {
+      "Nom": "Theophile Villard",
+      "Titre": "Connecting Gasless Multisigs to Protocols",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "1. introduction to multisig wallet contracts (personal or business)\n2. connecting them to decentralized protocols (like ENS)\n3. making them gasless with the Gas Station Network and their relayers"
+    },
+    {
+      "Nom": "Tobias Schubotz",
+      "Titre": "How popular are smart contract wallets, really?",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "Smart contract accounts and wallets are becoming increasingly popular. Gnosis is known for building multi-signature wallets such as the Gnosis MultiSig and the Gnosis Safe. Other popular smart contract wallets are Argent, Dapper, Monolith, and proxy accounts used by Instadapp and Maker.\nIn this talk, we will dive into the actual usage analytics of smart contract accounts. After briefly touching base on the advantages of smart contract accounts over externally owned accounts (EOAs), we will share insights and what we found to be useful metrics, including the number of deployed instances, the number of funds stored, activity, transfer volumes, and user retention. The presentation will close with a summary of learnings, challenges, and how we intend to overcome these with the Gnosis Safe."
+    },
+    {
+      "Nom": "Tomasz Stanczak",
+      "Titre": "Ξ2DΦ",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "I will be talking about the integrated DeFi, data marketplace, Eth1 and Eth2 clients in Nethermind."
     }
   ],
   "Decentralised Finance": [
     {
       "Nom": "Antoine Scalia",
       "Titre": "Building a compliant and accounting-ready bookkeeping system for Decentralized Finance",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Workshop",
+      "Abstract": "I would highlight the accounting and tax challenges that decentralized finance is raising, based on a few examples of staking and lending activities. Based on these challenges, I would share a few best practices that companies and investors should follow if they want to be compliant."
     },
     {
       "Nom": "Arnaud Grunthaler",
       "Titre": "\"New French regulatory framework for Digital Assets Services Providers",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "French government recently published application regulation applying to Digital Assets Services Providers (now regulated in France according to Loi Pacte). France is the first nation setting up a complete regulatory framework for services providers offering services around crypto and tokens (not qualifying as financial instruments). This is a great opportunity to explain to the Ethereum community the scope and content of this new regulation (sale and purchase of crypto/custody/investment advice/reception and transmission of orders/management of portfolio/undertaking of cryptos/placement/running an exchange, etc.)"
     },
     {
       "Nom": "Badri Natarajan",
       "Titre": "Seven Deadly Sins: Managing Legal & Regulatory Risk in DeFi",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "This will be a talk about dealing with regulators and managing legal risk, particularly as a startup in the DeFi space. Attendees will learn practical strategies and approaches to deal with regulatory pressures, legal uncertainties and potential litigation, as well as 7 key mistakes to avoid. In other words, this talk will set out a framework through which DeFi/crypto ventures can better understand the legal risks and uncertainties they face and how to mitigate them. An earlier version of this talk was delivered at D1Conf 2019 in Malta (the decentralized insurance conference organized by Etherisc)."
     },
     {
       "Nom": "Christiane Ernst",
       "Titre": "DEXs for a Multi-Token Future",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "With the DutchX, we learnt a lot: from mechanism design, user experience, governance, iterative processes, liquidity and launch that we gladly applied to the next exchange design, the Dfusion (working title), featuring batch auction design. The Dfusion is about to move from research stage to testing stage: theory predicts that it will be a very powerful exchange, providing liquidity through ring trades and “fairer” prices through batch auctions. It is yet to be determined if reality will follow suit! With the rise of many ERC20 tokens, particularly stablecoins, it’s the right time to try out this completely new mechanisms to match the decentralized and fragmented world we’re embarking on."
     },
     {
       "Nom": "Daniel Robinson",
       "Titre": "The Yield Protocol: On-Chain Lending with Interest Rate Discovery",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "This talk will present a sketch of a new building block for decentralized finance: yTokens. yTokens are like zero-coupon bonds: on-chain obligations that settle on a specific future date based on the price of some target asset, and are secured by collateral in another asset. By buying or selling yTokens, users can synthetically lend or borrow the target asset for a fixed term. yTokens are fungible and trade at a floating price, which means their “interest rates” are determined by the market. The prices of yTokens of varying maturities can be used to infer interest rates, and even to construct a yield curve. yTokens can be built using an on-chain price oracle, or, when the target asset is an on-chain asset, using “physical settlement.”"
     },
     {
       "Nom": "Deniz Omer",
       "Titre": "The growth of DeFi as seen through on-chain data",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "Kyber is integrated into 70 different dapps and wallets. With all this on-chain data generated through these integrations we can get great insight into how different parts of the Ethereum ecosystem are growing. This talk highlights the data that shows the explosion in DeFi data. We share data on volumes, new users, average trade sizes, and other interesting metrics from the last year."
     },
     {
       "Nom": "Felix Leupold",
       "Titre": "Fair Price Finding In a Decentralized Exchange Economy",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "With dƒusion, we are launching a decentralized exchange that makes use of a novel auction mechanism. dƒusion creates batched multi-token order books which are settled with uniform (thus intra-arbitrage free) clearing prices. Full decentralization is achieved by making the settlement process permissionless and allowing anyone to submit a “better” solution within a given time.\n\nIn this presentation we focus on how to quantify “better” prices. We examine some classic auction design approaches such as maximizing trader’s welfare/utility and demonstrate their limitations when applied to the EVM.\nFrom there we will derive the metric used in dƒusion to find the “fairest” settlement.\nFinally, we motivate why this mechanism is superior in highly fragmented markets (e.g. USD stablecoins)."
     },
     {
       "Nom": "Fredrik Haga",
       "Titre": "DeFi adoption? Let's look at the numbers.",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "Deep dive in what DEX traction actually looks like. What does the volume growth look like? How many users? What share of usage is from whales? (could change later, to give you an idea of the metrics: duneanalytics.com/dex)"
     },
     {
       "Nom": "Friederike Ernst",
       "Titre": "A prediction market is not a prediction market is not a prediction market: A short taxonomy of prediction markets based on technological underpinnings",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "While the idea behind prediction markets is universal, the way in which prediction markets are implemented varies significantly depending on the degree of decentralization and exact architecture of their core three components:\nMarket setup, trading mechanism, and oracle resolution.\n\nI will present a survey of blockchain prediction markets that are currently live, comparing and contrasting their design architectures. You should come away from this talk feeling you understand the current prediction market landscape and why teams made the product decisions they did."
     },
     {
       "Nom": "Hayden Adams",
       "Titre": "Uniswap V2",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "Give an overview of Uniswap V2, which includes arbitrary erc20/erc20 pairs, oracles, and other improvements"
     },
     {
       "Nom": "Hugh Karp",
       "Titre": "Managing Risk in DeFi",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "Interacting with DeFi smart contracts has a great opportunity for returns but also comes with risks. We have developed a simple framework that can be used to assess risk and understand what actions you should take."
     },
     {
       "Nom": "Jacek Czarnecki",
       "Titre": "Legal Troubleshooting for DeFi Projects: Data & Results",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "At Devcon 5 I led a first of its kind workshop on Legal Troubleshooting for DeFi Projects. Workshop participants answered questions in multiple polls related to most important legal problems of DeFi, forming an unique data set. It is now time to show data and results, and present the conclusions to the DeFi and Ethereum communities."
     },
     {
       "Nom": "Jenna Zenk",
       "Titre": "Become a crypto fund manager on Melon",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "Melon ecosystem and roadmap overview + Announcement TBD"
     },
     {
       "Nom": "Jonas Rubel",
       "Titre": "Tokenizing the World of Sports by Leaving Blockchain Behind",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "\"Why Sports is a case that could be important for achieving mass adoption and why we had to come up with an unconventional go-to-market approach (by the standards of blockchain companies).\""
     },
     {
       "Nom": "Justin Ahn",
       "Titre": "Shifting from \"Equity\" to \"Shared Value Agreements\"",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "A review of Quidli's pivot from applying security tokens for equity to tokens as synthetic compensation in order to address issues of control, taxation, and securities compliance; and what opportunities this creates for introducing more DeFi elements to businesses, business use cases."
     },
     {
       "Nom": "Kristoffer Naerland",
       "Titre": "People Powered Money on the Trustlines Network",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "\"People-Powered Money\" is an under-collateralized form of blockchain-based credit. This credit can be created without a pre-funded crypto wallet, access to a bank, or an exchange account. At EthCC, People-powered money will be shown, for the first time, live on the Trustlines Blockchain.   \n\nIn 2019, the Trustlines Blockchain, a minimal Proof-of-Stake sidechain to Ethereum, was announced at EthCC. It launched roughly six months later. Blockchain-based mutual credit named \"People-Powered Money\" is planned to go live in Q1 of 2020.\n\nPeople-powered money is stored on-chain but can be created and used without a prefunded crypto-wallet. We’ll explain how the protocol and incentives work, and have a mobile app available that the audience can download and use."
     },
     {
       "Nom": "Lefteris Karapetsas",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Decentralised Finance"
+      "Titre": "TBD - But will be related to Rotki",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Léonard Lys",
       "Titre": "Three way atomic cross chain swap",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "My talk will be a demo of a three way atomic cross chain swap between btc, an ERC721 token and tezos."
     },
     {
       "Nom": "Lu Hua",
       "Titre": "Using Conditional Tokens",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Workshop",
+      "Abstract": "We will setup, inspect and apply conditional tokens.\n\nWe will\n\n* prepare conditions with various oracles\n* collateralize them with different ERC 20 tokens\n* send and receive the ERC 1155 conditional tokens\n* see how conditions combine\n* resolve conditions and redeem conditional tokens\n* touch on concepts like\n   - simple escrow\n   - prediction markets\n   - futarchy"
     },
     {
       "Nom": "Mara Schmiedt",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Decentralised Finance"
+      "Titre": "TBD",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "2016-2018 we saw trillions of utility tokens issued and $24B in funds raised through ICOs. It was an era of strong innovation and undoubtedly poor execution. Where does the ecosystem stand today?\n\nFind out how Activate and SKALE Labs are paving the industry for launching and participating in the decentralized networks of tomorrow. \n"
     },
     {
       "Nom": "Maxime Bucaille",
       "Titre": "DeFi and the state of Decentralized Exchanges",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "",
+      "Abstract": "Would be happy to put together a panel and contact other potential participants such as kyber, uniswap and 0x to give the audience an overview of DEX landscape and what is to come in 2020"
     },
     {
       "Nom": "Mel Gelderman",
       "Titre": "The New Economic Paradigm",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "The future of the global economy won't rest on those repurposing the same systems we already have in place, the future of economies will rest squarely in a new-decentralised paradigm, one built on the backbone of blockchain.  (Will firm up but TBD)"
     },
     {
       "Nom": "Mounir Benchemled",
       "Titre": "How aggregation will improve liquidity on DEXs",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "2019 is without a doubt a historical year for decentralized exchanges and DeFi overall.\nDEX volume has skyrocketed this year while DeFi locked value is almost at a billion dollar. This significant growth made our community to raise the bar by establishing more and more ambitious milestones. To get there, we need to solve one of the biggest challenges of DeFI - low liquidity. This is one big thing that holds back retail and big investors in switching to DEXs. One way to tackle this issue is aggregation."
     },
     {
       "Nom": "Stani Kulechov",
       "Titre": "Rehypothecation in DeFi - When Locking Assets is Not Enough",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "Rehypothecation is an substantial practice in traditional finance to re-use assets that are used as collateral. Reusing assets will increase the utilisation of collateral and channels higher yields to depositors and lower rates to borrowers. Stani from Aave showcases how rehypothecation is achieved in DeFi by unlocking value with tokenisation and flash lending."
     },
     {
       "Nom": "Thibaut Sahaghian",
       "Titre": "Building the future of business banking with crypto",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "I'll give insights on Multis' backstory and why we want to reinvent business banking, what we've built so far, and how we're through software composability to bring together DeFi and fiat. To be further developed!"
     },
     {
       "Nom": "Thomas Bertani",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Decentralised Finance"
+      "Titre": "TBD",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "Today, the most successful DeFi tools are on Ethereum. Yet, the biggest cryptocurrencies live on multiple blockchains.\nThe pTokens technology enables cross-chain DeFi composability. The Ethereum blockchain has acted as a catalyst for the growth of a whole new decentralized financial system. Based on the tech stack built in the last 5 years by Provable, the longest-running oracle service, pTokens level up the game by connecting any asset to any blockchain. A decentralized system making the movement of assets unchained thanks to a multi-party computation (MPC) approach where each validating node is secured by Trusted Computing for additional security.\nBy complementing cutting-edge technologies one with the other, pTokens make pBTC on ETH as well as pDAI on EOS and pETH on Liquid possible."
     },
     {
       "Nom": "Tomasz Kajetan Stanczak",
       "Titre": "Nethermind Data Marketplace for DeFi",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "Presentation of the Nethermind Data Marketplace working on Ethereum Mainnet, presenting DeFi space data providers like Token Analyst, Blocklytics, Kaiko, CryptoCompare data delivered via Nethermind Data Marketplace. Also a note on the planned Nethermind modular DeFi gateway integrated with the Nethermind Ethereum client."
     },
     {
       "Nom": "Vadim Koleoshkin",
       "Titre": "Returns of Hodling versus DeFi-ing",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "In this talk, we will take a brief tour of different financial instruments of DeFi and compare them to the centralized alternatives. We will cover the process of calculating ROI for instruments like Compound, Uniswap, Token Sets, and others, and then compare past performance of different financial instruments in DeFi. We will end with exploring online tools to monitor the returns of different DeFi based assets.\nThis talk will be largely based on this article: https://blog.zerion.io/returns-of-holding-vs-defi-ing-c6f050e89c8e"
     },
     {
       "Nom": "Will Harborne",
       "Titre": "Scaling a DEX with Zero-Knowledge Proofs",
-      "Track": "Decentralised Finance"
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "Last year at EthCC Will Harborne addressed important topics on “Crossing the Chasm” - the necessary steps needed to promote and pave the way for institutional and retail adoption of decentralised exchange platforms. Since then, a lot has developed, and the permissionless DeversiFi exchange has incorporated many of these steps, gleaned insights along the way, and most importantly is integrating StarkWare technology in a first-of-its-kind STARK-powered exchange. This is significant as it will take decentralised trading to the next level, encouraging institutional adoption by providing a scalable, high-speed, private and compromise-free trading solution that competes with centralised offerings. DeversiFi has been created and Ethereum 2.0 is in the picture, therefore, Will can speak on this."
+    }
+  ],
+  "Developer Tools": [
+    {
+      "Nom": "Adán Sánchez De Pedro Crespo",
+      "Titre": "RADON: a domain-specific language for oracles",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Oracles are set to bridge the abyss between the realm of smart contracts and data outside the blockchain. This ambitious goal requires us to remove the inherent indeterminism of real world events by aggregating, filtering and boiling down multiple data points into a single, predictable datum. This is no easy task, especially for a decentralized network.\n\nIn this presentation, we will introduce RADON: a domain-specific language that provides a new ontology and semantic infrastructure to enable smart contract developers to define how external data will be retrieved, aggregated, filtered, reduced and reported to their contracts. We will reflect on the challenges that we faced and the quirky, wicked and hidden incentives that can be accidentally introduced by poorly constructed queries."
+    },
+    {
+      "Nom": "Afri Schoedon",
+      "Titre": "Why you don't want to develop on Ropsten",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "The Ropsten testnet stalled and forked multiple times this year. This talk explains why this is a good thing for core developers and why application developers don't want to rely on the Ropsten testnet but rather deploy their contracts to the Görli testnet."
+    },
+    {
+      "Nom": "Bogdan Habic",
+      "Titre": "Fantastic metrics and where to find them",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Monitoring and alerting are the pillars of making any successful production application. Now, with the rise of more and more production-ready DApps and protocols, we need to reflect on the current monitoring ways and how to apply them to the Blockchain ecosystem."
+    },
+    {
+      "Nom": "Bruno Škvorc",
+      "Titre": "Building your own blockchain in under an hour",
+      "Track": "Developer Tools",
+      "Category": "Workshop",
+      "Abstract": "We'll use Substrate to build a custom blockchain from scratch, plug in some custom modules, and launch the nodes that power it in that very room."
+    },
+    {
+      "Nom": "Daniela Osorio",
+      "Titre": "“Become a Blockchain developer: No smart contracts required”",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "A blockchain onboarding deep dive for developers interested in transferring their expertise to the web3 world."
+    },
+    {
+      "Nom": "Dennison Bertram",
+      "Titre": "Where we go from here- a year in Developer Advocacy",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "TO BE ANNOUNCED"
+    },
+    {
+      "Nom": "Ethereum Magicians",
+      "Titre": "TBD - we are still finalising session, I will reach out to Bettina very soon but we will have 4 sessions",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Ethereum Magicians sessions focused on Education in Ethereum Technology"
+    },
+    {
+      "Nom": "François-René Rideau",
+      "Titre": "Simple Formally Verified DApps—and not just Smart Contracts",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Building a DApp is are extremely expensive, slow and risky using today's tool—because a single bug can cause your users to lose all their assets. MuKn is making it orders of magnitude cheaper, faster and safer to build DApps and formally verify them. To achieve this result, we have to step back and recognize that a DApp is much more than a \"smart contract\", but an interaction between multiple distrusting parties, that runs mostly on their respective computer systems, not just on the blockchain."
+    },
+    {
+      "Nom": "Frankie Pangilinan",
+      "Titre": "TBD",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Gregory Markou",
+      "Titre": "TBD (along the lines of) - Tooling for crosschain success",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Through the past few years we've seen the rise of Ethereum dev tooling excel far beyond that of any other blockchain ecosystem. Yet, a lot of these tools are cumbersome to use, ultimately not build with end users in mind. This talk will cover some of the largest pain points in developer tooling that ends up directly affecting the end consumers (both dapp developers and dapp users). As a protocol developer, its very easy to overlook UX, and settling with the end result instead of figuring out what users actually need. It also will expand further on the Ethereum JSON-RPC API, and how other blockchain tooling teams can greatly benefit by adding support, and in turn excelling the overall experience for everyone."
+    },
+    {
+      "Nom": "Guy-Louis Grau",
+      "Titre": "Keycard: an open framework for smart cards in crypto",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "\"We want to explain why smartcards have an important role to play in the crypto sphere 1- to bring security and ownership of their private keys to users 2- to foster adoption of crypto 3- to bring crypto payments in the physical world. And how Keycard as an open source framework can be used by any project to create such smartcards. We will illustrate how Status and other projects have integrated it.\""
+    },
+    {
+      "Nom": "Igor Barinov",
+      "Titre": "Arbitrary Message Bridge",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "The Arbitrary Message Bridge (AMB) is designed to relay any data between two EVM-based chains. The originating contract encodes data in the form of an arbitrary method call, which can also include or exclude parameters."
+    },
+    {
+      "Nom": "Jakub Konka",
+      "Titre": "gWasm - challenges in securing distributed marketplace in trustless environments",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Thanks to gWasm, Golem users can now execute Wasm apps on external machines paying their owners for the computational power consumed. \nHowever, such a solution entails many security issues.\nWe will present how we integrated the sandbox and what our future plans for Wasm sandboxing are. In any distributed setup with bounded trust, it is difficult to guarantee that the results computed by a random node on the network are in fact correct. In this talk, we will discuss how this was achieved in gWasm, discussing the pros and cons of the method used. \nWe will comment on the latest addition to the Wasm world, the WebAssembly System Interface (WASI). We are currently actively helping develop WASI as contributors to the Bytecode Alliance’s Wasmtime runtime"
+    },
+    {
+      "Nom": "Jonathan Wolff",
+      "Titre": "Setting up Ethereum Workflows with the Streamr Canvas",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "The Streamr Canvas is an open-source, web-based GUI tool for creating workflows around stream processing, with modules that process, source and sink data from diverse sources such as IoT sensors, SQL databases, HTTP, and Ethereum blockchains. In this talk, we showcase Streamr’s Ethereum modules, which allow users to graphically setup Ethereum transactions and listen for Ethereum events. We’ll use Streamr’s GUI to create a simple oracle service that publishes stock price data to an Ethereum contract, and a listener that processes price data to take automated action. The talk will be of interest to anyone who needs to automate and monitor Ethereum jobs, and accessible to Ethereum newbies"
+    },
+    {
+      "Nom": "Makoto Inoue",
+      "Titre": "ENS Beyond Ethereum",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "ENS is mostly seen as a way to store Ethereum Address. I will cover other use cases."
+    },
+    {
+      "Nom": "Martin Lundfall",
+      "Titre": "Smart contracts as inductive systems",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Without a proper understanding of what smart contract are, it is difficult to say anything about what they do. This talk introduces Act, a language for specifying the semantics of smart contract and the strategies that can be employed to make claims about their behavior. Such specifications serve as a target against which implementations can be formally verified, and provide the basis for more higher-level reasoning regarding the nature of the smart contract system."
+    },
+    {
+      "Nom": "Mathias Baumann & Erik Kundt",
+      "Titre": "What's new in Solidity",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Presentation & Demonstration of new features in Solidity"
+    },
+    {
+      "Nom": "Philipp Langhans",
+      "Titre": "Grid v2 - Ethereum Infrastructure as Code",
+      "Track": "Developer Tools",
+      "Category": "Workshop",
+      "Abstract": "This workshop will start with an update on the development of Ethereum Grid v2.0 and what has happened since Devcon 5.\nThe new concept of workflows and the new docker integration will be covered. We will go over some existing examples of workflows such as\n- how Grid could be used to get started with Ewasm clients\n- to get an interactive EthersJS shell with Geth\n- how to setup your personal infrastructure and private network in the cloud\nAnd continue by writing and publishing our own first workflow that make use of Ethereum binaries - potentital candidates: Zokrates, Solc, Geth, Clef, Puppeth, Prysm"
+    },
+    {
+      "Nom": "Richard Meissner",
+      "Titre": "Dapp proxy contracts - an overview",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Smart contracts are at the core of most of the dapps in the Ethereum world. Often, these contracts require users to go through multiple interactions to generate the expected end result. To put it lightly, this could cause some inconveniences. If something goes wrong in the process, you end up in an inconsistent state that users can’t resolve. \n\nDifferent teams have started developing “dApp Proxy Contracts”, smart contracts that batch multiple transactions together so that complex interactions can be performed by the user with one click. \n\nIn this talk, we will take a look at some of the dapps developing this feature including InstaDapp, DSProxy, and the Gnosis Safe, outlining how they work, and comparing similarities and differences."
+    },
+    {
+      "Nom": "Sean Brennan",
+      "Titre": "Infura Versus: tool for benchmarking Web3 providers (remote and local)",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Revealing an open-source tool for comparing and benchmarking the performance (latency, tx's per second, block header reorganization logic, etc) of different web3 providers, including testing Infura against a locally running Geth node, and comparing Infura vs. Alchemy vs. other endpoints."
+    },
+    {
+      "Nom": "Victor Baranov",
+      "Titre": "How to deploy and customize BlockScout blockchain explorer",
+      "Track": "Developer Tools",
+      "Category": "Workshop",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Vincent Le Gallic",
+      "Titre": "TBD",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "This talk presents a selection of technical challenges we face when creating an onboarding solution based on transactions relayer and smart-wallets. What are the most interesting (and not obvious) issues? How technical infrastructure impact business model and vice versa? With the proliferation of wallet solutions, communication standards are emerging such as WalletConnect. The dilemma between decentralization and seamless UX is about to be resolved. The talk gives an overview of this exciting challenge."
+    },
+    {
+      "Nom": "Zachary Cole",
+      "Titre": "Ethereum Protocol Development With Whiteblock Genesis",
+      "Track": "Developer Tools",
+      "Category": "Workshop",
+      "Abstract": "An overview for Ethereum protocol development using the Whiteblock Genesis platform. During this workshop, we will demonstrate the basics of such technologies as Distributed Hash Tables and gossip protocols which comprise the low-level Ethereum stack."
     }
   ],
   "Enterprise": [
     {
       "Nom": "Charles Guillemet",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Enterprise"
+      "Titre": "TBD",
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "Technical insights on Ledger Vault, the enterprise digital assets custody technology"
     },
     {
       "Nom": "Elizabeth Kukka",
       "Titre": "Interoperability and multi-faceted Enterprise solutions",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "The need for multiple blockchains, at this point, ETC for incentives, ETH for tech, hyperledger for off-chain (for example). And, why enterprise adoption is important > because the mainstream doesn't adopt until enterprise adopts."
     },
     {
       "Nom": "Frederico Ast",
       "Titre": "Layer 2 for Dapps: When Decentralized Protocols Meet the Real World",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "As blockchain projects struggle for mass adoption, the concept of layer 2 gains importance for enabling real world use cases. This talk will review Kleros approach for building an ecosystem of companies which will bring decentralized justice to mainstream uses in finance, insurance and e-commerce. This experience will provide a number of insights for any protocol team to plan their own layer 2 strategy."
     },
     {
       "Nom": "Felipe Faraggi",
       "Titre": "Onchain and Offchain Permissionining with Besu",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "This cartoon presentation will explain the differences between the different types of permissioning in Besu (onchain/offchain/node/account) and understand what use cases would need permissioning in a blockchain environment."
     },
     {
       "Nom": "Jim Zhang",
       "Titre": "Demystifying Consensus Algorithms for Enterprise Blockchain",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "Private or consortium blockchain have different properties than public blockchains, using alternative consensus algorithms. One key aspect is the fact that all nodes must be explicitly allowed to join the network, aka peer permissioning. In addition, clearly designated node identities apply accountability toward the participating members. These properties make it possible to employ consensus algorithms that are designed for a distributed network comprised entirely of trusted (honest) nodes.  This session will present different consensus options for private, permissioned blockchains, highlighting use cases for each one and providing guidance for when one might be preferred over another."
     },
     {
       "Nom": "Lukas Schor",
       "Titre": "Self-custodial enterprises: Secure digital asset management for corporations",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "With regulations paving the way for institutional and corporate players to enter the digital asset landscape, 2020 will see a need for enterprises to securely store and manage crypto assets. These assets are fundamentally different from traditional assets and come with particular challenges in respect to security and usability. They are bearer instruments; that means, whoever has the private key is able to authorize transfers. Hence, securing this key against both internal and external threats is essential to the assets’ integrity. This talk will discuss how corporations can reduce counterparty risk and build trusted solutions that fit into existing internal processes, accounting practices, and security schemes."
     },
     {
       "Nom": "Nicolas Massart",
       "Titre": "Closing the enterprise feedback loop",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "How Ethereum enterprise products can benefit from developer, documentation and support teams working together in a still very new environment for our customers."
     },
     {
       "Nom": "Pedro Lopez-Belmonte",
       "Titre": "Ethereum, privacy and Enterprise Blockchain Solutions",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "Enterprises have increased the number of blockchain PoC projects, but still the adoption of distributed registry technologies has yet to take off in the enterprise world. We will discuss how to deliver an enterprise blockchain application with topics such as privacy, data ownership or standards, and we will see how luxury industry is leveraging ths technology to bring more value"
     },
     {
       "Nom": "Tyrone Lobban",
       "Titre": "Using Quorum for Enterprise Environments",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "Quorum is a a fork of Go Ethereum client (geth), the official GoLang implementation of the Ethereum protocol, designed to process private transactions with a permissioned group of known participants. It's enterprise-ready, open-source blockchain platform, based on Ethereum that addresses specific challenges to blockchain adoption within an enterprise environment such as privacy, speed, throughput."
     },
     {
       "Nom": "Vidal Chriqui",
       "Titre": "How to embed crypto incentive in your entreprise process ? Example with cruise booking",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "This talk is a return on operating experience gained with enterpises introducing a crypto incentive in their business process.\nWe will explain the benefits of such an approach, and the pratical BTU Protocol plugins needed for abstracting the blockchain complexity to enterprise developers."
     },
     {
       "Nom": "Willem Van Den Brandeler",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Enterprise"
+      "Titre": "Cryptocurrency Crime and Compliance in 2020",
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "Cryptocurrency and the underlying technologies are in perpetual flux. Learn about the latest criminal trends as well as the parallel evolution of law enforcement and compliance strategies"
     },
     {
       "Nom": "William O'Rorke",
       "Titre": "How to talk with a regulator?",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "Presentation of the main regulated cryptosystems (investment, gaming, KYC/AML, etc.) and the right way to talk with the regulator, i.e. : \n- how to design a regulatory strategy? \n- what not to say?\n- be in the head of the regulator\n- strike the right balance between regulation and operation.\n\nThese tips are relevant all over the world ;)"
     },
     {
       "Nom": "Won Kim",
       "Titre": "Creating the first Master's of Blockchain Project Design in France",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "Challenges of creating an accredited Blockchain Master's program in France including:\n-accreditation requirements\n-constructing a pedagogy (what are the standards for a blockchain agnostic program?)\n-dynamic nature of the blockchain ecosystem\n-promoting on a shoe-string budget\n-Profiles of the first class of students and their satisfaction so far. "
     },
     {
       "Nom": "Xavier Lavayssière",
       "Titre": "Architectural design of institutional digital currencies",
-      "Track": "Enterprise"
+      "Track": "Enterprise",
+      "Category": "Talk",
+      "Abstract": "The digitalisation of financial assets is a relatively old process to which new technologies and architectural designs offer new perspectives. The purpose of this work is to highlight the economic and legal consequences of various technical architectures to represent digital currencies."
     }
   ],
-  "Blockchain for Good": [
+  "Ethereum 2.0": [
     {
-      "Nom": "Clark Jonjon",
-      "Titre": "Using NFT's and radical economics to save animals",
-      "Track": "Blockchain for Good"
+      "Nom": "Aditya Asgaonkar",
+      "Titre": "Design Choices in Eth2.0",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "The \"\"holy grail\" of scalability (a.k.a. sharding) has presented protocol designers with a number of tradeoffs in the design of Eth2.0. This talk will take a look at the important tradeoffs to be made, and how the Eth2.0 choice takes a balanced approach in the spectrum of choices available, including those for:\n- Separation of validation & consensus\n- Validator set sampling\n- Cross-shard transactions"
     },
     {
-      "Nom": "Dave Appleton",
-      "Titre": "Is the US Dollar or volatile crypto really the best store of value for international social enterprise projects?",
-      "Track": "Blockchain for Good"
+      "Nom": "Aditya Asgaonkar",
+      "Titre": "Cross-shard transactions",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "The design of cross-shard transactions have a profound impact on the end users of a sharded system. In this talk, we will discuss the requirements of the ideal solution. Then, we will explore the design space of cross-shard transactions: synchronous vs. asynchronous, protocol-delivered vs. user-delivered. We will also discuss cross-shard contract calls and how the execution layer can interface with cross-shard transactions."
     },
     {
-      "Nom": "Ece Belgin",
-      "Titre": "Cryptocurrency Adoption in Developing Countries",
-      "Track": "Blockchain for Good"
+      "Nom": "Alex Beregszaszi",
+      "Titre": "TBD",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "TBD"
     },
     {
-      "Nom": "Eitan Lavi",
-      "Titre": "Web3.0: Transforming the Human Web from 0 to a 1 Sum Game",
-      "Track": "Blockchain for Good"
+      "Nom": "Alex Stokes",
+      "Titre": "Eth1 meets Eth2: forecasting the future",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "Lots of exciting work is happening with eth2 and eth1.x. While the R&D pushes forward, it raises an important question: how will we merge the two systems? The ultimate goal is to migrate the economic activity from today's chain to the new sharded system but the exact plan is still unknown and depends on which relative pieces of each effort are production-ready sooner.\n\nThis talk will discuss the relative timing and challenges behind the possible options by sharing the latest research on the finality gadget, L1 data layers, EEs and stateless clients. I aim to gather community feedback during the Q&A section which will help me direct my own efforts under the finality gadget working group (you can see the latest update here at Devcon 5: https://slideslive.com/38920071/putting-eth20-to-work)."
     },
     {
-      "Nom": "Ferit Tunçer",
-      "Titre": "Trustless Translation Freelancing",
-      "Track": "Blockchain for Good"
+      "Nom": "Ayodeji Awosika",
+      "Titre": "Leveraging African population to growing Ethereum Developer ecosystem",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "The talk will be sharing the review of the on-going 500 Nigeria Developer for Ethereum program and be explaining how efforts can be put in place to use the population and intellect of Africans to increase the number of Developers in the Ethereum Ecosystem"
     },
     {
-      "Nom": "José Almeida",
-      "Titre": "BNDESToken: Increasing trust and compliance in Brazilian public money allocation",
-      "Track": "Blockchain for Good"
+      "Nom": "Christopher Goes",
+      "Titre": "Interblockchain Communication for Eth 2.0",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "The interblockchain community protocol will faciliate permissionless interoperation between smart contracts on Ethereum 1.0/1.x & Ethereum 2.0, Cosmos zones, Polkadot parachains, Bitcoin & more. The first half of this talk presents the protocol construction, notes security properties & consensus requirements, explains the message channel interface exposed to smart contracts & modules, and discusses special techniques for bridging Nakamoto proof-of-work consensus blockchains such as Ethereum 1.0/1.x to chains with finality. The second half embarks on a speculative exploration of how IBC can be used to instantiate various sharding topologies, including proxy clients & a hub-spoke model, with particular attention to integration into the Ethereum 2 phase 2 specification process."
     },
     {
-      "Nom": "Maria Mateo Iborra",
-      "Titre": "IBISA enabling the new generation of insurance for agriculture harnessing earth observation data and blockchain",
-      "Track": "Blockchain for Good"
+      "Nom": "Eric Tu",
+      "Titre": "TBD",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "TBD"
     },
     {
-      "Nom": "Marnix Van Den Bent",
-      "Titre": "Breaking down data silo's with Self-Sovereign Identity",
-      "Track": "Blockchain for Good"
+      "Nom": "Hsiao-Wei Wang",
+      "Titre": "TBD eth2 workshop",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "TBD"
     },
     {
-      "Nom": "Matheus Alencar",
-      "Titre": "Generalized Token Curated Registries: fighting corruption, fake news and beyond.",
-      "Track": "Blockchain for Good"
+      "Nom": "Mehdi Zerouali",
+      "Titre": "Lighthouse: Road to Eth2 mainnet",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "Present insights on the development of Eth2, and the road to mainnet, with a specific focus on the Lighthouse client.\n\nLighthouse aims to be a leading client for Eth2, and we believe that\nits development as a secure and performant piece of Ethereum infrastructure\nconstitutes a public good. We would like to share our progress, particularly with\ncommunity members intending to become validators when the network goes live.\n\nSome of the topics I would be covering include:\n\n* Security-focussed features:\n* Testing and correctness:\n* Performance and storage optimizations\n* BLS standardization/optimization/testing\n* Networking improvements:\n* Insights from testnets, metrics, how to get involved"
     },
     {
-      "Nom": "Raphaël Mazet",
-      "Titre": "Impact Delivery Agreements: a new protocol for investable bounties",
-      "Track": "Blockchain for Good"
+      "Nom": "Mikerah Quintyne-Collins",
+      "Titre": "Validator Privacy in Eth2.0",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "An overview of the state of validator privacy in Eth2.0. The goal is to introduce the audience to the problem of keeping validators private and anonymous and the potential solutions as it relates to Eth2.0"
     },
     {
-      "Nom": "Sebnem Rusitschka",
-      "Titre": "Electraseed Fund - Decentralized Finance to Accelerate Access to Clean Energy in Global South & North",
-      "Track": "Blockchain for Good"
+      "Nom": "Vlad Zamfir",
+      "Titre": "Liveness in CBC Casper",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "TBD"
     },
     {
-      "Nom": "Shimon Newman",
-      "Titre": "Blockchain protocols for repatriation of stolen assets",
-      "Track": "Blockchain for Good"
+      "Nom": "Will Villanueva",
+      "Titre": "Phase2 Update from Quilt",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "All the latest on execution environments"
     }
   ],
-  "French Track": [
+  "Gaming": [
     {
-      "Nom": "",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "French Track"
+      "Nom": "Aleksander Leonard Larsen",
+      "Titre": "TBD",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "The story of Axie Infinity and how we leveraged NFTs to get one of the most passionate communities in all of blockchain gaming. We are now moving from only NFTs to other tokens and enabling a truly player-owned economy."
+    },
+    {
+      "Nom": "Drew Harding",
+      "Titre": "MetaFactory - Decentralizing the ownership of brand economies and sale of custom, digi-physical apparel",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "A background on the platform conception and the goals around the creation of brand economies, profit sharing among participants and sale gamification of custom apparel"
+    },
+    {
+      "Nom": "Gauthier Zuppinger",
+      "Titre": "Collectibles, Crypto-gaming, Non-fungible tokens: state of the economics",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "Focus on the market, trends, economics and predictions for the non fungible tokens and collectibles markets. Comparison between crypto markets and NFT markets."
+    },
+    {
+      "Nom": "Jay Lee",
+      "Titre": "The limitation and potential of Blockchain/Ethereum game",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Kyle Lu",
+      "Titre": "TBD",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Matías Nisenson",
+      "Titre": "Break it till you make it! CryptoWars is now scalable!",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "We'll talk about how we broke several networks until we made it work, now CryptoWars is used by thousands of users and still remains fully decentralized. We raised funds and are ready to take it to mainstream."
+    },
+    {
+      "Nom": "Morten Rongaard",
+      "Titre": "TBD",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Ronan Sandford",
+      "Titre": "TBD",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Ryan Gittleson",
+      "Titre": "Trust and Transparency in Online Gaming",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "I'd like to present how p2p technology and blockchain technology can create greater trust and transparency in online gaming. Then I'd like to walk through a short demo of how Virtue Poker works."
+    },
+    {
+      "Nom": "Sebastien Borget",
+      "Titre": "Empowering Creators with Blockchain and Non-Fungible Tokens",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "This talk will be about how we are leveraging Non-Fungible Tokens (NFTs) and ERC-1155 (a new standard from which we are one of the 3 main contributors) to enable user-generated contents, with true digital ownership and scarcity, making accessible to anyone (using simple voxel format for the expression of creativity) and enabling anyone to take part in the Metaverse.\n\n\nThe Sandbox is a decentralized, community driven platform, where creators can make voxel assets and gaming experiences and monetize them on the blockchain. The interests are aligned between all the users who are contributing to it, players, creators, land owners, curators, etc. -- enabling trading relationship, social relationship, governance and social rules, rewards in-game and many other potential uses."
+    },
+    {
+      "Nom": "Shaban Shaame",
+      "Titre": "Game assets tokenisation done right (TBD)",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    }
+  ],
+  "Governance / DAO": [
+    {
+      "Nom": "Alex Masmejean & Manu Alzuru",
+      "Titre": "Marketing Ethereum with a new DAO",
+      "Track": "Governance / DAO",
+      "Category": "Workshop",
+      "Abstract": "Introducing Marketing DAO, membership & grants proposal. Getting feedback & discussing with the community."
+    },
+    {
+      "Nom": "Anastasia Andrianova",
+      "Titre": "Uncollateralized loans + DAOs: how to combine these?",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "As the DeFi ecosystem evolves, we observe a clear bifurcation into crypto-native models and improvements based on legacy approaches. A reduction of the current over-collateralization margins is an important priority in the DeFi ecosystem and has been one of the focal points of our approach. Right now, several teams in the space, including us, are working in this direction — with different approaches and solutions. During this talk, we will explain how we combine DAOs and uncollateralized loans."
+    },
+    {
+      "Nom": "Bob Summerwill",
+      "Titre": "A call for an end to tribalism in Ethereum - 2 years later",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "At the opening of ETHCC in 2018 I made an impassioned call for an end to tribalistic behaviour within the Ethereum ecosystem.  This was intended as a first step to \"clean our own house\" and then for the Ethereum community to lead the same charge across the whole of blockchain.\n\nSince then I have walked the walk on that call by \"jumping the fence\" and becoming a leading figure in Ethereum Classic, while also remaining part of the Ethereum ecosystem and continuing my work on Enterprise in both EEA and HL.\n\nI have been a strong critic of the Ethereum Foundation and Ethereum Core Developers recently, but never of the Ethereum Project.\n\nIn this talk I will review the call to action I made in 2018, track progress and renew my plea for broader collaboration.   This is more important than ever!"
+    },
+    {
+      "Nom": "Clément Lesaege",
+      "Titre": "Proof Of Humanity, a Sybil-resistant list of humans",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "\nOn the blockchain no one knows you're a bot.\nA common problem for decentralized applications is the lack of Sybil-resistant identity systems. Users can create multiple addresses to create spam, bias votes or receive rewards multiple times.\nWe'll start by exploring applications requiring a Sybil-resistant identity system (Universal Basic Income, quadratic funding, product reviews). Then we'll present Proof of Humanity, a system combining social verification with video submission in order to create a Sybil-resistant list of humans. Finally we'll address privacy concerns by showing how to create Sybil-resistant anonymous identities out of Sybil-resistant public ones."
+    },
+    {
+      "Nom": "Ethereum Cat Herders",
+      "Titre": "Growing the Herd: How You Can Contribute to Ethereum as a Cat Herder",
+      "Track": "Governance / DAO",
+      "Category": "Workshop",
+      "Abstract": "In this workshop, we will give a brief overview of what the Ethereum Cat Herders are and spend the bulk of the session gathering feedback from the community about how the group can best serve the Ethereum community. \n\nWe will have an open discussion about what Cat Herders initiatives people value most, what things are missing from the Ethereum community and how people can help address these shortcomings, either as a Cat Herder or independently."
+    },
+    {
+      "Nom": "James Pitts",
+      "Titre": "Magicians and Bureaucrats in the Ethereum Galaxy",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "Building on my talk from last year, I will begin with the history of the key people and projects in the Ethereum community, and how the institutions developed. Next, I will examine various governance and organizational experiments, from the EF to core devs to ConsenSys, comparing these to traditional institutions. For the last part of the talk, I will discuss lessons learned and the principles for building lasting institutions which can serve the community.\n\nA lengthily dialogue with the audience will follow."
+    },
+    {
+      "Nom": "Jorge Izquierdo",
+      "Titre": "Subjective agreements for DAOs",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "DAOs currently operate on completely objective rules: number of tokens, favorable votes casted, etc. This talk will explore how we can bring subjective agreements to DAOs and what they can unlock.\n\nIt will be a second part to my DappCon talk, updating it with our latest research and progress made in the last 6 months: https://www.youtube.com/watch?v=j3gK48E4h1Q"
+    },
+    {
+      "Nom": "Julien Bouteloup",
+      "Titre": "The future of staking pools with Stake DAO by Stake Capital",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "About Stake DAO, the new for-profit DAO to aggregate delegates, giving them governance rights and allowing them to put their staking tokens on external #DeFi projects. Staking, the decentralized way."
+    },
+    {
+      "Nom": "Matan Field",
+      "Titre": "TBD",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Megan Knab",
+      "Titre": "DAO Economics - Balance Sheet Considerations",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "I've distilled a framework for thinking about how to design DAO finance from an accounting/compliance perspective. I work with DAOstack, Moloch forks, Aragon DAO, and OpenLaw projects to solve the accounting and finance compliance ambiguity that they face. I would love to share some of the lessons that apply across all of these platforms when forming and running a DAO."
+    },
+    {
+      "Nom": "Phil Lucsok",
+      "Titre": "OpenEthereum: Transitioning Parity Ethereum to the community",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "OpenEthereum is the decentralized community-driven ethereum client, formerly known as Parity Ethereum. Run as the first major DAO for a software project, the major client will be developed by major teams in the Ethereum ecosystem."
+    },
+    {
+      "Nom": "Tim Beiko",
+      "Titre": "Moving to an EIP-Centric Process: a retrospective",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "After Istanbul, the Ethereum Core Developers agreed to move from our previous network upgrade process to an EIP-Centric one. With Berlin approaching, we can now reflect on the benefits and challenges brought by this new process. \n\nThis talk will give an overview of how AllCoreDevs used to coordinate network upgrades, what changes were implemented post-Istanbul and what ideas have emerged to keep improving things going forward."
+    },
+    {
+      "Nom": "Vlad Zamfir",
+      "Titre": "Permissionless Decentralization and The Law",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Yalda Mousavinia",
+      "Titre": "DAOs without established legal entities are too early to be practical",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "Every year seems to be the “Year of the DAO”, but we may be a long way away from creating the original vision. The term \"DAO\" has now evolved to include organizations that are wrapped with a pre-established legal entity. But the most interesting DAOs won’t simply have a single legal entity that is driving all operations. The most interesting ones will include multiple entities that coexist alongside individual contributors. In my this talk, I'll present a new model for a DAO that connects four entities on a blockchain — an association, a Delaware C corp, a worker-owned cooperative, & a 501(c)(3) to create a multi-stakeholder ecosystem that pays it forward: both internally, and externally."
+    },
+    {
+      "Nom": "Zhivko Todorov",
+      "Titre": "Revenue generation DAOs through bonding curves",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "Deep dive into continuous organizations, incl. example of a real-world implementation that we've developed."
+    }
+  ],
+  "Other Blockchains": [
+    {
+      "Nom": "Aidan Hyman",
+      "Titre": "lessons learnt from building blockchains",
+      "Track": "Other Blockchains",
+      "Category": "Talk",
+      "Abstract": "in the talk, I will go over a few of the different projects we have been working on and some of the lessons learnt."
+    },
+    {
+      "Nom": "Cassidy Daly",
+      "Titre": "The Gateway for Real-World Assets into the Blockchain Multiverse",
+      "Track": "Other Blockchains",
+      "Category": "Talk",
+      "Abstract": "A case study of Centrifuge Chain on the efficiencies of building a single-purpose chain with a bridge to Ethereum. Though we are built on and loving Ethereum, we have needs that just can’t be met with this architecture as it exists today. Centrifuge Chain is optimized specifically for the transactions required by the Centrifuge protocol. We envision a larger ecosystem of many, connected blockchains- where dApps on Ethereum could use data from other chains, value could move freely, and Centrifuge Chain can enable off-chain assets to access financing through DeFi projects on Ethereum."
+    },
+    {
+      "Nom": "Claudia Bartoli Duncan",
+      "Titre": "Bridging non PoW/PoS sidechains with Ethereum",
+      "Track": "Other Blockchains",
+      "Category": "Talk",
+      "Abstract": "More and more crypto projects are being designed as Ethereum sidechains, tasked to offload heavy computational operations. However, the interaction these sidechains have with Ethereum must hold security guarantees which match those built from within the smart contract platform. In this talk, we will describe our model for a bridge which enables a trustless interaction between a reputation based sidechain and the Ethereum mainnet."
+    },
+    {
+      "Nom": "Fabian Vogelsteller",
+      "Titre": "LUKSO - The Blockchain for new creative economies",
+      "Track": "Other Blockchains",
+      "Category": "Talk",
+      "Abstract": "Today most Blockchain use cases are less interesting for ordinary users, as they are either very technical, financial focus, or too complicated to use. With the LUKSO Blockchain we focus on creating an ecosystem for applications that are interesting for the 1Bn people on social media, the fashion landscape and the creative industries."
+    },
+    {
+      "Nom": "Jean Yves Zie",
+      "Titre": "Extending Atomic Swaps for Interoperability",
+      "Track": "Other Blockchains",
+      "Category": "Talk",
+      "Abstract": "This talk will about my academic paper \"Extending Atomic Cross-Chain Swaps\".\nCryptocurrencies enable users to send and receive value in a trust-less manner. Unfortunately trading the associated assets usually happens on centralized exchange which becomes a trusted third party. This defeats the purpose of a trust-less system. Atomic cross-chain swaps solve this problem for exchanges of value without intermediaries. But they require both blockchains to support Hash locked and Time locked transactions. We propose an extension to atomic swap for blockchains that only support multi-signatures (multisig) transactions. This provides greater capabilities for cross-chain communications without adding any extra trust hypothesis. "
+    },
+    {
+      "Nom": "Marko Baricevic",
+      "Titre": "Rust smart contracts in Cosmos",
+      "Track": "Other Blockchains",
+      "Category": "Workshop",
+      "Abstract": "The Cosmos-SDK was purpose built for custom application built blockchains and now there have been strides to extend this to allow developers to run a warm VM within their Cosmos-SDK based blockchain. Come learn about Cosmwasm a wasm VM that can be used with the Cosmos-SDK"
+    },
+    {
+      "Nom": "Peter Eulberg",
+      "Titre": "Overview of more than 15 Ethereum-based blockchains",
+      "Track": "Other Blockchains",
+      "Category": "Talk",
+      "Abstract": "\"Learn about more than 15 Ethereum-based networks, their particular characteristics, advantages and disadvantages. There is more variety out there than you'd imagine! To tap into the multitude of chains, they are clustered by distinct attributes (PoW/PoS/PoA, live/test, public/private, history/stability, native Gas token...). Some especially noteworthy examples are covered in greater detail. Challenge your assumptions on how things are done and possibly find additional options for your project. Learn from others to make your life easier as a developer and continue to advance the Ethereum ecosystem as a whole. \""
+    },
+    {
+      "Nom": "Romain Rouphael",
+      "Titre": "Bitcoin derivatives on the Lightning Network",
+      "Track": "Other Blockchains",
+      "Category": "Talk",
+      "Abstract": "Building a trust-minimized, fast and cost-efficient settlement platform for Bitcoin derivatives: challenges and opportunities"
+    }
+  ],
+  "Privacy": [
+    {
+      "Nom": "Alex Gluchowski",
+      "Titre": "Zinc: developer-friendly programming framework for zero-knowledge proofs",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "We present Zinc: a framework for constructing R1CS-based SNARK circuits. It includes a simple, safe and efficient high-level programming language for defining zero-knowledge circuits, and a ZKP-friendly runtime execution environment. Zinc is designed to make developing scalable and privacy-preserving smart contracts easy."
+    },
+    {
+      "Nom": "Guy Zyskind",
+      "Titre": "Salad: Transactional Privacy on Ethereum with Enigma",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "Enigma's Discovery testnet, live on Kovan, enables general computational privacy for Ethereum smart contracts. Nodes that perform computations do not see the underlying data. This adds privacy guarantees to the correctness afforded by blockchain applications. This talk will describe the network architecture, including how the network manages encrypted state and compatibility with Ethereum. We will demonstrate the capabilities of the network via Salad, a decentralized mixing service for Ethereum built with Enigma’s Secret Contracts. Enigma’s Secret Contracts enable decentralized transactional privacy without the use of zero-knowledge proofs. This confers advantages over other solutions in both cost and usability."
+    },
+    {
+      "Nom": "Harry Halpin",
+      "Titre": "Nym: How to decentralize network-level privacy using cryptoeconomics",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "Network-level anonymity is necessary for Ethereum if zero-knowledge proof onchain constructions are to have any privacy. Mix-nets are the obvious solution to this problem. This talk will summarize Nym's Rust-based mix-net and how it interoperates with different chains, including Ethereum. Mix-nets provide superior network-level protection than Tor due to cover traffic and delays. Competing \"forks\" of our original, abandoned codebase like Meson do not include parameters and have  However, there is the hard question of how to set these parameters and how to decentralize the PKI of the mix-net, which determines which nodes are part of the network at a given time. Using an approach based on blockchain consensus and VRFs, will be show how we solved the hard problem of decentralizing a mixnet."
+    },
+    {
+      "Nom": "Jordi Baylina",
+      "Titre": "TBD",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Kazuaki Ishiguro",
+      "Titre": "C.R.E.A.M, zk-SNARK based protocol for public elections system”",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "Proposal of interface for voting using zk-SNARKs. This standard provides a means of token transfer to effect basic anonymous voting using zk-SNARKs. A protocol that meets this minimum requirement is named CREAM protocol because of its anonymity and the characteristics of the contract method."
+    },
+    {
+      "Nom": "Kevin Jeong",
+      "Titre": "zk-DEX",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "We introduce zk-DEX, which allows privacy to be guaranteed in the process of trading Ether and tokens. zk-DEX is a private decentralized exchange that uses zk-SNARKs during the transaction process to ensure that the identity and volume of the traders are not revealed, and it has been inspired by zcash and zk-Dai.\n\nIn zk-DEX, all assets are encrypted and stored in blockchain in the form of a note, so only owner of that note can know details of note such as the owner or amount. Also, because only the encrypted note is used in the exchange, the third party cannot know the identity of traders and amount in the process of order. It allows users to make trading safely without revealing their identity even in the blockchain where all data is public."
+    },
+    {
+      "Nom": "Laurence Kirk",
+      "Titre": "Overview of Zero Knowledge Proofs",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "An introduction to zero knowledge proofs, and an overview of the latest research"
+    },
+    {
+      "Nom": "Philippe Métais",
+      "Titre": "Semaphore : Zero-Knowledge Signaling",
+      "Track": "Privacy",
+      "Category": "Workshop",
+      "Abstract": "Six months ago, Barry Whitehat introduced Semaphore, a general solution for zero-knowledge signaling.\n\nThis solution manages on-chain sets of users who are allowed to broadcast signals anonymously. For the first time, such a user may prove on-chain that he is part of an anonymity set without revealing his identity.\n\nThis 60-minute workshop would introduce core concepts of Semaphore before presenting a development flow on this framework. A practical example around voting systems would be presented. Attendees would deploy Semaphore contracts, interact with them anonymously and even develop their own zero-knowledge logical circuits. Binary, multiple-choice, ranked voting : at the end of the workshop, they should be able to implement all of these anonymous voting systems on the Blockchain."
+    },
+    {
+      "Nom": "Robert Kiel",
+      "Titre": "HOPR as a metadata privacy foundation of the web3",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "Short introduction why metadata and especially network-level privacy matters in the context of web2 and web3. Followed by an overview of the HOPR ecosystem and a brief explanation of the mechanisms on message and payment layer. This will cover HOPRs Proof-Of-Relay scheme as well as its payment system which is influenced by payment channels and aggregatable probabilistic payment tickets. First demo of the public HOPR testnet."
+    },
+    {
+      "Nom": "Seven Waterhouse",
+      "Titre": "TBD",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "Navigating blockchain’s choppy waters: Orchid recognized early on how important it was to focus on correctly building its product, regardless of how much time it took. Seven’s decades of experience in building (and performing due diligence on) startups allowed him to navigate the busts and booms of the industry, holding a steady course, rather than continuously introducing new strategies. Seven points to several key moments of foresight in those years that helped drive the company to success. Key moments for the company included selecting business partners that share the same long term vision, and a commitment to the Ethereum network and building vertically on Layer 2 rather than creating competing infrastructure."
+    },
+    {
+      "Nom": "Tegan Kline",
+      "Titre": "Life, liberty and the pursuit of happiness — is tech taking away our liberty?",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "Integrating privacy into our tech"
+    },
+    {
+      "Nom": "Thomas Piellard",
+      "Titre": "introducing gnark, a fast zero knowledge proof library",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    }
+  ],
+  "Scalability": [
+    {
+      "Nom": "Alex Gluchowski",
+      "Titre": "ZK Sync: user-centric approach to scalability with zero-knowledge proofs",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "ZKP-based approach to blockchain scalability not only offers highest security, but can also significantly improve usability compared to other scaling methods. In this talk we will dive into ZK Sync design that was tailored to take maximum advantage of both aspects."
+    },
+    {
+      "Nom": "Alexey Akhunov",
+      "Titre": "Turbo-Geth and Stateless Ethereum",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "Main differences between Turbo-Geth and Geth, some recent data from Stateless Ethereum prototype (based on Turbo-Geth)"
+    },
+    {
+      "Nom": "Chellani Vaibhav",
+      "Titre": "State of rollups",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "- Different rollup designs\n- Different tradeoffs for both \n- Which one to use for your application\n- pros and cons of rollups \n- Comparison with other scalability techniques"
+    },
+    {
+      "Nom": "Eli Ben Sasson",
+      "Titre": "TBD",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Franziska Heintel",
+      "Titre": "(TBD!) \"The rise of layer 2\"",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "The final topic on our talk depends on the development timeline and the question whether by then the next Raiden release is live on mainnet or not. \nI would like to make it as \"interactive\" as possible, likely presenting our mainnet onboarding wizard and the complexity we have tried to hide away using this tool. We will also have major progress in developing our light client by then + a new token network which will allow to send DAI/SAI to be send using Raiden. If everything is live on mainnet by then (I hope so, but you never know), I can demo the new Raiden mainnet release and outline why we need layer 2 scalability with a few hands-on examples. It will be nice to compare the progress with what we presented at EthCC last year, since the new mainnet release will enable much more features!"
+    },
+    {
+      "Nom": "Gorka Irazoqui",
+      "Titre": "Decentralized workload distribution with VRFs and algorithmic reputation systems",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "Scalability lies at the core of every new sidechain design. However, effective work distribution among a decentralized subset of peers can be challenging without proper selection mechanisms that avoid oligarchy generation and, targeted attacks.We will explain how these could be achieved through a combination of cryptographic sortition, Verifiable Random Functions (VRFs) and an algorithmic reputation system. When VRFs are combined with a proper reputation system, the eligibility of each peer can be defined by its previous actions; the better it behaves, the more likely it will be to become eligible (and thus, rewarded). We discuss the properties that such a system can achieve and the reasons why it can be ideal for Decentralized Oracle Networks."
+    },
+    {
+      "Nom": "Guillaume Ballet",
+      "Titre": "Scaling ethereum 1.x with WASM precompiles",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "In this talk, I will present how WASM precompiles can be leveraged to solve a lot of the scalability issues afflicting Ethereum 1.x. It will expand on my Devcon talk https://www.youtube.com/watch?v=ez4W9-byCnM by detailing a Dapp development paradigm that alleviates the burden of eth 1 clients, and paves the way for Eth2."
+    },
+    {
+      "Nom": "Jack O’Holleran",
+      "Titre": "TBD",
+      "Track": "Scalability",
+      "Category": "",
+      "Abstract": "With nearly 12 years of experience in leading a variety of startup projects, Jack has honed his specialty in blockchain, decentralization, and company building through his work on SKALE. SKALE’s goal is to solve the blockchain scalability problem by facilitating processing between blockchains and decentralized applications, helping the ecosystem run hundreds of millions of smart contracts and transactions per second. He is the perfect person to dive into thoughts on scalability, decentralization, or the blockchain industry in general."
+    },
+    {
+      "Nom": "Jacob Czepluch &  Kelsos Paparas",
+      "Titre": "Hands on with Raiden and the Raiden Light Client",
+      "Track": "Scalability",
+      "Category": "Workshop",
+      "Abstract": "In this workshop, we’ll provide you with our latest tools to make Raiden’s usage an easy and fun experience for users/developers:\n\n- We will give you a brief overview of how Raiden works and provide you with everything needed to get started quickly.\n -We’ll guide you through the resources of the new developer portal. \n- Open channels and send payments with Raiden using mobile phone or browser only \n- Receive payments by getting your own full Raiden node with just a few clicks.\n\nThe workshop will not only be relevant for projects planning on integrating their Dapps with Raiden, but also to any Ethereum developer looking to learn and experience more about Ethereum scaling possibilities via payment channel networks."
+    },
+    {
+      "Nom": "Karl Floersch",
+      "Titre": "Optimistic Rollup: (TBD)",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "At minimum this talk will cover Optimistic Rollup & it's implications for scaling Ethereum smart contracts in L2."
+    },
+    {
+      "Nom": "Konstantin Kladko",
+      "Titre": "Running EVM on sidechains: five innovations",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "EVM Sidechains are decentralized ETH-compatible blockchains that can be used by DApps to speed up computation and transactions.  Since sidechains are faster and cheaper than the ETH mainnet, sidechains can impement novel features and technologies to augment existing ETH/EVM functionalities.   I am going to review five sidechain innovations that SKALE sidechains implement: storage, dynamic pricing, asynchronous Proof-of-Stake consensus, interchain messaging/money transfer and tokenless transactions.  For each feature I will provide a code sample to use it in real world DApps."
+    },
+    {
+      "Nom": "Nick Dodson",
+      "Titre": "Fuel - A Trustless Scalable Sidechain",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "Fuel is a groundbreaking blockchain based technology focused on Visa-level high-throughput, low-latency, low-cost, trustless, non-custodial, no-chargeback digital currency transactions. By using a new transaction compression technique we (Fuel Labs) discovered “optimistic rollups”. In our talk we will present the technical specifics of Fuel, optimistic rollups and what the future of layer-2 holds for Ethereum and beyond."
+    },
+    {
+      "Nom": "Piper Merriam",
+      "Titre": "Stateless Ethereum",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "I'll be sharing the latest research, current progress, and general roadmap from the Ethereum 1.x research into stateless clients.  This is a cross team/organization effort to address scalability issues with the mainnet Ethereum network while fostering greater client diversity and paving the way for the migration of Eth1.x into Eth2.0."
+    },
+    {
+      "Nom": "Silur",
+      "Titre": "Scaling storage with fountain codes",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "We review SeF, and see how fountain codes can achieve major storage savings even with byzantine nodes in mind"
+    },
+    {
+      "Nom": "Sina Mahmoodi",
+      "Titre": "Exact TBD - Merkelizing EVM bytecode",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Vaibhav Chellani",
+      "Titre": "Optimistic vs Zk Rollup",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "Having worked on both optimistic(https://github.com/vaibhavchellani/BOPR-contracts) and zkRollups(https://github.com/vaibhavchellani/RollupNC_tutorial)  I want to bring to attention to the community the various pros and cons of these approaches and help them innovate on these constructions, I will talk about different things like withdrawing times, censorship resistance, etc."
+    }
+  ],
+  "Security": [
+    {
+      "Nom": "Alexei Zamyatin",
+      "Titre": "The Nuts, Bolts and Impossibility of Trustless Cross-Chain Communication",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "With the increasing number of blockchains, differing in design and purpose, it is unlikely that there shall emerge \"one chain to rule them all\". As such, cross-chain communication has become as a major challenge in blockchain research - fundamental as it is to cryptocurrency exchanges, sharding, bootstrapping and extension of blockchains.\nWe overview and show why cross-chain communication requires a trusted third party (same as the Fair Exchange problem!), and present ways around this theoretic problem: leverage incentives, the principles which made Bitcoin work in practice. Collateralized intermediaries combined with state verification (SPV) or validation (NIZKP and fraud proofs) allow to prevent financial damage to users. See our paper for more:  https://eprint.iacr.org/2019/1128.pdf"
+    },
+    {
+      "Nom": "Bhargava Shastry",
+      "Titre": "Fuzzing the Solidity compiler",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "\"Since the Solidity programming language does not have a formal specification, testing the compiler implementation is an important way to obtain assurance about the correctness of code generated by the compiler.\nThe approach adopted by us is to define a grammar for the Solidity programming language and automatically generate inputs based on this grammar. Grammar based fuzzing ensures that generated programs are successfully parsed by the front-end parser. We make use of libProtobuf and libProtobufMutator for defining the grammar and performing grammar-based mutations, and libFuzzer as the underlying fuzzing engine.\""
+    },
+    {
+      "Nom": "Brianna Montgomery",
+      "Titre": "Preventing Disaster: Advances in Smart Contract Vulnerability Detection",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "What do the DAO, Parity MultiSig wallet and Beautychain have in common? 1. All three were hacked with disastrous consequences, 2. In each case, the bugs could have easily been spotted in advance using automated analysis techniques. In this talk, we'll investigate the above exploits in depth and show how to use a combination of multi-transactional symbolic execution, taint analysis and greybox fuzzing to detect similar bugs with high accuracy and a low false positive rate. We'll also introduce optimization tricks that enable fast detection of \"deep\" vulnerabilities - exploit conditions that are triggered over a longer sequence of highly specific transactions. Finally, we'll show how developers can apply these security analysis methods to their own contracts using MythX and Mythril."
+    },
+    {
+      "Nom": "Cameron Robertson",
+      "Titre": "How we think about storing crypto is broken",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "The original sin of cryptocurrency is not transaction speed, poor\nanonymity, volatility or a high Gini coefficient -- it's a digital\nformat which is confusing to use, easily delegated to centralized\nexchanges and, most importantly, reliant on multiple layers of\nsoftware and hardware trust. What if instead Bitcoin and Ethereum were\nlike cash, a physical format that billions of people are intimately\nfamiliar with? To achieve a viable physical cryptocurrency, however,\nwe need radically different hardware with cryptographically-secured\nguarantees of their face value and uniqueness anchored in silicon."
+    },
+    {
+      "Nom": "Damian Rusinek",
+      "Titre": "Web Apps vs Smart Contracts: tools, vulns and standards. Instroduction of SCSVS.",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "I want to focus on the whole process of security testing and present it by analogies to the web applications which are quite well-known. I am going to cover the whole SDLC and show the similarities and differences in the arsenal of vulnerabilities, security tools and standards between the smart contracts and web applications on each step. \n\n I think that, even though there exist a lot of great security projects for smart contracts, we do not have single, widely accepted security standard (such as ASVS in web apps world). That is why I am going to introduce SCSVS (Smart Contract Security Verification Standard), a open-source 13-part checklist created to standardize the security of smart contracts for developers, architects, security reviewers and vendors."
+    },
+    {
+      "Nom": "Dan Guido",
+      "Titre": "Securing smart contracts with Crytic",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "This talk will present Crytic (crytic.io), a GitHub App that continuously assures Ethereum smart contracts are safe and functional. It reports build status on every commit and runs a suite of security analyses so you get immediate security feedback.\n\nCrytic is built on the code analyzers from Trail of Bits. It runs the Slither static analyzer to detect the most common smart contract vulnerabilities, checks custom security properties with the Echidna fuzzer, and reviews the safety of upgradeable contracts. Crytic also includes visualization tools that make it easy for developers and users alike to understand smart contracts.\n\nAttendees will learn how the underlying tools in Crytic work, how to use Crytic to secure their contracts, and how to integrate its safety checks into development."
+    },
+    {
+      "Nom": "Daniel Luca",
+      "Titre": "Ether Wars Exploits Counter Exploits and Honeypots",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "In this talk I will introduce Karl, an Ethereum blockchain monitor and Theo an exploit framework for Ethereum; both open source.\n\nThe game-theoretic consequences of having these kinds of tools and honeypots on the network is examined. What if multiple bots compete for exploiting the same contracts? What about honeypots that counter-exploit bots? Is it possible to cheat honeypots? Can you build un-cheatable honeypots?"
+    },
+    {
+      "Nom": "Gonçalo Sá",
+      "Titre": "Blockchain Security 101 for the VC track",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "20 min talk on blockchain security 101, the importance of looking for companies (and or providing funding to companies) to go through full security audits and work with notable security firms, before it's too late (DAO Hack, Parity Hack, etc). & how to avoid these pitfalls and red flags in development lifecycle"
+    },
+    {
+      "Nom": "Gorka Irazoqui",
+      "Titre": "The case against using TEEs in your crypto project",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "TEEs are isolated units of hardware that ensure code is executed as expected, without the risk of a malicious OS tampering with - or snooping on - the data. As such, some argue they are vital when dealing with confidential data and/or generating hardware-based random numbers.\n\nIn this talk we will explain how the aforementioned assumption is only true when we ignore a wide range of hardware attacks. We will present how side channel and transient execution attacks nullify this assumption, by extracting information operated by enclaves. We will also discuss specific vulnerabilities faced by various TEEs, and note that some of them remain unpatched today. We will conclude by explaining the implications that these attacks might have on current well-known crypto projects in the community."
+    },
+    {
+      "Nom": "Joe Petrowski",
+      "Titre": "Sharded Security Model of Polkadot",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "How Polkadot provides security, validity, and availability with as low as 10 validators per shard."
+    },
+    {
+      "Nom": "Johann Eid",
+      "Titre": "TBD - Placeholder: Securely Connecting Smart Contracts to Off-chain Data and Events",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "Final talk TBD:\n\nFor smart contracts to achieve mass adoption, they need the ability to securely connect to external off-chain data and existing non-blockchain systems. The reliability with which smart contracts connect to key external systems determines their overall security. This critical security factor determines whether smart contracts will be used to secure the many forms of value beyond tokenization, such as prediction market outcomes, insurance payouts, trade finance, and more. \n\nIn this talk, we’ll examine what makes a secure oracle mechanism reliable enough to be trusted by smart contracts for external data delivery, access web APIs, and off-chain payments."
+    },
+    {
+      "Nom": "Joran Honig",
+      "Titre": "TBD: Mutation Testing for Smart Contracts",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "In september I published some research on mutation testing for smart contracts. With this paper I also released an open source mutation testing tool:\nhttps://github.com/JoranHonig/vertigo\nWhich has seen a few improvements since it's initial release ( and probably will see a few more before EthCC)\n \nIn this talk I would like to discuss some of the theory of mutation testing.\nAs well as some of the more technical and practical challenges and aspects of mutation testing when applied to smart contracts.\nhttps://medium.com/swlh/introduction-into-mutation-testing-d6512dc702b0\n^ this is an article I wrote on medium about mutation testing. \n\nAfter the talk my aim is that people will be able to apply mutation testing in their development workflow to keep their smart contracts safe."
+    },
+    {
+      "Nom": "Patrick Mccorry",
+      "Titre": "Towards Self-Custody on Exchanges",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "When most folk hear about off-chain protocols, the immediately think about how to scale cryptocurrencies. But that is the wrong narrative and in fact it should be around self-custody, such that as a user, you can visit any online service provider (or exchange) and maintain self-custody of your funds. There are two ways to achieve self-custody, channels and commitchains, but both have their problems. While channels provide instant redeemability of funds, you need to temporarily provide a service provider some \"some\" custody (or rely on micropayments). Whereas commitchains provide eventual redeemability of funds such that the transaction can be censored or reversed for a short period of time. We explore both in terms of self-custody of funds and how it can be achieved."
+    },
+    {
+      "Nom": "Patrick Ventuzelo",
+      "Titre": "Reversing eWasm contract 101",
+      "Track": "Security",
+      "Category": "Workshop",
+      "Abstract": "In this workshop, I will first introduce WebAssembly concepts and eWasm opcodes/instructions. Secondly, I will show how to create eWasm smart contract and expose different techniques/tools to perform WebAssembly module closed-source analysis. Finally, we will hands-on with basic examples and challenges (crackmes) to apply reverse engineering of those contracts and understand the logic."
+    },
+    {
+      "Nom": "Philipp Langhans",
+      "Titre": "Ethereum Flavored Packages",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "Package signing works and is a great tool every developer should know!\nHowever, when package/code signing is not mandatory there is no incentive to go this \"extra mile\" which opens large attack surfaces and creates vulnerable software systems. \nIn this talk we will present \"Ethpkg\" - a package manager with built-in ECDSA capabilities. We will demonstrate how the same signature schemes that power the Ethereum network can be used to sign arbitrary packages and containers for large amounts of heterogeneous data such as blockchain state, software code and metadata.\nWe will discuss how cryptoeconomic principles are used to incentivize this extra layer of security and how signed packages create zero-config donation systems and help enable continuous software funding for open source."
+    },
+    {
+      "Nom": "Sergii Kravchenko",
+      "Titre": "Why do we Audit?",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "Security vulnerabilities have cost blockchain companies north of $2B in lost or stolen capital. Blockchain security audits is a much needed service. We will discuss key aspects of a smart contract audit, the importance of smart contract auditing, and recent vulnerabilities all security engineers in the industry have identified in well known projects in an effort to enhance the security of the ecosystem."
+    },
+    {
+      "Nom": "Shayan Eskandari",
+      "Titre": "Transparent Dishonesty: front-running attacks on Blockchain",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "This talk will be based on a published paper on the subject, here's the abstract of the paper:\n\nWe consider front-running to be a course of action where an entity benefits from prior access to privileged market information about upcoming transactions and trades. Front-running has been an issue in financial instrument markets since the 1970s. With the advent of the blockchain technology, front-running has resurfaced in new forms we explore here, instigated by blockchains decentralized and transparent nature. In this paper, we draw from a scattered body of knowledge and instances of front-running across the top 25 most active decentral applications (DApps) deployed on Ethereum blockchain. Finally, we map the proposed solutions to front-running into useful categories."
+    },
+    {
+      "Nom": "Souradeep Das",
+      "Titre": "Getting Started with Vyper",
+      "Track": "Security",
+      "Category": "Workshop",
+      "Abstract": "Ethereum has come a long way from the start, but the journey hasn't been all rainbows and butterflies. Smart contracts, expected to radically change the world are only as good as they are secure - “One bad programmer can easily create two new jobs a year”.\n\nThe workshop intends to discuss the past attacks on smart contracts, security measures, design patterns and instigate the adaption of new security-centric smart contract language.\n\nThe first half of the session is about learning and applying the knowledge through a challenge-based approach, while the second half is more of a hands-on session to BUIDL your own smart contracts using Vyper."
+    }
+  ],
+  "Web3": [
+    {
+      "Nom": "Abbey Titcomb",
+      "Titre": "Towards decentralized alternatives for code collaboration",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "Radicle is a peer-to-peer network for code collaboration. It's a decentralized collaboration environment that’s designed to be offline-first, peer-to-peer, cryptographically secure, programmable, and interoperable & open.\n\nThis talk will walk the audience through the Radicle protocol and touch on the design approach of the Radicle stack. It will outline the project's next steps and explore our blockchain components & integrations. Radicle (http://radicle.xyz/) is a free and open source project supported by Monadic (https://monadic.xyz/)."
+    },
+    {
+      "Nom": "Ben Livshits",
+      "Titre": "Making Web3 Real with Brave",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "I will talk about some major strides we have been making to bring Web3 to the masses. Brave browser has over 8M regular users now, with various crypto functionality within it being used increasingly more. I will talk about some use cases which provide a deep connection between the existing Web2 infrastructure and Web3."
+    },
+    {
+      "Nom": "Christopher Shen",
+      "Titre": "Blockchain Name Service",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "How Blockchain Name Service is improving the user experience of blockchain technology."
+    },
+    {
+      "Nom": "Dean Eigenman",
+      "Titre": "From Whisper to Waku",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Evan Van Ness",
+      "Titre": "The Ethereum Community in 2020",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "TBD"
+    },
+    {
+      "Nom": "Joel Oed",
+      "Titre": "Make your dapp a meeting point for your community",
+      "Track": "Web3",
+      "Category": "Workshop",
+      "Abstract": "Most dapps are way to focused on only smart contract interaction. In this workshop you will learn how to use 3box tools to make your dapp more engaging and interactive by allowing your users to meet."
+    },
+    {
+      "Nom": "Julien Genestoux",
+      "Titre": "Monetizing through Membership, rather than attention",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "It's 2020 and we're still using attention as the core metric for monetization online. This is now obviously a mistake. In this presentation I'll be showing that we're moving toward membership for monetization, why this is good and how ethereum can make this better!"
+    },
+    {
+      "Nom": "Marek Kirejczyk",
+      "Titre": "Develop faster and acquire more users using Universal Logins",
+      "Track": "Web3",
+      "Category": "Workshop",
+      "Abstract": "How to quickly use the Universal Login SDK to build apps with better retention rate, so you don't need to worry about onboarding and can focus on building the killer app you want to build"
+    },
+    {
+      "Nom": "Moshe Malawach",
+      "Titre": "Decentralized application and devices with Aleph.IM and Ethereum",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "Our modern web is made of silos, be it for social network, cloud services, IoT devices provider.\nWe will explain how we are building a decentralized web infrastructure that can withstand huge loads with the aleph.im project and how it can be used to break those silos.\n\nYou can play with a decentralized cloud storage dApp yourself there:\nhttps://my-beta.aleph.im (do it! it takes a few minutes only)\n\nOur network is currently compatible and connected to NULS, Ethereum and Binance Chain. Other chains are being implemented."
+    },
+    {
+      "Nom": "Nicholas Rodrigues Lordello",
+      "Titre": "Type-safe Smart Contract Interactions From Rust",
+      "Track": "Web3",
+      "Category": "Workshop",
+      "Abstract": "The How and Why of using Rust metaprogramming features to generate type-safe bindings to smart contracts and facilitate development of dApps."
+    },
+    {
+      "Nom": "Phil Lucsok",
+      "Titre": "TBD",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "TBD (Will likely focus on Substrate and its use cases across blockchain: EVM, Eth2.0, Polkadot, etc.)"
+    },
+    {
+      "Nom": "Richard Moore",
+      "Titre": "ethers.js - A compact, simple and complete Ethereum library",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "An overview of ethers.js."
+    },
+    {
+      "Nom": "Shiv Malik",
+      "Titre": "Monetizing Browsing Data with Swash",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "Swash is the world's first data union. Built by developers based out of Turkey, the Swash browser extension makes it possible for individuals to aggregate their search, Facebook Twitter and Amazon data in a way that respects privacy, and then enables users to have their data sold on a decentralized data marketplace. Several other types of data unions (including mobile apps) are being built on the Streamr, a platform which provides the raw infrastructure needed for individuals to collectively monetize their data. So what does this innovation mean for the future of data and privacy?\nThe interests of data dignity, an open society, and financial equity, are best balanced through individuals claiming property rights over their data as part of a professionally run collective."
+    },
+    {
+      "Nom": "Simona Pop",
+      "Titre": "Earn as you learn models for ecosystem development",
+      "Track": "Web3",
+      "Category": "Workshop",
+      "Abstract": "\"Practical examples of how education and coordinated community engagement can turbo charge adoption\""
     }
   ]
 }
