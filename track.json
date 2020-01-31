@@ -449,10 +449,10 @@
     },
     {
       "Nom": "Lefteris Karapetsas",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "Rotki, the financial tool that respects your privacy",
       "Track": "Decentralised Finance",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": " Rotki is the portfolio tracker and accounting tool that respects your privacy. In this talk we will see what it is, what problem it solves and what's new in the latest version. More specifically how it integrates with DeFi and general accounting for the ethereum blockchain."
     },
     {
       "Nom": "Léonard Lys",
@@ -1029,7 +1029,7 @@
       "Titre": "DAO Economics - Balance Sheet Considerations",
       "Track": "Governance / DAO",
       "Category": "Talk",
-      "Abstract": "I've distilled a framework for thinking about how to design DAO finance from an accounting/compliance perspective. I work with DAOstack, Moloch forks, Aragon DAO, and OpenLaw projects to solve the accounting and finance compliance ambiguity that they face. I would love to share some of the lessons that apply across all of these platforms when forming and running a DAO."
+      "Abstract": "Let’s talk about constructing DAO finance. I’ll share a framework for building DAOs from an accounting perspective. I’ve distilled this from working with moloch forks, DAOstack and Aragon DAOs so is translatable across platforms."
     },
     {
       "Nom": "Phil Lucsok",
@@ -1405,10 +1405,10 @@
     },
     {
       "Nom": "Patrick Mccorry",
-      "Titre": "Towards Self-Custody on Exchanges",
+      "Titre": "Why meta-transactions in ETH 1.0 suck and what we can do about it",
       "Track": "Security",
       "Category": "Talk",
-      "Abstract": "When most folk hear about off-chain protocols, the immediately think about how to scale cryptocurrencies. But that is the wrong narrative and in fact it should be around self-custody, such that as a user, you can visit any online service provider (or exchange) and maintain self-custody of your funds. There are two ways to achieve self-custody, channels and commitchains, but both have their problems. While channels provide instant redeemability of funds, you need to temporarily provide a service provider some \"some\" custody (or rely on micropayments). Whereas commitchains provide eventual redeemability of funds such that the transaction can be censored or reversed for a short period of time. We explore both in terms of self-custody of funds and how it can be achieved."
+      "Abstract": "Meta-transactions are useful when someone else (a relayer) can pay the gas fee on a user's behalf. It is promoted as a great mechanism for on-boarding new users, helping others transfer ERC20 tokens or just to play around with Tornado cash. We have spent the past few months building, any.sender & any.watcher, a financially accountable meta-transaction relayer. Its USP is a smart-contract enforced quality of service or your money back.  Along the way, we have faced hurdle after hurdle after hurdle to get it up and running, thanks to a dash of wizardry, unicorns and star-alignment. However 99% of the problems faced are fundamental due to the limitations in ETH 1.0 that can  easily be addressed in ETH 2.0. We'll take this opportunity to talk about why meta-transactions are useful, the any.sender design, and what really needs to be fixed in ETH 2.0 to ensure meta-transactions become a native-primitive of the eco-system."
     },
     {
       "Nom": "Patrick Ventuzelo",

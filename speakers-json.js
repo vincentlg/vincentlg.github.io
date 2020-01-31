@@ -65,7 +65,7 @@ var speakers = [
   {
     "firstName": "Seyedehmahsa",
     "lastName": "MOOSAVI",
-    "link": "https://twitter.com/msv1991_mahsa",
+    "link": "https://twitter.com/msv_mahsa",
     "picture": "images/speakers_2020/Mahsa_Moosavi.jpg",
     "company": "Concordia University"
   },
