@@ -449,10 +449,10 @@
     },
     {
       "Nom": "Lefteris Karapetsas",
-      "Titre": "TBD - But will be related to Rotki",
+      "Titre": "Rotki, the financial tool that respects your privacy",
       "Track": "Decentralised Finance",
       "Category": "Talk",
-      "Abstract": "TO BE ANNOUNCED"
+      "Abstract": " Rotki is the portfolio tracker and accounting tool that respects your privacy. In this talk we will see what it is, what problem it solves and what's new in the latest version. More specifically how it integrates with DeFi and general accounting for the ethereum blockchain."
     },
     {
       "Nom": "Léonard Lys",
@@ -1036,7 +1036,7 @@
       "Titre": "DAO Economics - Balance Sheet Considerations",
       "Track": "Governance / DAO",
       "Category": "Talk",
-      "Abstract": "I've distilled a framework for thinking about how to design DAO finance from an accounting/compliance perspective. I work with DAOstack, Moloch forks, Aragon DAO, and OpenLaw projects to solve the accounting and finance compliance ambiguity that they face. I would love to share some of the lessons that apply across all of these platforms when forming and running a DAO."
+      "Abstract": "Let’s talk about constructing DAO finance. I’ll share a framework for building DAOs from an accounting perspective. I’ve distilled this from working with moloch forks, DAOstack and Aragon DAOs so is translatable across platforms.",
     },
     {
       "Nom": "Phil Lucsok",
