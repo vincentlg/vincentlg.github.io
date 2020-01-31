@@ -102,7 +102,7 @@
     },
     {
       "Nom": "Ankit Chiplunkar",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Crypto Economics",
       "Category": "Talk",
       "Abstract": "Understanding the role of centralized exchanges in crypto economics"
@@ -116,10 +116,10 @@
     },
     {
       "Nom": "Griff Green",
-      "Titre": "TBD",
+      "Titre": "Incentivizing Funding for Public Goods",
       "Track": "Crypto Economics",
       "Category": "Talk",
-      "Abstract": "TBD - We are building \"Commons\" - basically Token Bonding Curves attached to DAOs that can be used to support sustainable funding for a public good... We are starting with advancing token engineering research :-D we use a lot of Token Engineering to make all this work... so it's a mix of blockchain4good and Crypto Economics... \n\nMy talks at ETHCC are always my favorites :-D I hope to keep the streak alive!\n\nI can do 30-60 minutes"
+      "Abstract": "We are building \"Commons\" - basically Token Bonding Curves attached to DAOs that can be used to support sustainable funding for a public good... We are starting with advancing token engineering research :-D we use a lot of Token Engineering to make all this work"
     },
     {
       "Nom": "Lasse Clausen",
@@ -151,7 +151,7 @@
     },
     {
       "Nom": "Petar Jursic",
-      "Titre": "TBD (crypto powered socioeconomic systems?)",
+      "Titre": "Crypto powered socioeconomic systems",
       "Track": "Crypto Economics",
       "Category": "Talk",
       "Abstract": "Building a social infrastructure for the builders ecosystem, then expanding it as a socioeconomic system layer above the nation states. \nMetaCartel > Ethereum > wider crypto > general freelancer > anyone.\nReal life RPG, something like that.\nhttps://twitter.com/Metafam/status/1199447733901418496"
@@ -209,10 +209,10 @@
     },
     {
       "Nom": "Amy Jung",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "dApps / UX /UI",
       "Category": "Talk",
-      "Abstract": "Rough outline:\nDesign in Web3 is evolving through open source principles\n\nDriving forces:\n- Fluidity of project cross collaboration\n- Solo designers\n- Standardization is coming\n- Ethical nature of Web3\n- Design systems\n\nExamples: Burner Wallet Factory, Devcon UX Audits, Web3 Open Source Design group"
+      "Abstract": ""
     },
     {
       "Nom": "Ashleigh Schap",
@@ -254,7 +254,7 @@
       "Titre": "Blockchain as a Service product market fit",
       "Track": "dApps / UX /UI",
       "Category": "Workshop",
-      "Abstract": "TBD"
+      "Abstract": ""
     },
     {
       "Nom": "Itamar Lesuisse & Julien Niset",
@@ -296,7 +296,7 @@
       "Titre": "The next frontier for DeFi: How Multisigs will bring the next $1B to decentralized finance",
       "Track": "dApps / UX /UI",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Sasha Tanase",
@@ -307,7 +307,7 @@
     },
     {
       "Nom": "Stefan George",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "dApps / UX /UI",
       "Category": "Workshop",
       "Abstract": "The value locked in DeFi protocols surged dramatically in 2019, with over $600M already being put to work. Decentralized finance has clearly achieved product-market fit on the Ethereum blockchain. However, still, the majority of crypto funds stored on multi-signature wallets sit idle, having no easy way to interact with DeFi protocols. With over $1B worth of digital assets held in Gnosis Multisig wallets alone, it’s essential for the dapp ecosystem to access this untapped market. This talk will introduce a completely new way for developers to build their dapps right into a Multisig interface. Let’s make 2020 the year where Multisig funds are fully connected to DeFi."
@@ -424,7 +424,7 @@
       "Titre": "Become a crypto fund manager on Melon",
       "Track": "Decentralised Finance",
       "Category": "Talk",
-      "Abstract": "Melon ecosystem and roadmap overview + Announcement TBD"
+      "Abstract": "Melon ecosystem and roadmap overview & a special announcement"
     },
     {
       "Nom": "Jonas Rubel",
@@ -449,7 +449,7 @@
     },
     {
       "Nom": "Lefteris Karapetsas",
-      "Titre": "TBD - But will be related to Rotki",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "TO BE ANNOUNCED"
@@ -470,7 +470,7 @@
     },
     {
       "Nom": "Mara Schmiedt",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "2016-2018 we saw trillions of utility tokens issued and $24B in funds raised through ICOs. It was an era of strong innovation and undoubtedly poor execution. Where does the ecosystem stand today?\n\nFind out how Activate and SKALE Labs are paving the industry for launching and participating in the decentralized networks of tomorrow. \n"
@@ -487,7 +487,7 @@
       "Titre": "The New Economic Paradigm",
       "Track": "Decentralised Finance",
       "Category": "Talk",
-      "Abstract": "The future of the global economy won't rest on those repurposing the same systems we already have in place, the future of economies will rest squarely in a new-decentralised paradigm, one built on the backbone of blockchain.  (Will firm up but TBD)"
+      "Abstract": "The future of the global economy won't rest on those repurposing the same systems we already have in place, the future of economies will rest squarely in a new-decentralised paradigm, one built on the backbone of blockchain. "
     },
     {
       "Nom": "Mounir Benchemled",
@@ -512,7 +512,7 @@
     },
     {
       "Nom": "Thomas Bertani",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "Today, the most successful DeFi tools are on Ethereum. Yet, the biggest cryptocurrencies live on multiple blockchains.\nThe pTokens technology enables cross-chain DeFi composability. The Ethereum blockchain has acted as a catalyst for the growth of a whole new decentralized financial system. Based on the tech stack built in the last 5 years by Provable, the longest-running oracle service, pTokens level up the game by connecting any asset to any blockchain. A decentralized system making the movement of assets unchained thanks to a multi-party computation (MPC) approach where each validating node is secured by Trusted Computing for additional security.\nBy complementing cutting-edge technologies one with the other, pTokens make pBTC on ETH as well as pDAI on EOS and pETH on Liquid possible."
@@ -584,7 +584,7 @@
     },
     {
       "Nom": "Ethereum Magicians",
-      "Titre": "TBD - we are still finalising session, I will reach out to Bettina very soon but we will have 4 sessions",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Developer Tools",
       "Category": "Talk",
       "Abstract": "Ethereum Magicians sessions focused on Education in Ethereum Technology"
@@ -598,14 +598,14 @@
     },
     {
       "Nom": "Frankie Pangilinan",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Developer Tools",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Gregory Markou",
-      "Titre": "TBD (along the lines of) - Tooling for crosschain success",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Developer Tools",
       "Category": "Talk",
       "Abstract": "Through the past few years we've seen the rise of Ethereum dev tooling excel far beyond that of any other blockchain ecosystem. Yet, a lot of these tools are cumbersome to use, ultimately not build with end users in mind. This talk will cover some of the largest pain points in developer tooling that ends up directly affecting the end consumers (both dapp developers and dapp users). As a protocol developer, its very easy to overlook UX, and settling with the end result instead of figuring out what users actually need. It also will expand further on the Ethereum JSON-RPC API, and how other blockchain tooling teams can greatly benefit by adding support, and in turn excelling the overall experience for everyone."
@@ -685,11 +685,11 @@
       "Titre": "How to deploy and customize BlockScout blockchain explorer",
       "Track": "Developer Tools",
       "Category": "Workshop",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Vincent Le Gallic",
-      "Titre": "TBD",
+      "Titre": "Meta-Transaction, Pandora's box or weapon of mass adoption?",
       "Track": "Developer Tools",
       "Category": "Talk",
       "Abstract": "This talk presents a selection of technical challenges we face when creating an onboarding solution based on transactions relayer and smart-wallets. What are the most interesting (and not obvious) issues? How technical infrastructure impact business model and vice versa? With the proliferation of wallet solutions, communication standards are emerging such as WalletConnect. The dilemma between decentralization and seamless UX is about to be resolved. The talk gives an overview of this exciting challenge."
@@ -705,7 +705,7 @@
   "Enterprise": [
     {
       "Nom": "Charles Guillemet",
-      "Titre": "TBD",
+      "Titre":"TO BE ANNOUNCED",
       "Track": "Enterprise",
       "Category": "Talk",
       "Abstract": "Technical insights on Ledger Vault, the enterprise digital assets custody technology"
@@ -819,10 +819,10 @@
     },
     {
       "Nom": "Alex Beregszaszi",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Ethereum 2.0",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Alex Stokes",
@@ -847,17 +847,17 @@
     },
     {
       "Nom": "Eric Tu",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Ethereum 2.0",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Hsiao-Wei Wang",
-      "Titre": "TBD eth2 workshop",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Ethereum 2.0",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Mehdi Zerouali",
@@ -878,7 +878,7 @@
       "Titre": "Liveness in CBC Casper",
       "Track": "Ethereum 2.0",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Will Villanueva",
@@ -891,7 +891,7 @@
   "Gaming": [
     {
       "Nom": "Aleksander Leonard Larsen",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Gaming",
       "Category": "Talk",
       "Abstract": "The story of Axie Infinity and how we leveraged NFTs to get one of the most passionate communities in all of blockchain gaming. We are now moving from only NFTs to other tokens and enabling a truly player-owned economy."
@@ -915,14 +915,14 @@
       "Titre": "The limitation and potential of Blockchain/Ethereum game",
       "Track": "Gaming",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Kyle Lu",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Gaming",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Matías Nisenson",
@@ -933,17 +933,17 @@
     },
     {
       "Nom": "Morten Rongaard",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Gaming",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Ronan Sandford",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Gaming",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Ryan Gittleson",
@@ -961,10 +961,10 @@
     },
     {
       "Nom": "Shaban Shaame",
-      "Titre": "Game assets tokenisation done right (TBD)",
+      "Titre": "Game assets tokenisation done right",
       "Track": "Gaming",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     }
   ],
   "Governance / DAO": [
@@ -1026,10 +1026,10 @@
     },
     {
       "Nom": "Matan Field",
-      "Titre": "TBD",
+      "Titre":"TO BE ANNOUNCED",
       "Track": "Governance / DAO",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Megan Knab",
@@ -1057,7 +1057,7 @@
       "Titre": "Permissionless Decentralization and The Law",
       "Track": "Governance / DAO",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Yalda Mousavinia",
@@ -1156,10 +1156,10 @@
     },
     {
       "Nom": "Jordi Baylina",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Privacy",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Kazuaki Ishiguro",
@@ -1198,7 +1198,7 @@
     },
     {
       "Nom": "Seven Waterhouse",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Privacy",
       "Category": "Talk",
       "Abstract": "Navigating blockchain’s choppy waters: Orchid recognized early on how important it was to focus on correctly building its product, regardless of how much time it took. Seven’s decades of experience in building (and performing due diligence on) startups allowed him to navigate the busts and booms of the industry, holding a steady course, rather than continuously introducing new strategies. Seven points to several key moments of foresight in those years that helped drive the company to success. Key moments for the company included selecting business partners that share the same long term vision, and a commitment to the Ethereum network and building vertically on Layer 2 rather than creating competing infrastructure."
@@ -1215,7 +1215,7 @@
       "Titre": "introducing gnark, a fast zero knowledge proof library",
       "Track": "Privacy",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     }
   ],
   "Scalability": [
@@ -1242,14 +1242,14 @@
     },
     {
       "Nom": "Eli Ben Sasson",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Scalability",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Franziska Heintel",
-      "Titre": "(TBD!) \"The rise of layer 2\"",
+      "Titre": "The rise of layer 2",
       "Track": "Scalability",
       "Category": "Talk",
       "Abstract": "The final topic on our talk depends on the development timeline and the question whether by then the next Raiden release is live on mainnet or not. \nI would like to make it as \"interactive\" as possible, likely presenting our mainnet onboarding wizard and the complexity we have tried to hide away using this tool. We will also have major progress in developing our light client by then + a new token network which will allow to send DAI/SAI to be send using Raiden. If everything is live on mainnet by then (I hope so, but you never know), I can demo the new Raiden mainnet release and outline why we need layer 2 scalability with a few hands-on examples. It will be nice to compare the progress with what we presented at EthCC last year, since the new mainnet release will enable much more features!"
@@ -1270,7 +1270,7 @@
     },
     {
       "Nom": "Jack O’Holleran",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Scalability",
       "Category": "",
       "Abstract": "With nearly 12 years of experience in leading a variety of startup projects, Jack has honed his specialty in blockchain, decentralization, and company building through his work on SKALE. SKALE’s goal is to solve the blockchain scalability problem by facilitating processing between blockchains and decentralized applications, helping the ecosystem run hundreds of millions of smart contracts and transactions per second. He is the perfect person to dive into thoughts on scalability, decentralization, or the blockchain industry in general."
@@ -1284,7 +1284,7 @@
     },
     {
       "Nom": "Karl Floersch",
-      "Titre": "Optimistic Rollup: (TBD)",
+      "Titre": "TO BE ANNOUNCED (Optimistic Rollup)",
       "Track": "Scalability",
       "Category": "Talk",
       "Abstract": "At minimum this talk will cover Optimistic Rollup & it's implications for scaling Ethereum smart contracts in L2."
@@ -1319,10 +1319,10 @@
     },
     {
       "Nom": "Sina Mahmoodi",
-      "Titre": "Exact TBD - Merkelizing EVM bytecode",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Scalability",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Vaibhav Chellani",
@@ -1405,17 +1405,17 @@
     },
     {
       "Nom": "Johann Eid",
-      "Titre": "TBD - Placeholder: Securely Connecting Smart Contracts to Off-chain Data and Events",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Security",
       "Category": "Talk",
-      "Abstract": "Final talk TBD:\n\nFor smart contracts to achieve mass adoption, they need the ability to securely connect to external off-chain data and existing non-blockchain systems. The reliability with which smart contracts connect to key external systems determines their overall security. This critical security factor determines whether smart contracts will be used to secure the many forms of value beyond tokenization, such as prediction market outcomes, insurance payouts, trade finance, and more. \n\nIn this talk, we’ll examine what makes a secure oracle mechanism reliable enough to be trusted by smart contracts for external data delivery, access web APIs, and off-chain payments."
+      "Abstract": "For smart contracts to achieve mass adoption, they need the ability to securely connect to external off-chain data and existing non-blockchain systems. The reliability with which smart contracts connect to key external systems determines their overall security. This critical security factor determines whether smart contracts will be used to secure the many forms of value beyond tokenization, such as prediction market outcomes, insurance payouts, trade finance, and more. \n\nIn this talk, we’ll examine what makes a secure oracle mechanism reliable enough to be trusted by smart contracts for external data delivery, access web APIs, and off-chain payments."
     },
     {
       "Nom": "Joran Honig",
-      "Titre": "TBD: Mutation Testing for Smart Contracts",
+      "Titre": "Mutation Testing for Smart Contracts",
       "Track": "Security",
       "Category": "Talk",
-      "Abstract": "In september I published some research on mutation testing for smart contracts. With this paper I also released an open source mutation testing tool:\nhttps://github.com/JoranHonig/vertigo\nWhich has seen a few improvements since it's initial release ( and probably will see a few more before EthCC)\n \nIn this talk I would like to discuss some of the theory of mutation testing.\nAs well as some of the more technical and practical challenges and aspects of mutation testing when applied to smart contracts.\nhttps://medium.com/swlh/introduction-into-mutation-testing-d6512dc702b0\n^ this is an article I wrote on medium about mutation testing. \n\nAfter the talk my aim is that people will be able to apply mutation testing in their development workflow to keep their smart contracts safe."
+      "Abstract": "In september I published some research on mutation testing for smart contracts. With this paper I also released an open source mutation testing tool:\nhttps://github.com/JoranHonig/vertigo\nWhich has seen a few improvements since it's initial release (and probably will see a few more before EthCC)\n \nIn this talk I would like to discuss some of the theory of mutation testing.\nAs well as some of the more technical and practical challenges and aspects of mutation testing when applied to smart contracts.\nhttps://medium.com/swlh/introduction-into-mutation-testing-d6512dc702b0\n^ this is an article I wrote on medium about mutation testing. \n\nAfter the talk my aim is that people will be able to apply mutation testing in their development workflow to keep their smart contracts safe."
     },
     {
       "Nom": "Patrick Mccorry",
@@ -1487,14 +1487,14 @@
       "Titre": "From Whisper to Waku",
       "Track": "Web3",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Evan Van Ness",
       "Titre": "The Ethereum Community in 2020",
       "Track": "Web3",
       "Category": "Talk",
-      "Abstract": "TBD"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Joel Oed",
@@ -1533,10 +1533,10 @@
     },
     {
       "Nom": "Phil Lucsok",
-      "Titre": "TBD",
+      "Titre": "TO BE ANNOUNCED",
       "Track": "Web3",
       "Category": "Talk",
-      "Abstract": "TBD (Will likely focus on Substrate and its use cases across blockchain: EVM, Eth2.0, Polkadot, etc.)"
+      "Abstract": "TO BE ANNOUNCED"
     },
     {
       "Nom": "Richard Moore",
@@ -1559,5 +1559,13 @@
       "Category": "Workshop",
       "Abstract": "\"Practical examples of how education and coordinated community engagement can turbo charge adoption\""
     }
-  ]
+  ],
+  "French Track": [
+    {
+      "Nom": "TO BE ANNOUNCED",
+      "Titre": "TO BE ANNOUNCED",
+      "Track": "French Track",
+
+    }
+  ],
 }
