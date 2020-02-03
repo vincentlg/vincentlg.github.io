@@ -678,7 +678,7 @@
       "Titre": "How to deploy and customize BlockScout blockchain explorer",
       "Track": "Developer Tools",
       "Category": "Workshop",
-      "Abstract": ""
+      "Abstract": "BlockScout is an open-source full-featured blockchains explorer supporting any chain based on Ethereum protocol. It supplies the basic features like searching of transactions, viewing of accounts and balances, and verification of smart contracts on Ethereum including forks and sidechains This workshop is for those who want to dive into the learning of the features, that BlockScout provides, and the ways of deployment and customisation for your needs. During the workshop, you will deploy your own instance of explorer."
     },
     {
       "Nom": "Vincent Le Gallic",
