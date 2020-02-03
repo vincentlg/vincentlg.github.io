@@ -1484,10 +1484,10 @@
     },
     {
       "Nom": "Joel Oed",
-      "Titre": "Make your dapp a meeting point for your community",
+      "Titre": "Add confidential user to user communication in your dapp",
       "Track": "Web3",
       "Category": "Workshop",
-      "Abstract": "Most dapps are way to focused on only smart contract interaction. In this workshop you will learn how to use 3box tools to make your dapp more engaging and interactive by allowing your users to meet."
+      "Abstract": "Most dapps are way to focused on only smart contract interaction. In this workshop you will learn how to use 3box tools to make your dapp more engaging and interactive by allowing your users to communicate confidentially."
     },
     {
       "Nom": "Julien Genestoux",
