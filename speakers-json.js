@@ -602,6 +602,13 @@ var speakers = [
     "company": "BTU Protocol"
   },
     {
+    "firstName": "Mario",
+    "lastName": "Cao",
+    "link": "https://twitter.com/cao_mario",
+    "picture": "images/speakers_2020/Mario_Cao.jpg",
+    "company": "Witnet Foundation"
+  },
+    {
     "firstName": "Gorka",
     "lastName": "Irazoqui",
     "link": "https://twitter.com/irazok",
