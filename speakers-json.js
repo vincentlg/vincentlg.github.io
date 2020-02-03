@@ -25,7 +25,7 @@ var speakers = [
     "lastName": "Pop ",
     "link": "https://twitter.com/Sim_Pop",
     "picture": "images/speakers_2020/Simona_Pop.jpg",
-    "company": "Bounties Network"
+    "company": "OST / Pepo"
   },
   {
     "firstName": "Ryan",
@@ -1462,4 +1462,39 @@ var speakers = [
     "picture": "images/speakers_2020/Helena_Flack.jpeg",
     "company": "Department of Decentralization - Ethereum Cat Herders"
   },
- ]
+  {
+    "firstName": "Robert",
+    "lastName": "Edström",
+    "link": "https://twitter.com/Legogris",
+    "picture": "images/speakers_2020/Robert_Edstrom.jpg",
+    "company": "Kaiko"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Bonhomme",
+    "link": "https://twitter.com/iEx_ec",
+    "picture": "images/speakers_2020/Victor_Bonhomme.png",
+    "company": "iExec"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Simatos",
+    "link": "https://www.linkedin.com/in/benjamin-s-76b2621/",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "IOV"
+  },
+  {
+    "firstName": "Gregor",
+    "lastName": " Žavcer",
+    "link": "https://twitter.com/jssr",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Swarm"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Nagy",
+    "link": "",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Swarm"
+  },
+]
