@@ -678,7 +678,7 @@
       "Titre": "How to deploy and customize BlockScout blockchain explorer",
       "Track": "Developer Tools",
       "Category": "Workshop",
-      "Abstract": ""
+      "Abstract": "BlockScout is an open-source full-featured blockchains explorer supporting any chain based on Ethereum protocol. It supplies the basic features like searching of transactions, viewing of accounts and balances, and verification of smart contracts on Ethereum including forks and sidechains This workshop is for those who want to dive into the learning of the features, that BlockScout provides, and the ways of deployment and customisation for your needs. During the workshop, you will deploy your own instance of explorer."
     },
     {
       "Nom": "Vincent Le Gallic",
@@ -837,13 +837,6 @@
       "Track": "Ethereum 2.0",
       "Category": "Talk",
       "Abstract": "The interblockchain community protocol will faciliate permissionless interoperation between smart contracts on Ethereum 1.0/1.x & Ethereum 2.0, Cosmos zones, Polkadot parachains, Bitcoin & more. The first half of this talk presents the protocol construction, notes security properties & consensus requirements, explains the message channel interface exposed to smart contracts & modules, and discusses special techniques for bridging Nakamoto proof-of-work consensus blockchains such as Ethereum 1.0/1.x to chains with finality. The second half embarks on a speculative exploration of how IBC can be used to instantiate various sharding topologies, including proxy clients & a hub-spoke model, with particular attention to integration into the Ethereum 2 phase 2 specification process."
-    },
-    {
-      "Nom": "Eric Tu",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Ethereum 2.0",
-      "Category": "Talk",
-      "Abstract": ""
     },
     {
       "Nom": "Hsiao-Wei Wang",
@@ -1241,7 +1234,7 @@
       "Abstract": "The final topic on our talk depends on the development timeline and the question whether by then the next Raiden release is live on mainnet or not. \nI would like to make it as \"interactive\" as possible, likely presenting our mainnet onboarding wizard and the complexity we have tried to hide away using this tool. We will also have major progress in developing our light client by then + a new token network which will allow to send DAI/SAI to be send using Raiden. If everything is live on mainnet by then (I hope so, but you never know), I can demo the new Raiden mainnet release and outline why we need layer 2 scalability with a few hands-on examples. It will be nice to compare the progress with what we presented at EthCC last year, since the new mainnet release will enable much more features!"
     },
     {
-      "Nom": "Gorka Irazoqui",
+      "Nom": "Gorka Irazoqui & Mario Cao",
       "Titre": "Decentralized workload distribution with VRFs and algorithmic reputation systems",
       "Track": "Scalability",
       "Category": "Talk",
@@ -1449,7 +1442,7 @@
   "Web3": [
     {
       "Nom": "Abbey Titcomb",
-      "Titre": "Towards decentralized alternatives for code collaboration",
+      "Titre": "TOWARDS PEER-TO-PEER ALTERNATIVES FOR CODE COLLABORATION",
       "Track": "Web3",
       "Category": "Talk",
       "Abstract": "Radicle is a peer-to-peer network for code collaboration. It's a decentralized collaboration environment that’s designed to be offline-first, peer-to-peer, cryptographically secure, programmable, and interoperable & open.\nThis talk will walk the audience through the Radicle protocol and touch on the design approach of the Radicle stack. It will outline the project's next steps and explore our blockchain components & integrations. Radicle (http://radicle.xyz/) is a free and open source project supported by Monadic (https://monadic.xyz/)."
@@ -1484,10 +1477,10 @@
     },
     {
       "Nom": "Joel Oed",
-      "Titre": "Make your dapp a meeting point for your community",
+      "Titre": "Add confidential user to user communication in your dapp",
       "Track": "Web3",
       "Category": "Workshop",
-      "Abstract": "Most dapps are way to focused on only smart contract interaction. In this workshop you will learn how to use 3box tools to make your dapp more engaging and interactive by allowing your users to meet."
+      "Abstract": "Most dapps are way to focused on only smart contract interaction. In this workshop you will learn how to use 3box tools to make your dapp more engaging and interactive by allowing your users to communicate confidentially."
     },
     {
       "Nom": "Julien Genestoux",
