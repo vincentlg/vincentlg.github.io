@@ -839,13 +839,6 @@
       "Abstract": "The interblockchain community protocol will faciliate permissionless interoperation between smart contracts on Ethereum 1.0/1.x & Ethereum 2.0, Cosmos zones, Polkadot parachains, Bitcoin & more. The first half of this talk presents the protocol construction, notes security properties & consensus requirements, explains the message channel interface exposed to smart contracts & modules, and discusses special techniques for bridging Nakamoto proof-of-work consensus blockchains such as Ethereum 1.0/1.x to chains with finality. The second half embarks on a speculative exploration of how IBC can be used to instantiate various sharding topologies, including proxy clients & a hub-spoke model, with particular attention to integration into the Ethereum 2 phase 2 specification process."
     },
     {
-      "Nom": "Eric Tu",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Ethereum 2.0",
-      "Category": "Talk",
-      "Abstract": ""
-    },
-    {
       "Nom": "Hsiao-Wei Wang",
       "Titre": "TO BE ANNOUNCED",
       "Track": "Ethereum 2.0",

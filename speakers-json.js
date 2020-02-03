@@ -420,13 +420,6 @@ var speakers = [
     "company": "OKEx"
   },
   {
-    "firstName": "Eric",
-    "lastName": "Tu",
-    "link": "https://twitter.com/erktu",
-    "picture": "images/speakers_2020/Eric_Tu.jpeg",
-    "company": "Chainsafe Systems"
-  },
-  {
     "firstName": "Jonas",
     "lastName": "Rubel",
     "link": "https://twitter.com/SLebur",
