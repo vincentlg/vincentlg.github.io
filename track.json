@@ -1449,7 +1449,7 @@
   "Web3": [
     {
       "Nom": "Abbey Titcomb",
-      "Titre": "Towards decentralized alternatives for code collaboration",
+      "Titre": "TOWARDS PEER-TO-PEER ALTERNATIVES FOR CODE COLLABORATION",
       "Track": "Web3",
       "Category": "Talk",
       "Abstract": "Radicle is a peer-to-peer network for code collaboration. It's a decentralized collaboration environment that’s designed to be offline-first, peer-to-peer, cryptographically secure, programmable, and interoperable & open.\nThis talk will walk the audience through the Radicle protocol and touch on the design approach of the Radicle stack. It will outline the project's next steps and explore our blockchain components & integrations. Radicle (http://radicle.xyz/) is a free and open source project supported by Monadic (https://monadic.xyz/)."
