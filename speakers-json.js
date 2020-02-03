@@ -62,6 +62,13 @@ var speakers = [
     "picture": "images/speakers_2020/Bruno_Skvorc.jpg",
     "company": "Web3 Foundation"
   },
+   {
+    "firstName": "Justin",
+    "lastName": "Drake",
+    "link": "https://twitter.com/drakefjustin",
+    "picture": "images/speakers_2020/Justin_Drake.jpg",
+    "company": "Ethereum Foundation"
+  },
   {
     "firstName": "Seyedehmahsa",
     "lastName": "MOOSAVI",
@@ -1489,5 +1496,12 @@ var speakers = [
     "link": "",
     "picture": "images/speakers_2020/ETH-final.png",
     "company": "Swarm"
+  },
+   {
+    "firstName": "Greg",
+    "lastName": "Jeanmart",
+    "link": "https://twitter.com/GregJeanmart",
+    "picture": "images/speakers_2020/Greg_Jeanmart.png",
+    "company": "Ethereum Magicians "
   },
 ]
