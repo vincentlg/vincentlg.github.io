@@ -1498,10 +1498,108 @@ var speakers = [
     "company": "Swarm"
   },
    {
-    "firstName": "Greg",
-    "lastName": "Jeanmart",
-    "link": "https://twitter.com/GregJeanmart",
-    "picture": "images/speakers_2020/Greg_Jeanmart.png",
-    "company": "Ethereum Magicians "
+    "firstName": "Christoph",
+    "lastName": "Mussenbrock",
+    "link": "https://www.linkedin.com/in/christoph-mussenbrock",
+    "picture": "images/speakers_2020/Christoph_Mussenbrock.jpg",
+    "company": "Etherisc GmbH"
+  },
+  {
+    "firstName": "Julien",
+    "lastName": "Beranger ",
+    "link": "https://twitter.com/julienbrg",
+    "picture": "images/speakers_2020/Julien_Beranger.jpg",
+    "company": "Strat"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Bash",
+    "link": "https://twitter.com/AlexBash15",
+    "picture": "images/speakers_2020/Alex_Bash.jpg",
+    "company": "Zerion"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Vogelsang",
+    "link": "https://twitter.com/lucasvo",
+    "picture": "images/speakers_2020/Lucas_Vogelsang.png",
+    "company": "Centrifuge"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Piellard ",
+    "link": "https://twitter.com/ThomasPiellard",
+    "picture": "images/speakers_2020/ETH-final.png",
+    "company": "Consensys"
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "Antuña Diez",
+    "link": "https://twitter.com/eduadiez",
+    "picture": "images/speakers_2020/Eduardo_Diez.png",
+    "company": "DAppNode"
+  },
+  {
+    "firstName": "Marouane",
+    "lastName": "Hajji",
+    "link": "",
+    "picture": "images/speakers_2020/Marouane_Hajji.jpg ",
+    "company": "The Circle DAO"
+  },
+  {
+    "firstName": "Barnabé",
+    "lastName": "Monnot",
+    "link": "https://twitter.com/barnabemonnot",
+    "picture": "images/speakers_2020/Barnabe_Monnot.jpg",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "firstName": "Kasimir",
+    "lastName": "Blaser",
+    "link": "https://www.linkedin.com/in/kasimir-blaser-865474116/",
+    "picture": "images/speakers_2020/Blaser_Kasimir.png",
+    "company": "DigitalizeIT GmbH"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Perez",
+    "link": "https://www.linkedin.com/in/danhper/",
+    "picture": "images/speakers_2020/Daniel_Perez.jpg",
+    "company": "Imperial College London"
+  },
+  {
+    "firstName": "Jaye",
+    "lastName": "Harrill",
+    "link": "https://twitter.com/jayeharrill",
+    "picture": "images/speakers_2020/Jaye_Harrill.jpg",
+    "company": "Quantstamp"
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Brink",
+    "link": "https://twitter.com/adrian_brink",
+    "picture": "images/speakers_2020/Adrian_Brink.jpg",
+    "company": "Cryptium Labs"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Gervais ",
+    "link": "https://twitter.com/HatforceSec",
+    "picture": "images/speakers_2020/Arthur_Gervais.jpg",
+    "company": "Liquidity Network"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Maurice",
+    "link": "https://www.linkedin.com/in/nicolas-maurice/",
+    "picture": "images/speakers_2020/Nicolas_Maurice.jpg",
+    "company": "Consensys"
+  },
+  {
+    "firstName": "Anett",
+    "lastName": "Rolikova",
+    "link": "https://twitter.com/AnettRolikova",
+    "picture": "images/speakers_2020/Anett_Rolikova.jpg",
+    "company": "Ethereum Magicians"
   },
 ]
