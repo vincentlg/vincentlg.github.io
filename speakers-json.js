@@ -1480,21 +1480,21 @@ var speakers = [
     "firstName": "Benjamin",
     "lastName": "Simatos",
     "link": "https://www.linkedin.com/in/benjamin-s-76b2621/",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Benjamin_Simatos.jpeg",
     "company": "IOV"
   },
   {
     "firstName": "Gregor",
     "lastName": " Žavcer",
     "link": "https://twitter.com/jssr",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Gregor_Zavce.png",
     "company": "Swarm"
   },
   {
     "firstName": "Daniel",
     "lastName": "Nagy",
     "link": "",
-    "picture": "images/speakers_2020/ETH-final.png",
+    "picture": "images/speakers_2020/Daniel_Nagy.jpg",
     "company": "Swarm"
   },
    {
