@@ -1538,14 +1538,14 @@ var speakers = [
     "link": "https://twitter.com/eduadiez",
     "picture": "images/speakers_2020/Eduardo_Diez.png",
     "company": "DAppNode"
-  },
+  },/*
   {
     "firstName": "Marouane",
     "lastName": "Hajji",
     "link": "",
     "picture": "images/speakers_2020/Marouane_Hajji.jpg ",
     "company": "The Circle DAO"
-  },
+  },*/
   {
     "firstName": "Barnabé",
     "lastName": "Monnot",
