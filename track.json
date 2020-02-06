@@ -1630,13 +1630,6 @@
       "Abstract": "The How and Why of using Rust metaprogramming features to generate type-safe bindings to smart contracts and facilitate development of dApps."
     },
     {
-      "Nom": "Phil Lucsok",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Web3",
-      "Category": "Talk",
-      "Abstract": ""
-    },
-    {
       "Nom": "Richard Moore",
       "Titre": "ethers.js - A compact, simple and complete Ethereum library",
       "Track": "Web3",
