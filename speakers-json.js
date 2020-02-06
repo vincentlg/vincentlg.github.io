@@ -249,7 +249,7 @@ var speakers = [
     "lastName": "HEINTEL",
     "link": "https://twitter.com/_franzihei",
     "picture": "images/speakers_2020/Franziska_Heintel.jpeg",
-    "company": "Raiden Network"
+    "company": ""
   },
   {
     "firstName": "Christiane",
