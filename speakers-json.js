@@ -235,7 +235,7 @@ var speakers = [
     "lastName": "Pangilinan",
     "link": "",
     "picture": "images/speakers_2020/frankie_pangilinan.png",
-    "company": "MetaMask",
+    "company": "ChainSafe",
   },
   {
     "firstName": "Alexey ",
