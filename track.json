@@ -558,14 +558,7 @@
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "This talk is in collaboration with Gustav Arentoft from MakerDAO. For DeFi to grow beyond Ethereum early adopters, we need to build lending products and other financial products that compete with traditional finance product. That involves \"real world assets\". We'd like to go through advantages & disadvantages and present what different people in this space are doing. "
-    },/*
-    {
-      "Nom": "Marouane Hajji ",
-      "Titre": "The Circle: an Acceleration DAO",
-      "Track": "Decentralised Finance",
-      "Category": "Talk",
-      "Abstract": "A new model of start-up accelerators can emerge leveraging the different tools available to create and manage DAOs. The principles of our accelerator DAO are simple: \n- Sharing equity/tokens with the DAO\n- helping each other\n- Taking part in the vetting process of new projects\n- Mentoring + opening their networks to new teams/project that would join\n5 projects are part of and building this DAO:\nSynaps (Florian Legoff)\narvis.exchange (Pascal Tallarida)\nAleph.im (Jonathan Schemoul)\nParaswap (Mounir Benchemled)\nUnslashed (Marouane Hajji)\nWe are running this experiment for a few months and would like to present our thoughts / discussions and share with the EthCC community."
-    },*/
+    },
     {
       "Nom": "Cassidy Daly",
       "Titre": "Putting the 'De' back in 'DeFi'",
