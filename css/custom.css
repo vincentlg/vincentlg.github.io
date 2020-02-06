@@ -67,3 +67,39 @@
   background-color: #ff5733;
   border-color: #ff5733;
 }
+
+#vcBtn{
+  text-transform: uppercase;
+  color: white;
+  background: #3f4046;
+  padding: 16px 30px;
+  display: inline-block;
+  letter-spacing: .2em;
+  position: relative; }
+  #vcBtn > span {
+    position: relative;
+    z-index: 2; }
+  #vcBtn:before {
+    background: -webkit-gradient(linear, left top, right top, from(#c70039), color-stop(70%, #ff5733));
+    background: -webkit-linear-gradient(left, #c70039, #ff5733 70%);
+    background: -o-linear-gradient(left, #c70039, #ff5733 70%);
+    background: linear-gradient(to right, #c70039, #ff5733 70%);
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    width: 0;
+    -webkit-transition: .3s all ease-in-out;
+    -o-transition: .3s all ease-in-out;
+    transition: .3s all ease-in-out;
+    z-index: 1; }
+  #vcBtn:hover:before {
+    width: 100%; }
+}
+
+#plus{
+  display: none;
+}
+
+}
