@@ -1029,13 +1029,6 @@ var speakers = [
     "company": "Gnosis Service GmbH"
   },
   {
-    "firstName": "Kyle",
-    "lastName": "Lu",
-    "link": "https://twitter.com/KyleJqlu",
-    "picture": "images/speakers_2020/Kyle_Lu.png",
-    "company": "Dapp"
-  },
-  {
     "firstName": "Theophile",
     "lastName": "Villard",
     "link": "https://twitter.com/teawaterwire",
