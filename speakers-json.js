@@ -249,7 +249,7 @@ var speakers = [
     "lastName": "HEINTEL",
     "link": "https://twitter.com/_franzihei",
     "picture": "images/speakers_2020/Franziska_Heintel.jpeg",
-    "company": "Raiden Network"
+    "company": ""
   },
   {
     "firstName": "Christiane",
@@ -1027,13 +1027,6 @@ var speakers = [
     "link": "",
     "picture": "images/speakers_2020/ETH-final.png",
     "company": "Gnosis Service GmbH"
-  },
-  {
-    "firstName": "Kyle",
-    "lastName": "Lu",
-    "link": "https://twitter.com/KyleJqlu",
-    "picture": "images/speakers_2020/Kyle_Lu.png",
-    "company": "Dapp"
   },
   {
     "firstName": "Theophile",

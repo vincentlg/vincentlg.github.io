@@ -981,13 +981,6 @@
       "Abstract": ""
     },
     {
-      "Nom": "Kyle Lu",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Gaming",
-      "Category": "Talk",
-      "Abstract": ""
-    },
-    {
       "Nom": "Matías Nisenson",
       "Titre": "Break it till you make it! CryptoWars is now scalable!",
       "Track": "Gaming",
@@ -1003,10 +996,10 @@
     },
     {
       "Nom": "Ronan Sandford",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "Building a Game Fully On Chain",
       "Track": "Gaming",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "We'll talk about the benefit and challenges of building a game fully on chain, using Ethernal, A Procedurally generated dungeon game, as an example"
     },
     {
       "Nom": "Ryan Gittleson",
@@ -1312,11 +1305,11 @@
     },
     {
       "Nom": "Franziska Heintel",
-      "Titre": "The rise of layer 2",
+      "Titre": "TBD",
       "Track": "Scalability",
       "Category": "Talk",
-      "Abstract": "The final topic on our talk depends on the development timeline and the question whether by then the next Raiden release is live on mainnet or not. \nI would like to make it as \"interactive\" as possible, likely presenting our mainnet onboarding wizard and the complexity we have tried to hide away using this tool. We will also have major progress in developing our light client by then + a new token network which will allow to send DAI/SAI to be send using Raiden. If everything is live on mainnet by then (I hope so, but you never know), I can demo the new Raiden mainnet release and outline why we need layer 2 scalability with a few hands-on examples. It will be nice to compare the progress with what we presented at EthCC last year, since the new mainnet release will enable much more features!"
-    },
+      "Abstract": "TBD"
+    }
     {
       "Nom": "Gorka Irazoqui & Mario Cao",
       "Titre": "Decentralized workload distribution with VRFs and algorithmic reputation systems",
@@ -1635,13 +1628,6 @@
       "Track": "Web3",
       "Category": "Workshop",
       "Abstract": "The How and Why of using Rust metaprogramming features to generate type-safe bindings to smart contracts and facilitate development of dApps."
-    },
-    {
-      "Nom": "Phil Lucsok",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Web3",
-      "Category": "Talk",
-      "Abstract": ""
     },
     {
       "Nom": "Richard Moore",
