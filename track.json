@@ -526,7 +526,7 @@
     },
     {
       "Nom": "Thomas Bertani",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "pTokens: empowering DeFi with cross-chain composability",
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "Today, the most successful DeFi tools are on Ethereum. Yet, the biggest cryptocurrencies live on multiple blockchains.\nThe pTokens technology enables cross-chain DeFi composability. The Ethereum blockchain has acted as a catalyst for the growth of a whole new decentralized financial system. Based on the tech stack built in the last 5 years by Provable, the longest-running oracle service, pTokens level up the game by connecting any asset to any blockchain. A decentralized system making the movement of assets unchained thanks to a multi-party computation (MPC) approach where each validating node is secured by Trusted Computing for additional security.\nBy complementing cutting-edge technologies one with the other, pTokens make pBTC on ETH as well as pDAI on EOS and pETH on Liquid possible."
