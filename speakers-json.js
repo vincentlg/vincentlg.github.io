@@ -1473,7 +1473,7 @@ var speakers = [
     "firstName": "Benjamin",
     "lastName": "Simatos",
     "link": "https://www.linkedin.com/in/benjamin-s-76b2621/",
-    "picture": "images/speakers_2020/Benjamin_Simatos.jpeg",
+    "picture": "images/speakers_2020/Benjamin_Simatos.png",
     "company": "IOV"
   },
   {
