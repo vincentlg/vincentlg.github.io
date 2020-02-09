@@ -916,11 +916,11 @@
       "Abstract": "The interblockchain community protocol will faciliate permissionless interoperation between smart contracts on Ethereum 1.0/1.x & Ethereum 2.0, Cosmos zones, Polkadot parachains, Bitcoin & more. The first half of this talk presents the protocol construction, notes security properties & consensus requirements, explains the message channel interface exposed to smart contracts & modules, and discusses special techniques for bridging Nakamoto proof-of-work consensus blockchains such as Ethereum 1.0/1.x to chains with finality. The second half embarks on a speculative exploration of how IBC can be used to instantiate various sharding topologies, including proxy clients & a hub-spoke model, with particular attention to integration into the Ethereum 2 phase 2 specification process."
     },
     {
-      "Nom": "Hsiao-Wei Wang",
-      "Titre": "TO BE ANNOUNCED",
+      "Nom": "Hsiao-Wei Wang, Carl Beekhuizen, Dankrad Feist, Diederik “Protolambda” Loerakker",
+      "Titre": "Eth2Real Workshop",
       "Track": "Ethereum 2.0",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "Ethereum Foundation research team is focusing on Eth2 research and development. In this workshop, we will discuss some of the most important topics on Eth2 in-depth, including the latest aspects of protocol design, the exciting validator staking plan, and the intriguing research and implementation problems."
     },
     {
       "Nom": "Mehdi Zerouali",
@@ -1212,10 +1212,10 @@
     },
     {
       "Nom": "Jordi Baylina",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "Big zkSNARKs circuits for zk-rollups with circom",
       "Track": "Privacy",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "We are going to present the new version of circom: \n- How it can be used to generate big circuits appliable in the rollup-like structures. \n- The security warranties that the language supplies. \n- Discuss about some low level highly optimized finite field libraries in Intel assembly and web assembly. \n- We will also provide an update of the current development of the iden3-zkRollup"
     },
     {
       "Nom": "Kazuaki Ishiguro",

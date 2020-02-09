@@ -195,6 +195,27 @@ var speakers = [
     "picture": "images/speakers_2020/Wang_Hsiao.jpg",
     "company": "Ethereum Foundation"
   },
+  {
+    "firstName": "Carl",
+    "lastName": "Beekhuizen",
+    "link": "https://twitter.com/CarlBeek",
+    "picture": "images/speakers_2020/Carl_Beekhuizen.jpg",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "firstName": "Dankrad",
+    "lastName": "Feist",
+    "link": "https://twitter.com/dankrad",
+    "picture": "images/speakers_2020/Dankrad_Feist.png",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "firstName": "Diederik 'Protolambda'",
+    "lastName": "Loerakker",
+    "link": "https://twitter.com/protolambda",
+    "picture": "images/speakers_2020/Diederik_Loerakker.jpg",
+    "company": "Ethereum Foundation"
+  },
      {
     "firstName": "Anastasia",
     "lastName": "Andrianova ",
