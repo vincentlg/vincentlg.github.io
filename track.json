@@ -1021,6 +1021,13 @@
       "Track": "Gaming",
       "Category": "Talk",
       "Abstract": ""
+    },
+     {
+      "Nom": "Alex Atallah",
+      "Titre": "Which type of smart contract should I choose for my collectibles?",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "I've been seeing a lot of confusion over the different options for NFT contracts. Will go over semifungible, fungible, whitelisted, and presale ones too."
     }
   ],
   "Governance / DAO": [

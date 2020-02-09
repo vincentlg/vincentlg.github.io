@@ -1609,4 +1609,11 @@ var speakers = [
     "picture": "images/speakers_2020/Anett_Rolikova.jpg",
     "company": "Ethereum Magicians"
   },
+  {
+    "firstName": "Alex",
+    "lastName": "Atallah",
+    "link": "https://twitter.com/xanderatallah",
+    "picture": "images/speakers_2020/Alex_Atallah.jpg",
+    "company": "OpenSea"
+  },
 ]
