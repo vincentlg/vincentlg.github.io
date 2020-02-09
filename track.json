@@ -1667,11 +1667,11 @@
   ],
   "French Track": [
     {
-      "Nom": "TO BE ANNOUNCED",
-      "Titre": "",
+      "Nom": "Simon Polrot (ADAN), Alexandre Statchenko (Blockchain Partner),Brice Berdah (Monolith - Defi France), Mounir Benchelmed (Paraswap - DeFi France), Philippe Honigman (OrgTech), Jenna Zenk (Melon Port), Nathan Sexer (Pixowl), Nicolas Julia (Sorare), Pierre-Nicolas Hurstel (Arianee), William O’Rorke (ORWL)",
+      "Titre": "La Blockchain aujourd'hui et ses perspectives pour demain",
       "Track": "French Track",
-      "Category": "",
-      "Abstract": ""
+      "Category": "Talk",
+      "Abstract": "La blockchain et les actifs numériques ne sont plus des sujets entièrement vierges, mais ils ont encore leur part de mystère. L’évolution rapide des technologies et des usages rend une vision d’ensemble difficile. Nous avons souhaité, dans le cadre de cette conférence réunissant les cas d’usages les plus innovants de l’écosystème, apporter un éclairage global sur cette industrie et son avenir, à destination du public francophone.\n Dans cette série d’interventions exclusivement en français, nous explorerons les futurs développements de l’industrie des crypto-actifs au travers de ses trois thèmes les plus porteurs aujourd’hui : la finance décentralisée, les objets numériques individualisés (non-fongibles) et les organisations collectives sur blockchain (DAOs). \n Au travers, d’une part, une exploration synthétique de ces cas d’usage et, d’autre part, d’une introduction et mise en perspective, nous explorerons l’avenir de cette industrie naissante et notamment de sa place et de son rôle en France et en Europe.\n Cette série d’interventions s’adresse à un large public (utilisateur, investisseur, politique, développeur ou simple curieux) et elle pourra utilement servir d'introduction aux nombreuses interventions de la conférence EthCC."
     }
   ]
 }
