@@ -29,3 +29,42 @@ function vcReadMore() {
     plus.style.display = "inline";
   }
 }
+
+
+var n = 22; // Nombre final du compteur
+var cpt = 0; // Initialisation du compteur
+var m = 64;
+var o = 36;
+var duree = 2; // Durée en seconde pendant laquel le compteur ira de 0 à 15
+var delta = Math.ceil((duree * 1000) / n); // On calcule l'intervalle de temps entre chaque rafraîchissement du compteur (durée mise en milliseconde)
+var node =  document.getElementById("compteur"); // On récupère notre noeud où sera rafraîchi la valeur du compteur
+var equity = document.getElementById("equity");
+var token = document.getElementById("token");
+
+
+function countdownStartups() {
+  node.innerHTML = ++cpt;
+  if( cpt < n ) {
+     setTimeout(countdownStartups, delta);
+
+  }
+}
+function countdownEquity() {
+  equity.innerHTML = ++cpt;
+  if( cpt < m) {
+     setTimeout(countdownEquity, delta)
+  }
+}
+function countdownToken() {
+  token.innerHTML = ++cpt;
+  if( cpt < o) {
+     setTimeout(countdownToken, delta)
+  }
+}
+
+setTimeout(function() {
+  countdownStartups() // runs first
+  countdownEquity() // runs second
+  countdownToken()
+}, delta)
+
