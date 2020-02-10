@@ -22,8 +22,8 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
     <link rel="stylesheet" href="css/aos.css">
-
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/custom.css">
   </head>
   <body>
   <div class="site-wrap">
@@ -75,139 +75,68 @@
 
     <div class="site-section-heading">
       <div class="container" data-aos="fade-up" data-aos-delay="100">
-          <h3><span class="text-primary" style="font-style: italic;">WHY</span> are we launching a VC track during EthCC ?</h3>
+          <h3><span class="text-primary" style="font-style: italic;">WHY</span> a VC track during EthCC ?</h3>
           <p> We aim to bridge the gap between VCs wishing to better understand the technology and discover groundbreaking projects, and blockchain projects/companies searching for funding, but with little VC network and access.</p>
-          <hr>
           <h3><span class="text-primary" style="font-style: italic;">WHAT</span> does a VC track entail? </h3>
-          <p> On the 1st day of the conference, investors will have access to a workshop "Zero to Hero", a practical way to learn fast about blockchain, Ethereum and their various usages, as well as talks led by the start-ups that will be later pitching on the VC stage.
-          On days 2 and 3, curated startups will pitch their projects in a dedicated room to our community of investors- accessible only to registered members with a VC Track Pass.
-          The Pitch Room schedule will be shared ahead of the event, along with company details, short abstract, CEO profile, and fundraising asks. There will be both equity based and token based projects. </p>
+          <p> For our investers, on top of participating to EthCC, acces to a selection of startups that will pitch their projects in a dedicated room - accessible only to registered members with a VC Track Pass.
+          The Pitch Room schedule will be shared ahead of the event, along with company details, short abstract, CEO profile, and fundraising asks. There will be both equity based and token based projects <span id="extra">...</span></p>
+          <button onclick="vcReadMore()" id="vcBtn">Read more</button>
       </div>
-    </div>
-    <div class="site-section" style="padding-top: 3em; padding-bottom: 3em">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-lg-5" data-aos="fade-up" data-aos-delay="100">
-            <h3><span class="text-primary" style="font-style: italic;"> QUALITY: </span>our core value</h3>
-            <p><ul>
-              <li>All presenting startups need to have at least one separate talk or workshop accepted in the EthCC program as a quality prerequisite to pitch.</li>
-              <li>All presenting startups will be screened and selected by our technical team, pre-validating the companies’ technology, and founders’ expertise.</li>
-              <li>Investors will have the opportunity, not only to see the pitch, but also to attend the technical talk / workshop (i.e. see the CEO’s pitch and attend the CTO’s workshop).</li>
-              <li>Investors will become part of the community and will access all related EthCC events and curated content.</li></ul></p>
-              <hr>
-              <hr>
-              <hr>
+
+      <div id="plus" style="display: none;">
+        <div class="site-section" style="padding-top: 3em; padding-bottom: 3em">
+          <div class="container">
+            <div class="row mb-5">
+              <div class="col-lg-5" data-aos="fade-up" data-aos-delay="100">
+                <h3><span class="text-primary" style="font-style: italic;"> QUALITY: </span>our core value</h3>
+                 <p><ul>
+                  <li>All presenting startups need to have at least one separate talk or workshop accepted in the EthCC program as a quality prerequisite to pitch.</li>
+                  <li>All presenting startups will be screened and selected by our technical team, pre-validating the companies’ technology, and founders’ expertise.</li>
+                  <li>Investors will have the opportunity, not only to see the pitch, but also to attend the technical talk / workshop (i.e. see the CEO’s pitch and attend the CTO’s workshop).</li>
+                  <li>Investors will become part of the community and will access all related EthCC events and curated content.</li></ul></p>
+              </div>
+              <div class="col-lg-5" data-aos="fade-up" data-aos-delay="200">
+                <h3><span class="text-primary" style="font-style: italic;"> BENEFITS: </span> what we will deliver</h3>
+                <p><ul>
+                  <li>Full access to the three days of conferences, including all tracks</li>
+                  <li>A VC Track booklet with clear schedule of all startup pitches</li>
+                  <li>Exclusive access to the Pitch Room where startups will pitch their project/company</li>
+                  <li>Access to all pitch decks in electronic format</li>
+                  <li>Access to the founders directory and contact details</li></ul></p>
+              </div>
+              <a href="mailto: jerome@ethereum-france.com" target="_blank" class="btn-custom" data-aos="fade-left" data-aos-delay="100" style="letter-spacing:0; font-size: 18px; font-weight: bold; margin: 10px"> <span>🦄 Interested? Contact Us 🦄</span></a>
+            </div>
           </div>
-          <div class="col-lg-5" data-aos="fade-up" data-aos-delay="200">
-            <h3><span class="text-primary" style="font-style: italic;"> BENEFITS: </span> what we will deliver</h3>
-            <p><ul>
-              <li>Full access to the three days of conferences, including all tracks</li>
-              <li>A VC Track booklet with clear schedule of all startup pitches</li>
-              <li>Exclusive access to the Pitch Room where startups will pitch their project/company</li>
-              <li>Access to all pitch decks in electronic format</li>
-              <li>Access to the founders directory and contact details</li></ul></p>
-          </div>
-          <a href="mailto: bettina@ethereum-france.com" target="_blank" class="btn-custom" data-aos="fade-left" data-aos-delay="100" style="letter-spacing:0; font-size: 18px; font-weight: bold; margin: 10px"> <span>🦄 Questions? Contact Us 🦄</span></a>
-          <a href="https://bettinaboon.typeform.com/to/QS98x4" target="_blank" class="btn-custom" data-aos="fade-left" data-aos-delay="100" style="letter-spacing:0; font-size: 18px; font-weight: bold; margin: 10px"> <span> 🦄 Convinced? Fill out the form🦄</span></a>
         </div>
       </div>
-    </div>
+
     <!-- UNCOMMENT WHEN WE HAVE INVESTORS LOGO -->
-    <!-- <div class="container">
-      <div class="row mb-5">
+    <div class="container">
+      <div class="row align-items-center">
         <div class="col-lg-12 mt-12 pl-lg-12" data-aos="fade-up" data-aos-delay="100">
-        <h3><span class="text-uppercase text-primary d-block mb-3" data-aos="fade-right" data-aos-delay="200">Our Investors</span></h3>
+        <h1 class="text-primary" data-aos="fade-up" data-aos-delay="100" style="padding-top: 100px">Our Investors</h1>
+        <hr>
+        <hr>
           <div class="row mb-5">
             <div class="col-md-6 col-lg-4 mb-5 mb-lg-0 aos-init aos-animate" data-aos="fade" data-aos-delay="200">
-            <img src="images/MM_logo_white.png" alt="Image" class="img-fluid">
+            <img src="images/VC/Idinvest_logo.jpeg" alt="Image" class="img-fluid" style="height: 150px;">
             </div>
             <div class="col-md-6 col-lg-4 mb-5 mb-lg-0 aos-init aos-animate" data-aos="fade" data-aos-delay="300">
-            <img src="images/logo_2.png" alt="Image" class="img-fluid">
+            <img src="images/VC/BPI_logo.png" alt="Image" class="img-fluid">
             </div>
             <div class="col-md-6 col-lg-4 mb-5 mb-lg-0 aos-init aos-animate" data-aos="fade" data-aos-delay="400">
-            <img src="images/logo_3.png" alt="Image" class="img-fluid">
-            </div>
-            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0 aos-init aos-animate" data-aos="fade" data-aos-delay="500">
-            <img src="images/logo_4.png" alt="Image" class="img-fluid">
+            <img src="images/VC/Kima_logo.png" alt="Image" class="img-fluid">
             </div>
             <div class="col-md-6 col-lg-4 mb-5 mb-lg-0 aos-init aos-animate" data-aos="fade" data-aos-delay="600">
-            <img src="images/logo_5.png" alt="Image" class="img-fluid">
+            <img src="images/VC/anthemis_logo.png" alt="Image" class="img-fluid">
             </div>
-            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0 aos-init aos-animate" data-aos="fade" data-aos-delay="700">
-            <img src="images/logo_6.png" alt="Image" class="img-fluid">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> -->
-
-  <!--   <div class="site-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6" data-aos="fade-up">
-            <form action="#">
-
-
-              <div class="row form-group">
-                <div class="col-md-6 mb-3 mb-md-0">
-                  <label class="" for="fname">First Name</label>
-                  <input type="text" id="fname" class="form-control">
-                </div>
-                <div class="col-md-6">
-                  <label class="" for="lname">Last Name</label>
-                  <input type="text" id="lname" class="form-control">
-                </div>
-              </div>
-
-              <div class="row form-group">
-
-                <div class="col-md-12">
-                  <label class="" for="email">Email</label>
-                  <input type="email" id="email" class="form-control">
-                </div>
-              </div>
-
-              <div class="row form-group">
-
-                <div class="col-md-12">
-                  <label class="" for="subject">Subject</label>
-                  <input type="subject" id="subject" class="form-control">
-                </div>
-              </div>
-
-              <div class="row form-group">
-                <div class="col-md-12">
-                  <label class="" for="message">Message</label>
-                  <textarea name="message" id="message" cols="30" rows="7" class="form-control"></textarea>
-                </div>
-              </div>
-
-              <div class="row form-group">
-                <div class="col-md-12">
-                  <input type="submit" value="Send Message" class="btn btn-primary py-2 px-4 text-white">
-                </div>
-              </div>
-
-
-            </form>
-          </div>
-          <div class="col-md-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
-            <div class="p-4 mb-3">
-              <p class="mb-0 font-weight-bold text-secondary text-uppercase mb-3">Address</p>
-              <p class="mb-4">203 Fake St. Mountain View, San Francisco, California, USA</p>
-
-              <p class="mb-0 font-weight-bold text-secondary text-uppercase mb-3">Phone</p>
-              <p class="mb-4"><a href="#">+1 232 3235 324</a></p>
-
-              <p class="mb-0 font-weight-bold text-secondary text-uppercase mb-3">Email Address</p>
-              <p class="mb-0"><a href="#">youremail@domain.com</a></p>
-
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0 aos-init aos-animate" data-aos="fade" data-aos-delay="600">
+            <img src="images/VC/PointNine_logo.png" alt="Image" class="img-fluid">
             </div>
           </div>
         </div>
       </div>
-    </div> -->
-
+    </div>
 
     <!-- <div class="site-section" data-aos="fade">
       <div class="container">
@@ -352,8 +281,8 @@
   <script src="js/jquery.magnific-popup.min.js"></script>
   <script src="js/bootstrap-datepicker.min.js"></script>
   <script src="js/aos.js"></script>
-
   <script src="js/main.js"></script>
+  <script src="js/custom.js"></script>
 
   </body>
 </html>
