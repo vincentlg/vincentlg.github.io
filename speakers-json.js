@@ -119,13 +119,6 @@ var speakers = [
     "company": "Nexus Mutual"
   },
   {
-    "firstName": "Ankit",
-    "lastName": "CHIPLUNKAR ",
-    "link": "https://twitter.com/ankitchiplunkar",
-    "picture": "images/speakers_2020/Ankit_chiplunkar.png",
-    "company": "Token Analyst LTD"
-  },
-  {
     "firstName": "Laurence",
     "lastName": "KIRK ",
     "link": "https://twitter.com/extropy",
