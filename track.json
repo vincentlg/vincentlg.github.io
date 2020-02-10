@@ -942,6 +942,13 @@
       "Track": "Ethereum 2.0",
       "Category": "Talk",
       "Abstract": "All the latest on execution environments"
+    },
+    {
+      "Nom": "Cayman Nava",
+      "Titre": "Navigating Eth2 with Simple Serialize",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "We dive deeply into Eth2's consensus serialization and merkleization standard, Simple Serialize (SSZ), from a theoretical and implementation perspective. We first discuss the motivation and use of the standard in Eth2 by example. We then analyze tradeoffs between state-of-the-art implementations.\nAudience: Eth2 implementers, blockchain developers"
     }
   ],
   "Gaming": [

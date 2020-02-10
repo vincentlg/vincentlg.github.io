@@ -126,6 +126,13 @@ var speakers = [
     "company": "Extropy.IO Ltd."
   },
   {
+    "firstName": "Cayman",
+    "lastName": "Nava",
+    "link": "https://twitter.com/caymannan",
+    "picture": "images/speakers_2020/Cayman_Nava.png",
+    "company": "ChainSafe"
+  },
+  {
     "firstName": "Tim",
     "lastName": "Beiko",
     "link": "https://twitter.com/timbeiko",
