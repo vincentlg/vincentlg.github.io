@@ -108,13 +108,6 @@
       "Abstract": "Taking a look at the current state of the largest liquid ETH markets, analysing exchange prices, volumes and order book structures over time and see how markets are becoming more efficient and liquid"
     },
     {
-      "Nom": "Ankit Chiplunkar",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Crypto Economics",
-      "Category": "Talk",
-      "Abstract": "Understanding the role of centralized exchanges in crypto economics"
-    },
-    {
       "Nom": "Christoph Jentzsch",
       "Titre": "Incubed - a crypto-economic minimal verification client",
       "Track": "Crypto Economics",
@@ -949,6 +942,13 @@
       "Track": "Ethereum 2.0",
       "Category": "Talk",
       "Abstract": "All the latest on execution environments"
+    },
+    {
+      "Nom": "Cayman Nava",
+      "Titre": "Navigating Eth2 with Simple Serialize",
+      "Track": "Ethereum 2.0",
+      "Category": "Talk",
+      "Abstract": "We dive deeply into Eth2's consensus serialization and merkleization standard, Simple Serialize (SSZ), from a theoretical and implementation perspective. We first discuss the motivation and use of the standard in Eth2 by example. We then analyze tradeoffs between state-of-the-art implementations.\nAudience: Eth2 implementers, blockchain developers"
     }
   ],
   "Gaming": [
@@ -1021,6 +1021,13 @@
       "Track": "Gaming",
       "Category": "Talk",
       "Abstract": ""
+    },
+     {
+      "Nom": "Alex Atallah",
+      "Titre": "Which type of smart contract should I choose for my collectibles?",
+      "Track": "Gaming",
+      "Category": "Talk",
+      "Abstract": "I've been seeing a lot of confusion over the different options for NFT contracts. Will go over semifungible, fungible, whitelisted, and presale ones too."
     }
   ],
   "Governance / DAO": [
@@ -1667,7 +1674,7 @@
   ],
   "French Track": [
     {
-      "Nom": "Simon Polrot (ADAN), Alexandre Statchenko (Blockchain Partner),Brice Berdah (Monolith - Defi France), Mounir Benchelmed (Paraswap - DeFi France), Philippe Honigman (OrgTech), Jenna Zenk (Melon Port), Nathan Sexer (Pixowl), Nicolas Julia (Sorare), Pierre-Nicolas Hurstel (Arianee), William O’Rorke (ORWL)",
+      "Nom": "Simon Polrot (ADAN), Alexandre Statchenko (Blockchain Partner),Brice Berdah (Monolith - Defi France), Mounir Benchelmed (Paraswap - DeFi France), Philippe Honigman (OrgTech), Jenna Zenk (Melon Port), Nathan Sexer (The Sandbox / Ethereum France), Nicolas Julia (Sorare), Pierre-Nicolas Hurstel (Arianee), William O’Rorke (ORWL)",
       "Titre": "La Blockchain aujourd'hui et ses perspectives pour demain",
       "Track": "French Track",
       "Category": "Talk",

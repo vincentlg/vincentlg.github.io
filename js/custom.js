@@ -31,7 +31,7 @@ function vcReadMore() {
 }
 
 
-var n = 22; // Nombre final du compteur
+var n = 30; // Nombre final du compteur
 var cpt = 0; // Initialisation du compteur
 var m = 64;
 var o = 36;
@@ -43,7 +43,7 @@ var token = document.getElementById("token");
 
 
 function countdownStartups() {
-  node.innerHTML = ++cpt;
+  node.innerHTML = cpt;
   if( cpt < n ) {
      setTimeout(countdownStartups, delta);
 
@@ -56,7 +56,7 @@ function countdownEquity() {
   }
 }
 function countdownToken() {
-  token.innerHTML = ++cpt;
+  token.innerHTML = cpt;
   if( cpt < o) {
      setTimeout(countdownToken, delta)
   }

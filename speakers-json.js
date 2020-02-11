@@ -119,18 +119,18 @@ var speakers = [
     "company": "Nexus Mutual"
   },
   {
-    "firstName": "Ankit",
-    "lastName": "CHIPLUNKAR ",
-    "link": "https://twitter.com/ankitchiplunkar",
-    "picture": "images/speakers_2020/Ankit_chiplunkar.png",
-    "company": "Token Analyst LTD"
-  },
-  {
     "firstName": "Laurence",
     "lastName": "KIRK ",
     "link": "https://twitter.com/extropy",
     "picture": "images/speakers_2020/Laurence_Kirk.jpg",
     "company": "Extropy.IO Ltd."
+  },
+  {
+    "firstName": "Cayman",
+    "lastName": "Nava",
+    "link": "https://twitter.com/caymannan",
+    "picture": "images/speakers_2020/Cayman_Nava.png",
+    "company": "ChainSafe"
   },
   {
     "firstName": "Tim",
@@ -1608,5 +1608,12 @@ var speakers = [
     "link": "https://twitter.com/AnettRolikova",
     "picture": "images/speakers_2020/Anett_Rolikova.jpg",
     "company": "Ethereum Magicians"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Atallah",
+    "link": "https://twitter.com/xanderatallah",
+    "picture": "images/speakers_2020/Alex_Atallah.jpg",
+    "company": "OpenSea"
   },
 ]
