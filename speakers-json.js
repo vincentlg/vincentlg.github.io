@@ -1106,10 +1106,10 @@ var speakers = [
     "company": "Upvest GmbH"
   },
   {
-    "firstName": "Kristoffer",
-    "lastName": "Naerland ",
+    "firstName": "Aleeza",
+    "lastName": "Howitt",
     "link": "https://twitter.com/TrustlinesFound",
-    "picture": "images/speakers_2020/Kristoffer_Naerland.jpg",
+    "picture": "images/speakers_2020/Aleeza_Howitt.jpg",
     "company": "Trustlines Network"
   },
   {
@@ -1407,10 +1407,10 @@ var speakers = [
     "company": "Cryptio"
   },
   {
-    "firstName": "Jim",
-    "lastName": "Zhang",
-    "link": "https://twitter.com/kaleido_io",
-    "picture": "images/speakers_2020/Jim_ZHANG.jpeg",
+    "firstName": "Peter",
+    "lastName": "Broadhurst",
+    "link": "https://twitter.com/pbmumbles",
+    "picture": "images/speakers_2020/peter_broadhurst.jpg",
     "company": "Kaleido"
   },
   {

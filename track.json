@@ -788,7 +788,7 @@
       "Abstract": "This cartoon presentation will explain the differences between the different types of permissioning in Besu (onchain/offchain/node/account) and understand what use cases would need permissioning in a blockchain environment."
     },
     {
-      "Nom": "Jim Zhang",
+      "Nom": "Peter Broadhurst",
       "Titre": "Demystifying Consensus Algorithms for Enterprise Blockchain",
       "Track": "Enterprise",
       "Category": "Talk",
@@ -989,10 +989,10 @@
     },
     {
       "Nom": "Morten Rongaard",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "How Ethereum will distrupt the gaming industry  ",
       "Track": "Gaming",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "Giving the power back to users"
     },
     {
       "Nom": "Ronan Sandford",
@@ -1305,7 +1305,7 @@
     },
     {
       "Nom": "Eli Ben Sasson",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "The State of STARK Tooling",
       "Track": "Scalability",
       "Category": "Talk",
       "Abstract": ""
