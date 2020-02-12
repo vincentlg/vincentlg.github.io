@@ -1298,7 +1298,7 @@ var speakers = [
     "firstName": "Guillaume",
     "lastName": "Ballet",
     "link": "https://twitter.com/gballet",
-    "picture": "images/speakers_2020/Guillaume_Ballet.jpg",
+    "picture": "images/speakers_2020/Guillaume_Ballet.png",
     "company": "Ethereum Foundation"
   },
   {
