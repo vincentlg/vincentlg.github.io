@@ -36,6 +36,13 @@
       "Abstract": "Translation is a special subtype of freelancing where the customer receives a service of which they can't verify it's quality. Since the customer lacks knowledge of the language, how can he verify that the translation was done properly?\nUp to now, the hard-to-verify nature of translation work was solved by working with trusted translators only.\nIf he knows a good translator, the customer can use his services. If he doesn't, he will have to resort to authorities that will provide a certified translator (albeit expensive).\nBut again, the customer will still have to trust certifying authorities (a government or a company) and assume the certified translator will do an excellent job to protect their reputation.\nIs there a better and trustless way to handle translations?"
     },
     {
+      "Nom": "Ayodeji Awosika",
+      "Titre": "Leveraging African population to growing Ethereum Developer ecosystem",
+      "Track": "Blockchain for Good",
+      "Category": "Talk",
+      "Abstract": "The talk will be sharing the review of the on-going 500 Nigeria Developer for Ethereum program and be explaining how efforts can be put in place to use the population and intellect of Africans to increase the number of Developers in the Ethereum Ecosystem"
+    },
+    {
       "Nom": "José Almeida",
       "Titre": "BNDESToken: Increasing trust and compliance in Brazilian public money allocation",
       "Track": "Blockchain for Good",
@@ -893,13 +900,6 @@
       "Track": "Ethereum 2.0",
       "Category": "Talk",
       "Abstract": "Lots of exciting work is happening with eth2 and eth1.x. While the R&D pushes forward, it raises an important question: how will we merge the two systems? The ultimate goal is to migrate the economic activity from today's chain to the new sharded system but the exact plan is still unknown and depends on which relative pieces of each effort are production-ready sooner.\nThis talk will discuss the relative timing and challenges behind the possible options by sharing the latest research on the finality gadget, L1 data layers, EEs and stateless clients. I aim to gather community feedback during the Q&A section which will help me direct my own efforts under the finality gadget working group (you can see the latest update here at Devcon 5: https://slideslive.com/38920071/putting-eth20-to-work)."
-    },
-    {
-      "Nom": "Ayodeji Awosika",
-      "Titre": "Leveraging African population to growing Ethereum Developer ecosystem",
-      "Track": "Ethereum 2.0",
-      "Category": "Talk",
-      "Abstract": "The talk will be sharing the review of the on-going 500 Nigeria Developer for Ethereum program and be explaining how efforts can be put in place to use the population and intellect of Africans to increase the number of Developers in the Ethereum Ecosystem"
     },
     {
       "Nom": "Christopher Goes",
