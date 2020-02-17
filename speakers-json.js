@@ -1,5 +1,12 @@
 var speakers = [
   {
+    "firstName": "Vitalik",
+    "lastName": "Buterin",
+    "link": "https://twitter.com/VitalikButerin",
+    "picture": "images/speakers_2020/Vitalik_Buterin.jpg",
+    "company": "Ethereum Foundation"
+  },
+  {
     "firstName": "Evan",
     "lastName": "Van Ness",
     "link": "https://twitter.com/evan_van_ness",

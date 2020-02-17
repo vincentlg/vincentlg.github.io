@@ -101,6 +101,13 @@
   ],
   "Crypto Economics": [
     {
+      "Nom": "Vitalik Buterin",
+      "Titre": "Funding ecosystem public goods",
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "Public goods of different forms, including research, client development, documentation, outreach, wallets, user experience and more are the lifeblood of blockchain ecosystems. And yet, with the sole exception of network security, there has yet been little attention to how to direct funds to them - both where funds come from, and how to decide who gets paid. I review existing approaches, inside and outside ethereum, including quadratic funding in Gitcoin Grants as well as other mechanisms, and compare the benefits and drawbacks of each one."
+    },
+    {
       "Nom": "Ambre Soubiran",
       "Titre": "VC Funding for Blockchain Startups",
       "Track": "Crypto Economics",
