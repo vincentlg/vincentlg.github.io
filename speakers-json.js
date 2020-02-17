@@ -1351,10 +1351,10 @@ var speakers = [
     "company": "Orchid"
   },
   {
-    "firstName": "Jack",
-    "lastName": "O’Holleran",
+    "firstName": "Chadwick",
+    "lastName": "Strange",
     "link": "https://twitter.com/SkaleNetwork",
-    "picture": "images/speakers_2020/Jack_O_Holleran.jpg",
+    "picture": "images/speakers_2020/ETH-final.png",
     "company": "SKALE Network"
   },
   {
