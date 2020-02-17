@@ -1218,6 +1218,13 @@ var speakers = [
     "company": "Gnosis"
   },
   {
+    "firstName": "Anna",
+    "lastName": "George",
+    "link": "https://twitter.com/AnnaMSGeorge",
+    "picture": "images/speakers_2020/Anna_George.jpg",
+    "company": "Gnosis"
+  },
+  {
     "firstName": "Bogdan",
     "lastName": "Habic",
     "link": "https://twitter.com/BogdanHabic",

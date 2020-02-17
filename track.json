@@ -802,7 +802,7 @@
       "Abstract": "Private or consortium blockchain have different properties than public blockchains, using alternative consensus algorithms. One key aspect is the fact that all nodes must be explicitly allowed to join the network, aka peer permissioning. In addition, clearly designated node identities apply accountability toward the participating members. These properties make it possible to employ consensus algorithms that are designed for a distributed network comprised entirely of trusted (honest) nodes.  This session will present different consensus options for private, permissioned blockchains, highlighting use cases for each one and providing guidance for when one might be preferred over another."
     },
     {
-      "Nom": "Lukas Schor",
+      "Nom": "Anna George",
       "Titre": "Self-custodial enterprises: Secure digital asset management for corporations",
       "Track": "Enterprise",
       "Category": "Talk",
