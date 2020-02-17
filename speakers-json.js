@@ -497,10 +497,10 @@ var speakers = [
     "company": "Nethermind"
   },
   {
-    "firstName": "Vadim",
-    "lastName": "Koleoshkin",
-    "link": "https://twitter.com/rockfridrich",
-    "picture": "images/speakers_2020/Vadim_Koleoshkin.jpg",
+    "firstName": "Andrey",
+    "lastName": "Balyasnikov",
+    "link": "https://twitter.com/A_Balyasnikov",
+    "picture": "images/speakers_2020/Andrey_Balyasnikov.jpg",
     "company": "Zerion"
   },
   {
