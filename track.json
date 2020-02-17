@@ -101,6 +101,13 @@
   ],
   "Crypto Economics": [
     {
+      "Nom": "Vitalik Buterin",
+      "Titre": "Funding ecosystem public goods",
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "Public goods of different forms, including research, client development, documentation, outreach, wallets, user experience and more are the lifeblood of blockchain ecosystems. And yet, with the sole exception of network security, there has yet been little attention to how to direct funds to them - both where funds come from, and how to decide who gets paid. I review existing approaches, inside and outside ethereum, including quadratic funding in Gitcoin Grants as well as other mechanisms, and compare the benefits and drawbacks of each one."
+    },
+    {
       "Nom": "Ambre Soubiran",
       "Titre": "VC Funding for Blockchain Startups",
       "Track": "Crypto Economics",
@@ -802,7 +809,7 @@
       "Abstract": "Private or consortium blockchain have different properties than public blockchains, using alternative consensus algorithms. One key aspect is the fact that all nodes must be explicitly allowed to join the network, aka peer permissioning. In addition, clearly designated node identities apply accountability toward the participating members. These properties make it possible to employ consensus algorithms that are designed for a distributed network comprised entirely of trusted (honest) nodes.  This session will present different consensus options for private, permissioned blockchains, highlighting use cases for each one and providing guidance for when one might be preferred over another."
     },
     {
-      "Nom": "Lukas Schor",
+      "Nom": "Anna George",
       "Titre": "Self-custodial enterprises: Secure digital asset management for corporations",
       "Track": "Enterprise",
       "Category": "Talk",
@@ -841,7 +848,7 @@
       "Titre": "Cryptocurrency Crime and Compliance in 2020",
       "Track": "Enterprise",
       "Category": "Talk",
-      "Abstract": "Cryptocurrency and the underlying technologies are in perpetual flux. Learn about the latest criminal trends as well as the parallel evolution of law enforcement and compliance strategies"
+      "Abstract": "Cryptocurrencies have the reputation for being cross-border and anonymous, and therefore attractive to bad actors across the world. However, blockchain analysis offers unprecedented transparency into financial transactions, providing insights into the 1.1% of cryptocurrency transactions that were illicit in 2019.\nIn this talk, Willem van den Brandeler discusses our latest original research and case studies on the crypto crime trends shaping law enforcement and compliance in 2020."
     },
     {
       "Nom": "William O'Rorke",

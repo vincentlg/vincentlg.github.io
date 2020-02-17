@@ -1,5 +1,12 @@
 var speakers = [
   {
+    "firstName": "Vitalik",
+    "lastName": "Buterin",
+    "link": "https://twitter.com/VitalikButerin",
+    "picture": "images/speakers_2020/Vitalik_Buterin.jpg",
+    "company": "Ethereum Foundation"
+  },
+  {
     "firstName": "Evan",
     "lastName": "Van Ness",
     "link": "https://twitter.com/evan_van_ness",
@@ -497,10 +504,10 @@ var speakers = [
     "company": "Nethermind"
   },
   {
-    "firstName": "Vadim",
-    "lastName": "Koleoshkin",
-    "link": "https://twitter.com/rockfridrich",
-    "picture": "images/speakers_2020/Vadim_Koleoshkin.jpg",
+    "firstName": "Andrey",
+    "lastName": "Balyasnikov",
+    "link": "https://twitter.com/A_Balyasnikov",
+    "picture": "images/speakers_2020/Andrey_Balyasnikov.jpg",
     "company": "Zerion"
   },
   {
@@ -1218,6 +1225,13 @@ var speakers = [
     "company": "Gnosis"
   },
   {
+    "firstName": "Anna",
+    "lastName": "George",
+    "link": "https://twitter.com/AnnaMSGeorge",
+    "picture": "images/speakers_2020/Anna_George.jpg",
+    "company": "Gnosis"
+  },
+  {
     "firstName": "Bogdan",
     "lastName": "Habic",
     "link": "https://twitter.com/BogdanHabic",
@@ -1351,10 +1365,10 @@ var speakers = [
     "company": "Orchid"
   },
   {
-    "firstName": "Jack",
-    "lastName": "O’Holleran",
+    "firstName": "Chadwick",
+    "lastName": "Strange",
     "link": "https://twitter.com/SkaleNetwork",
-    "picture": "images/speakers_2020/Jack_O_Holleran.jpg",
+    "picture": "images/speakers_2020/ETH-final.png",
     "company": "SKALE Network"
   },
   {
