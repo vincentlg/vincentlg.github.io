@@ -84,6 +84,13 @@ var speakers = [
     "company": "Concordia University"
   },
   {
+    "firstName": "Austin",
+    "lastName": "Griffith",
+    "link": "https://twitter.com/austingriffith",
+    "picture": "images/speakers_2020/austin_griffith.jpg",
+    "company": "Ethereum Foundation"
+  },
+  {
     "firstName": "Ambre",
     "lastName": "Soubiran",
     "link": "https://twitter.com/ambresoub",

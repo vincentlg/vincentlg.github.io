@@ -590,6 +590,13 @@
       "Abstract": "Oracles are set to bridge the abyss between the realm of smart contracts and data outside the blockchain. This ambitious goal requires us to remove the inherent indeterminism of real world events by aggregating, filtering and boiling down multiple data points into a single, predictable datum. This is no easy task, especially for a decentralized network.\nIn this presentation, we will introduce RADON: a domain-specific language that provides a new ontology and semantic infrastructure to enable smart contract developers to define how external data will be retrieved, aggregated, filtered, reduced and reported to their contracts. We will reflect on the challenges that we faced and the quirky, wicked and hidden incentives that can be accidentally introduced by poorly constructed queries."
     },
     {
+      "Nom": "Austin Griffith",
+      "Titre": "eth.build",
+      "Track": "Developer Tools",
+      "Category": "Workshop",
+      "Abstract": "web3 prototyping and education"
+    },
+    {
       "Nom": "Afri Schoedon",
       "Titre": "Why you don't want to develop on Ropsten",
       "Track": "Developer Tools",
