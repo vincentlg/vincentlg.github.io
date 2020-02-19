@@ -896,13 +896,6 @@ var speakers = [
     "company": "Pepo"
   },
    {
-    "firstName": "Gregory",
-    "lastName": "Markou",
-    "link": "https://twitter.com/gregthegreek/",
-    "picture": "images/speakers_2020/Gregory_Markou.png",
-    "company": "ChainSafe Systems"
-  },
-   {
     "firstName": "Nick",
     "lastName": "Dodson",
     "link": "https://twitter.com/iamnickdodson",
@@ -1629,5 +1622,19 @@ var speakers = [
     "link": "https://twitter.com/xanderatallah",
     "picture": "images/speakers_2020/Alex_Atallah.jpg",
     "company": "OpenSea"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Bollen",
+    "link": "",
+    "picture": "images/speakers_2020/Ben_Bollen.png",
+    "company": "Ost"
+  },
+  {
+    "firstName": "Rick",
+    "lastName": "Dudley",
+    "link": "https://twitter.com/AFDudley0",
+    "picture": "images/speakers_2020/Rick_Dudley.jpg",
+    "company": "Vulcanize"
   },
 ]
