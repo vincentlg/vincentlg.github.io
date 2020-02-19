@@ -639,13 +639,6 @@
       "Abstract": ""
     },
     {
-      "Nom": "Gregory Markou",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Developer Tools",
-      "Category": "Talk",
-      "Abstract": "Through the past few years we've seen the rise of Ethereum dev tooling excel far beyond that of any other blockchain ecosystem. Yet, a lot of these tools are cumbersome to use, ultimately not build with end users in mind. This talk will cover some of the largest pain points in developer tooling that ends up directly affecting the end consumers (both dapp developers and dapp users). As a protocol developer, its very easy to overlook UX, and settling with the end result instead of figuring out what users actually need. It also will expand further on the Ethereum JSON-RPC API, and how other blockchain tooling teams can greatly benefit by adding support, and in turn excelling the overall experience for everyone."
-    },
-    {
       "Nom": "Guy-Louis Grau",
       "Titre": "Keycard: an open framework for smart cards in crypto",
       "Track": "Developer Tools",
