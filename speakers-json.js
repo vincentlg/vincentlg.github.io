@@ -1596,10 +1596,10 @@ var speakers = [
     "company": "Cryptium Labs"
   },
   {
-    "firstName": "Arthur",
-    "lastName": "Gervais ",
-    "link": "https://twitter.com/HatforceSec",
-    "picture": "images/speakers_2020/Arthur_Gervais.jpg",
+    "firstName": "Guillaume",
+    "lastName": "Felley",
+    "link": "https://twitter.com/guifel_",
+    "picture": "images/speakers_2020/Guillaume_Felley.jpg",
     "company": "Liquidity Network"
   },
   {
