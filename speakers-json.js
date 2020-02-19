@@ -1644,4 +1644,11 @@ var speakers = [
     "picture": "images/speakers_2020/Maksim_Balashevich.jpg",
     "company": "Santiment"
   },
+  {
+    "firstName": "Zhen Yu",
+    "lastName": "Yong",
+    "link": "https://twitter.com/zenzhenyu",
+    "picture": "images/speakers_2020/Zhen_Yong.png",
+    "company": "Torus Labs"
+  },
 ]
