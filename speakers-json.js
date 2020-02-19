@@ -1637,4 +1637,11 @@ var speakers = [
     "picture": "images/speakers_2020/Rick_Dudley.jpg",
     "company": "Vulcanize"
   },
+  {
+    "firstName": "Maksim",
+    "lastName": "Balashevich",
+    "link": "https://twitter.com/balance_ra",
+    "picture": "images/speakers_2020/Maksim_Balashevich.jpg",
+    "company": "Santiment"
+  },
 ]
