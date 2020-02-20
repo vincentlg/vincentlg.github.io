@@ -84,6 +84,13 @@ var speakers = [
     "company": "Concordia University"
   },
   {
+    "firstName": "Austin",
+    "lastName": "Griffith",
+    "link": "https://twitter.com/austingriffith",
+    "picture": "images/speakers_2020/austin_griffith.jpg",
+    "company": "Ethereum Foundation"
+  },
+  {
     "firstName": "Ambre",
     "lastName": "Soubiran",
     "link": "https://twitter.com/ambresoub",
@@ -896,13 +903,6 @@ var speakers = [
     "company": "Pepo"
   },
    {
-    "firstName": "Gregory",
-    "lastName": "Markou",
-    "link": "https://twitter.com/gregthegreek/",
-    "picture": "images/speakers_2020/Gregory_Markou.png",
-    "company": "ChainSafe Systems"
-  },
-   {
     "firstName": "Nick",
     "lastName": "Dodson",
     "link": "https://twitter.com/iamnickdodson",
@@ -1603,10 +1603,10 @@ var speakers = [
     "company": "Cryptium Labs"
   },
   {
-    "firstName": "Arthur",
-    "lastName": "Gervais ",
-    "link": "https://twitter.com/HatforceSec",
-    "picture": "images/speakers_2020/Arthur_Gervais.jpg",
+    "firstName": "Guillaume",
+    "lastName": "Felley",
+    "link": "https://twitter.com/guifel_",
+    "picture": "images/speakers_2020/Guillaume_Felley.jpg",
     "company": "Liquidity Network"
   },
   {
@@ -1629,5 +1629,33 @@ var speakers = [
     "link": "https://twitter.com/xanderatallah",
     "picture": "images/speakers_2020/Alex_Atallah.jpg",
     "company": "OpenSea"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Bollen",
+    "link": "",
+    "picture": "images/speakers_2020/Ben_Bollen.png",
+    "company": "Ost"
+  },
+  {
+    "firstName": "Rick",
+    "lastName": "Dudley",
+    "link": "https://twitter.com/AFDudley0",
+    "picture": "images/speakers_2020/Rick_Dudley.jpg",
+    "company": "Vulcanize"
+  },
+  {
+    "firstName": "Maksim",
+    "lastName": "Balashevich",
+    "link": "https://twitter.com/balance_ra",
+    "picture": "images/speakers_2020/Maksim_Balashevich.jpg",
+    "company": "Santiment"
+  },
+  {
+    "firstName": "Zhen Yu",
+    "lastName": "Yong",
+    "link": "https://twitter.com/zenzhenyu",
+    "picture": "images/speakers_2020/Zhen_Yong.png",
+    "company": "Torus Labs"
   },
 ]

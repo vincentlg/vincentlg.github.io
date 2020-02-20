@@ -590,6 +590,13 @@
       "Abstract": "Oracles are set to bridge the abyss between the realm of smart contracts and data outside the blockchain. This ambitious goal requires us to remove the inherent indeterminism of real world events by aggregating, filtering and boiling down multiple data points into a single, predictable datum. This is no easy task, especially for a decentralized network.\nIn this presentation, we will introduce RADON: a domain-specific language that provides a new ontology and semantic infrastructure to enable smart contract developers to define how external data will be retrieved, aggregated, filtered, reduced and reported to their contracts. We will reflect on the challenges that we faced and the quirky, wicked and hidden incentives that can be accidentally introduced by poorly constructed queries."
     },
     {
+      "Nom": "Austin Griffith",
+      "Titre": "eth.build",
+      "Track": "Developer Tools",
+      "Category": "Workshop",
+      "Abstract": "web3 prototyping and education"
+    },
+    {
       "Nom": "Afri Schoedon",
       "Titre": "Why you don't want to develop on Ropsten",
       "Track": "Developer Tools",
@@ -632,18 +639,18 @@
       "Abstract": "Building a DApp is are extremely expensive, slow and risky using today's tool—because a single bug can cause your users to lose all their assets. MuKn is making it orders of magnitude cheaper, faster and safer to build DApps and formally verify them. To achieve this result, we have to step back and recognize that a DApp is much more than a \"smart contract\", but an interaction between multiple distrusting parties, that runs mostly on their respective computer systems, not just on the blockchain."
     },
     {
+      "Nom": "Patrick Mccorry",
+      "Titre": "Why meta-transactions in ETH 1.0 suck and what we can do about it",
+      "Track": "Developer Tools",
+      "Category": "Talk",
+      "Abstract": "Meta-transactions are useful when someone else (a relayer) can pay the gas fee on a user's behalf. It is promoted as a great mechanism for on-boarding new users, helping others transfer ERC20 tokens or just to play around with Tornado cash. We have spent the past few months building, any.sender & any.watcher, a financially accountable meta-transaction relayer. Its USP is a smart-contract enforced quality of service or your money back.  Along the way, we have faced hurdle after hurdle after hurdle to get it up and running, thanks to a dash of wizardry, unicorns and star-alignment. However 99% of the problems faced are fundamental due to the limitations in ETH 1.0 that can  easily be addressed in ETH 2.0. We'll take this opportunity to talk about why meta-transactions are useful, the any.sender design, and what really needs to be fixed in ETH 2.0 to ensure meta-transactions become a native-primitive of the eco-system."
+    },
+    {
       "Nom": "Frankie Pangilinan",
       "Titre": "TO BE ANNOUNCED",
       "Track": "Developer Tools",
       "Category": "Talk",
       "Abstract": ""
-    },
-    {
-      "Nom": "Gregory Markou",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Developer Tools",
-      "Category": "Talk",
-      "Abstract": "Through the past few years we've seen the rise of Ethereum dev tooling excel far beyond that of any other blockchain ecosystem. Yet, a lot of these tools are cumbersome to use, ultimately not build with end users in mind. This talk will cover some of the largest pain points in developer tooling that ends up directly affecting the end consumers (both dapp developers and dapp users). As a protocol developer, its very easy to overlook UX, and settling with the end result instead of figuring out what users actually need. It also will expand further on the Ethereum JSON-RPC API, and how other blockchain tooling teams can greatly benefit by adding support, and in turn excelling the overall experience for everyone."
     },
     {
       "Nom": "Guy-Louis Grau",
@@ -775,7 +782,7 @@
   "Enterprise": [
     {
       "Nom": "Charles Guillemet",
-      "Titre":"TO BE ANNOUNCED",
+      "Titre":"The challenge of digital assets custody",
       "Track": "Enterprise",
       "Category": "Talk",
       "Abstract": "Technical insights on Ledger Vault, the enterprise digital assets custody technology"
@@ -1416,7 +1423,7 @@
       "Abstract": ""
     },
     {
-      "Nom": "Arthur Gervais",
+      "Nom": "Guillaume Felley",
       "Titre": "Off-the-Chain transactions: Understanding the layer 2 landscape",
       "Track": "Scalability",
       "Category": "Talk",
@@ -1507,13 +1514,6 @@
       "Track": "Security",
       "Category": "Talk",
       "Abstract": "In september I published some research on mutation testing for smart contracts. With this paper I also released an open source mutation testing tool:\nhttps://github.com/JoranHonig/vertigo\nWhich has seen a few improvements since it's initial release (and probably will see a few more before EthCC)\n \nIn this talk I would like to discuss some of the theory of mutation testing.\nAs well as some of the more technical and practical challenges and aspects of mutation testing when applied to smart contracts.\nhttps://medium.com/swlh/introduction-into-mutation-testing-d6512dc702b0\n^ this is an article I wrote on medium about mutation testing. \nAfter the talk my aim is that people will be able to apply mutation testing in their development workflow to keep their smart contracts safe."
-    },
-    {
-      "Nom": "Patrick Mccorry",
-      "Titre": "Why meta-transactions in ETH 1.0 suck and what we can do about it",
-      "Track": "Security",
-      "Category": "Talk",
-      "Abstract": "Meta-transactions are useful when someone else (a relayer) can pay the gas fee on a user's behalf. It is promoted as a great mechanism for on-boarding new users, helping others transfer ERC20 tokens or just to play around with Tornado cash. We have spent the past few months building, any.sender & any.watcher, a financially accountable meta-transaction relayer. Its USP is a smart-contract enforced quality of service or your money back.  Along the way, we have faced hurdle after hurdle after hurdle to get it up and running, thanks to a dash of wizardry, unicorns and star-alignment. However 99% of the problems faced are fundamental due to the limitations in ETH 1.0 that can  easily be addressed in ETH 2.0. We'll take this opportunity to talk about why meta-transactions are useful, the any.sender design, and what really needs to be fixed in ETH 2.0 to ensure meta-transactions become a native-primitive of the eco-system."
     },
     {
       "Nom": "Patrick Ventuzelo",
