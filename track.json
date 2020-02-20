@@ -1430,6 +1430,13 @@
       "Abstract": ""
     },
     {
+      "Nom": "Benjamin Bollen",
+      "Titre": "Removing state from Ethereum layer 1 to enable rich dApps like Pepo",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "Rich content dApps require more statefulness than Ethereum1 can provide, prunable and at lower price points. Such state benefits both content and smart contract wallets for user experience. 'Mosaic' introduces (on Ethereum1) a second layer proof-of-stake consensus to asynchronously update injected state tries transitions in parallel to the main chain. We discuss the architecture, data availability, validator token incentives and the upcoming testnet generations."
+    },
+    {
       "Nom": "Guillaume Felley",
       "Titre": "Off-the-Chain transactions: Understanding the layer 2 landscape",
       "Track": "Scalability",

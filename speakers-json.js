@@ -1633,7 +1633,7 @@ var speakers = [
   {
     "firstName": "Benjamin",
     "lastName": "Bollen",
-    "link": "",
+    "link": "https://twitter.com/BenjaminBollen",
     "picture": "images/speakers_2020/Ben_Bollen.png",
     "company": "Ost"
   },
