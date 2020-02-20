@@ -1274,6 +1274,13 @@
       "Abstract": "Short introduction why metadata and especially network-level privacy matters in the context of web2 and web3. Followed by an overview of the HOPR ecosystem and a brief explanation of the mechanisms on message and payment layer. This will cover HOPRs Proof-Of-Relay scheme as well as its payment system which is influenced by payment channels and aggregatable probabilistic payment tickets. First demo of the public HOPR testnet."
     },
     {
+      "Nom": "Gilles Fedak",
+      "Titre": "Crazy Dapps you can build with iExec and Confidential Computing! ",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "Confidential computing is a new paradigm that allows encrypted data to be processed securely without being revealed at any time. Confidential computing brings privacy to Dapps: application developers can now provision their Dapps with users' secret information opening a wide range of new usages and applications for their Dapps. In this talk, we'll introduce a new example of  Ethereum applications that can leverage confidential computing.\niExec is the first decentralized marketplace for cloud computing resources. The iExec network is made up of providers of computing power, applications, and datasets - allowing for on-demand access to cloud computing resources. The project has a particular focus on trusted and confidential computing to strengthen security within distributed networks.\nWe’ll introduce how the iExec SDK allows developers to easily set up their application to be powered by a decentralized and distributed computing network. We'll give an overview of the iExec solution for off-chain end-to-end privacy-preserving computing.\nCome along and find out how powering your application by a decentralized and distributed network of computing nodes can be as simple as setting up a docker image!"
+    },
+    {
       "Nom": "Seven Waterhouse",
       "Titre": "TO BE ANNOUNCED",
       "Track": "Privacy",

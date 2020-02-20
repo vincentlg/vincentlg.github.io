@@ -1658,4 +1658,11 @@ var speakers = [
     "picture": "images/speakers_2020/Zhen_Yong.png",
     "company": "Torus Labs"
   },
+  {
+    "firstName": "Gilles",
+    "lastName": "Fedak",
+    "link": "https://twitter.com/iEx_ec",
+    "picture": "images/speakers_2020/gilles_Fedak.png",
+    "company": "iExec"
+  },
 ]
