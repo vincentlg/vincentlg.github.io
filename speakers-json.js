@@ -7,6 +7,13 @@ var speakers = [
     "company": "Ethereum Foundation"
   },
   {
+    "firstName": "Joseph",
+    "lastName": "Lubin",
+    "link": "https://twitter.com/ethereumJoseph",
+    "picture": "images/speakers_2020/Joe_Lubin.png",
+    "company": "ConsenSys"
+  },
+  {
     "firstName": "Evan",
     "lastName": "Van Ness",
     "link": "https://twitter.com/evan_van_ness",
