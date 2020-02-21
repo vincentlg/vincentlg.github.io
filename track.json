@@ -1360,13 +1360,6 @@
       "Abstract": "In this talk, I will present how WASM precompiles can be leveraged to solve a lot of the scalability issues afflicting Ethereum 1.x. It will expand on my Devcon talk https://www.youtube.com/watch?v=ez4W9-byCnM by detailing a Dapp development paradigm that alleviates the burden of eth 1 clients, and paves the way for Eth2."
     },
     {
-      "Nom": "Jack O’Holleran",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Scalability",
-      "Category": "",
-      "Abstract": "With nearly 12 years of experience in leading a variety of startup projects, Jack has honed his specialty in blockchain, decentralization, and company building through his work on SKALE. SKALE’s goal is to solve the blockchain scalability problem by facilitating processing between blockchains and decentralized applications, helping the ecosystem run hundreds of millions of smart contracts and transactions per second. He is the perfect person to dive into thoughts on scalability, decentralization, or the blockchain industry in general."
-    },
-    {
       "Nom": "Jacob Czepluch &  Kelsos Paparas",
       "Titre": "Hands on with Raiden and the Raiden Light Client",
       "Track": "Scalability",
@@ -1616,7 +1609,7 @@
       "Abstract": "How Blockchain Name Service is improving the user experience of blockchain technology."
     },
     {
-      "Nom": "Dean Eigenman",
+      "Nom": "Dean Eigenman & Oskar Thoren",
       "Titre": "From Whisper to Waku",
       "Track": "Web3",
       "Category": "Talk",

@@ -1672,4 +1672,11 @@ var speakers = [
     "picture": "images/speakers_2020/gilles_Fedak.png",
     "company": "iExec"
   },
+  {
+    "firstName": "Oskar",
+    "lastName": "Thoren",
+    "link": "https://twitter.com/oskarth",
+    "picture": "images/speakers_2020/Oskar_Thoren.jpg",
+    "company": "Status"
+  },
 ]
