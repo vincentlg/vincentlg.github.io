@@ -108,6 +108,13 @@
       "Abstract": "Public goods of different forms, including research, client development, documentation, outreach, wallets, user experience and more are the lifeblood of blockchain ecosystems. And yet, with the sole exception of network security, there has yet been little attention to how to direct funds to them - both where funds come from, and how to decide who gets paid. I review existing approaches, inside and outside ethereum, including quadratic funding in Gitcoin Grants as well as other mechanisms, and compare the benefits and drawbacks of each one."
     },
     {
+      "Nom": "Rick Dudley",
+      "Titre": "Buy The Dip",
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "A discussion on the current state of The Ethereum Community and the challenges it faces from without and within."
+    },
+    {
       "Nom": "Ambre Soubiran",
       "Titre": "VC Funding for Blockchain Startups",
       "Track": "Crypto Economics",
@@ -498,10 +505,10 @@
     },
     {
       "Nom": "Mara Schmiedt",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "The Network Glue: The Role of the Application-Layer in Fostering Decentralization and Participation",
       "Track": "Decentralised Finance",
       "Category": "Talk",
-      "Abstract": "2016-2018 we saw trillions of utility tokens issued and $24B in funds raised through ICOs. It was an era of strong innovation and undoubtedly poor execution. Where does the ecosystem stand today?\nFind out how Activate and SKALE Labs are paving the industry for launching and participating in the decentralized networks of tomorrow. \n"
+      "Abstract": "Friction, fragmentation and regulatory uncertainty - the road to launching and participating in token-powered networks is hard. How has the ecosystem evolved and what role does the application-layer play in it's success? Find out how Activate is enabling the decentralized networks of tomorrow."
     },
     {
       "Nom": "Mel Gelderman",
@@ -1274,6 +1281,13 @@
       "Abstract": "Short introduction why metadata and especially network-level privacy matters in the context of web2 and web3. Followed by an overview of the HOPR ecosystem and a brief explanation of the mechanisms on message and payment layer. This will cover HOPRs Proof-Of-Relay scheme as well as its payment system which is influenced by payment channels and aggregatable probabilistic payment tickets. First demo of the public HOPR testnet."
     },
     {
+      "Nom": "Gilles Fedak",
+      "Titre": "Crazy Dapps you can build with iExec and Confidential Computing! ",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "Confidential computing is a new paradigm that allows encrypted data to be processed securely without being revealed at any time. Confidential computing brings privacy to Dapps: application developers can now provision their Dapps with users' secret information opening a wide range of new usages and applications for their Dapps. In this talk, we'll introduce a new example of  Ethereum applications that can leverage confidential computing.\niExec is the first decentralized marketplace for cloud computing resources. The iExec network is made up of providers of computing power, applications, and datasets - allowing for on-demand access to cloud computing resources. The project has a particular focus on trusted and confidential computing to strengthen security within distributed networks.\nWe’ll introduce how the iExec SDK allows developers to easily set up their application to be powered by a decentralized and distributed computing network. We'll give an overview of the iExec solution for off-chain end-to-end privacy-preserving computing.\nCome along and find out how powering your application by a decentralized and distributed network of computing nodes can be as simple as setting up a docker image!"
+    },
+    {
       "Nom": "Seven Waterhouse",
       "Titre": "TO BE ANNOUNCED",
       "Track": "Privacy",
@@ -1421,6 +1435,13 @@
       "Track": "Scalability",
       "Category": "Talk",
       "Abstract": ""
+    },
+    {
+      "Nom": "Benjamin Bollen",
+      "Titre": "Removing state from Ethereum layer 1 to enable rich dApps like Pepo",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "Rich content dApps require more statefulness than Ethereum1 can provide, prunable and at lower price points. Such state benefits both content and smart contract wallets for user experience. 'Mosaic' introduces (on Ethereum1) a second layer proof-of-stake consensus to asynchronously update injected state tries transitions in parallel to the main chain. We discuss the architecture, data availability, validator token incentives and the upcoming testnet generations."
     },
     {
       "Nom": "Guillaume Felley",

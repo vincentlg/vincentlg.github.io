@@ -7,6 +7,13 @@ var speakers = [
     "company": "Ethereum Foundation"
   },
   {
+    "firstName": "Joseph",
+    "lastName": "Lubin",
+    "link": "https://twitter.com/ethereumJoseph",
+    "picture": "images/speakers_2020/Joe_Lubin.png",
+    "company": "ConsenSys"
+  },
+  {
     "firstName": "Evan",
     "lastName": "Van Ness",
     "link": "https://twitter.com/evan_van_ness",
@@ -1633,7 +1640,7 @@ var speakers = [
   {
     "firstName": "Benjamin",
     "lastName": "Bollen",
-    "link": "",
+    "link": "https://twitter.com/BenjaminBollen",
     "picture": "images/speakers_2020/Ben_Bollen.png",
     "company": "Ost"
   },
@@ -1657,5 +1664,12 @@ var speakers = [
     "link": "https://twitter.com/zenzhenyu",
     "picture": "images/speakers_2020/Zhen_Yong.png",
     "company": "Torus Labs"
+  },
+  {
+    "firstName": "Gilles",
+    "lastName": "Fedak",
+    "link": "https://twitter.com/iEx_ec",
+    "picture": "images/speakers_2020/gilles_Fedak.png",
+    "company": "iExec"
   },
 ]
