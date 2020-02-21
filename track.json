@@ -328,10 +328,11 @@
     },
     {
       "Nom": "Stefan George",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "Omen - Solving the Prediction Market Liquidity Problem - by dxDAO",
       "Track": "dApps / UX /UI",
-      "Category": "Workshop",
-      "Abstract": "The value locked in DeFi protocols surged dramatically in 2019, with over $600M already being put to work. Decentralized finance has clearly achieved product-market fit on the Ethereum blockchain. However, still, the majority of crypto funds stored on multi-signature wallets sit idle, having no easy way to interact with DeFi protocols. With over $1B worth of digital assets held in Gnosis Multisig wallets alone, it’s essential for the dapp ecosystem to access this untapped market. This talk will introduce a completely new way for developers to build their dapps right into a Multisig interface. Let’s make 2020 the year where Multisig funds are fully connected to DeFi."
+      "Category": "Talk",
+      "Abstract": "Omen is a new decentralized prediction market offering operated by the dxDAO based on Gnosis's Conditional Tokens Framework. Currently, most prediction markets like Augur are using an order book model, which requires liquidity providers (market makers) to implement trading strategies. This requirement and the gas costly operation of an order book are major blockers to the adoption of prediction markets. Omen is solving the liquidity problem by using crowd-sourced automated market makers to provide liquidity using a simple predefined trading strategy. Based on the Uniswap model, liquidity is provided and incentivized by adding a spread to the outcomes, which is given to liquidity providers. Markets are resolved by utilizing the realit.io escalation process with the dxDAO as possible final arbitrator.\nThis combination of building blocks allows users to setup a prediction market on Omen within 60 seconds incentivizing participation from the start.\nThe presentation will cover all parts of Omen in detail and explain how you can start your first prediction market."
+
     },
     {
       "Nom": "Theophile Villard",
@@ -1673,7 +1674,7 @@
     },
     {
       "Nom": "Simona Pop",
-      "Titre": "Earn as you learn models for ecosystem development",
+      "Titre": "Community building and crypto incentives",
       "Track": "Web3",
       "Category": "Workshop",
       "Abstract": "Practical examples of how education and coordinated community engagement can turbo charge adoption"
