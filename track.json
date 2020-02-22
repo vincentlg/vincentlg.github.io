@@ -251,10 +251,10 @@
     },
     {
       "Nom": "Chriss Sugg",
-      "Titre": "The Savviness Scale: Designing for Next Wave of Ethereum Users",
+      "Titre": "Cassandra Crossing the Diamond: Tips & Tricks for Aligning on Your Product",
       "Track": "dApps / UX /UI",
       "Category": "Talk",
-      "Abstract": "As we continue to drive towards mass adoption, the gap in technical savviness between Ethereum early adopters and newcoming users will continue to widen. This talk will focus around the challenges of designing for the technical diversity of Ethereum users. We will touch on user research synthesis,  persona design and feature prioritization."
+      "Abstract": "This talk will center around one of the most important stages in the product design process, namely the point of alignment on the problem. With the British Design Council’s Double Diamond design process as our model, we will explore how to cross the diamond from problem discovery to problem alignment. It is at this point in the process where cross-functional communication and alignment on user needs is essential. We will touch on the value user research and techniques that have worked at Coinbase for gaining team-wide buy-in. Open to designers and non-designers alike!"
     },
     {
       "Nom": "Christian Reitwiessner",
