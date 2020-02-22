@@ -1673,10 +1673,10 @@ var speakers = [
     "company": "iExec"
   },
   {
-    "firstName": "Oskar",
-    "lastName": "Thoren",
-    "link": "https://twitter.com/oskarth",
-    "picture": "images/speakers_2020/Oskar_Thoren.jpg",
-    "company": "Status"
+    "firstName": "Pierre-Nicolas ",
+    "lastName": "Hurstel",
+    "link": " https://twitter.com/mr_pnh",
+    "picture": "images/speakers_2020/Pierre_Nicolas_Hurstel.png",
+    "company": "Arianee"
   },
 ]
