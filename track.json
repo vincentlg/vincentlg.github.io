@@ -211,6 +211,13 @@
       "Track": "Crypto Economics",
       "Category": "Talk",
       "Abstract": "In traditional social choice theory one finds that there are difficulties in designing election systems with desirable properties to decide between more than two candidates, see for example Arrow’s Impossibility Theorem. Meanwhile Schelling point based voting is being used in blockchain applications such as the Kleros dispute resolution system and a number of oracles. Here participants are incentivized to be coherent, rather than to vote their personal preferences as in traditional elections. In this talk we will briefly outline some ways in which the tactical voting considerations of traditional elections can nonetheless manifest themselves in Schelling point based systems."
+    },
+    {
+      "Nom": "Griff Green",
+      "Titre": "Intro to Cryptoeconomic Simulation: cadCAD Beginners Workshop",
+      "Track": "Crypto Economics",
+      "Category": "Workshop",
+      "Abstract": "This workshop is friendly to any coding level. The only requirement is that you are Code Curious😃! Bring your Laptop, we will be coding! We will start with a quick overview of why it is so important to create simulations, specifically as it applies to the Commons Stack, and then we will put our heads down and start working on a cadCAD tutorial with technical support. If you are familiar python or agent based modeling you will be ahead of the curve and there will be challenging exercises for you to work on. This will truly be enjoyable for all levels."
     }
   ],
   "dApps / UX /UI": [
