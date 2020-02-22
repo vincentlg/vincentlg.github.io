@@ -211,6 +211,13 @@
       "Track": "Crypto Economics",
       "Category": "Talk",
       "Abstract": "In traditional social choice theory one finds that there are difficulties in designing election systems with desirable properties to decide between more than two candidates, see for example Arrow’s Impossibility Theorem. Meanwhile Schelling point based voting is being used in blockchain applications such as the Kleros dispute resolution system and a number of oracles. Here participants are incentivized to be coherent, rather than to vote their personal preferences as in traditional elections. In this talk we will briefly outline some ways in which the tactical voting considerations of traditional elections can nonetheless manifest themselves in Schelling point based systems."
+    },
+    {
+      "Nom": "Griff Green",
+      "Titre": "Intro to Cryptoeconomic Simulation: cadCAD Beginners Workshop",
+      "Track": "Crypto Economics",
+      "Category": "Workshop",
+      "Abstract": "This workshop is friendly to any coding level. The only requirement is that you are Code Curious! Bring your Laptop, we will be coding! We will start with a quick overview of why it is so important to create simulations, specifically as it applies to the Commons Stack, and then we will put our heads down and start working on a cadCAD tutorial with technical support. If you are familiar python or agent based modeling you will be ahead of the curve and there will be challenging exercises for you to work on. This will truly be enjoyable for all levels."
     }
   ],
   "dApps / UX /UI": [
@@ -230,10 +237,10 @@
     },
     {
       "Nom": "Amy Jung",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "Evolving Design in Web3 through Open Source Principles",
       "Track": "dApps / UX /UI",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "In Web3, open source is a default setting. Then Design too, is expected to function with the same ability to look inside the process at any time and facilitate permission-less collaboration. How can we evolve traditional design with these open source principles?\nThis talk brings together a mini-history of Web3 Design and its driving forces, as well as lessons from UX Audits, Burner Wallet collaborations, Design Systems, and more."
     },
     {
       "Nom": "Ashleigh Schap",
@@ -251,10 +258,10 @@
     },
     {
       "Nom": "Chriss Sugg",
-      "Titre": "The Savviness Scale: Designing for Next Wave of Ethereum Users",
+      "Titre": "Cassandra Crossing the Diamond: Tips & Tricks for Aligning on Your Product",
       "Track": "dApps / UX /UI",
       "Category": "Talk",
-      "Abstract": "As we continue to drive towards mass adoption, the gap in technical savviness between Ethereum early adopters and newcoming users will continue to widen. This talk will focus around the challenges of designing for the technical diversity of Ethereum users. We will touch on user research synthesis,  persona design and feature prioritization."
+      "Abstract": "This talk will center around one of the most important stages in the product design process, namely the point of alignment on the problem. With the British Design Council’s Double Diamond design process as our model, we will explore how to cross the diamond from problem discovery to problem alignment. It is at this point in the process where cross-functional communication and alignment on user needs is essential. We will touch on the value user research and techniques that have worked at Coinbase for gaining team-wide buy-in. Open to designers and non-designers alike!"
     },
     {
       "Nom": "Christian Reitwiessner",
@@ -328,10 +335,11 @@
     },
     {
       "Nom": "Stefan George",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "Omen - Solving the Prediction Market Liquidity Problem - by dxDAO",
       "Track": "dApps / UX /UI",
-      "Category": "Workshop",
-      "Abstract": "The value locked in DeFi protocols surged dramatically in 2019, with over $600M already being put to work. Decentralized finance has clearly achieved product-market fit on the Ethereum blockchain. However, still, the majority of crypto funds stored on multi-signature wallets sit idle, having no easy way to interact with DeFi protocols. With over $1B worth of digital assets held in Gnosis Multisig wallets alone, it’s essential for the dapp ecosystem to access this untapped market. This talk will introduce a completely new way for developers to build their dapps right into a Multisig interface. Let’s make 2020 the year where Multisig funds are fully connected to DeFi."
+      "Category": "Talk",
+      "Abstract": "Omen is a new decentralized prediction market offering operated by the dxDAO based on Gnosis's Conditional Tokens Framework. Currently, most prediction markets like Augur are using an order book model, which requires liquidity providers (market makers) to implement trading strategies. This requirement and the gas costly operation of an order book are major blockers to the adoption of prediction markets. Omen is solving the liquidity problem by using crowd-sourced automated market makers to provide liquidity using a simple predefined trading strategy. Based on the Uniswap model, liquidity is provided and incentivized by adding a spread to the outcomes, which is given to liquidity providers. Markets are resolved by utilizing the realit.io escalation process with the dxDAO as possible final arbitrator.\nThis combination of building blocks allows users to setup a prediction market on Omen within 60 seconds incentivizing participation from the start.\nThe presentation will cover all parts of Omen in detail and explain how you can start your first prediction market."
+
     },
     {
       "Nom": "Theophile Villard",
@@ -626,10 +634,10 @@
     },
     {
       "Nom": "Daniela Osorio",
-      "Titre": "Become a Blockchain developer: No smart contracts required",
+      "Titre": "Secrets, Lies, & Spies: A History of Ciphers",
       "Track": "Developer Tools",
       "Category": "Talk",
-      "Abstract": "A blockchain onboarding deep dive for developers interested in transferring their expertise to the web3 world."
+      "Abstract": ""
     },
     {
       "Nom": "Dennison Bertram",
@@ -1360,13 +1368,6 @@
       "Abstract": "In this talk, I will present how WASM precompiles can be leveraged to solve a lot of the scalability issues afflicting Ethereum 1.x. It will expand on my Devcon talk https://www.youtube.com/watch?v=ez4W9-byCnM by detailing a Dapp development paradigm that alleviates the burden of eth 1 clients, and paves the way for Eth2."
     },
     {
-      "Nom": "Jack O’Holleran",
-      "Titre": "TO BE ANNOUNCED",
-      "Track": "Scalability",
-      "Category": "",
-      "Abstract": "With nearly 12 years of experience in leading a variety of startup projects, Jack has honed his specialty in blockchain, decentralization, and company building through his work on SKALE. SKALE’s goal is to solve the blockchain scalability problem by facilitating processing between blockchains and decentralized applications, helping the ecosystem run hundreds of millions of smart contracts and transactions per second. He is the perfect person to dive into thoughts on scalability, decentralization, or the blockchain industry in general."
-    },
-    {
       "Nom": "Jacob Czepluch &  Kelsos Paparas",
       "Titre": "Hands on with Raiden and the Raiden Light Client",
       "Track": "Scalability",
@@ -1375,7 +1376,7 @@
     },
     {
       "Nom": "Karl Floersch",
-      "Titre": "TO BE ANNOUNCED (Optimistic Rollup)",
+      "Titre": "Optimistic Virtual Machine: Full Ethereum Smart Contracts with Optimistic Rollup",
       "Track": "Scalability",
       "Category": "Talk",
       "Abstract": ""
@@ -1616,7 +1617,7 @@
       "Abstract": "How Blockchain Name Service is improving the user experience of blockchain technology."
     },
     {
-      "Nom": "Dean Eigenman",
+      "Nom": "Dean Eigenman & Oskar Thoren",
       "Titre": "From Whisper to Waku",
       "Track": "Web3",
       "Category": "Talk",
@@ -1680,7 +1681,7 @@
     },
     {
       "Nom": "Simona Pop",
-      "Titre": "Earn as you learn models for ecosystem development",
+      "Titre": "Community building and crypto incentives",
       "Track": "Web3",
       "Category": "Workshop",
       "Abstract": "Practical examples of how education and coordinated community engagement can turbo charge adoption"
