@@ -1679,4 +1679,25 @@ var speakers = [
     "picture": "images/speakers_2020/Pierre_Nicolas_Hurstel.png",
     "company": "Arianee"
   },
+  {
+    "firstName": "Philippe",
+    "lastName": "Honigman",
+    "link": "https://twitter.com/phil_h",
+    "picture": "images/speakers_2020/Philippe_Honigman.jpg",
+    "company": "OrgTech"
+  },
+  {
+    "firstName": "Kris",
+    "lastName": "Decoodt",
+    "link": " https://www.twitter.com/krrisis",
+    "picture": "images/speakers_2020/Kris_Decoodt.png",
+    "company": "Commons Stack"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Giraux",
+    "link": "https://twitter.com/luigigrx",
+    "picture": "images/speakers_2020/Louis_Giraux.png",
+    "company": "Aragon community"
+  },
 ]
