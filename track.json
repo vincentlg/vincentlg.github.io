@@ -637,7 +637,7 @@
       "Titre": "Secrets, Lies, & Spies: A History of Ciphers",
       "Track": "Developer Tools",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "From the beginning of recorded history, codes and ciphers have been used to carry secret messages. We’ll explore some of the most significant early encryption methods such as the Caesar Shift Cipher, Scytale, the Vigenère Cipher, Playfair, and the Enigma Code. \nThe race to create even more complex codes (and the parallel race to break them) continues today, as computers create “unbreakable” encryptions of sensitive data."
     },
     {
       "Nom": "Dennison Bertram",

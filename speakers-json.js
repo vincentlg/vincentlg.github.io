@@ -434,11 +434,11 @@ var speakers = [
     "company": "Uniswap "
   },
   {
-    "firstName": "Osorio",
-    "lastName": "Daniela",
+    "firstName": "Daniela",
+    "lastName": "Osorio",
     "link": "https://twitter.com/waverlymaven",
     "picture": "images/speakers_2020/Daniela_Osorio.jpg",
-    "company": "Infura"
+    "company": ""
   },
   {
     "firstName": "Ayodeji",
