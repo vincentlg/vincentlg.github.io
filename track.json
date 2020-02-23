@@ -367,7 +367,7 @@
       "Titre": "Programmable bank account for DeFi",
       "Track": "dApps / UX /UI",
       "Category": "Talk",
-      "Abstract": "In this talk, I will discuss how to create a Coinbase-like experience while staying non-custodial by leveraging the power of smart-contracts. I will discuss the critical role composability plays in the DeFi ecosystem, as well as the importance of the UX for mass adoption. I will show how the combination of a secure Gnosis Safe smart-contract based wallet and custom modules allows us to create a unified and secure cross-device experience for our users. During the talk, I will compare a standard EOA (externally owned accounts) with a programmable smart contract-based account, and outline the possibilities the latter approach creates. I will end with a short live demo of the product, showing how users can interact with Zerion investment account from different devices. "
+      "Abstract": "In this talk, I will discuss how to create a Coinbase-like experience while staying non-custodial by leveraging the power of smart-contracts. I will discuss the critical role composability plays in the DeFi ecosystem, as well as the importance of the UX for mass adoption. I will show how the combination of a DeFi interoperability layer and a secure Gnosis Safe smart-contract based wallet allows us to create a unified and secure cross-device experience for our users. During the talk, I will compare a standard EOA (externally owned accounts) with a programmable smart contract-based account, and outline the possibilities the latter approach creates."
     },
      {
       "Nom": "Gregor Žavcer",
@@ -561,7 +561,7 @@
       "Abstract": "Presentation of the Nethermind Data Marketplace working on Ethereum Mainnet, presenting DeFi space data providers like Token Analyst, Blocklytics, Kaiko, CryptoCompare data delivered via Nethermind Data Marketplace. Also a note on the planned Nethermind modular DeFi gateway integrated with the Nethermind Ethereum client."
     },
     {
-      "Nom": "Vadim Koleoshkin",
+      "Nom": "Alex Bash",
       "Titre": "Returns of Hodling versus DeFi-ing",
       "Track": "Decentralised Finance",
       "Category": "Talk",
