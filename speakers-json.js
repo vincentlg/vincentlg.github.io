@@ -1721,4 +1721,11 @@ var speakers = [
     "picture": "images/speakers_2020/Ken_Ng.jpg",
     "company": "Ethereum Foundation"
   },
+  {
+    "firstName": "Alexis",
+    "lastName": "Collomb",
+    "link": "https://www.linkedin.com/in/alexis-collomb-b2154336/",
+    "picture": "images/speakers_2020/Alexis_Collomb.png",
+    "company": "CNAM"
+  },
 ]

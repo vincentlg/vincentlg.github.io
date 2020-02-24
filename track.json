@@ -378,7 +378,7 @@
     },
     {
       "Nom": "Louis Guthmann & Nicolas Bacca",
-      "Titre": "Native Dapp support in wallets - the StarkEx case study with Ledger and Wallet Connect",
+      "Titre": "Native Dapp support in wallets - the StarkEx case study with Ledger and WalletConnect",
       "Track": "dApps / UX /UI",
       "Category": "Workshop",
       "Abstract": "For most Dapp today, integration with wallets is limited to signing some data without the ability to verify what is being signed. This requires a lot of trust in the UI for the users. To minimize this required trust, we need wallets to be able to understand and parse the data the user sign.\nWith the launch of the StarkEx-powered DeversiFi exchange and its requirements for specific cryptography, a collective effort has been set in motion to improve both the security and the Dapp UI on wallets. Ledger, WalletConnect and StarkWare will present how they managed to define and work together to create the blueprint for native integration for StarkEx as well as other Dapps in the future."
@@ -599,8 +599,15 @@
       "Nom": "Robert Edström & Victor Bonhomme",
       "Titre": "DeFi price feed: A simple, secure and affordable alternative",
       "Track": "Decentralised Finance",
-      "Category": "Worrkshop",
+      "Category": "Workshop",
       "Abstract": "Discover how to leverage an innovative combination of technologies including Trusted Execution Environments (TEE) to feed high quality price data into your Ethereum smart contract, while keeping it as simple, secure and affordable as possible."
+    },
+    {
+      "Nom": "Alexis Collomb",
+      "Titre": "Security tokens, at last!",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "In this brief talk, we will discuss the pros and and cons of security tokens (ST) in terms of quality of service, efficiency and economics, for issuers and investors alike, and what they bring to the table of traditional finance."
     }
   ],
   "Developer Tools": [
