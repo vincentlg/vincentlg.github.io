@@ -910,10 +910,10 @@ var speakers = [
     "company": "Pepo"
   },
    {
-    "firstName": "Nick",
-    "lastName": "Dodson",
-    "link": "https://twitter.com/iamnickdodson",
-    "picture": "images/speakers_2020/Dodson_Nick.png",
+    "firstName": "John",
+    "lastName": "Adler",
+    "link": "https://twitter.com/jadler0",
+    "picture": "images/speakers_2020/John_Adler.png",
     "company": "Fuel"
   },
    {

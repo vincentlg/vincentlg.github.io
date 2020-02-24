@@ -1396,7 +1396,7 @@
       "Abstract": "EVM Sidechains are decentralized ETH-compatible blockchains that can be used by DApps to speed up computation and transactions.  Since sidechains are faster and cheaper than the ETH mainnet, sidechains can impement novel features and technologies to augment existing ETH/EVM functionalities.   I am going to review five sidechain innovations that SKALE sidechains implement: storage, dynamic pricing, asynchronous Proof-of-Stake consensus, interchain messaging/money transfer and tokenless transactions.  For each feature I will provide a code sample to use it in real world DApps."
     },
     {
-      "Nom": "Nick Dodson",
+      "Nom": "John Adler",
       "Titre": "Fuel - A Trustless Scalable Sidechain",
       "Track": "Scalability",
       "Category": "Talk",
