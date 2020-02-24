@@ -375,6 +375,13 @@
       "Track": "dApps / UX /UI",
       "Category": "Workshop",
       "Abstract": "Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Since the last EthCC there has been big advances and Swarm is now ready for developers to start buidling dapps that push the decentralised vision further, towards the world computer. The talk will give an overview of new features and outline future plans and developments of Swarm and the ecosystem. Welcome."
+    },
+    {
+      "Nom": "Louis Guthmann & Nicolas Bacca",
+      "Titre": "Native Dapp support in wallets - the StarkEx case study with Ledger and Wallet Connect",
+      "Track": "dApps / UX /UI",
+      "Category": "Workshop",
+      "Abstract": "For most Dapp today, integration with wallets is limited to signing some data without the ability to verify what is being signed. This requires a lot of trust in the UI for the users. To minimize this required trust, we need wallets to be able to understand and parse the data the user sign.\nWith the launch of the StarkEx-powered DeversiFi exchange and its requirements for specific cryptography, a collective effort has been set in motion to improve both the security and the Dapp UI on wallets. Ledger, WalletConnect and StarkWare will present how they managed to define and work together to create the blueprint for native integration for StarkEx as well as other Dapps in the future."
     }
   ],
   "Decentralised Finance": [
@@ -534,7 +541,7 @@
     },
     {
       "Nom": "Stani Kulechov",
-      "Titre": "Rehypothecation in DeFi - When Locking Assets is Not Enough",
+      "Titre": "Flash Loans: The Good, the Bad, and the Ugly",
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "Rehypothecation is an substantial practice in traditional finance to re-use assets that are used as collateral. Reusing assets will increase the utilisation of collateral and channels higher yields to depositors and lower rates to borrowers. Stani from Aave showcases how rehypothecation is achieved in DeFi by unlocking value with tokenisation and flash lending."

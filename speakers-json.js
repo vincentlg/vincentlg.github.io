@@ -1700,4 +1700,18 @@ var speakers = [
     "picture": "images/speakers_2020/Louis_Giraux.png",
     "company": "Aragon community"
   },
+  {
+    "firstName": "Louis",
+    "lastName": "Guthmann",
+    "link": "https://twitter.com/GuthL",
+    "picture": "images/speakers_2020/Louis_Guthmann.png",
+    "company": "Starkware"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Bacca",
+    "link": "",
+    "picture": "images/speakers_2020/Nicolas_Bacca.jpg",
+    "company": "Ledger"
+  },
 ]
