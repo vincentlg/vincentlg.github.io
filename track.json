@@ -1706,6 +1706,13 @@
       "Track": "Web3",
       "Category": "Talk",
       "Abstract": "The talk focuses on the future evolution of public blockchains. Currently most blockchains are launched and then their design/economics/... are set in stone. However it is highly unlikely that the early versions of blockchains already have hit product/market fit. Newer blockchains such as Tezos, Polkadot and to some extent Cosmos have build-in mechanism to decide upon and implement upgrades. However a large remaining question is whether governance systems are willing to move fast enough and if they are willing to pay for the development to happen. This talk will explore everything around incremental evolution of public blockchains in order to get to the point where they solve real world issues."
+    },
+    {
+      "Nom": "Ken Ng",
+      "Titre": "The Ethereum Foundation's Ecosystem Support Program: A look at how it works to serve the Ethereum community",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "The Ethereum Foundation's grants program was re-christened 'Ecosystem Support' exactly one year ago. Ken will be digging into the who, what, and how of Ecosystem Support, discussing the types of support we've given in the past year since our launch, and pulling some example cases from our past grantees. We'll end with a quick Q&A session."
     }
   ],
   "French Track": [

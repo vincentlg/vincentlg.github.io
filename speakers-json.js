@@ -1714,4 +1714,11 @@ var speakers = [
     "picture": "images/speakers_2020/Nicolas_Bacca.jpg",
     "company": "Ledger"
   },
+  {
+    "firstName": "Ken",
+    "lastName": "Ng",
+    "link": "https://twitter.com/EF_ESP",
+    "picture": "images/speakers_2020/Ken_Ng.jpg",
+    "company": "Ethereum Foundation"
+  },
 ]
