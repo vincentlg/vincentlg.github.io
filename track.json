@@ -1450,6 +1450,13 @@
       "Track": "Scalability",
       "Category": "Talk",
       "Abstract": "This presentation tackles the summarization of knowledge paper: Off-the-chain transactions (https://eprint.iacr.org/2019/360.pdf), a joint work among several leading university researchers that aims at laying the foundation to better study and compare off-chain scalability solutions.\nMost of us might have heard of Payment Channels, Plasma, State Channel, NOCUST, Side-chain, Commit-chain, Rollup, and others. The many constructions, names, and notations about off-chain constructions have unfortunately brought a lot of confusion to the community. It is difficult to capture the different trade-offs taken by each solution. Therefore, there is a need to better explain and define the high-level properties of each of these solutions."
+    },
+    {
+      "Nom": "Chadwick Strange",
+      "Titre": "Building Effective Trustless Networks on Ethereum",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "This talk will provide an overview of methods used to orchestrate PoS trustless networks by leveraging security models provided by Ethereum. In particular, the talk will demonstrate SKALE Manager, a set of Ethereum smart contracts that facilitate SKALE network operations and security, including SKALE chain creation, delegation and validator registration, and distributed key generation for BLS threshold signatures."
     }
   ],
   "Security": [
