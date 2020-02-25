@@ -339,7 +339,6 @@
       "Track": "dApps / UX /UI",
       "Category": "Talk",
       "Abstract": "Omen is a new decentralized prediction market offering operated by the dxDAO based on Gnosis's Conditional Tokens Framework. Currently, most prediction markets like Augur are using an order book model, which requires liquidity providers (market makers) to implement trading strategies. This requirement and the gas costly operation of an order book are major blockers to the adoption of prediction markets. Omen is solving the liquidity problem by using crowd-sourced automated market makers to provide liquidity using a simple predefined trading strategy. Based on the Uniswap model, liquidity is provided and incentivized by adding a spread to the outcomes, which is given to liquidity providers. Markets are resolved by utilizing the realit.io escalation process with the dxDAO as possible final arbitrator.\nThis combination of building blocks allows users to setup a prediction market on Omen within 60 seconds incentivizing participation from the start.\nThe presentation will cover all parts of Omen in detail and explain how you can start your first prediction market."
-
     },
     {
       "Nom": "Theophile Villard",
@@ -792,6 +791,13 @@
       "Track": "Developer Tools",
       "Category": "Talk",
       "Abstract": "Abstract: ETH1.x Stateless Ethereum Working Group lead by Piper Merriam is going to talk about progress made on Stateless Ethereum. How the current Ethereum is going to be stateless and move into ETH1.x Stateless Ethereum including Q&A session with Devs and Researchers from Stateless Ethereum Working Group."
+    },
+    {
+      "Nom": "Josef Jelacic",
+      "Titre": "Ethereum from product perspective.",
+      "Track": "Developer Tools",
+      "Category": "Workshop",
+      "Abstract": "Let's step back and let's look at Ethereum as a software product in the grand scheme of solutions out there.\nWhat purpose does the platform fulfill, which market does it serve and who are or will be the users?\nThis session should help us abstract from what we as individuals want Ethereum to become to better understand where is a natural market fit which makes sense to keep in focus. \nThe workshop will be moderated brainstorming where we'll try to figure where Ethereum stands in the overall blockchain landscape."
     }
   ],
   "Enterprise": [
