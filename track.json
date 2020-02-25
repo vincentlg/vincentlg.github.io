@@ -1723,11 +1723,39 @@
   ],
   "French Track": [
     {
-      "Nom": "Simon Polrot (ADAN), Alexandre Statchenko (Blockchain Partner),Brice Berdah (Monolith - Defi France), Mounir Benchelmed (Paraswap - DeFi France), Philippe Honigman (OrgTech), Jenna Zenk (Melon Port), Nathan Sexer (The Sandbox / Ethereum France), Nicolas Julia (Sorare), Pierre-Nicolas Hurstel (Arianee), William O’Rorke (ORWL)",
-      "Titre": "La Blockchain aujourd'hui et ses perspectives pour demain",
+      "Nom": "Simon Polrot",
+      "Titre": "Introduction :La Blockchain aujourd'hui et ses perspectives pour demain",
       "Track": "French Track",
       "Category": "Talk",
       "Abstract": "La blockchain et les actifs numériques ne sont plus des sujets entièrement vierges, mais ils ont encore leur part de mystère. L’évolution rapide des technologies et des usages rend une vision d’ensemble difficile. Nous avons souhaité, dans le cadre de cette conférence réunissant les cas d’usages les plus innovants de l’écosystème, apporter un éclairage global sur cette industrie et son avenir, à destination du public francophone.\n Dans cette série d’interventions exclusivement en français, nous explorerons les futurs développements de l’industrie des crypto-actifs au travers de ses trois thèmes les plus porteurs aujourd’hui : la finance décentralisée, les objets numériques individualisés (non-fongibles) et les organisations collectives sur blockchain (DAOs). \n Au travers, d’une part, une exploration synthétique de ces cas d’usage et, d’autre part, d’une introduction et mise en perspective, nous explorerons l’avenir de cette industrie naissante et notamment de sa place et de son rôle en France et en Europe.\n Cette série d’interventions s’adresse à un large public (utilisateur, investisseur, politique, développeur ou simple curieux) et elle pourra utilement servir d'introduction aux nombreuses interventions de la conférence EthCC."
+    },
+    {
+      "Nom": "Brice Berdah, Mounir Benchelmed, Arthur Micoulet",
+      "Titre": "La finance décentralisée : vers une nouvelle finance plus transparente",
+      "Track": "French Track",
+      "Category": "Talk",
+      "Abstract": "La finance décentralisée (DeFi – Decentralised Finance) a émergé au cours des deux dernières années grâce aux nombreux développements réalisés sur la blockchain Ethereum. Des entrepreneurs du monde entier créent un nouveau système financier, en s’appuyant sur les possibilités offertes par les blockchains. Transparence, ouverture, traçabilité et fiabilité sont les principes de base de cette nouvelle finance. Aujourd’hui, des individus du monde entier s’échangent des tokens, se prêtent de l’argent sans avoir besoin d’intermédiaires ou encore s’échangent des actifs représentant des biens tangibles (monnaie fiduciaire, or, propriétés, parts dans une société, etc.)."
+    },
+    {
+      "Nom": "Philippe Honigman, Jenna Zenk, Alex Masmejean, Louis Giraux, Kris Decoodt",
+      "Titre": "Organisation collective sur blockchain : que faire avec une DAO en 2020 ?",
+      "Track": "French Track",
+      "Category": "Talk",
+      "Abstract": "Tour d’horizon des actifs uniques ou tokens non-fongibles (NFT). A la différence d’un bitcoin où d’un ether, qui sont interchangeables, les NFT sont des actifs uniques. Seront exposés les tenants et les aboutissants de ce type de tokens dont les qualités permettent de créer une forme d’unicité digitale et par conséquent, une forme de rareté. Au programme: un état des lieux des cas d’usages potentiels et concrets à travers des secteurs tels que le Gaming, le Luxe, la Mode et la Supply Chain et enfin des potentielles limitations et développements futurs."
+      },
+    {
+      "Nom": "Nathan Sexer, Nicolas Julia, Pierre-Nicolas Hurstel, Nicolas Pouard ",
+      "Titre": "Le potentiel des actifs uniques ou tokens non-fongibles (NFT)",
+      "Track": "French Track",
+      "Category": "Talk",
+      "Abstract": "La blockchain et les actifs numériques ne sont plus des sujets entièrement vierges, mais ils ont encore leur part de mystère. L’évolution rapide des technologies et des usages rend une vision d’ensemble difficile. Nous avons souhaité, dans le cadre de cette conférence réunissant les cas d’usages les plus innovants de l’écosystème, apporter un éclairage global sur cette industrie et son avenir, à destination du public francophone.\n Dans cette série d’interventions exclusivement en français, nous explorerons les futurs développements de l’industrie des crypto-actifs au travers de ses trois thèmes les plus porteurs aujourd’hui : la finance décentralisée, les objets numériques individualisés (non-fongibles) et les organisations collectives sur blockchain (DAOs). \n Au travers, d’une part, une exploration synthétique de ces cas d’usage et, d’autre part, d’une introduction et mise en perspective, nous explorerons l’avenir de cette industrie naissante et notamment de sa place et de son rôle en France et en Europe.\n Cette série d’interventions s’adresse à un large public (utilisateur, investisseur, politique, développeur ou simple curieux) et elle pourra utilement servir d'introduction aux nombreuses interventions de la conférence EthCC."
+    },
+    {
+      "Nom": "Simon Polrot, Alexandre Statchenko, William O’Rorke",
+      "Titre": "Conclusion : Conclusion : La France et la Blockchain",
+      "Track": "French Track",
+      "Category": "Talk",
+      "Abstract": ""
     }
   ]
 }
