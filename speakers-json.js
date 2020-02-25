@@ -434,11 +434,11 @@ var speakers = [
     "company": "Uniswap "
   },
   {
-    "firstName": "Osorio",
-    "lastName": "Daniela",
+    "firstName": "Daniela",
+    "lastName": "Osorio",
     "link": "https://twitter.com/waverlymaven",
     "picture": "images/speakers_2020/Daniela_Osorio.jpg",
-    "company": "Infura"
+    "company": ""
   },
   {
     "firstName": "Ayodeji",
@@ -910,10 +910,10 @@ var speakers = [
     "company": "Pepo"
   },
    {
-    "firstName": "Nick",
-    "lastName": "Dodson",
-    "link": "https://twitter.com/iamnickdodson",
-    "picture": "images/speakers_2020/Dodson_Nick.png",
+    "firstName": "John",
+    "lastName": "Adler",
+    "link": "https://twitter.com/jadler0",
+    "picture": "images/speakers_2020/John_Adler.png",
     "company": "Fuel"
   },
    {
@@ -1699,5 +1699,33 @@ var speakers = [
     "link": "https://twitter.com/luigigrx",
     "picture": "images/speakers_2020/Louis_Giraux.png",
     "company": "Aragon community"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Guthmann",
+    "link": "https://twitter.com/GuthL",
+    "picture": "images/speakers_2020/Louis_Guthmann.png",
+    "company": "Starkware"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Bacca",
+    "link": "",
+    "picture": "images/speakers_2020/Nicolas_Bacca.jpg",
+    "company": "Ledger"
+  },
+  {
+    "firstName": "Ken",
+    "lastName": "Ng",
+    "link": "https://twitter.com/EF_ESP",
+    "picture": "images/speakers_2020/Ken_Ng.jpg",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Collomb",
+    "link": "https://www.linkedin.com/in/alexis-collomb-b2154336/",
+    "picture": "images/speakers_2020/Alexis_Collomb.png",
+    "company": "CNAM"
   },
 ]

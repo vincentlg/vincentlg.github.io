@@ -367,7 +367,7 @@
       "Titre": "Programmable bank account for DeFi",
       "Track": "dApps / UX /UI",
       "Category": "Talk",
-      "Abstract": "In this talk, I will discuss how to create a Coinbase-like experience while staying non-custodial by leveraging the power of smart-contracts. I will discuss the critical role composability plays in the DeFi ecosystem, as well as the importance of the UX for mass adoption. I will show how the combination of a secure Gnosis Safe smart-contract based wallet and custom modules allows us to create a unified and secure cross-device experience for our users. During the talk, I will compare a standard EOA (externally owned accounts) with a programmable smart contract-based account, and outline the possibilities the latter approach creates. I will end with a short live demo of the product, showing how users can interact with Zerion investment account from different devices. "
+      "Abstract": "In this talk, I will discuss how to create a Coinbase-like experience while staying non-custodial by leveraging the power of smart-contracts. I will discuss the critical role composability plays in the DeFi ecosystem, as well as the importance of the UX for mass adoption. I will show how the combination of a DeFi interoperability layer and a secure Gnosis Safe smart-contract based wallet allows us to create a unified and secure cross-device experience for our users. During the talk, I will compare a standard EOA (externally owned accounts) with a programmable smart contract-based account, and outline the possibilities the latter approach creates."
     },
      {
       "Nom": "Gregor Žavcer",
@@ -375,6 +375,13 @@
       "Track": "dApps / UX /UI",
       "Category": "Workshop",
       "Abstract": "Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Since the last EthCC there has been big advances and Swarm is now ready for developers to start buidling dapps that push the decentralised vision further, towards the world computer. The talk will give an overview of new features and outline future plans and developments of Swarm and the ecosystem. Welcome."
+    },
+    {
+      "Nom": "Louis Guthmann & Nicolas Bacca",
+      "Titre": "Native Dapp support in wallets - the StarkEx case study with Ledger and WalletConnect",
+      "Track": "dApps / UX /UI",
+      "Category": "Workshop",
+      "Abstract": "For most Dapp today, integration with wallets is limited to signing some data without the ability to verify what is being signed. This requires a lot of trust in the UI for the users. To minimize this required trust, we need wallets to be able to understand and parse the data the user sign.\nWith the launch of the StarkEx-powered DeversiFi exchange and its requirements for specific cryptography, a collective effort has been set in motion to improve both the security and the Dapp UI on wallets. Ledger, WalletConnect and StarkWare will present how they managed to define and work together to create the blueprint for native integration for StarkEx as well as other Dapps in the future."
     }
   ],
   "Decentralised Finance": [
@@ -534,7 +541,7 @@
     },
     {
       "Nom": "Stani Kulechov",
-      "Titre": "Rehypothecation in DeFi - When Locking Assets is Not Enough",
+      "Titre": "Flash Loans: The Good, the Bad, and the Ugly",
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "Rehypothecation is an substantial practice in traditional finance to re-use assets that are used as collateral. Reusing assets will increase the utilisation of collateral and channels higher yields to depositors and lower rates to borrowers. Stani from Aave showcases how rehypothecation is achieved in DeFi by unlocking value with tokenisation and flash lending."
@@ -561,7 +568,7 @@
       "Abstract": "Presentation of the Nethermind Data Marketplace working on Ethereum Mainnet, presenting DeFi space data providers like Token Analyst, Blocklytics, Kaiko, CryptoCompare data delivered via Nethermind Data Marketplace. Also a note on the planned Nethermind modular DeFi gateway integrated with the Nethermind Ethereum client."
     },
     {
-      "Nom": "Vadim Koleoshkin",
+      "Nom": "Alex Bash",
       "Titre": "Returns of Hodling versus DeFi-ing",
       "Track": "Decentralised Finance",
       "Category": "Talk",
@@ -592,8 +599,15 @@
       "Nom": "Robert Edström & Victor Bonhomme",
       "Titre": "DeFi price feed: A simple, secure and affordable alternative",
       "Track": "Decentralised Finance",
-      "Category": "Worrkshop",
+      "Category": "Workshop",
       "Abstract": "Discover how to leverage an innovative combination of technologies including Trusted Execution Environments (TEE) to feed high quality price data into your Ethereum smart contract, while keeping it as simple, secure and affordable as possible."
+    },
+    {
+      "Nom": "Alexis Collomb",
+      "Titre": "Security tokens, at last!",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "In this brief talk, we will discuss the pros and and cons of security tokens (ST) in terms of quality of service, efficiency and economics, for issuers and investors alike, and what they bring to the table of traditional finance."
     }
   ],
   "Developer Tools": [
@@ -637,7 +651,7 @@
       "Titre": "Secrets, Lies, & Spies: A History of Ciphers",
       "Track": "Developer Tools",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "From the beginning of recorded history, codes and ciphers have been used to carry secret messages. We’ll explore some of the most significant early encryption methods such as the Caesar Shift Cipher, Scytale, the Vigenère Cipher, Playfair, and the Enigma Code. \nThe race to create even more complex codes (and the parallel race to break them) continues today, as computers create “unbreakable” encryptions of sensitive data."
     },
     {
       "Nom": "Dennison Bertram",
@@ -1389,7 +1403,7 @@
       "Abstract": "EVM Sidechains are decentralized ETH-compatible blockchains that can be used by DApps to speed up computation and transactions.  Since sidechains are faster and cheaper than the ETH mainnet, sidechains can impement novel features and technologies to augment existing ETH/EVM functionalities.   I am going to review five sidechain innovations that SKALE sidechains implement: storage, dynamic pricing, asynchronous Proof-of-Stake consensus, interchain messaging/money transfer and tokenless transactions.  For each feature I will provide a code sample to use it in real world DApps."
     },
     {
-      "Nom": "Nick Dodson",
+      "Nom": "John Adler",
       "Titre": "Fuel - A Trustless Scalable Sidechain",
       "Track": "Scalability",
       "Category": "Talk",
@@ -1699,6 +1713,13 @@
       "Track": "Web3",
       "Category": "Talk",
       "Abstract": "The talk focuses on the future evolution of public blockchains. Currently most blockchains are launched and then their design/economics/... are set in stone. However it is highly unlikely that the early versions of blockchains already have hit product/market fit. Newer blockchains such as Tezos, Polkadot and to some extent Cosmos have build-in mechanism to decide upon and implement upgrades. However a large remaining question is whether governance systems are willing to move fast enough and if they are willing to pay for the development to happen. This talk will explore everything around incremental evolution of public blockchains in order to get to the point where they solve real world issues."
+    },
+    {
+      "Nom": "Ken Ng",
+      "Titre": "The Ethereum Foundation's Ecosystem Support Program: A look at how it works to serve the Ethereum community",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "The Ethereum Foundation's grants program was re-christened 'Ecosystem Support' exactly one year ago. Ken will be digging into the who, what, and how of Ecosystem Support, discussing the types of support we've given in the past year since our launch, and pulling some example cases from our past grantees. We'll end with a quick Q&A session."
     }
   ],
   "French Track": [
