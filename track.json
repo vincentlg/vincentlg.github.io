@@ -591,8 +591,15 @@
       "Nom": "Robert Edström & Victor Bonhomme",
       "Titre": "DeFi price feed: A simple, secure and affordable alternative",
       "Track": "Decentralised Finance",
-      "Category": "Worrkshop",
+      "Category": "Workshop",
       "Abstract": "Discover how to leverage an innovative combination of technologies including Trusted Execution Environments (TEE) to feed high quality price data into your Ethereum smart contract, while keeping it as simple, secure and affordable as possible."
+    },
+    {
+      "Nom": "Gregory Klumov",
+      "Titre": "How to capitalize on the ultra-low interest rates in EU and value settlement over the ETH network. Opening the box of new stablecoin use cases",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "STASIS develops the first euro-focused DeFi lending project that will deliver Europe’s ultra-low interest rates to the crypto-community. STASIS DeFi is based on a legacy P2P crowdlending model with proprietary mobile UI, and white-label/API solution for enterprise customers. Our blockchain history includes the biggest euro-backed stablecoin – EURS, which is ranked 1st among non-USD peers by reserves and by DTV, and 6th - overall. We developed a comprehensive infrastructure for EURS with 10 fiat on/off-ramp channels, over 20 exchanges, and 4 service providers that we plan on utilizing in our lending endeavor."
     }
   ],
   "Developer Tools": [

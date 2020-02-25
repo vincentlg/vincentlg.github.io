@@ -1707,4 +1707,11 @@ var speakers = [
     "picture": "images/speakers_2020/Josef_Jelacic.jpg",
     "company": "Ethereum Foundation"
   },
+  {
+    "firstName": "Gregory",
+    "lastName": "Klumov",
+    "link": "https://twitter.com/gregoryklumov",
+    "picture": "images/speakers_2020/Gregory_Klumov.jpg",
+    "company": "Stasis"
+  },
 ]
