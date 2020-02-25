@@ -1700,4 +1700,11 @@ var speakers = [
     "picture": "images/speakers_2020/Louis_Giraux.png",
     "company": "Aragon community"
   },
+  {
+    "firstName": "Josef",
+    "lastName": "Jelacic",
+    "link": "https://twitter.com/JosefJelacic",
+    "picture": "images/speakers_2020/Josef_Jelacic.jpg",
+    "company": "Ethereum Foundation"
+  },
 ]
