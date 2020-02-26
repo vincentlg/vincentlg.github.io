@@ -140,6 +140,13 @@ var speakers = [
     "company": "Nexus Mutual"
   },
   {
+    "firstName": "Jérôme",
+    "lastName": "de Tychey",
+    "link": "https://twitter.com/jdetychey",
+    "picture": "images/speakers_2020/Jerome_deTychey.jpeg",
+    "company": "Ethereum France"
+  },
+  {
     "firstName": "Laurence",
     "lastName": "KIRK ",
     "link": "https://twitter.com/extropy",
@@ -1603,6 +1610,13 @@ var speakers = [
     "company": "Quantstamp"
   },
   {
+    "firstName": "Martinet",
+    "lastName": "Lee",
+    "link": "",
+    "picture": "images/speakers_2020/Martinet_Lee.png",
+    "company": "Quantstamp"
+  },
+  {
     "firstName": "Adrian",
     "lastName": "Brink",
     "link": "https://twitter.com/adrian_brink",
@@ -1741,5 +1755,12 @@ var speakers = [
     "link": "https://www.linkedin.com/in/alexis-collomb-b2154336/",
     "picture": "images/speakers_2020/Alexis_Collomb.png",
     "company": "CNAM"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Jones",
+    "link": "https://twitter.com/benpeterjones",
+    "picture": "images/speakers_2020/Ben_Jones.jpg",
+    "company": "Bitwala"
   },
 ]

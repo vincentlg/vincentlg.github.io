@@ -380,7 +380,7 @@
       "Titre": "Native Dapp support in wallets - the StarkEx case study with Ledger and WalletConnect",
       "Track": "dApps / UX /UI",
       "Category": "Workshop",
-      "Abstract": "For most Dapp today, integration with wallets is limited to signing some data without the ability to verify what is being signed. This requires a lot of trust in the UI for the users. To minimize this required trust, we need wallets to be able to understand and parse the data the user sign.\nWith the launch of the StarkEx-powered DeversiFi exchange and its requirements for specific cryptography, a collective effort has been set in motion to improve both the security and the Dapp UI on wallets. Ledger, WalletConnect and StarkWare will present how they managed to define and work together to create the blueprint for native integration for StarkEx as well as other Dapps in the future."
+      "Abstract": "For most dApp today, integration with wallets is limited to signing some data without the ability to verify what is being signed. This requires a lot of trust in the UI for users. To minimize this required trust, we need wallets to be able to understand and parse the data the user sign.\nWith the launch of StarkWare's first product and its requirements for specific cryptography, a collective effort has been set in motion to improve both the security and the dApp UI on wallets. Ledger, WalletConnect and StarkWare will present how they managed to define and work together to create what could become the blueprint for native dApp integration."
     }
   ],
   "Decentralised Finance": [
@@ -614,6 +614,13 @@
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "In this brief talk, we will discuss the pros and and cons of security tokens (ST) in terms of quality of service, efficiency and economics, for issuers and investors alike, and what they bring to the table of traditional finance."
+    },
+    {
+      "Nom": "Ben Jones",
+      "Titre": "Neobanking: DeFi's secret weapon",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "DeFi has a distribution problem and solving it requires more than a sexy UI. Bitwala believes in a CeFi/DeFi model where users can have the best of both worlds. Neobanks have become unicorns by improving the interface of finance while DeFi is the first chance to improve the actual infrastructure. Can we have both?"
     }
   ],
   "Developer Tools": [
@@ -1187,7 +1194,7 @@
     },
     {
       "Nom": "Zhivko Todorov",
-      "Titre": "Revenue generation DAOs through bonding curves",
+      "Titre": "Revenue generating Decentralized Organizations through bonding curves,",
       "Track": "Governance / DAO",
       "Category": "Talk",
       "Abstract": "Deep dive into continuous organizations, incl. example of a real-world implementation that we've developed."
@@ -1341,7 +1348,7 @@
       "Titre": "introducing gnark, a fast zero knowledge proof library",
       "Track": "Privacy",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "Presentation of an efficient implementation of the Groth16 protocol in pure Go."
     }
   ],
   "Scalability": [
@@ -1413,7 +1420,7 @@
       "Titre": "Running EVM on sidechains: five innovations",
       "Track": "Scalability",
       "Category": "Talk",
-      "Abstract": "EVM Sidechains are decentralized ETH-compatible blockchains that can be used by DApps to speed up computation and transactions.  Since sidechains are faster and cheaper than the ETH mainnet, sidechains can impement novel features and technologies to augment existing ETH/EVM functionalities.   I am going to review five sidechain innovations that SKALE sidechains implement: storage, dynamic pricing, asynchronous Proof-of-Stake consensus, interchain messaging/money transfer and tokenless transactions.  For each feature I will provide a code sample to use it in real world DApps."
+      "Abstract": "EVM Sidechains are decentralized ETH-compatible blockchains that can be used by DApps to speed up computation and transactions. Since sidechains are faster and cheaper than the ETH mainnet, sidechains can  serve as a foundation for decentralized cloud. I am going to review five sidechain innovations that SKALE sidechains implement: storage, asynchronous Proof-of-Stake consensus, ETH-compatibility, interchain messaging/money transfer, virtual chains and decentralized linearly scaleable network"
     },
     {
       "Nom": "John Adler",
@@ -1438,10 +1445,10 @@
     },
     {
       "Nom": "Sina Mahmoodi",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "EVM Bytecode Merklization",
       "Track": "Scalability",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "To reduce block witness sizes for a stateless Eth1.x, we analyze a change in which contract code is broken into chunks and a Merkle tree is generated from it. With every stateless block, instead of sending the whole code, we will only send the touched code chunks along with validity proofs. Early data suggests this could reduce the total amount of code sent in a block by 40-60%."
     },
     {
       "Nom": "Vaibhav Chellani",
@@ -1621,7 +1628,7 @@
       "Abstract": "We present a new type of DoS attack we call Resource Exhaustion Attack, which uses imperfections of the EVM gas pricing to generate low-throughput contracts. Using this method, we show that we are able to generate contracts with a throughput on average 50 times slower than typical contracts. We show that all major Ethereum clients are currently vulnerable. Such malicious contracts can be used to prevent nodes with lower hardware capacity from participating in the network, thereby artificially reducing the level of decentralization the network can deliver."
     },
     {
-      "Nom": "Jaye Harrill ",
+      "Nom": "Jaye Harrill, Martinet Lee",
       "Titre": "Is it still immutable in the context on CREATE2",
       "Track": "Security",
       "Category": "Talk",
