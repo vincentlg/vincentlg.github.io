@@ -1348,7 +1348,7 @@
       "Titre": "introducing gnark, a fast zero knowledge proof library",
       "Track": "Privacy",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "Presentation of an efficient implementation of the Groth16 protocol in pure Go."
     }
   ],
   "Scalability": [
@@ -1445,10 +1445,10 @@
     },
     {
       "Nom": "Sina Mahmoodi",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "EVM Bytecode Merklization",
       "Track": "Scalability",
       "Category": "Talk",
-      "Abstract": ""
+      "Abstract": "To reduce block witness sizes for a stateless Eth1.x, we analyze a change in which contract code is broken into chunks and a Merkle tree is generated from it. With every stateless block, instead of sending the whole code, we will only send the touched code chunks along with validity proofs. Early data suggests this could reduce the total amount of code sent in a block by 40-60%."
     },
     {
       "Nom": "Vaibhav Chellani",
