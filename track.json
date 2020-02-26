@@ -339,7 +339,6 @@
       "Track": "dApps / UX /UI",
       "Category": "Talk",
       "Abstract": "Omen is a new decentralized prediction market offering operated by the dxDAO based on Gnosis's Conditional Tokens Framework. Currently, most prediction markets like Augur are using an order book model, which requires liquidity providers (market makers) to implement trading strategies. This requirement and the gas costly operation of an order book are major blockers to the adoption of prediction markets. Omen is solving the liquidity problem by using crowd-sourced automated market makers to provide liquidity using a simple predefined trading strategy. Based on the Uniswap model, liquidity is provided and incentivized by adding a spread to the outcomes, which is given to liquidity providers. Markets are resolved by utilizing the realit.io escalation process with the dxDAO as possible final arbitrator.\nThis combination of building blocks allows users to setup a prediction market on Omen within 60 seconds incentivizing participation from the start.\nThe presentation will cover all parts of Omen in detail and explain how you can start your first prediction market."
-
     },
     {
       "Nom": "Theophile Villard",
@@ -603,6 +602,13 @@
       "Abstract": "Discover how to leverage an innovative combination of technologies including Trusted Execution Environments (TEE) to feed high quality price data into your Ethereum smart contract, while keeping it as simple, secure and affordable as possible."
     },
     {
+      "Nom": "Gregory Klumov",
+      "Titre": "How to capitalize on the ultra-low interest rates in EU and value settlement over the ETH network. Opening the box of new stablecoin use cases",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "STASIS develops the first euro-focused DeFi lending project that will deliver Europe’s ultra-low interest rates to the crypto-community. STASIS DeFi is based on a legacy P2P crowdlending model with proprietary mobile UI, and white-label/API solution for enterprise customers. Our blockchain history includes the biggest euro-backed stablecoin – EURS, which is ranked 1st among non-USD peers by reserves and by DTV, and 6th - overall. We developed a comprehensive infrastructure for EURS with 10 fiat on/off-ramp channels, over 20 exchanges, and 4 service providers that we plan on utilizing in our lending endeavor."
+    },
+    {
       "Nom": "Alexis Collomb",
       "Titre": "Security tokens, at last!",
       "Track": "Decentralised Finance",
@@ -806,6 +812,13 @@
       "Track": "Developer Tools",
       "Category": "Talk",
       "Abstract": "Abstract: ETH1.x Stateless Ethereum Working Group lead by Piper Merriam is going to talk about progress made on Stateless Ethereum. How the current Ethereum is going to be stateless and move into ETH1.x Stateless Ethereum including Q&A session with Devs and Researchers from Stateless Ethereum Working Group."
+    },
+    {
+      "Nom": "Josef Jelacic",
+      "Titre": "Ethereum from product perspective.",
+      "Track": "Developer Tools",
+      "Category": "Workshop",
+      "Abstract": "Let's step back and let's look at Ethereum as a software product in the grand scheme of solutions out there.\nWhat purpose does the platform fulfill, which market does it serve and who are or will be the users?\nThis session should help us abstract from what we as individuals want Ethereum to become to better understand where is a natural market fit which makes sense to keep in focus. \nThe workshop will be moderated brainstorming where we'll try to figure where Ethereum stands in the overall blockchain landscape."
     }
   ],
   "Enterprise": [
@@ -1464,6 +1477,13 @@
       "Track": "Scalability",
       "Category": "Talk",
       "Abstract": "This presentation tackles the summarization of knowledge paper: Off-the-chain transactions (https://eprint.iacr.org/2019/360.pdf), a joint work among several leading university researchers that aims at laying the foundation to better study and compare off-chain scalability solutions.\nMost of us might have heard of Payment Channels, Plasma, State Channel, NOCUST, Side-chain, Commit-chain, Rollup, and others. The many constructions, names, and notations about off-chain constructions have unfortunately brought a lot of confusion to the community. It is difficult to capture the different trade-offs taken by each solution. Therefore, there is a need to better explain and define the high-level properties of each of these solutions."
+    },
+    {
+      "Nom": "Chadwick Strange",
+      "Titre": "Building Effective Trustless Networks on Ethereum",
+      "Track": "Scalability",
+      "Category": "Talk",
+      "Abstract": "This talk will provide an overview of methods used to orchestrate PoS trustless networks by leveraging security models provided by Ethereum. In particular, the talk will demonstrate SKALE Manager, a set of Ethereum smart contracts that facilitate SKALE network operations and security, including SKALE chain creation, delegation and validator registration, and distributed key generation for BLS threshold signatures."
     }
   ],
   "Security": [
@@ -1724,11 +1744,39 @@
   ],
   "French Track": [
     {
-      "Nom": "Simon Polrot (ADAN), Alexandre Statchenko (Blockchain Partner),Brice Berdah (Monolith - Defi France), Mounir Benchelmed (Paraswap - DeFi France), Philippe Honigman (OrgTech), Jenna Zenk (Melon Port), Nathan Sexer (The Sandbox / Ethereum France), Nicolas Julia (Sorare), Pierre-Nicolas Hurstel (Arianee), William O’Rorke (ORWL)",
-      "Titre": "La Blockchain aujourd'hui et ses perspectives pour demain",
+      "Nom": "Simon Polrot",
+      "Titre": "Introduction :La Blockchain aujourd'hui et ses perspectives pour demain",
       "Track": "French Track",
       "Category": "Talk",
       "Abstract": "La blockchain et les actifs numériques ne sont plus des sujets entièrement vierges, mais ils ont encore leur part de mystère. L’évolution rapide des technologies et des usages rend une vision d’ensemble difficile. Nous avons souhaité, dans le cadre de cette conférence réunissant les cas d’usages les plus innovants de l’écosystème, apporter un éclairage global sur cette industrie et son avenir, à destination du public francophone.\n Dans cette série d’interventions exclusivement en français, nous explorerons les futurs développements de l’industrie des crypto-actifs au travers de ses trois thèmes les plus porteurs aujourd’hui : la finance décentralisée, les objets numériques individualisés (non-fongibles) et les organisations collectives sur blockchain (DAOs). \n Au travers, d’une part, une exploration synthétique de ces cas d’usage et, d’autre part, d’une introduction et mise en perspective, nous explorerons l’avenir de cette industrie naissante et notamment de sa place et de son rôle en France et en Europe.\n Cette série d’interventions s’adresse à un large public (utilisateur, investisseur, politique, développeur ou simple curieux) et elle pourra utilement servir d'introduction aux nombreuses interventions de la conférence EthCC."
+    },
+    {
+      "Nom": "Brice Berdah, Mounir Benchelmed, Arthur Micoulet",
+      "Titre": "La finance décentralisée : vers une nouvelle finance plus transparente",
+      "Track": "French Track",
+      "Category": "Talk",
+      "Abstract": "La finance décentralisée (DeFi – Decentralised Finance) a émergé au cours des deux dernières années grâce aux nombreux développements réalisés sur la blockchain Ethereum. Des entrepreneurs du monde entier créent un nouveau système financier, en s’appuyant sur les possibilités offertes par les blockchains. Transparence, ouverture, traçabilité et fiabilité sont les principes de base de cette nouvelle finance. Aujourd’hui, des individus du monde entier s’échangent des tokens, se prêtent de l’argent sans avoir besoin d’intermédiaires ou encore s’échangent des actifs représentant des biens tangibles (monnaie fiduciaire, or, propriétés, parts dans une société, etc.)."
+    },
+    {
+      "Nom": "Philippe Honigman, Jenna Zenk, Alex Masmejean, Louis Giraux, Kris Decoodt",
+      "Titre": "Organisation collective sur blockchain : que faire avec une DAO en 2020 ?",
+      "Track": "French Track",
+      "Category": "Talk",
+      "Abstract": "Tour d’horizon des actifs uniques ou tokens non-fongibles (NFT). A la différence d’un bitcoin où d’un ether, qui sont interchangeables, les NFT sont des actifs uniques. Seront exposés les tenants et les aboutissants de ce type de tokens dont les qualités permettent de créer une forme d’unicité digitale et par conséquent, une forme de rareté. Au programme: un état des lieux des cas d’usages potentiels et concrets à travers des secteurs tels que le Gaming, le Luxe, la Mode et la Supply Chain et enfin des potentielles limitations et développements futurs."
+      },
+    {
+      "Nom": "Nathan Sexer, Nicolas Julia, Pierre-Nicolas Hurstel, Nicolas Pouard ",
+      "Titre": "Le potentiel des actifs uniques ou tokens non-fongibles (NFT)",
+      "Track": "French Track",
+      "Category": "Talk",
+      "Abstract": "La blockchain et les actifs numériques ne sont plus des sujets entièrement vierges, mais ils ont encore leur part de mystère. L’évolution rapide des technologies et des usages rend une vision d’ensemble difficile. Nous avons souhaité, dans le cadre de cette conférence réunissant les cas d’usages les plus innovants de l’écosystème, apporter un éclairage global sur cette industrie et son avenir, à destination du public francophone.\n Dans cette série d’interventions exclusivement en français, nous explorerons les futurs développements de l’industrie des crypto-actifs au travers de ses trois thèmes les plus porteurs aujourd’hui : la finance décentralisée, les objets numériques individualisés (non-fongibles) et les organisations collectives sur blockchain (DAOs). \n Au travers, d’une part, une exploration synthétique de ces cas d’usage et, d’autre part, d’une introduction et mise en perspective, nous explorerons l’avenir de cette industrie naissante et notamment de sa place et de son rôle en France et en Europe.\n Cette série d’interventions s’adresse à un large public (utilisateur, investisseur, politique, développeur ou simple curieux) et elle pourra utilement servir d'introduction aux nombreuses interventions de la conférence EthCC."
+    },
+    {
+      "Nom": "Simon Polrot, Alexandre Statchenko, William O’Rorke",
+      "Titre": "Conclusion : Conclusion : La France et la Blockchain",
+      "Track": "French Track",
+      "Category": "Talk",
+      "Abstract": ""
     }
   ]
 }
