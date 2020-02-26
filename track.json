@@ -1194,7 +1194,7 @@
     },
     {
       "Nom": "Zhivko Todorov",
-      "Titre": "Revenue generation DAOs through bonding curves",
+      "Titre": "Revenue generating Decentralized Organizations through bonding curves,",
       "Track": "Governance / DAO",
       "Category": "Talk",
       "Abstract": "Deep dive into continuous organizations, incl. example of a real-world implementation that we've developed."
@@ -1420,7 +1420,7 @@
       "Titre": "Running EVM on sidechains: five innovations",
       "Track": "Scalability",
       "Category": "Talk",
-      "Abstract": "EVM Sidechains are decentralized ETH-compatible blockchains that can be used by DApps to speed up computation and transactions.  Since sidechains are faster and cheaper than the ETH mainnet, sidechains can impement novel features and technologies to augment existing ETH/EVM functionalities.   I am going to review five sidechain innovations that SKALE sidechains implement: storage, dynamic pricing, asynchronous Proof-of-Stake consensus, interchain messaging/money transfer and tokenless transactions.  For each feature I will provide a code sample to use it in real world DApps."
+      "Abstract": "EVM Sidechains are decentralized ETH-compatible blockchains that can be used by DApps to speed up computation and transactions. Since sidechains are faster and cheaper than the ETH mainnet, sidechains can  serve as a foundation for decentralized cloud. I am going to review five sidechain innovations that SKALE sidechains implement: storage, asynchronous Proof-of-Stake consensus, ETH-compatibility, interchain messaging/money transfer, virtual chains and decentralized linearly scaleable network"
     },
     {
       "Nom": "John Adler",
