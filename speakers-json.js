@@ -14,13 +14,6 @@ var speakers = [
     "company": "ConsenSys"
   },
   {
-    "firstName": "Jérôme",
-    "lastName": "de Tychey",
-    "link": "https://twitter.com/jdetychey",
-    "picture": "images/speakers_2020/Jerome_deTychey.jpeg",
-    "company": "Ethereum France"
-  },
-  {
     "firstName": "Evan",
     "lastName": "Van Ness",
     "link": "https://twitter.com/evan_van_ness",
@@ -145,6 +138,13 @@ var speakers = [
     "link": "https://twitter.com/hughkarp",
     "picture": "images/speakers_2020/Hugh_Karp.jpg",
     "company": "Nexus Mutual"
+  },
+  {
+    "firstName": "Jérôme",
+    "lastName": "de Tychey",
+    "link": "https://twitter.com/jdetychey",
+    "picture": "images/speakers_2020/Jerome_deTychey.jpeg",
+    "company": "Ethereum France"
   },
   {
     "firstName": "Laurence",
