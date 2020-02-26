@@ -14,6 +14,13 @@ var speakers = [
     "company": "ConsenSys"
   },
   {
+    "firstName": "Jérôme",
+    "lastName": "de Tychey",
+    "link": "https://twitter.com/jdetychey",
+    "picture": "images/speakers_2020/Jerome_deTychey.png",
+    "company": "Ethereum France"
+  },
+  {
     "firstName": "Evan",
     "lastName": "Van Ness",
     "link": "https://twitter.com/evan_van_ness",
