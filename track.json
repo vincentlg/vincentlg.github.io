@@ -380,7 +380,7 @@
       "Titre": "Native Dapp support in wallets - the StarkEx case study with Ledger and WalletConnect",
       "Track": "dApps / UX /UI",
       "Category": "Workshop",
-      "Abstract": "For most Dapp today, integration with wallets is limited to signing some data without the ability to verify what is being signed. This requires a lot of trust in the UI for the users. To minimize this required trust, we need wallets to be able to understand and parse the data the user sign.\nWith the launch of the StarkEx-powered DeversiFi exchange and its requirements for specific cryptography, a collective effort has been set in motion to improve both the security and the Dapp UI on wallets. Ledger, WalletConnect and StarkWare will present how they managed to define and work together to create the blueprint for native integration for StarkEx as well as other Dapps in the future."
+      "Abstract": "For most dApp today, integration with wallets is limited to signing some data without the ability to verify what is being signed. This requires a lot of trust in the UI for users. To minimize this required trust, we need wallets to be able to understand and parse the data the user sign.\nWith the launch of StarkWare's first product and its requirements for specific cryptography, a collective effort has been set in motion to improve both the security and the dApp UI on wallets. Ledger, WalletConnect and StarkWare will present how they managed to define and work together to create what could become the blueprint for native dApp integration."
     }
   ],
   "Decentralised Finance": [
