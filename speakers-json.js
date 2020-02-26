@@ -1749,4 +1749,11 @@ var speakers = [
     "picture": "images/speakers_2020/Alexis_Collomb.png",
     "company": "CNAM"
   },
+  {
+    "firstName": "Ben",
+    "lastName": "Jones",
+    "link": "https://twitter.com/benpeterjones",
+    "picture": "images/speakers_2020/Ben_Jones.jpg",
+    "company": "Bitwala"
+  },
 ]
