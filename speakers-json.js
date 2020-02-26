@@ -1610,6 +1610,13 @@ var speakers = [
     "company": "Quantstamp"
   },
   {
+    "firstName": "Martinet",
+    "lastName": "Lee",
+    "link": "",
+    "picture": "images/speakers_2020/Martinet_Lee.png",
+    "company": "Quantstamp"
+  },
+  {
     "firstName": "Adrian",
     "lastName": "Brink",
     "link": "https://twitter.com/adrian_brink",
