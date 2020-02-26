@@ -614,6 +614,13 @@
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "In this brief talk, we will discuss the pros and and cons of security tokens (ST) in terms of quality of service, efficiency and economics, for issuers and investors alike, and what they bring to the table of traditional finance."
+    },
+    {
+      "Nom": "Ben Jones",
+      "Titre": "Neobanking: DeFi's secret weapon",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "DeFi has a distribution problem and solving it requires more than a sexy UI. Bitwala believes in a CeFi/DeFi model where users can have the best of both worlds. Neobanks have become unicorns by improving the interface of finance while DeFi is the first chance to improve the actual infrastructure. Can we have both?"
     }
   ],
   "Developer Tools": [
