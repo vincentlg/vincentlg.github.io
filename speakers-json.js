@@ -17,7 +17,7 @@ var speakers = [
     "firstName": "Jérôme",
     "lastName": "de Tychey",
     "link": "https://twitter.com/jdetychey",
-    "picture": "images/speakers_2020/Jerome_deTychey.png",
+    "picture": "images/speakers_2020/Jerome_deTychey.jpeg",
     "company": "Ethereum France"
   },
   {
