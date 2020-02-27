@@ -211,6 +211,13 @@
       "Track": "Crypto Economics",
       "Category": "Workshop",
       "Abstract": "This workshop is friendly to any coding level. The only requirement is that you are Code Curious! Bring your Laptop, we will be coding! We will start with a quick overview of why it is so important to create simulations, specifically as it applies to the Commons Stack, and then we will put our heads down and start working on a cadCAD tutorial with technical support. If you are familiar python or agent based modeling you will be ahead of the curve and there will be challenging exercises for you to work on. This will truly be enjoyable for all levels."
+    },
+    {
+      "Nom": "Maksim Balashevich",
+      "Titre": "Decentralizing the generation of market alpha using blockchain data",
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "A primer on developing market strategies by leveraging on-chain and social media information, and the roadmap to decentralizing market know-how and alpha creation."
     }
   ],
   "dApps / UX /UI": [
