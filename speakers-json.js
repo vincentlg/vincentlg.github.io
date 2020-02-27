@@ -469,13 +469,6 @@ var speakers = [
     "company": "THE SANDBOX"
   },
   {
-    "firstName": "Quentin",
-    "lastName": "Issele",
-    "link": "https://www.linkedin.com/in/quentinissele/",
-    "picture": "images/speakers_2020/Quentin_Issele.jpg",
-    "company": "OKEx"
-  },
-  {
     "firstName": "Jonas",
     "lastName": "Rubel",
     "link": "https://twitter.com/SLebur",
@@ -1762,5 +1755,19 @@ var speakers = [
     "link": "https://twitter.com/benpeterjones",
     "picture": "images/speakers_2020/Ben_Jones.jpg",
     "company": "Bitwala"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Canou",
+    "link": "https://twitter.com/LabosNomades",
+    "picture": "images/speakers_2020/Benjamin_Canou.jpg",
+    "company": "Nomadic Labs"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Beunardeau",
+    "link": "https://twitter.com/LabosNomades",
+    "picture": "images/speakers_2020/Marc_Beunardeau.jpg",
+    "company": "Nomadic Labs"
   },
 ]

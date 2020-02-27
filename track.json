@@ -1249,6 +1249,13 @@
       "Track": "Other Blockchains",
       "Category": "Talk",
       "Abstract": "Learn about more than 15 Ethereum-based networks, their particular characteristics, advantages and disadvantages. There is more variety out there than you'd imagine! To tap into the multitude of chains, they are clustered by distinct attributes (PoW/PoS/PoA, live/test, public/private, history/stability, native Gas token...). Some especially noteworthy examples are covered in greater detail. Challenge your assumptions on how things are done and possibly find additional options for your project. Learn from others to make your life easier as a developer and continue to advance the Ethereum ecosystem as a whole."
+    },
+    {
+      "Nom": "Benjamin Canou",
+      "Titre": "Tezos, the Blockchain that evolves",
+      "Track": "Other Blockchains",
+      "Category": "Workshop",
+      "Abstract": "In the set of rules that make the Tezos blockchain protocol, the most defining rule is the one to change this very set of rules.\nIn this talk, we explain by example how this works in practice and how far this goes: what could change in Tezos in the future, and what is set in stone (spoiler: not much)."
     }
   ],
   "Privacy": [
@@ -1335,6 +1342,13 @@
       "Track": "Privacy",
       "Category": "Talk",
       "Abstract": "Presentation of an efficient implementation of the Groth16 protocol in pure Go."
+    },
+    {
+      "Nom": "Marc Beunardeau",
+      "Titre": "Integration of the Sapling protocol in Tezos",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "The Sapling protocol developed by the Electronic coin company (creator of the Z-cash blockchain) realizes privacy preserving transactions for fungible tokens.\nIn this talk, after a brief introduction of Sapling, we will discuss the integration of such a protocol in a different blockchain (Tezos), its challenges, design choices, and usage of Tezos's on chain governing mechanism."
     }
   ],
   "Scalability": [
