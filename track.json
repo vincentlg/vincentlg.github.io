@@ -1012,6 +1012,13 @@
       "Track": "Ethereum 2.0",
       "Category": "Talk",
       "Abstract": "We dive deeply into Eth2's consensus serialization and merkleization standard, Simple Serialize (SSZ), from a theoretical and implementation perspective. We first discuss the motivation and use of the standard in Eth2 by example. We then analyze tradeoffs between state-of-the-art implementations.\nAudience: Eth2 implementers, blockchain developers"
+    },
+    {
+      "Nom": "Louis Guthmann & Tim Beiko",
+      "Titre": "Cryptographic Precompile EIPs Workshop",
+      "Track": "Ethereum 2.0",
+      "Category": "Workshop",
+      "Abstract": "Abstract: In this session, we will discuss potential crypto precompiles to be included in future Ethereum upgrades. Specifically, we will discuss EIP-1962, a proposal to add the Eth2 deposit contract curve, and other related EIPs."
     }
   ],
   "Gaming": [
