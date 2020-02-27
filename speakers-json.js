@@ -1122,7 +1122,7 @@ var speakers = [
   {
     "firstName": "Aleeza",
     "lastName": "Howitt",
-    "link": "https://twitter.com/TrustlinesFound",
+    "link": "https://twitter.com/aleezagroks",
     "picture": "images/speakers_2020/Aleeza_Howitt.jpg",
     "company": "Trustlines Network"
   },
