@@ -682,7 +682,7 @@
     },
     {
       "Nom": "Frankie Pangilinan",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "The secrets your keys hold",
       "Track": "Developer Tools",
       "Category": "Talk",
       "Abstract": ""
@@ -1017,7 +1017,7 @@
   "Gaming": [
     {
       "Nom": "Aleksander Leonard Larsen",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "Building a free to play to earn game - The story of Axie Infinity",
       "Track": "Gaming",
       "Category": "Talk",
       "Abstract": "The story of Axie Infinity and how we leveraged NFTs to get one of the most passionate communities in all of blockchain gaming. We are now moving from only NFTs to other tokens and enabling a truly player-owned economy."
@@ -1573,7 +1573,7 @@
     },
     {
       "Nom": "Johann Eid",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "Securely Connecting Smart Contracts to Off-chain Data and Events",
       "Track": "Security",
       "Category": "Talk",
       "Abstract": "For smart contracts to achieve mass adoption, they need the ability to securely connect to external off-chain data and existing non-blockchain systems. The reliability with which smart contracts connect to key external systems determines their overall security. This critical security factor determines whether smart contracts will be used to secure the many forms of value beyond tokenization, such as prediction market outcomes, insurance payouts, trade finance, and more. \nIn this talk, we’ll examine what makes a secure oracle mechanism reliable enough to be trusted by smart contracts for external data delivery, access web APIs, and off-chain payments."
