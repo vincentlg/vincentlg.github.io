@@ -50,7 +50,7 @@
       "Abstract": "This project is about transparency and tracking the public money to good projects. It has been covered in many sites and newspapers. Two international examples are: https://www.coindesk.com/this-brazilian-bank-is-using-ethereum-to-issue-a-stablecoin and https://cointelegraph.com/news/brazilian-state-owned-bank-funds-documentary-via-its-own-ethereum-based-token.\nThe technical proposal was also published at The 2018 IEEE International Conference on Blockchain: https://bit.ly/2Th8rHu.\nSource code: https://github.com/bndes/bndestoken"
     },
     {
-      "Nom": "Maria Mateo Iborra",
+      "Nom": "Jean-Baptiste Pleynet",
       "Titre": "IBISA enabling the new generation of insurance for agriculture harnessing earth observation data and blockchain",
       "Track": "Blockchain for Good",
       "Category": "Workshop",
@@ -176,13 +176,6 @@
       "Track": "Crypto Economics",
       "Category": "Talk",
       "Abstract": "Building a social infrastructure for the builders ecosystem, then expanding it as a socioeconomic system layer above the nation states. \nMetaCartel > Ethereum > wider crypto > general freelancer > anyone.\nReal life RPG, something like that.\nhttps://twitter.com/Metafam/status/1199447733901418496"
-    },
-    {
-      "Nom": "Quentin Issele",
-      "Titre": "Earning yield on crypto-assets with Staking",
-      "Track": "Crypto Economics",
-      "Category": "Talk",
-      "Abstract": "Introduce and clarify the differences between staking on Proof-of-Work (PoW) and Proof-of-Stakes (PoS) assets. Look at the economics of the mechanisms and impact on the system governance. Explain how to participate either as individual or as part of a pool. Introduce rapidly the solutions including Exchange solutions such as OKEx pool."
     },
     {
       "Nom": "Seyedehmahsa Moosavi",
