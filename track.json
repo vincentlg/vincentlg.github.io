@@ -50,7 +50,7 @@
       "Abstract": "This project is about transparency and tracking the public money to good projects. It has been covered in many sites and newspapers. Two international examples are: https://www.coindesk.com/this-brazilian-bank-is-using-ethereum-to-issue-a-stablecoin and https://cointelegraph.com/news/brazilian-state-owned-bank-funds-documentary-via-its-own-ethereum-based-token.\nThe technical proposal was also published at The 2018 IEEE International Conference on Blockchain: https://bit.ly/2Th8rHu.\nSource code: https://github.com/bndes/bndestoken"
     },
     {
-      "Nom": "Maria Mateo Iborra",
+      "Nom": "Jean-Baptiste Pleynet",
       "Titre": "IBISA enabling the new generation of insurance for agriculture harnessing earth observation data and blockchain",
       "Track": "Blockchain for Good",
       "Category": "Workshop",
@@ -178,13 +178,6 @@
       "Abstract": "Building a social infrastructure for the builders ecosystem, then expanding it as a socioeconomic system layer above the nation states. \nMetaCartel > Ethereum > wider crypto > general freelancer > anyone.\nReal life RPG, something like that.\nhttps://twitter.com/Metafam/status/1199447733901418496"
     },
     {
-      "Nom": "Quentin Issele",
-      "Titre": "Earning yield on crypto-assets with Staking",
-      "Track": "Crypto Economics",
-      "Category": "Talk",
-      "Abstract": "Introduce and clarify the differences between staking on Proof-of-Work (PoW) and Proof-of-Stakes (PoS) assets. Look at the economics of the mechanisms and impact on the system governance. Explain how to participate either as individual or as part of a pool. Introduce rapidly the solutions including Exchange solutions such as OKEx pool."
-    },
-    {
       "Nom": "Seyedehmahsa Moosavi",
       "Titre": "Demystifying Stablecoins: Cryptography meets monetary policy",
       "Track": "Crypto Economics",
@@ -218,6 +211,13 @@
       "Track": "Crypto Economics",
       "Category": "Workshop",
       "Abstract": "This workshop is friendly to any coding level. The only requirement is that you are Code Curious! Bring your Laptop, we will be coding! We will start with a quick overview of why it is so important to create simulations, specifically as it applies to the Commons Stack, and then we will put our heads down and start working on a cadCAD tutorial with technical support. If you are familiar python or agent based modeling you will be ahead of the curve and there will be challenging exercises for you to work on. This will truly be enjoyable for all levels."
+    },
+    {
+      "Nom": "Maksim Balashevich",
+      "Titre": "Decentralizing the generation of market alpha using blockchain data",
+      "Track": "Crypto Economics",
+      "Category": "Talk",
+      "Abstract": "A primer on developing market strategies by leveraging on-chain and social media information, and the roadmap to decentralizing market know-how and alpha creation."
     }
   ],
   "dApps / UX /UI": [
@@ -293,10 +293,10 @@
     },
     {
       "Nom": "Jason Goldberg",
-      "Titre": "Designing ethereum user experiences for humans",
+      "Titre": "Designing Ethereum user experiences for humans + Special announcement and demo of a new mainstream product launch",
       "Track": "dApps / UX /UI",
       "Category": "Talk",
-      "Abstract": "In this talk we'll present research conducted with more than 1500 end-user interviews to help develop crypto user experiences that are ready for mainstream adoption, and demonstrate live product, Pepo, designed with those inputs."
+      "Abstract": "In this talk we'll present how user-centric design principles can be applied to build crypto apps that people use and find valuable, discuss the Pepo tech stack, and introduce and demo a well-known crypto company launching its own embedded app token using the same Ethereum technology that powers Pepo."
     },
     {
       "Nom": "John Crain",
@@ -613,7 +613,7 @@
       "Titre": "Security tokens, at last!",
       "Track": "Decentralised Finance",
       "Category": "Talk",
-      "Abstract": "In this brief talk, we will discuss the pros and and cons of security tokens (ST) in terms of quality of service, efficiency and economics, for issuers and investors alike, and what they bring to the table of traditional finance."
+      "Abstract": "In this brief talk, we will discuss the pros and cons of security tokens (ST) in terms of quality of service, efficiency and economics, for issuers and investors alike, and what they bring to the table of traditional finance."
     },
     {
       "Nom": "Ben Jones",
@@ -689,7 +689,7 @@
     },
     {
       "Nom": "Frankie Pangilinan",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "The secrets your keys hold",
       "Track": "Developer Tools",
       "Category": "Talk",
       "Abstract": ""
@@ -793,7 +793,7 @@
       "Abstract": "User account management is an important part of any web application and today users came to expect signle-sign-on solutions where they can use the same identity and login procedure for a number of applications, so that they do not need to safeguard an unreasonable amount of user credentials. We present an Ethereum/Swarm-based single-sign on solution for Web 3 and Web 2 applications that can be easily integrated into existing or new applications and can leverage the security of Ethereum accounts protected by hardware keys, if required. It solves the problems of zero-ether onboarding and potentially addresses the issue of decentralized KYC. The code is open source and available on github."
     },
     {
-      "Nom": "Benjamin Simatos",
+      "Nom": "Antoine Herzog",
       "Titre": "presentation of Universal Chain Registry / interchain initiative",
       "Track": "Developer Tools",
       "Category": "Workshop",
@@ -826,6 +826,13 @@
       "Track": "Developer Tools",
       "Category": "Workshop",
       "Abstract": "Let's step back and let's look at Ethereum as a software product in the grand scheme of solutions out there.\nWhat purpose does the platform fulfill, which market does it serve and who are or will be the users?\nThis session should help us abstract from what we as individuals want Ethereum to become to better understand where is a natural market fit which makes sense to keep in focus. \nThe workshop will be moderated brainstorming where we'll try to figure where Ethereum stands in the overall blockchain landscape."
+    },
+    {
+      "Nom": "Iuri Matias & Rob Stupay",
+      "Titre": "Plugins & Workflows in Remix",
+      "Track": "Developer Tools",
+      "Category": "Workshop",
+      "Abstract": "Going through various usecases including importing contracts from the local filesystem and EthPM, debugging contract transactions, static analysis, solidity unit testing, verifying source code and publishing contracts to IPFS & SWARM."
     }
   ],
   "Enterprise": [
@@ -856,13 +863,6 @@
       "Track": "Enterprise",
       "Category": "Talk",
       "Abstract": "This cartoon presentation will explain the differences between the different types of permissioning in Besu (onchain/offchain/node/account) and understand what use cases would need permissioning in a blockchain environment."
-    },
-    {
-      "Nom": "Peter Broadhurst",
-      "Titre": "Demystifying Consensus Algorithms for Enterprise Blockchain",
-      "Track": "Enterprise",
-      "Category": "Talk",
-      "Abstract": "Private or consortium blockchain have different properties than public blockchains, using alternative consensus algorithms. One key aspect is the fact that all nodes must be explicitly allowed to join the network, aka peer permissioning. In addition, clearly designated node identities apply accountability toward the participating members. These properties make it possible to employ consensus algorithms that are designed for a distributed network comprised entirely of trusted (honest) nodes.  This session will present different consensus options for private, permissioned blockchains, highlighting use cases for each one and providing guidance for when one might be preferred over another."
     },
     {
       "Nom": "Anna George",
@@ -1017,7 +1017,7 @@
   "Gaming": [
     {
       "Nom": "Aleksander Leonard Larsen",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "Building a free to play to earn game - The story of Axie Infinity",
       "Track": "Gaming",
       "Category": "Talk",
       "Abstract": "The story of Axie Infinity and how we leveraged NFTs to get one of the most passionate communities in all of blockchain gaming. We are now moving from only NFTs to other tokens and enabling a truly player-owned economy."
@@ -1256,6 +1256,13 @@
       "Track": "Other Blockchains",
       "Category": "Talk",
       "Abstract": "Learn about more than 15 Ethereum-based networks, their particular characteristics, advantages and disadvantages. There is more variety out there than you'd imagine! To tap into the multitude of chains, they are clustered by distinct attributes (PoW/PoS/PoA, live/test, public/private, history/stability, native Gas token...). Some especially noteworthy examples are covered in greater detail. Challenge your assumptions on how things are done and possibly find additional options for your project. Learn from others to make your life easier as a developer and continue to advance the Ethereum ecosystem as a whole."
+    },
+    {
+      "Nom": "Benjamin Canou",
+      "Titre": "Tezos, the Blockchain that evolves",
+      "Track": "Other Blockchains",
+      "Category": "Workshop",
+      "Abstract": "In the set of rules that make the Tezos blockchain protocol, the most defining rule is the one to change this very set of rules.\nIn this talk, we explain by example how this works in practice and how far this goes: what could change in Tezos in the future, and what is set in stone (spoiler: not much)."
     }
   ],
   "Privacy": [
@@ -1331,17 +1338,10 @@
     },
     {
       "Nom": "Seven Waterhouse",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "How to Beat Surveillance Capitalism and Reclaim Your Privacy.",
       "Track": "Privacy",
       "Category": "Talk",
       "Abstract": "Navigating blockchain’s choppy waters: Orchid recognized early on how important it was to focus on correctly building its product, regardless of how much time it took. Seven’s decades of experience in building (and performing due diligence on) startups allowed him to navigate the busts and booms of the industry, holding a steady course, rather than continuously introducing new strategies. Seven points to several key moments of foresight in those years that helped drive the company to success. Key moments for the company included selecting business partners that share the same long term vision, and a commitment to the Ethereum network and building vertically on Layer 2 rather than creating competing infrastructure."
-    },
-    {
-      "Nom": "Tegan Kline",
-      "Titre": "Life, liberty and the pursuit of happiness — is tech taking away our liberty?",
-      "Track": "Privacy",
-      "Category": "Talk",
-      "Abstract": "Integrating privacy into our tech"
     },
     {
       "Nom": "Thomas Piellard",
@@ -1349,6 +1349,13 @@
       "Track": "Privacy",
       "Category": "Talk",
       "Abstract": "Presentation of an efficient implementation of the Groth16 protocol in pure Go."
+    },
+    {
+      "Nom": "Marc Beunardeau",
+      "Titre": "Integration of the Sapling protocol in Tezos",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "The Sapling protocol developed by the Electronic coin company (creator of the Z-cash blockchain) realizes privacy preserving transactions for fungible tokens.\nIn this talk, after a brief introduction of Sapling, we will discuss the integration of such a protocol in a different blockchain (Tezos), its challenges, design choices, and usage of Tezos's on chain governing mechanism."
     }
   ],
   "Scalability": [
@@ -1476,7 +1483,7 @@
       "Titre": "Removing state from Ethereum layer 1 to enable rich dApps like Pepo",
       "Track": "Scalability",
       "Category": "Talk",
-      "Abstract": "Rich content dApps require more statefulness than Ethereum1 can provide, prunable and at lower price points. Such state benefits both content and smart contract wallets for user experience. 'Mosaic' introduces (on Ethereum1) a second layer proof-of-stake consensus to asynchronously update injected state tries transitions in parallel to the main chain. We discuss the architecture, data availability, validator token incentives and the upcoming testnet generations."
+      "Abstract": "Rich content dApps require more statefulness than Ethereum1 can provide, prunable and at lower price points. Such state benefits both content and smart contract wallets for user experience. 'Mosaic' introduces (on Ethereum1) a second layer proof-of-stake consensus to asynchronously update injected state tries which can finalise state transitions in parallel to the main chain. We discuss the architecture, data availability, validator token incentives and the upcoming testnet generations."
     },
     {
       "Nom": "Guillaume Felley",
@@ -1509,7 +1516,7 @@
       "Abstract": "\"Since the Solidity programming language does not have a formal specification, testing the compiler implementation is an important way to obtain assurance about the correctness of code generated by the compiler.\nThe approach adopted by us is to define a grammar for the Solidity programming language and automatically generate inputs based on this grammar. Grammar based fuzzing ensures that generated programs are successfully parsed by the front-end parser. We make use of libProtobuf and libProtobufMutator for defining the grammar and performing grammar-based mutations, and libFuzzer as the underlying fuzzing engine.\""
     },
     {
-      "Nom": "Brianna Montgomery",
+      "Nom": "Bernhard Mueller",
       "Titre": "Preventing Disaster: Advances in Smart Contract Vulnerability Detection",
       "Track": "Security",
       "Category": "Talk",
@@ -1544,7 +1551,7 @@
       "Abstract": "In this talk I will introduce Karl, an Ethereum blockchain monitor and Theo an exploit framework for Ethereum; both open source.\nThe game-theoretic consequences of having these kinds of tools and honeypots on the network is examined. What if multiple bots compete for exploiting the same contracts? What about honeypots that counter-exploit bots? Is it possible to cheat honeypots? Can you build un-cheatable honeypots?"
     },
     {
-      "Nom": "Gonçalo Sá",
+      "Nom": "Gonçalo Sá & Brianna Montgomery",
       "Titre": "Blockchain Security 101 for the VC track",
       "Track": "Security",
       "Category": "Talk",
@@ -1566,7 +1573,7 @@
     },
     {
       "Nom": "Johann Eid",
-      "Titre": "TO BE ANNOUNCED",
+      "Titre": "Securely Connecting Smart Contracts to Off-chain Data and Events",
       "Track": "Security",
       "Category": "Talk",
       "Abstract": "For smart contracts to achieve mass adoption, they need the ability to securely connect to external off-chain data and existing non-blockchain systems. The reliability with which smart contracts connect to key external systems determines their overall security. This critical security factor determines whether smart contracts will be used to secure the many forms of value beyond tokenization, such as prediction market outcomes, insurance payouts, trade finance, and more. \nIn this talk, we’ll examine what makes a secure oracle mechanism reliable enough to be trusted by smart contracts for external data delivery, access web APIs, and off-chain payments."

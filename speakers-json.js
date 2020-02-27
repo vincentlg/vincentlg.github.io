@@ -469,13 +469,6 @@ var speakers = [
     "company": "THE SANDBOX"
   },
   {
-    "firstName": "Quentin",
-    "lastName": "Issele",
-    "link": "https://www.linkedin.com/in/quentinissele/",
-    "picture": "images/speakers_2020/Quentin_Issele.jpg",
-    "company": "OKEx"
-  },
-  {
     "firstName": "Jonas",
     "lastName": "Rubel",
     "link": "https://twitter.com/SLebur",
@@ -1129,7 +1122,7 @@ var speakers = [
   {
     "firstName": "Aleeza",
     "lastName": "Howitt",
-    "link": "https://twitter.com/TrustlinesFound",
+    "link": "https://twitter.com/aleezagroks",
     "picture": "images/speakers_2020/Aleeza_Howitt.jpg",
     "company": "Trustlines Network"
   },
@@ -1762,5 +1755,33 @@ var speakers = [
     "link": "https://twitter.com/benpeterjones",
     "picture": "images/speakers_2020/Ben_Jones.jpg",
     "company": "Bitwala"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Canou",
+    "link": "https://twitter.com/LabosNomades",
+    "picture": "images/speakers_2020/Benjamin_Canou.jpg",
+    "company": "Nomadic Labs"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Beunardeau",
+    "link": "https://twitter.com/LabosNomades",
+    "picture": "images/speakers_2020/Marc_Beunardeau.jpg",
+    "company": "Nomadic Labs"
+  },
+  {
+    "firstName": "Iuri",
+    "lastName": "Matias",
+    "link": "http://twiter.com/iurimatias",
+    "picture": "images/speakers_2020/Iuri_Matias.jpg",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "firstName": "Rob",
+    "lastName": "Stupay",
+    "link": "http://twitter.com/ryestew",
+    "picture": "images/speakers_2020/Rob_Stupay.jpg",
+    "company": "Ethereum Foundation"
   },
 ]
