@@ -1330,13 +1330,6 @@
       "Abstract": "Navigating blockchain’s choppy waters: Orchid recognized early on how important it was to focus on correctly building its product, regardless of how much time it took. Seven’s decades of experience in building (and performing due diligence on) startups allowed him to navigate the busts and booms of the industry, holding a steady course, rather than continuously introducing new strategies. Seven points to several key moments of foresight in those years that helped drive the company to success. Key moments for the company included selecting business partners that share the same long term vision, and a commitment to the Ethereum network and building vertically on Layer 2 rather than creating competing infrastructure."
     },
     {
-      "Nom": "Tegan Kline",
-      "Titre": "Life, liberty and the pursuit of happiness — is tech taking away our liberty?",
-      "Track": "Privacy",
-      "Category": "Talk",
-      "Abstract": "Integrating privacy into our tech"
-    },
-    {
       "Nom": "Thomas Piellard",
       "Titre": "introducing gnark, a fast zero knowledge proof library",
       "Track": "Privacy",
