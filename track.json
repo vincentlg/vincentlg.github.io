@@ -1356,6 +1356,13 @@
       "Track": "Privacy",
       "Category": "Talk",
       "Abstract": "The Sapling protocol developed by the Electronic coin company (creator of the Z-cash blockchain) realizes privacy preserving transactions for fungible tokens.\nIn this talk, after a brief introduction of Sapling, we will discuss the integration of such a protocol in a different blockchain (Tezos), its challenges, design choices, and usage of Tezos's on chain governing mechanism."
+    },
+    {
+      "Nom": "Roman Semenov & Alexey Pertsev",
+      "Titre": "Tornado.cash: how to keep privacy on Ethereum",
+      "Track": "Privacy",
+      "Category": "Workshop",
+      "Abstract": "A brief overview of different privacy solutions on Ethereum and other blockchains. A deeper explanation of how the Tornado.cash works under the hood with Live Demo and privacy tips. Our plans and future of privacy on Ethereum."
     }
   ],
   "Scalability": [
