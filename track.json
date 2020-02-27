@@ -819,6 +819,13 @@
       "Track": "Developer Tools",
       "Category": "Workshop",
       "Abstract": "Let's step back and let's look at Ethereum as a software product in the grand scheme of solutions out there.\nWhat purpose does the platform fulfill, which market does it serve and who are or will be the users?\nThis session should help us abstract from what we as individuals want Ethereum to become to better understand where is a natural market fit which makes sense to keep in focus. \nThe workshop will be moderated brainstorming where we'll try to figure where Ethereum stands in the overall blockchain landscape."
+    },
+    {
+      "Nom": "Iuri Matias & Rob Stupay",
+      "Titre": "Plugins & Workflows in Remix",
+      "Track": "Developer Tools",
+      "Category": "Workshop",
+      "Abstract": "Going through various usecases including importing contracts from the local filesystem and EthPM, debugging contract transactions, static analysis, solidity unit testing, verifying source code and publishing contracts to IPFS & SWARM."
     }
   ],
   "Enterprise": [

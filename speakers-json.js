@@ -1770,4 +1770,18 @@ var speakers = [
     "picture": "images/speakers_2020/Marc_Beunardeau.jpg",
     "company": "Nomadic Labs"
   },
+  {
+    "firstName": "Iuri",
+    "lastName": "Matias",
+    "link": "http://twiter.com/iurimatias",
+    "picture": "images/speakers_2020/Iuri_Matias.jpg",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "firstName": "Rob",
+    "lastName": "Stupay",
+    "link": "http://twitter.com/ryestew",
+    "picture": "images/speakers_2020/Rob_Stupay.jpg",
+    "company": "Ethereum Foundation"
+  },
 ]
