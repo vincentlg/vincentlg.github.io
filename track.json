@@ -22,7 +22,7 @@
       "Abstract": "I am a cryptocurrency - blockchain researcher, youtuber and developer from Istanbul, Turkey. I want to talk about cryptocurrency adoption and the viewpoint from developing countries and the Middle East."
     },
     {
-      "Nom": "Eitan Lavi",
+      "Nom": "Nikola Madjarevic",
       "Titre": "Web3.0: Transforming the Human Web from 0 to a 1 Sum Game",
       "Track": "Blockchain for Good",
       "Category": "Talk",
@@ -1012,6 +1012,13 @@
       "Track": "Ethereum 2.0",
       "Category": "Talk",
       "Abstract": "We dive deeply into Eth2's consensus serialization and merkleization standard, Simple Serialize (SSZ), from a theoretical and implementation perspective. We first discuss the motivation and use of the standard in Eth2 by example. We then analyze tradeoffs between state-of-the-art implementations.\nAudience: Eth2 implementers, blockchain developers"
+    },
+    {
+      "Nom": "Louis Guthmann & Tim Beiko",
+      "Titre": "Cryptographic Precompile EIPs Workshop",
+      "Track": "Ethereum 2.0",
+      "Category": "Workshop",
+      "Abstract": "Abstract: In this session, we will discuss potential crypto precompiles to be included in future Ethereum upgrades. Specifically, we will discuss EIP-1962, a proposal to add the Eth2 deposit contract curve, and other related EIPs."
     }
   ],
   "Gaming": [
@@ -1356,6 +1363,13 @@
       "Track": "Privacy",
       "Category": "Talk",
       "Abstract": "The Sapling protocol developed by the Electronic coin company (creator of the Z-cash blockchain) realizes privacy preserving transactions for fungible tokens.\nIn this talk, after a brief introduction of Sapling, we will discuss the integration of such a protocol in a different blockchain (Tezos), its challenges, design choices, and usage of Tezos's on chain governing mechanism."
+    },
+    {
+      "Nom": "Roman Semenov & Alexey Pertsev",
+      "Titre": "Tornado.cash: how to keep privacy on Ethereum",
+      "Track": "Privacy",
+      "Category": "Workshop",
+      "Abstract": "A brief overview of different privacy solutions on Ethereum and other blockchains. A deeper explanation of how the Tornado.cash works under the hood with Live Demo and privacy tips. Our plans and future of privacy on Ethereum."
     }
   ],
   "Scalability": [

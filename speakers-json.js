@@ -1784,4 +1784,18 @@ var speakers = [
     "picture": "images/speakers_2020/Rob_Stupay.jpg",
     "company": "Ethereum Foundation"
   },
+  {
+    "firstName": "Roman ",
+    "lastName": "Semenov",
+    "link": "http://twitter.com/semenov_roman_",
+    "picture": "images/speakers_2020/Roman_Semenov.jpg",
+    "company": "Tornado cash"
+  },
+  {
+    "firstName": "Alexey",
+    "lastName": "Pertsev",
+    "link": "http://twitter.com/_p4lex",
+    "picture": "images/speakers_2020/Alexey_Pertsev.jpg",
+    "company": "Tornado cash"
+  },
 ]
