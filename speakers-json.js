@@ -1798,4 +1798,18 @@ var speakers = [
     "picture": "images/speakers_2020/Alexey_Pertsev.jpg",
     "company": "Tornado cash"
   },
+  {
+    "firstName": "Kozlov",
+    "lastName": "Nikita",
+    "link": "http://twitter.com/enormousrage",
+    "picture": "images/speakers_2020/Kozlov_Nikita.jpg",
+    "company": "Zeropool.network"
+  },
+  {
+    "firstName": "Liraz",
+    "lastName": "Siri",
+    "link": "http://twitter.com/lirazsiri",
+    "picture": "images/speakers_2020/Liraz_Siri.jpg",
+    "company": "Hackster"
+  },
 ]

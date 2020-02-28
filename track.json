@@ -367,6 +367,13 @@
       "Track": "dApps / UX /UI",
       "Category": "Workshop",
       "Abstract": "For most dApp today, integration with wallets is limited to signing some data without the ability to verify what is being signed. This requires a lot of trust in the UI for users. To minimize this required trust, we need wallets to be able to understand and parse the data the user sign.\nWith the launch of StarkWare's first product and its requirements for specific cryptography, a collective effort has been set in motion to improve both the security and the dApp UI on wallets. Ledger, WalletConnect and StarkWare will present how they managed to define and work together to create what could become the blueprint for native dApp integration."
+    },
+    {
+      "Nom": "Liraz Siri",
+      "Titre": "What's new in GSN2 & the rise of 'Gas as a Service'",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "GSN2: improving dapp UX with decentralized meta transactions  while creating a new 'Gas as a Service' business model for wallets & network infrastructure providers."
     }
   ],
   "Decentralised Finance": [
@@ -1356,6 +1363,13 @@
       "Track": "Privacy",
       "Category": "Workshop",
       "Abstract": "A brief overview of different privacy solutions on Ethereum and other blockchains. A deeper explanation of how the Tornado.cash works under the hood with Live Demo and privacy tips. Our plans and future of privacy on Ethereum."
+    },
+    {
+      "Nom": "Kozlov Nikita",
+      "Titre": "Zeropool - privacy pool on Ethereum with ZK",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "A brief description of new solution for Ethereum that allows to make private UTXO transactions with optimized gas fees and atomic swaps."
     }
   ],
   "Scalability": [
