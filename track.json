@@ -15,13 +15,6 @@
       "Abstract": "HelloGold have been working since 2016 to help those underserved by the banking system to protect their wealth by enabling micro investments in vaulted gold. We would like to propose using tokenised gold (GOLDX) as a store / transfer of value medium to isolate projects from currency volatility."
     },
     {
-      "Nom": "Ece Belgin",
-      "Titre": "Cryptocurrency Adoption in Developing Countries",
-      "Track": "Blockchain for Good",
-      "Category": "Talk",
-      "Abstract": "I am a cryptocurrency - blockchain researcher, youtuber and developer from Istanbul, Turkey. I want to talk about cryptocurrency adoption and the viewpoint from developing countries and the Middle East."
-    },
-    {
       "Nom": "Nikola Madjarevic",
       "Titre": "Web3.0: Transforming the Human Web from 0 to a 1 Sum Game",
       "Track": "Blockchain for Good",
@@ -41,13 +34,6 @@
       "Track": "Blockchain for Good",
       "Category": "Talk",
       "Abstract": "The talk will be sharing the review of the on-going 500 Nigeria Developer for Ethereum program and be explaining how efforts can be put in place to use the population and intellect of Africans to increase the number of Developers in the Ethereum Ecosystem"
-    },
-    {
-      "Nom": "José Almeida",
-      "Titre": "BNDESToken: Increasing trust and compliance in Brazilian public money allocation",
-      "Track": "Blockchain for Good",
-      "Category": "Talk",
-      "Abstract": "This project is about transparency and tracking the public money to good projects. It has been covered in many sites and newspapers. Two international examples are: https://www.coindesk.com/this-brazilian-bank-is-using-ethereum-to-issue-a-stablecoin and https://cointelegraph.com/news/brazilian-state-owned-bank-funds-documentary-via-its-own-ethereum-based-token.\nThe technical proposal was also published at The 2018 IEEE International Conference on Blockchain: https://bit.ly/2Th8rHu.\nSource code: https://github.com/bndes/bndestoken"
     },
     {
       "Nom": "Jean-Baptiste Pleynet",
@@ -1626,13 +1612,6 @@
       "Track": "Security",
       "Category": "Talk",
       "Abstract": "This talk will be based on a published paper on the subject, here's the abstract of the paper:\nWe consider front-running to be a course of action where an entity benefits from prior access to privileged market information about upcoming transactions and trades. Front-running has been an issue in financial instrument markets since the 1970s. With the advent of the blockchain technology, front-running has resurfaced in new forms we explore here, instigated by blockchains decentralized and transparent nature. In this paper, we draw from a scattered body of knowledge and instances of front-running across the top 25 most active decentral applications (DApps) deployed on Ethereum blockchain. Finally, we map the proposed solutions to front-running into useful categories."
-    },
-    {
-      "Nom": "Souradeep Das",
-      "Titre": "Getting Started with Vyper",
-      "Track": "Security",
-      "Category": "Workshop",
-      "Abstract": "Ethereum has come a long way from the start, but the journey hasn't been all rainbows and butterflies. Smart contracts, expected to radically change the world are only as good as they are secure - “One bad programmer can easily create two new jobs a year”.\nThe workshop intends to discuss the past attacks on smart contracts, security measures, design patterns and instigate the adaption of new security-centric smart contract language.\nThe first half of the session is about learning and applying the knowledge through a challenge-based approach, while the second half is more of a hands-on session to BUIDL your own smart contracts using Vyper."
     },
     {
       "Nom": "Eduardo Antuña Diez ",
