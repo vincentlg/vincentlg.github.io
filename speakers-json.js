@@ -1812,4 +1812,11 @@ var speakers = [
     "picture": "images/speakers_2020/Liraz_Siri.jpg",
     "company": "Hackster"
   },
+  {
+    "firstName": "Stephane",
+    "lastName": "Ifrah",
+    "link": "https://www.linkedin.com/in/stephane-ifrah-4292a2/",
+    "picture": "images/speakers_2020/stephane_ifrah.jpg",
+    "company": "Napoleon Software"
+  },
 ]

@@ -614,6 +614,13 @@
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "DeFi has a distribution problem and solving it requires more than a sexy UI. Bitwala believes in a CeFi/DeFi model where users can have the best of both worlds. Neobanks have become unicorns by improving the interface of finance while DeFi is the first chance to improve the actual infrastructure. Can we have both?"
+    },
+    {
+      "Nom": "Stephane Ifrah",
+      "Titre": "NapoleonX, 2 years an ICO",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "After having successfully launched our ICO in February 2018, we have managed to deliver on most of our promises: launching our platform displaying our trading signals, acquiring an asset manager regulation in France and launching our first BTC regulated fund. We are now adding a new feature to our token with the launch of napbots.com, a retail oriented platform that rents trading bots based on our existing strategies."
     }
   ],
   "Developer Tools": [
