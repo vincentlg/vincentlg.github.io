@@ -1819,4 +1819,11 @@ var speakers = [
     "picture": "images/speakers_2020/stephane_ifrah.jpg",
     "company": "Napoleon Software"
   },
+  {
+    "firstName": "Kyra",
+    "lastName": "GauthierDickey",
+    "link": "https://twitter.com/KGauthierdickey",
+    "picture": "images/speakers_2020/Kyra_GauthierDickey.jpg",
+    "company": "Kika halè Labs"
+  },
 ]
