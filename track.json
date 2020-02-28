@@ -1110,7 +1110,7 @@
     },
     {
       "Nom": "Anastasia Andrianova",
-      "Titre": "Uncollateralized loans + DAOs: how to combine these?",
+      "Titre": "Under-collateralised loan issuance using a DAO framework",
       "Track": "Governance / DAO",
       "Category": "Talk",
       "Abstract": "As the DeFi ecosystem evolves, we observe a clear bifurcation into crypto-native models and improvements based on legacy approaches. A reduction of the current over-collateralization margins is an important priority in the DeFi ecosystem and has been one of the focal points of our approach. Right now, several teams in the space, including us, are working in this direction — with different approaches and solutions. During this talk, we will explain how we combine DAOs and uncollateralized loans."
@@ -1366,10 +1366,10 @@
     },
     {
       "Nom": "Roman Semenov & Alexey Pertsev",
-      "Titre": "Tornado.cash: how to keep privacy on Ethereum",
+      "Titre": "Non-custodial privacy solution for Ethereum",
       "Track": "Privacy",
       "Category": "Workshop",
-      "Abstract": "A brief overview of different privacy solutions on Ethereum and other blockchains. A deeper explanation of how the Tornado.cash works under the hood with Live Demo and privacy tips. Our plans and future of privacy on Ethereum."
+      "Abstract": "A brief overview of existing privacy solutions on Ethereum and other blockchains. A deeper explanation of how Tornado.cash works under the hood with Live Demo and privacy tips. Our plans and future of privacy on Ethereum."
     },
     {
       "Nom": "Kozlov Nikita",
