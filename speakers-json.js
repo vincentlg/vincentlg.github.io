@@ -1826,4 +1826,11 @@ var speakers = [
     "picture": "images/speakers_2020/Kyra_GauthierDickey.jpg",
     "company": "Kika halè Labs"
   },
+  {
+    "firstName": "Sacha",
+    "lastName": "Ghebali",
+    "link": "https://twitter.com/sgheb",
+    "picture": "images/speakers_2020/Sacha_Ghebali.png",
+    "company": "Kaiko"
+  },
 ]
