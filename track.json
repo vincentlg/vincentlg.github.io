@@ -1622,10 +1622,10 @@
     },
     {
       "Nom": "Sergii Kravchenko",
-      "Titre": "Why do we Audit?",
+      "Titre": "ERC20 Misbehaviors",
       "Track": "Security",
       "Category": "Talk",
-      "Abstract": "Security vulnerabilities have cost blockchain companies north of $2B in lost or stolen capital. Blockchain security audits is a much needed service. We will discuss key aspects of a smart contract audit, the importance of smart contract auditing, and recent vulnerabilities all security engineers in the industry have identified in well known projects in an effort to enhance the security of the ecosystem."
+      "Abstract": "ERC20 are the most popular tokens designed and used solely on the Ethereum platform but they do not come without limitations or misbehaviors. During this talk, a security auditor will discuss the ends and outs of ERC20 tokens and what to look out for when using them."
     },
     {
       "Nom": "Shayan Eskandari",
