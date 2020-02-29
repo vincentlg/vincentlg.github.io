@@ -1798,4 +1798,46 @@ var speakers = [
     "picture": "images/speakers_2020/Alexey_Pertsev.jpg",
     "company": "Tornado cash"
   },
+  {
+    "firstName": "Kozlov",
+    "lastName": "Nikita",
+    "link": "http://twitter.com/enormousrage",
+    "picture": "images/speakers_2020/Kozlov_Nikita.jpg",
+    "company": "Zeropool.network"
+  },
+  {
+    "firstName": "Liraz",
+    "lastName": "Siri",
+    "link": "http://twitter.com/lirazsiri",
+    "picture": "images/speakers_2020/Liraz_Siri.jpg",
+    "company": "Hackster"
+  },
+  {
+    "firstName": "Stephane",
+    "lastName": "Ifrah",
+    "link": "https://www.linkedin.com/in/stephane-ifrah-4292a2/",
+    "picture": "images/speakers_2020/stephane_ifrah.jpg",
+    "company": "Napoleon Software"
+  },
+  {
+    "firstName": "Kyra",
+    "lastName": "GauthierDickey",
+    "link": "https://twitter.com/KGauthierdickey",
+    "picture": "images/speakers_2020/Kyra_GauthierDickey.jpg",
+    "company": "Kika halè Labs"
+  },
+  {
+    "firstName": "Sacha",
+    "lastName": "Ghebali",
+    "link": "https://twitter.com/sgheb",
+    "picture": "images/speakers_2020/Sacha_Ghebali.png",
+    "company": "Kaiko"
+  },
+  {
+    "firstName": "Zac",
+    "lastName": "Williamson",
+    "link": "https://twitter.com/Zac_Aztec",
+    "picture": "images/speakers_2020/Zac_Williamson.png",
+    "company": "Aztec"
+  },
 ]

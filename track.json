@@ -15,13 +15,6 @@
       "Abstract": "HelloGold have been working since 2016 to help those underserved by the banking system to protect their wealth by enabling micro investments in vaulted gold. We would like to propose using tokenised gold (GOLDX) as a store / transfer of value medium to isolate projects from currency volatility."
     },
     {
-      "Nom": "Ece Belgin",
-      "Titre": "Cryptocurrency Adoption in Developing Countries",
-      "Track": "Blockchain for Good",
-      "Category": "Talk",
-      "Abstract": "I am a cryptocurrency - blockchain researcher, youtuber and developer from Istanbul, Turkey. I want to talk about cryptocurrency adoption and the viewpoint from developing countries and the Middle East."
-    },
-    {
       "Nom": "Nikola Madjarevic",
       "Titre": "Web3.0: Transforming the Human Web from 0 to a 1 Sum Game",
       "Track": "Blockchain for Good",
@@ -41,13 +34,6 @@
       "Track": "Blockchain for Good",
       "Category": "Talk",
       "Abstract": "The talk will be sharing the review of the on-going 500 Nigeria Developer for Ethereum program and be explaining how efforts can be put in place to use the population and intellect of Africans to increase the number of Developers in the Ethereum Ecosystem"
-    },
-    {
-      "Nom": "José Almeida",
-      "Titre": "BNDESToken: Increasing trust and compliance in Brazilian public money allocation",
-      "Track": "Blockchain for Good",
-      "Category": "Talk",
-      "Abstract": "This project is about transparency and tracking the public money to good projects. It has been covered in many sites and newspapers. Two international examples are: https://www.coindesk.com/this-brazilian-bank-is-using-ethereum-to-issue-a-stablecoin and https://cointelegraph.com/news/brazilian-state-owned-bank-funds-documentary-via-its-own-ethereum-based-token.\nThe technical proposal was also published at The 2018 IEEE International Conference on Blockchain: https://bit.ly/2Th8rHu.\nSource code: https://github.com/bndes/bndestoken"
     },
     {
       "Nom": "Jean-Baptiste Pleynet",
@@ -381,6 +367,13 @@
       "Track": "dApps / UX /UI",
       "Category": "Workshop",
       "Abstract": "For most dApp today, integration with wallets is limited to signing some data without the ability to verify what is being signed. This requires a lot of trust in the UI for users. To minimize this required trust, we need wallets to be able to understand and parse the data the user sign.\nWith the launch of StarkWare's first product and its requirements for specific cryptography, a collective effort has been set in motion to improve both the security and the dApp UI on wallets. Ledger, WalletConnect and StarkWare will present how they managed to define and work together to create what could become the blueprint for native dApp integration."
+    },
+    {
+      "Nom": "Liraz Siri",
+      "Titre": "What's new in GSN2 & the rise of 'Gas as a Service'",
+      "Track": "dApps / UX /UI",
+      "Category": "Talk",
+      "Abstract": "GSN2: improving dapp UX with decentralized meta transactions  while creating a new 'Gas as a Service' business model for wallets & network infrastructure providers."
     }
   ],
   "Decentralised Finance": [
@@ -621,6 +614,13 @@
       "Track": "Decentralised Finance",
       "Category": "Talk",
       "Abstract": "DeFi has a distribution problem and solving it requires more than a sexy UI. Bitwala believes in a CeFi/DeFi model where users can have the best of both worlds. Neobanks have become unicorns by improving the interface of finance while DeFi is the first chance to improve the actual infrastructure. Can we have both?"
+    },
+    {
+      "Nom": "Stephane Ifrah",
+      "Titre": "NapoleonX, 2 years an ICO",
+      "Track": "Decentralised Finance",
+      "Category": "Talk",
+      "Abstract": "After having successfully launched our ICO in February 2018, we have managed to deliver on most of our promises: launching our platform displaying our trading signals, acquiring an asset manager regulation in France and launching our first BTC regulated fund. We are now adding a new feature to our token with the launch of napbots.com, a retail oriented platform that rents trading bots based on our existing strategies."
     }
   ],
   "Developer Tools": [
@@ -688,7 +688,7 @@
       "Abstract": "Meta-transactions are useful when someone else (a relayer) can pay the gas fee on a user's behalf. It is promoted as a great mechanism for on-boarding new users, helping others transfer ERC20 tokens or just to play around with Tornado cash. We have spent the past few months building, any.sender & any.watcher, a financially accountable meta-transaction relayer. Its USP is a smart-contract enforced quality of service or your money back.  Along the way, we have faced hurdle after hurdle after hurdle to get it up and running, thanks to a dash of wizardry, unicorns and star-alignment. However 99% of the problems faced are fundamental due to the limitations in ETH 1.0 that can  easily be addressed in ETH 2.0. We'll take this opportunity to talk about why meta-transactions are useful, the any.sender design, and what really needs to be fixed in ETH 2.0 to ensure meta-transactions become a native-primitive of the eco-system."
     },
     {
-      "Nom": "Frankie Pangilinan",
+      "Nom": "Frankie Pangilinan & Kyra GauthierDickey",
       "Titre": "The secrets your keys hold",
       "Track": "Developer Tools",
       "Category": "Talk",
@@ -1110,7 +1110,7 @@
     },
     {
       "Nom": "Anastasia Andrianova",
-      "Titre": "Uncollateralized loans + DAOs: how to combine these?",
+      "Titre": "Under-collateralised loan issuance using a DAO framework",
       "Track": "Governance / DAO",
       "Category": "Talk",
       "Abstract": "As the DeFi ecosystem evolves, we observe a clear bifurcation into crypto-native models and improvements based on legacy approaches. A reduction of the current over-collateralization margins is an important priority in the DeFi ecosystem and has been one of the focal points of our approach. Right now, several teams in the space, including us, are working in this direction — with different approaches and solutions. During this talk, we will explain how we combine DAOs and uncollateralized loans."
@@ -1366,10 +1366,24 @@
     },
     {
       "Nom": "Roman Semenov & Alexey Pertsev",
-      "Titre": "Tornado.cash: how to keep privacy on Ethereum",
+      "Titre": "Non-custodial privacy solution for Ethereum",
       "Track": "Privacy",
       "Category": "Workshop",
-      "Abstract": "A brief overview of different privacy solutions on Ethereum and other blockchains. A deeper explanation of how the Tornado.cash works under the hood with Live Demo and privacy tips. Our plans and future of privacy on Ethereum."
+      "Abstract": "A brief overview of existing privacy solutions on Ethereum and other blockchains. A deeper explanation of how Tornado.cash works under the hood with Live Demo and privacy tips. Our plans and future of privacy on Ethereum."
+    },
+    {
+      "Nom": "Kozlov Nikita",
+      "Titre": "Zeropool - privacy pool on Ethereum with ZK",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "A brief description of new solution for Ethereum that allows to make private UTXO transactions with optimized gas fees and atomic swaps."
+    },
+    {
+      "Nom": "Zac Williamson",
+      "Titre": " SNARK-Led Privacy on Ethereum",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "We explore how SNARKs are being used to bring fast privacy to Ethereum, and explain the huge advances made in 2019."
     }
   ],
   "Scalability": [
@@ -1615,10 +1629,10 @@
     },
     {
       "Nom": "Sergii Kravchenko",
-      "Titre": "Why do we Audit?",
+      "Titre": "ERC20 Misbehaviors",
       "Track": "Security",
       "Category": "Talk",
-      "Abstract": "Security vulnerabilities have cost blockchain companies north of $2B in lost or stolen capital. Blockchain security audits is a much needed service. We will discuss key aspects of a smart contract audit, the importance of smart contract auditing, and recent vulnerabilities all security engineers in the industry have identified in well known projects in an effort to enhance the security of the ecosystem."
+      "Abstract": "ERC20 are the most popular tokens designed and used solely on the Ethereum platform but they do not come without limitations or misbehaviors. During this talk, a security auditor will discuss the ends and outs of ERC20 tokens and what to look out for when using them."
     },
     {
       "Nom": "Shayan Eskandari",
@@ -1626,13 +1640,6 @@
       "Track": "Security",
       "Category": "Talk",
       "Abstract": "This talk will be based on a published paper on the subject, here's the abstract of the paper:\nWe consider front-running to be a course of action where an entity benefits from prior access to privileged market information about upcoming transactions and trades. Front-running has been an issue in financial instrument markets since the 1970s. With the advent of the blockchain technology, front-running has resurfaced in new forms we explore here, instigated by blockchains decentralized and transparent nature. In this paper, we draw from a scattered body of knowledge and instances of front-running across the top 25 most active decentral applications (DApps) deployed on Ethereum blockchain. Finally, we map the proposed solutions to front-running into useful categories."
-    },
-    {
-      "Nom": "Souradeep Das",
-      "Titre": "Getting Started with Vyper",
-      "Track": "Security",
-      "Category": "Workshop",
-      "Abstract": "Ethereum has come a long way from the start, but the journey hasn't been all rainbows and butterflies. Smart contracts, expected to radically change the world are only as good as they are secure - “One bad programmer can easily create two new jobs a year”.\nThe workshop intends to discuss the past attacks on smart contracts, security measures, design patterns and instigate the adaption of new security-centric smart contract language.\nThe first half of the session is about learning and applying the knowledge through a challenge-based approach, while the second half is more of a hands-on session to BUIDL your own smart contracts using Vyper."
     },
     {
       "Nom": "Eduardo Antuña Diez ",
