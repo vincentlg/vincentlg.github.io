@@ -1377,6 +1377,13 @@
       "Track": "Privacy",
       "Category": "Talk",
       "Abstract": "A brief description of new solution for Ethereum that allows to make private UTXO transactions with optimized gas fees and atomic swaps."
+    },
+    {
+      "Nom": "Zac Williamson",
+      "Titre": " SNARK-Led Privacy on Ethereum",
+      "Track": "Privacy",
+      "Category": "Talk",
+      "Abstract": "We explore how SNARKs are being used to bring fast privacy to Ethereum, and explain the huge advances made in 2019."
     }
   ],
   "Scalability": [

@@ -1833,4 +1833,11 @@ var speakers = [
     "picture": "images/speakers_2020/Sacha_Ghebali.png",
     "company": "Kaiko"
   },
+  {
+    "firstName": "Zac",
+    "lastName": "Williamson",
+    "link": "https://twitter.com/Zac_Aztec",
+    "picture": "images/speakers_2020/Zac_Williamson.png",
+    "company": "Aztec"
+  },
 ]
