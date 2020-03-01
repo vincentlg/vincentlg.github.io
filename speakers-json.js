@@ -91,6 +91,13 @@ var speakers = [
     "company": "Concordia University"
   },
   {
+    "firstName": "John",
+    "lastName": "Shipton",
+    "link": "",
+    "picture": "images/speakers_2020/John_Shipton.jpg",
+    "company": "DEA (Don't extradite Assange Campaign)"
+  },
+  {
     "firstName": "Austin",
     "lastName": "Griffith",
     "link": "https://twitter.com/austingriffith",

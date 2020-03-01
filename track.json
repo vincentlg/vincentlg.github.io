@@ -1661,6 +1661,13 @@
       "Track": "Security",
       "Category": "Talk",
       "Abstract": "This talk speaks about the nature of immutability in the context of the new EVM opcode CREATE2, introduced in the constantinople update. This opcode opens up a number of options affecting the lifecycle of a smart contract. It also open new techniques for ensuring their security. However it changes the scope of immutability as we currently understand it, especially at the user app layer."
+    },
+    {
+      "Nom": "John Shipton",
+      "Titre": "Pan European and Global problem of intimidation and oppression",
+      "Track": "Security",
+      "Category": "Talk",
+      "Abstract": "Pan European and Global problem of intimidation and oppression of journalists, publication and publishers by judicial abduction through extradition processes\nAnd collapse of human rights treaty obligations"
     }
   ],
   "Web3": [
