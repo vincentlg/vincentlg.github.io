@@ -91,6 +91,13 @@ var speakers = [
     "company": "Concordia University"
   },
   {
+    "firstName": "John",
+    "lastName": "Shipton",
+    "link": "",
+    "picture": "images/speakers_2020/John_Shipton.jpg",
+    "company": "DEA (Don't extradite Assange Campaign)"
+  },
+  {
     "firstName": "Austin",
     "lastName": "Griffith",
     "link": "https://twitter.com/austingriffith",
@@ -275,7 +282,7 @@ var speakers = [
   {
     "firstName": "Mara",
     "lastName": "Schmiedt",
-    "link": "https://twitter.com/_marsbars",
+    "link": "https://twitter.com/maraschmiedt",
     "picture": "images/speakers_2020/mara_schmiedt.jpeg",
     "company": "ConsenSys"
   },
@@ -1839,5 +1846,33 @@ var speakers = [
     "link": "https://twitter.com/Zac_Aztec",
     "picture": "images/speakers_2020/Zac_Williamson.png",
     "company": "Aztec"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Arentoft",
+    "link": "https://twitter.com/GArentoft",
+    "picture": "images/speakers_2020/Gustav_Arentoft.jpg",
+    "company": "MakerDAO"
+  },
+  {
+    "firstName": "Collin",
+    "lastName": "Myers",
+    "link": "https://twitter.com/stakeETH",
+    "picture": "images/speakers_2020/Collin_Myers.jpg",
+    "company": "Codefi Activate"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Waugh",
+    "link": "",
+    "picture": "images/speakers_2020/James_Waugh.jpg",
+    "company": "MetaCartel"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Duncan",
+    "link": "",
+    "picture": "images/speakers_2020/James_Duncan.jpg",
+    "company": "MetaCartel"
   },
 ]
