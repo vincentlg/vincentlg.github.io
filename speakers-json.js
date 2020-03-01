@@ -282,7 +282,7 @@ var speakers = [
   {
     "firstName": "Mara",
     "lastName": "Schmiedt",
-    "link": "https://twitter.com/_marsbars",
+    "link": "https://twitter.com/maraschmiedt",
     "picture": "images/speakers_2020/mara_schmiedt.jpeg",
     "company": "ConsenSys"
   },
@@ -1853,5 +1853,12 @@ var speakers = [
     "link": "https://twitter.com/GArentoft",
     "picture": "images/speakers_2020/Gustav_Arentoft.jpg",
     "company": "MakerDAO"
+  },
+  {
+    "firstName": "Collin",
+    "lastName": "Myers",
+    "link": "https://twitter.com/stakeETH",
+    "picture": "images/speakers_2020/Collin_Myers.jpg",
+    "company": "Codefi Activate"
   },
 ]
