@@ -1847,4 +1847,11 @@ var speakers = [
     "picture": "images/speakers_2020/Zac_Williamson.png",
     "company": "Aztec"
   },
+  {
+    "firstName": "Gustav",
+    "lastName": "Arentoft",
+    "link": "https://twitter.com/GArentoft",
+    "picture": "images/speakers_2020/Gustav_Arentoft.jpg",
+    "company": "MakerDAO"
+  },
 ]
