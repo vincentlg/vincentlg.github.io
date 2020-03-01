@@ -1861,4 +1861,18 @@ var speakers = [
     "picture": "images/speakers_2020/Collin_Myers.jpg",
     "company": "Codefi Activate"
   },
+  {
+    "firstName": "James",
+    "lastName": "Waugh",
+    "link": "",
+    "picture": "images/speakers_2020/James_Waugh.jpg",
+    "company": "MetaCartel"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Duncan",
+    "link": "",
+    "picture": "images/speakers_2020/James_Duncan.jpg",
+    "company": "MetaCartel"
+  },
 ]

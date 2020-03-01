@@ -370,10 +370,10 @@
     },
     {
       "Nom": "Liraz Siri",
-      "Titre": "What's new in GSN2 & the rise of 'Gas as a Service'",
+      "Titre": "Hacking Tornado.cash to support gasless token mixing with GSN2",
       "Track": "dApps / UX /UI",
       "Category": "Talk",
-      "Abstract": "GSN2: improving dapp UX with decentralized meta transactions  while creating a new 'Gas as a Service' business model for wallets & network infrastructure providers."
+      "Abstract": "How we hacked Tornado.cash to support gasless token mixing with the new GSN2, and how the GSN2's support for gasless interaction with unmodified smart contracts creates a new 'Gas as a Service' business model for wallets and network infrastructure providers."
     }
   ],
   "Decentralised Finance": [
@@ -511,7 +511,7 @@
       "Abstract": "We will setup, inspect and apply conditional tokens.\nWe will\n* prepare conditions with various oracles\n* collateralize them with different ERC 20 tokens\n* send and receive the ERC 1155 conditional tokens\n* see how conditions combine\n* resolve conditions and redeem conditional tokens\n* touch on concepts like\n   - simple escrow\n   - prediction markets\n   - futarchy"
     },
     {
-      "Nom": "Mara Schmiedt",
+      "Nom": "Mara Schmiedt & Collin Myers",
       "Titre": "The Network Glue: The Role of the Application-Layer in Fostering Decentralization and Participation",
       "Track": "Decentralised Finance",
       "Category": "Talk",
@@ -1212,6 +1212,13 @@
       "Track": "Governance / DAO",
       "Category": "Talk",
       "Abstract": "In this talk we will cover theoretical concepts of traditional voting, technical challenges on blockchain voting and analyse a customers project and requirements.\n- Various kind of voting.\n- The discussions and security of e-voting\n- Voting on the Blockchain\n- Compare various Blockchain/smart contract voting approaches\n- Voting with ERC-20 tokens. The challenges\n- Voting and Interoperability with HSM and crypto banks\nAudience Level: Beginner to Intermediate."
+    },
+    {
+      "Nom": "James Waugh & James Duncan",
+      "Titre": "Building New Digital Communities, Coordination & Tooling",
+      "Track": "Governance / DAO",
+      "Category": "Talk",
+      "Abstract": "MetaCartel has grown from a single MolochDAO fork into a huge, open community focused on pushing forward Ethereum Dapps."
     }
   ],
   "Other Blockchains": [
@@ -1661,13 +1668,6 @@
       "Track": "Security",
       "Category": "Talk",
       "Abstract": "This talk speaks about the nature of immutability in the context of the new EVM opcode CREATE2, introduced in the constantinople update. This opcode opens up a number of options affecting the lifecycle of a smart contract. It also open new techniques for ensuring their security. However it changes the scope of immutability as we currently understand it, especially at the user app layer."
-    },
-    {
-      "Nom": "John Shipton",
-      "Titre": "Pan European and Global problem of intimidation and oppression",
-      "Track": "Security",
-      "Category": "Talk",
-      "Abstract": "Pan European and Global problem of intimidation and oppression of journalists, publication and publishers by judicial abduction through extradition processes\nAnd collapse of human rights treaty obligations"
     }
   ],
   "Web3": [
@@ -1782,6 +1782,13 @@
       "Track": "Web3",
       "Category": "Talk",
       "Abstract": "The Ethereum Foundation's grants program was re-christened 'Ecosystem Support' exactly one year ago. Ken will be digging into the who, what, and how of Ecosystem Support, discussing the types of support we've given in the past year since our launch, and pulling some example cases from our past grantees. We'll end with a quick Q&A session."
+    },
+    {
+      "Nom": "John Shipton",
+      "Titre": "Pan European and Global problem of intimidation and oppression",
+      "Track": "Web3",
+      "Category": "Talk",
+      "Abstract": "Pan European and Global problem of intimidation and oppression of journalists, publication and publishers by judicial abduction through extradition processes\nAnd collapse of human rights treaty obligations"
     }
   ],
   "French Track": [
