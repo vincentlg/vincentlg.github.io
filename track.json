@@ -1052,10 +1052,10 @@
     },
     {
       "Nom": "Matías Nisenson",
-      "Titre": "Break it till you make it! CryptoWars is now scalable!",
+      "Titre": " Blockchain Gaming: dead or alive?",
       "Track": "Gaming",
       "Category": "Talk",
-      "Abstract": "We'll talk about how we broke several networks until we made it work, now CryptoWars is used by thousands of users and still remains fully decentralized. We raised funds and are ready to take it to mainstream."
+      "Abstract": "Blockchain gaming had its peak several months ago, will it ever come back or was it just smoke? Let's talk tech and business!"
     },
     {
       "Nom": "Morten Rongaard",
@@ -1286,13 +1286,6 @@
       "Track": "Privacy",
       "Category": "Talk",
       "Abstract": "We present Zinc: a framework for constructing R1CS-based SNARK circuits. It includes a simple, safe and efficient high-level programming language for defining zero-knowledge circuits, and a ZKP-friendly runtime execution environment. Zinc is designed to make developing scalable and privacy-preserving smart contracts easy."
-    },
-    {
-      "Nom": "Guy Zyskind",
-      "Titre": "Salad: Transactional Privacy on Ethereum with Enigma",
-      "Track": "Privacy",
-      "Category": "Talk",
-      "Abstract": "Enigma's Discovery testnet, live on Kovan, enables general computational privacy for Ethereum smart contracts. Nodes that perform computations do not see the underlying data. This adds privacy guarantees to the correctness afforded by blockchain applications. This talk will describe the network architecture, including how the network manages encrypted state and compatibility with Ethereum. We will demonstrate the capabilities of the network via Salad, a decentralized mixing service for Ethereum built with Enigma’s Secret Contracts. Enigma’s Secret Contracts enable decentralized transactional privacy without the use of zero-knowledge proofs. This confers advantages over other solutions in both cost and usability."
     },
     {
       "Nom": "Harry Halpin",
