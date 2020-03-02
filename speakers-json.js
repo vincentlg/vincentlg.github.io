@@ -1817,7 +1817,7 @@ var speakers = [
     "lastName": "Siri",
     "link": "http://twitter.com/lirazsiri",
     "picture": "images/speakers_2020/Liraz_Siri.jpg",
-    "company": "Hackster"
+    "company": "Openeth"
   },
   {
     "firstName": "Stephane",
