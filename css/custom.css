@@ -53,7 +53,7 @@
       font-family:  Roboto Mono;
       font-size: 16px;
       text-align: center;
-      color: #ff5733;
+      color: #b30602;
     }
   #kyber-btn:hover {
     color: #ffffff;
@@ -65,8 +65,8 @@
 
 #myBtn{
   color: #fff;
-  background-color: #ff5733;
-  border-color: #ff5733;
+  background-color: #b30602;
+  border-color: #b30602;
 }
 
 #vcBtn{
@@ -81,10 +81,10 @@
     position: relative;
     z-index: 2; }
   #vcBtn:before {
-    background: -webkit-gradient(linear, left top, right top, from(#c70039), color-stop(70%, #ff5733));
-    background: -webkit-linear-gradient(left, #c70039, #ff5733 70%);
-    background: -o-linear-gradient(left, #c70039, #ff5733 70%);
-    background: linear-gradient(to right, #c70039, #ff5733 70%);
+    background: -webkit-gradient(linear, left top, right top, from(#262a56), color-stop(70%, #b30602));
+    background: -webkit-linear-gradient(left, #262a56, #b30602 70%);
+    background: -o-linear-gradient(left, #262a56, #b30602 70%);
+    background: linear-gradient(to right, #262a56, #b30602 70%);
     content: "";
     position: absolute;
     left: 0;
