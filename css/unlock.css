@@ -32,12 +32,12 @@
     linear,
     left top,
     right top,
-    from(#c70039),
-    color-stop(70%, #ff5733)
+    from(#262a56),
+    color-stop(70%, #b30602)
   );
-  background: -webkit-linear-gradient(left, #c70039, #ff5733 70%);
-  background: -o-linear-gradient(left, #c70039, #ff5733 70%);
-  background: linear-gradient(to right, #c70039, #ff5733 70%);
+  background: -webkit-linear-gradient(left, #262a56, #b30602 70%);
+  background: -o-linear-gradient(left, #262a56, #b30602 70%);
+  background: linear-gradient(to right, #262a56, #b30602 70%);
 }
 
 .unlock_form p {

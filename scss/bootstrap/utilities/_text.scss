@@ -39,7 +39,7 @@
 
 // Contextual colors
 
-.text-white { color: $white !important; }
+.text-white { color: https://twitter.com/ethcc_ !important; }
 
 @each $color, $value in $theme-colors {
   @include text-emphasis-variant(".text-#{$color}", $value);
