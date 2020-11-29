@@ -71,11 +71,11 @@
 
 #vcBtn{
   text-transform: uppercase;
-  color: white;
-  background: #3f4046;
+  color: #262a56 !important;
+  background: transparent;
+  border: 2px solid #262a56;
   padding: 16px 30px;
   display: inline-block;
-  letter-spacing: .2em;
   position: relative; }
   #vcBtn > span {
     position: relative;
@@ -97,7 +97,6 @@
     z-index: 1; }
   #vcBtn:hover:before {
     width: 100%; }
-}
 
 #plus{
   display: none;
